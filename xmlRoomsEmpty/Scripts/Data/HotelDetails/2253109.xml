@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2253109</Id>
+  <Name>Check Inn Sukhumvit</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2/20-22, Sukhumvit 41</Address1>
+    <Address2>Sukhumvit Road, Khlongtan Nua</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>+66(0) 2260-7161-9</Tel>
+    <Fax>+66(0) 2662-6336</Fax>
+    <Email>info@checkinnonline.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.729364</Latitude>
+    <Longitude>100.57241</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/15/32/19/153219-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>214</Height>
+    <Bytes>21870</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/15/32/19/153219-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3002</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/15/32/19/153219-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>214</Height>
+    <Bytes>8478</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/15/32/19/153219-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1921</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/15/32/19/153219-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>214</Height>
+    <Bytes>10657</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/15/32/19/153219-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2215</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/15/32/19/153219-HAB-4.jpg</Url>
+    <Width>320</Width>
+    <Height>289</Height>
+    <Bytes>12147</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/15/32/19/153219-HAB-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>77</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1684</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The hotel provides 24-hour front desk.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

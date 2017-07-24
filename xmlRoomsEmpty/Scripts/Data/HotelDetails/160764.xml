@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>160764</Id>
+  <Name>Holiday Inn Express Hotel &amp; Suites Henderson</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>441 ASTAIRE DRIVE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Henderson</City>
+    <State />
+    <Zip>89014</Zip>
+    <Country>USA</Country>
+    <Tel>1-702-9902323</Tel>
+    <Fax>1-702-9902324</Fax>
+    <Email>mparsons@impressguest.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>36.0564818</Latitude>
+    <Longitude>-115.0398102</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Other_6.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Other_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Exterior_6.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Exterior_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Suite_6.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Suite_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Other_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Other_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Suite_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Suite_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Other_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Other_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Exterior_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Exterior_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Suite_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Meeting_Room_2.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Swimming_Pool_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Swimming_Pool_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Exterior_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Exterior_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Other_2.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Swimming_Pool_2.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Other_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Suite_2.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/HENO-HOL1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/HENO-HOL1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Holiday Inn Express Hotel &amp; Suites Henderson offers 101 guestrooms. Televisions come with premium satellite channels and VCRs. Wireless Internet access is provided along with multi-line phones, free local calls, and complimentary newspapers. Microwaves and coffee/tea makers are provided. Bathrooms include complimentary toiletries and hair dryers. Air conditioning, climate control, and clock radios are also included. Housekeeping is provided and wake-up calls can be requested. Cribs (infant beds) and rollaway beds are also available. Rooms are accessible via exterior corridors.In addition to an outdoor pool, Holiday Inn Express Hotel &amp; Suites Henderson provides a spa tub and a fitness facility. Business amenities at this 2.5-star property consist of a business center, audio-visual equipment, and small meeting rooms. A complimentary breakfast is served each morning. This Henderson hotel also offers barbecue grills, multilingual staff, and coffee in the lobby. Onsite parking is complimentary.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Situated in the desert, this hotel is close to Galleria at Sunset, Ethel M Botanical Cactus Gardens, and Ethel M Chocolates Factory. Area attractions also include Sam Boyd Stadium.</Text>
+  </Description>
+  <Amenity>
+    <Code>Whirlpool</Code>
+    <Text>Whirlpool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kitchen</Code>
+    <Text>Kitchen</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FreshWaterPool</Code>
+    <Text>Fresh Water Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HeatedPool</Code>
+    <Text>Heated Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>57343</Id>
+  <Name>Great Eastern</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>LIVERPOOL STREET LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>EC2M 7QN</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-76185000</Tel>
+    <Fax>44-20-76185001</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5175001</Latitude>
+    <Longitude>-0.0826966</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GRE2hotel_Exterior_1.jpg</Url>
+    <Width>250</Width>
+    <Height>188</Height>
+    <Bytes>0</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-GRE2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GRE2hotel_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>236</Height>
+    <Bytes>0</Bytes>
+    <Caption>Lounge</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-GRE2hotel_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GRE2hotel_Reception_1.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>0</Bytes>
+    <Caption>Reception</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-GRE2hotel_Reception_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GRE2hotel_Bedroom_1.jpg</Url>
+    <Width>333</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-GRE2hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GRE2hotel_Restaurant_1.jpg</Url>
+    <Width>270</Width>
+    <Height>352</Height>
+    <Bytes>0</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-GRE2hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GRE2hotel_Restaurant_2.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-GRE2hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GRE2hotel_Bar_1.jpg</Url>
+    <Width>304</Width>
+    <Height>230</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-GRE2hotel_Bar_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GRE2hotel_Bar_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-GRE2hotel_Bar_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Originally one of the grand railway-station hotels of the Victorian era that re-opened in the year 2000 as a new modern 5* Deluxe hotel. The hotel is part owned by the designer Terence Conran and all of the furniture and furnishings used in the hotel can be purchased in his store in London. It is a truly impressive property with some of the best restaurants and bars available in the area. (07/06 RP-L)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This hotel is situated next to Liverpool Street Station in the banking and financial district of London.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are all different shapes and sizes. Although the hotel opened only in 2001, almost all of the rooms have already been refurbished. All rooms are fully air conditioned and are decorated in a very minimalist style with plain walls, flooring and bathrooms that remind those of the golden railway era. The rooms are of deluxe standard.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel's facade is of ornamental red brick, typical of Victorian built hotels.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has four restaurants: Fishmarket, Terminus, Miyabi and fine dinner Aurora. It also has a fantastic pub that mixes the best of the Victorian decoration with modern designs.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is medium in size with a high atrium roof. It has been totally renovated and is decorated with dark woods, pale cream walls and dark brown sofas with modern fake fur throws.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

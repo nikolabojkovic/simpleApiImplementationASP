@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>392879</Id>
+  <Name>Nuran Marina</Name>
+  <Region>
+    <Id>9043419</Id>
+    <Name>Jumeirah / Marina / Palm</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>AL MAJARA 4 STREET H DISTRICT 4 DUBAI-JUMEIRAH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>MARINA P.O. BOX 121600</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-3689000</Tel>
+    <Fax>971-4-4238866</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>25.090943</Latitude>
+    <Longitude>55.175185</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-NURhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-NURhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A great location and a very well established property. On site gym and pool over looking the marina give a perfect opportunity to relax and unwind. SD (08.09)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in the heart of the famous Dubai Marina developement, this weell established hotel apartment has very popular following among repeat visitors to Dubai. Located just minutes from Sheikh Zayed and so gives great access for clients needing to access the Jebel Ali Free Zone, Dubai Internet &amp; Media City and the Knowledge Village. Also very close to the new Marina Mall and a short drive to Ibn Battuta and Mall of the Emirates. One of the key selling points is the access to the Jumeirah Beach Residence and public beach which can be reached on foot within 5 minutes.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>These well kept apartments are decorated in the companies coroprate colours of Gold, Brown and White - this gives a very warm and cosy feeling to each apartment. This is complemented with state of the art TV, DVD and CD player as well as all the modern amenities in a fully functional apartment.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Mid level sandy coloured building overlooking the Dubai Marina.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There are no resturants in site managed by the hotel, but plenty within in walking distance as well as the Dubai Marina Yacht Club with is licensed and has many options.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Small lobby with main reception as you enter on the left with a small amount of seating.</Text>
+  </Description>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

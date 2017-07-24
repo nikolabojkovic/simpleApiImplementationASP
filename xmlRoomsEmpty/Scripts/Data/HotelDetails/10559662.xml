@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>10559662</Id>
+  <Name>The Missing Lantern</Name>
+  <Region>
+    <Id>21684</Id>
+    <Name>Brooklyn</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1156 Dean Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York City</City>
+    <State />
+    <Zip>11216</Zip>
+    <Country>United States</Country>
+    <Tel>1-718-771-6007</Tel>
+    <Fax>+1 (626) 6964510</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Missing Lantern Guest House is in a Beautiful brownstone. We provide romantic getaways and offer travelers a quiet, discreet retreat with easy access to New York City shops and theatres. Come experience a great night sleep and enjoy the amenities of a luxurious room at prices that other luxury hotels cannot match. We offer affordable, first class, fully furnished, studio apartment suites, in a Brooklyn brownstone. Our stylish suites include a luxurious bath, one queen sized and one full sized bed, with elegant sheets and plush pillows, atop an irresistible mattress. All suites include a microwave, refrigerator, cable television and coffeemaker. Our suites are also self-help if you desire to prepare your own meals.We are also conveniently located near local restaurants and public transportation. We are The Missing Lantern Guest House, a place of elegance.Minimum age required at check-in is 21. Customers who book must call property at 1-718-771-6007 no later than 72 hours prior to arrival to obtain an access code for their unit. Failure to do so will result in cancellation of booking.Please call 1-718-771-6007 72 hours before check-in to receive check-in procedures. There is a minimum security deposit of USD 200.00, which will be returned once guest checks out of room and inspections are done. Extra person fee- USD 60.00 nightly per person fee. Fee waived for children 0-13 years old if additional bed is not requested. Customers who book must call property at 1-718-771-6007 no later than 72 hours prior to arrival to obtain an access code for their unit. Failure to do so will result in cancellation of booking.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The heart of this charming eclectic neighborhood offers tree-lined streets full of shopping, beautiful Victorian homes, and a lively jazz and dining scene. The Brooklyn Museum of Art is nearby. This is the perfect destination for a romantic getaway.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Captain molly suite - This very large and comfortable suite has a washer and dryer, a backyard, a living room, and a dining room. It includes a kitchen and plenty of room for a couple wanting some romantic time together, or a family with children. It is also wifi and cable ready.
+
+George washington suite - This lovely Suite is fully furnished with a queen sized bed and a twin sized sofa bed. It has a private patio and a full kitchen, a full bathroom. It is also WiFi and cable ready.
+
+Stain glass suite - This suite is fully furnished with a queen sized bed and a single sized sofa bed. It has a kitchen, a private bathroom with double head shower. It is also WiFi and cable ready.
+
+The tropical suite - This gorgeous suite is fully furnished. It has a queen sized bed and a queen sized sofa bed. It has a kitchen and a private bathroom. It is also WiFi and cable ready.
+
+The Jefferson Suite - This suite is extremely large. It is fully furnished with a queen sized bed, a queen sized sofa bed, a double bed, and a futon. It has a full kitchen and a private large bathroom. It has a computer room and it is WiFi and cable ready.
+
+James armistead suite - Fully furnished 1 bedroom, 1 private bath suite with one queen sized bed and one double sofa bed. It is fully equipped with a private kitchen and mini bar. Also this lovely suite is WiFi and cable ready.
+
+The asian fusion suite - The asian fusion suite
+
+The blues room - This lovely suite is fully furnished. It has a queen sized bed and a queen sized sofa bed. It has a large kitchen and a private large bathroom with neon lights. It is WiFi and cable ready.</Text>
+  </Description>
+  <Amenity>
+    <Code>PetsAllowed</Code>
+    <Text>Pets allowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WiFi</Code>
+    <Text>Wi-Fi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FreeOnSiteCarparking</Code>
+    <Text>Free On - Site Car parking</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

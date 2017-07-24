@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>5975658</Id>
+  <Name>718 Brooklyn Hotel</Name>
+  <Region>
+    <Id>21684</Id>
+    <Name>Brooklyn</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>231 Duffield Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Brooklyn</City>
+    <State />
+    <Zip>NY 11201</Zip>
+    <Country>United States</Country>
+    <Tel>001 718 707 0060</Tel>
+    <Fax />
+    <Email>asassa@benchmarkmanagement.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.691182</Latitude>
+    <Longitude>-73.984114</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located in Downtown Brooklyn, just steps away from Brooklyn`s hip brownstone neighbourhoods and 25 minutes from Manhattan by subway or bus. The red artesian textured brick and matching mortar gives the building seamless verticality, while the angular facade gives each room a different view. This boutique hotel features 128 rooms that are comfortable as well as affordable. additional features include a media/games room, rooftop sundeck, cardio room with an outdoor component, guest rooms with terraces, 2nd floor lounge space and thoughtful interior design. Hotel 718 is a reflection of the desire to create a guest experience which is enjoyable, rewarding and unique from one stay to the next</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

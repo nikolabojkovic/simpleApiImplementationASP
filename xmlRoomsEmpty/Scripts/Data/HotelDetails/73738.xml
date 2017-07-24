@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>73738</Id>
+  <Name>Floraville</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>16 THE FLORAVILLE COMPLEX, SOI PATTANAKARN 51, PATTANAKARN RD.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>SUANLUANG, BANGKOK 10250 THAILAND</City>
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>66-2-7224055-80</Tel>
+    <Fax>66-2-3202890</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.735862</Latitude>
+    <Longitude>100.647018</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212968-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2409</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212968-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2399</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212968-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11998</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212968-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2019</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212968-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7081</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212968-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1600</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212968-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8343</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212968-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1786</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212968-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8162</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212968-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1862</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Suitable for the one who loves to bring family together. Sport club, swimming pool and all facilities are arranged for everyone. (06/07SW)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located at the junction of Srinakarin and Pattanakarn Road, it is about 20 minutes drives to Suvannabhumi International Airport and 800 metres to reach Hua Mark railways Station. Approximately 30 minutes to Bangkok International Trade &amp; Exhibition Centre (BITECH). Easy to reach to shopping mall.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Executive studio room is in large size - 50 square meters over with the wooden floor located at building C. Everyroom has balcony. Same amenities as studio room but provide additional with mini home theater and DVD player. Bathrooms are shower in bathtub.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>There are 2 buildings. Each has 32 storeys. White concrete buildings.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Main restaurant serve all day dinning.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby of the hotel is medium size which covers with the marble floor at 
+Building C, ground level. There are plenty of sofa seats. Internet corner is available at additional charge.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

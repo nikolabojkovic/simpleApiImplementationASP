@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53248</Id>
+  <Name>Thistle Hyde Park</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>90-92 LANCASTER GATE LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>W2 3NR</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-871-3769022</Tel>
+    <Fax>44-871-3769122</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5113017</Latitude>
+    <Longitude>-0.1809297</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Restaurant_1.jpg</Url>
+    <Width>265</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Exterior_1.jpg</Url>
+    <Width>333</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_1.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Bar_Lounge_1.jpg</Url>
+    <Width>348</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_7.jpg</Url>
+    <Width>187</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_8.jpg</Url>
+    <Width>360</Width>
+    <Height>245</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>263</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_9.jpg</Url>
+    <Width>360</Width>
+    <Height>259</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Restaurant_2.jpg</Url>
+    <Width>278</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_10.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Guest_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Suite_2.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_11.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_11_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Bar_Lounge_2.jpg</Url>
+    <Width>262</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Meeting_Room_12.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Meeting_Room_12_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI9hotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THI9hotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is an excellent hotel, very traditional in style close to many of the major sights of London. With superb views over Hyde Park for a relaxed and comfortable stay.(0109AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in Lancaster Gate opposite Hyde Park. Kensington Gardens, Oxford Street, Park Lane and Mayfair are all within walking distance. Nearest Underground Station is Lancaster Gate (Central Line) but you also have few other stations nearby, Queensway (Central Line), Bayswater (Circle and District Lines) and Paddington Railway Station with a direct link to Heathrow Airport are within walking distance too.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>In keeping with the style of the hotel, the medium to large bedrooms are elegantly appointed with varying colour schemes. The marbled Bathrooms are extremely well maintained, as are the bedrooms.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a traditional Victorian building with majestic pillars and driveway.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The medium size restaurant is beautifully decorated in traditional English style. Majestic crystal chandeliers hang from the ceiling. An award winning selection of cuisine is served.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is very traditionally decorated and furnished with soft pastel colours. Numerous antiques adorn the lobby.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

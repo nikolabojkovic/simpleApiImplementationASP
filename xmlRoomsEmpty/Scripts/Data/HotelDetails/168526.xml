@@ -1,0 +1,417 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>168526</Id>
+  <Name>Novotel Bangna Bangkok</Name>
+  <Region>
+    <Id>2297627</Id>
+    <Name>Suvarnabhumi Airport</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>MOO 6 SRINAKARIN ROAD BANGKOK 333</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10250</Zip>
+    <Country>THAILAND</Country>
+    <Tel>6623660505</Tel>
+    <Fax>6623660506</Fax>
+    <Email>RESERVATIONS@NOVOTELBANGNABANGKOK.COM</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.673072</Latitude>
+    <Longitude>100.647093</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Lobby_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Restaurant_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Guest_Room_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Recreational_Facilities_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Exterior_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Guest_Room_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Guest_Room_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Recreational_Facilities_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Recreational_Facilities_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Lobby_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Guest_Room_4.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Exterior_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Meeting_Room_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Exterior_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Recreational_Facilities_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Recreational_Facilities_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Restaurant_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Lobby_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Restaurant_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Restaurant_4.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Exterior_4.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Exterior_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Meeting_Room_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-NOV2hotel_Meeting_Room_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-NOV2hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Whether for business or pleasure, Novotel Bangna is the ideal hotel to stay for the discerning business and leisure travelers within the Bangnatrad area. Novotel Bangna has become a hub of diverse activities.Relaxation and recreational activities in the hotel are: Outdoor swimming pool, Fitness centre, Squash court, Jacuzzi and sauna, Traditional Thai body massage. Gym is located on the 3rd floor and surrounded by lush and green botanical garden and palm trees, the outdoor swimming pool is the perfect place to escape from the heat and provides a respite from the hustle and bustle after a hard day?s work</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Conveniently situated in the fastest growing suburb of Bangkok, Novotel Bangna Bangkok offers easy access to various industrial parks as well as numerous international corporations with close proximity to BITEC (Bangkok International Trade and Exhibition Center) and just 19 km away from Suvarnabhumi International Airport of Bangkok.    Novotel Bangna Bangkok is just at a few minutes from top-notch shopping &amp; recreational malls. Enjoy golf at 15 international standard golf courses and have fun at the largest Crocodile Farm in the world at Samutprakarn.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Rooms are large and similar. They are done in a peach colour scheme with light wood furniture. This gives the rooms a bright and airy look. Bathrooms are very good and done in black granite with baths. They are brightly lit.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel decorate in Contemporary style suitable for both business traveler and pleasure.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Restaurants in Novotel Bangna are well-known for their excellent ambience and wonderful cuisines. Discover wide range of international buffet dishes, prepared fresh and hot from the open kitchen in the warm and timeless ambiance of The Square. Experience traditional Szechwan and Cantonese cuisines at the Shui Xin Chinese Restaurant. The Hiiragi Japanese Restaurant features a Sushi bar, a Teppanyaki bar and other modern Japanese cuisines. The Les Delices Deli Shop provides freshly baked breads, mouth-watering pastries and homemade pralines.  Enjoy late evening live music in the bar, and relax as our charming hostess serves your preferred wine, favourite cocktail, liqueur or coffee.  Work out a beautiful tan at the Kinaree Poolside Bar during the long hot summers and indulge yourself with our specially prepared tropical cocktails.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Hotel has a medium size lobby</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Massage</Code>
+    <Text>Massage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>204195</Id>
+  <Name>Silver Gold Garden</Name>
+  <Region>
+    <Id>2297627</Id>
+    <Name>Suvarnabhumi Airport</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>541/1 ON-NUCH RD, LATKRABANG</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK-SUVARNABHUMI AIRPORT [BKK]</City>
+    <State>--</State>
+    <Zip>10520</Zip>
+    <Country>THAILAND</Country>
+    <Tel>006627381533</Tel>
+    <Fax>006627381535</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>67</CountRooms>
+    <CountFloors>4</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>13.723001</Latitude>
+    <Longitude>100.785334</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/59Mfront.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/59Mthumbfront.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1723</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/59Mbed.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/59Mthumbbed.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1688</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/59Mmap.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/59Mthumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1692</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Silver Gold Garden Suvarnabhumi Airport is a newly-built hotel (2008), conveniently located just 5min by a free shuttle service to Suvarnabhumi International airport and 25 minutes by transfer to the city centre. The hotel is also just a few minutes walk from the shopping at Huatakhe Market. This modern 4-storey property offers 67 beautifully decorated, spacious guestrooms, all of which are equipped with modern amenities to ensure a pleasurable stay.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

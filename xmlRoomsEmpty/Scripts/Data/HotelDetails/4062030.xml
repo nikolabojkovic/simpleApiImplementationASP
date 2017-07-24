@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4062030</Id>
+  <Name>Sakul House</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>108/17 Soi Rambuttri Banglumpoo</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10200</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2 281 6626</Tel>
+    <Fax>+66 2 629 4599</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.759342</Latitude>
+    <Longitude>100.498488</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1238656-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4475</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1238656-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2352</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1238656-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12396</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1238656-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2264</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1238656-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7138</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1238656-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1603</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1238656-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7597</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1238656-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1782</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1238656-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8591</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1238656-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1826</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1238656-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8243</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1238656-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1839</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1238656-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7955</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1238656-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1864</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nAccessible to many local attractions\nClose proximity to historic district\nClose proximity to shopping district\nGreat combination for business and pleasure\nIdeal accommodations for families\nLocation\nConveniently located in Bangkok\nRestaurants &amp; Lounges\nNearby restaurant\nAccommodations\n31 guestrooms\n3 star accommodations\nContemporary accommodations</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Experience the local culture and attractions of this beautiful location.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

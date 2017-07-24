@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53812</Id>
+  <Name>Mandeville</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>MANDEVILLE PLACE Marylebone</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London W1U 2BE</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-79355599</Tel>
+    <Fax>44-20-79359588</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5165088</Latitude>
+    <Longitude>-0.1512207</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Exterior_1.jpg</Url>
+    <Width>288</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Restaurant_1.jpg</Url>
+    <Width>340</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Guest_Room_2.jpg</Url>
+    <Width>307</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Exterior_2.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Guest_Room_3.jpg</Url>
+    <Width>288</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>204</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MANhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>288</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MANhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel was totally renovated on 2006, and offers one of the best quality,modern accommodations in London's West End. A very good product full of designer touches. A very recommendable hotel whether you are traveling for business or leisure.Please note the hotel operates a NON-SMOKING policy throughout its premises.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in the ever-fashionable Marylebone Village, off Oxford Street and Bond Street, within a few minutes walk of some of the best London shopping, and the famous art galleries and theaters. Most definitely, this is an unbeatable location.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Created by some of the most famous interior designers, The Mandeville bedrooms have been designed for the utmost comfort. The medium-sized rooms exude style and all are furnished with luxurious fabrics and wall coverings. All rooms are individually air conditioned. Rooms are equipped with flat screen interactive LCD televisions, broadband access, safes, two telephone extensions and voice mail. The medium-sized marbled bathrooms are all equipped with power showers and hands-off radio. All the rooms are decorated with vibrant colors,in modern and chic style, but well finished, warm and comfortable.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a traditional Georgian building with a restored white facade.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Designed by Stephen Ryan, deVille Restaurant is located in the ground floor.It's a spectacular venue decorated with a mixture of glass, flower motives, oil paintings, and theatrical sculptures. It is very trendy and serves modern British cuisine. A very popular restaurant in the area. The bar, deVigne Bar,is a particular hot spot in the center of London, very popular amongst young,trendy professionals of the area. Truly unforgettable.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is modern, furnished with large, comfortable sofas and armchairs and decorated with mirrors, marble, and crystal hanging lamps. Medium-sized and very inviting.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>186826</Id>
+  <Name>Kensington Suite</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>128-130 HOLLAND ROAD LONDON W14 8BD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED KINGDOM</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-76023395</Tel>
+    <Fax>44-20-76038610</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.501917</Latitude>
+    <Longitude>-0.212538</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-WES8hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-WES8hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-WES8hotel_Guest_Room_1.jpg</Url>
+    <Width>357</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-WES8hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-WES8hotel_Guest_Room_2.jpg</Url>
+    <Width>224</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-WES8hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-WES8hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>258</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-WES8hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-WES8hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-WES8hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-WES8hotel_Other_2.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-WES8hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Ideally located with easy access to Oxford Street and West End via Shepherds Bush Station on the (Central Line) also for local shopping (High Street Kensington) London Sights (Royal Albert Hall, Kensington Palace and Hyde Park) and very good value for money. Wi-Fi service is available in all hotel rooms and public areas and charges apply. (0608AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>5 Minutes walk to Kensington Olympia Tube Station (District Line) and 10 minutes walk to Shepherds Bush Tube Station (Central Line) near Kensington Olympia and Earls Court (Exhibition Centres).</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Rooms are small, very comfortable, decorated with dark wood, brown carpets, and bright coloured walls they all have flat screen TV's, Tea and Coffee making facilities. The bathrooms are very small but they are in a very good condition as they hotel has been totally refurbished in September 2007.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Typical London Town House Building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Hotel does not have a Restaurant, but they have a small bright Breakfast rooms with access into a small back garden.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A very small Lobby, decorated with dark wood and mirrors.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

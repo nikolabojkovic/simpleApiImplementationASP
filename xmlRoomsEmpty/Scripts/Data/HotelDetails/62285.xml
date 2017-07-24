@@ -1,0 +1,398 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>62285</Id>
+  <Name>Roosevelt</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>45 EAST 45TH STREET NEW YORK NY 10017</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED STATES</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-6619600</Tel>
+    <Fax>1-212-8856168</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.7546919</Latitude>
+    <Longitude>-73.9774683</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>293</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>247</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>301</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>243</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>247</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>246</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Exterior_2.jpg</Url>
+    <Width>245</Width>
+    <Height>300</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_4.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>312</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_8.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Guest_Room_9.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Guest_Room_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_5.jpg</Url>
+    <Width>360</Width>
+    <Height>236</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-ROOhotel_Bar_Lounge_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Roosevelt Hotel was named in honor of President Theodore Roosevelt. A Grand Dame of Madison Avenue since 1924, the fully renovated building spans over a full city block on Madison Avenue across from Grand Central Station. Guests are a short walk from Broadway, Rockefeller Center, and famous Fifth Avenue shopping.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Grand Central Station - 3 blocks
+• United Nations - 6 blocks
+• Times Square, 42nd Street - 6 blocks
+• Rockefeller Center - 3 blocks
+• Madam Tussaud's Wax Museum
+• Radio City Music Hall - 6 blocks
+• Broadway Theater District - 3 blocks
+• Saks 5th Avenue - 6 blocks</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>• 3,900-square-foot Presidential Suite has eight rooms.
+• 30,000 square feet of flexible meeting and exhibit space, including 2 ballrooms and 17 additional meeting rooms ranging in size from (300 – 1100 sq. feet).
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• All Major credit cards are accepted.
+• Check In: 3 p.m.
+• Check Out: 12 noon
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>Driving directions from LaGuardia Airport:(8 miles)
+Take Grand Central Pkwy west to I-278 (Brooklyn-Queens Expy) west. Exit to SR 25A and bear right onto Queens Plaza N. Continue on Queensboro Bridge and exit to 2nd Ave south. Turn left on 2nd Ave, then turn right on E 45th St.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Roosevelt Grill: American cuisine with a creative flair and regional specialties in a classic restaurant setting for breakfast, lunch, and dinner.
+• Madison Club Lounge: Starbucks coffee and pastries in the morning. Lunch/dinner choices such as pizza, pasta, sandwiches, salads, steak frites. Bar service to late night.
+
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

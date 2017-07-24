@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4972144</Id>
+  <Name>Al Di La Suite</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>RIMKLONG-BANGKAPI ROAD, BANGKAPI, HUAI-KLWANG 98</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10310</Zip>
+    <Country>THAILAND</Country>
+    <Tel>6621690000</Tel>
+    <Fax>6621690011</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.764292</Latitude>
+    <Longitude>100.568225</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

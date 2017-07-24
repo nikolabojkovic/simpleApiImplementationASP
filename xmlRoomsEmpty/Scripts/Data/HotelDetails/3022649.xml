@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3022649</Id>
+  <Name>Royal Asia Paradise</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>91,SOI 8 OFF SUKHUMVUT ROAD, KLONGTOEY 9</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>6622515514 O</Tel>
+    <Fax>6622532554</Fax>
+    <Email>sales.mgr@royalasialodge.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.734862</Latitude>
+    <Longitude>100.556123</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/13/80/70/138070-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>10985</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/80/70/138070-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2111</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/13/80/70/138070-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>10733</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/80/70/138070-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2056</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/13/80/70/138070-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9439</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/80/70/138070-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2046</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This moderately priced property offers well furnished accommodation units replete with all the necessary in-room amenities. On-site facilities include a restaurant, business centre, bar/pub lounge, massage services and tour desk.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

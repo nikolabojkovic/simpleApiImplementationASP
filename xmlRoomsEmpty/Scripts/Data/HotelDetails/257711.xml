@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>257711</Id>
+  <Name>Embassy Suites Las Vegas</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4315 SWENSON STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State />
+    <Zip>89119</Zip>
+    <Country>USA</Country>
+    <Tel>702 795 2800</Tel>
+    <Fax>702 765 6899</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>36.1113718</Latitude>
+    <Longitude>-115.1504561</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Exterior_1.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>180</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>142</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>180</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_4.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_5.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Lobby_2.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_6.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_7.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Bar_Lounge_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Lobby_3.jpg</Url>
+    <Width>314</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>359</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>235</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-LAS2hotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>152</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-LAS2hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Embassy Suites Las Vegas hotel completed a multi-million dollar renovation to the hotel in October 2007. Guests at the Embassy Suites Las Vegas hotel will stay in one of our 220 newly renovated guest suites featuring contemporary furniture and sophisticated decor. Remarkable amenity upgrades reflect a cool and confident style to comfort and pamper. Upgrades included in all of our two-room suites include two flat-screen televisions well-designed workspace with ergonomic chairs MP3 player/clock radios coffee maker microwave and refrigerator. Guests will also enjoy a complimentary Cook-to-Order Breakfast and Manager's Reception daily. High-speed Internet access is also available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The all-suite full-service hotel is located directly across the street from the Hard Rock Hotel - Casino Thomas Mack Event Center and the University of Nevada-Las Vegas UNLV. We are minutes away from the fabulous Las Vegas Boulevard The Strip the Convention Center Freemont Street Experience and located next to restaurant row. Other great attractions which are a short drive from the Embassy Suites hotel are Las Vegas Motor Speedway Nellis Air Force Base Hoover Dam Lake Mead Red Rock Canyon.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>In-Room Dining - Dine in the comfort of your room as the meal is prepared and delivered for your convenience. An in-room menu is available in your guest directory for your dining selections. Three Palms Cafe - Continental cuisine.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FreshWaterPool</Code>
+    <Text>Fresh Water Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HeatedPool</Code>
+    <Text>Heated Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SunLounge</Code>
+    <Text>SunLounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

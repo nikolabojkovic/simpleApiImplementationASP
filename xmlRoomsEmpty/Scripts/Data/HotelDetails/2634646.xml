@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2634646</Id>
+  <Name>MiNC The Writers Spitalfields</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>12-18 Artillery Lane</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>E1 7LS</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044 (0)2073971320</Tel>
+    <Fax>0044 (0)2073971321</Fax>
+    <Email>reservations.london@mincproperty.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5184329</Latitude>
+    <Longitude>-0.078824</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/5SWfront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/5SWthumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2055</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/5SWbed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/5SWthumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1850</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/5SWmap.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/5SWthumbmap.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1957</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Writers apartments are ideally situated in the heart of London�s business and financial district and just 400m from Liverpool Street station. From here guests can access the London tube network for easy access around the city as well as national rail services to surrounding areas. The apartments are also well placed for easy access to some of London�s top attractions such as Spitalfields market and Brick Lane as well as numerous shops, galleries, restaurants, cafes and bars in the immediate vicinity. The stylish 5-star serviced apartments offer a luxurious and private haven within the city centre. With an open plan kitchen and living area, luxury bath and shower rooms and spacious bedrooms with built in wardrobes, the apartments offer a comfortable home away from home. With 32 � 35sqm of living space the 1-Bed Executive Apartments benefit from a daily maid service, quality furnishings and tasteful contemporary decor, as well as modern amenities such as a flat-screen television with satellite channels, free WI-FI access and an entertainment system with a DVD player.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

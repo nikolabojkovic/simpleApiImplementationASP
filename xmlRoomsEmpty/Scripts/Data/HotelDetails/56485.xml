@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>56485</Id>
+  <Name>Shaftesbury Metropolis London (Formerly Royal Sussex Hotel)</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>78-84 SUSSEX GARDENS LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>W2 1UH</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-77237723</Tel>
+    <Fax>44-20-74026318</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.516454</Latitude>
+    <Longitude>-0.171114</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROY3hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>23022</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-ROY3hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2254</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROY3hotel_Lobby_1.jpg</Url>
+    <Width>308</Width>
+    <Height>270</Height>
+    <Bytes>14309</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-ROY3hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2015</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROY3hotel_Bedroom_1.jpg</Url>
+    <Width>313</Width>
+    <Height>270</Height>
+    <Bytes>12339</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-ROY3hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1827</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROY3hotel_Bar_1.jpg</Url>
+    <Width>185</Width>
+    <Height>170</Height>
+    <Bytes>18232</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-ROY3hotel_Bar_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2122</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROY3hotel_Restaurant_1.jpg</Url>
+    <Width>195</Width>
+    <Height>175</Height>
+    <Bytes>23218</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-ROY3hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2148</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is a pleasant and clean hotel within easy reach to central London. (08/07 RPL)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located just a few minutes’ walk from Paddington rail and tube station. It is within convenient reach of London's West End and a few minutes by bus to Hyde Park</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All eighty bedrooms are medium in size and in good condition, equipped with direct dial telephone, television, trouser press, hair dryer, and have harmonious colour theme. Bathrooms are in marble and in very good condition</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is converted from an old townhouse and the building is in very good decorative order.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The air-conditioned breakfast room is a pleasant room located on the lower ground floor. It's very spacious, adjacent is the bar area where guests can enjoy the comfort of a few leather sofas.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is large and very modern in style, well decorated with marble flooring and leather sofa and chairs. The reception desk is made of glass.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

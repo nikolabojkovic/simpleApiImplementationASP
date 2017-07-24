@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>528838</Id>
+  <Name>Desert Palm Resort</Name>
+  <Region>
+    <Id>9043435</Id>
+    <Name>Others</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Resorts</Type>
+  <Address>
+    <Address1>Al Awir Road</Address1>
+    <Address2>Border Of Dubai</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>P.O.Box 103635</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-3238888</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>24</CountRooms>
+    <CountFloors>1</CountFloors>
+    <Latitude>25.1725293</Latitude>
+    <Longitude>55.4368182</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/12/53/36/125336-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>10047</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/53/36/125336-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2064</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/53/36/125336-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>10169</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/53/36/125336-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2358</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/53/36/125336-PIS-3.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>11262</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/53/36/125336-PIS-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2366</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/53/36/125336-PIS-4.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>10108</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/53/36/125336-PIS-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2105</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The resort blends high-end design with Middle Eastern exotica to create a truly exceptional desert retreat. Located on a polo estate, the resort is nestled amidst rolling green fields that contain a riding school and scores of rare wild birds. Renovated in 2009, the air-conditioned resort comprises 26 guestrooms and offers a lobby with 24-hour reception and check-out service, a hotel safe, currency exchange facilities, cloakroom, hairdressing salon and children's playground. Food and drinks are provided at the café, bar and restaurant. WLAN Internet access, room and laundry services, a car park, a garage and bicycle hire services are also available.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Playground</Code>
+    <Text>Playground</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Babysitter</Code>
+    <Text>Babysitter</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Amenity>
+    <Code>JoggingTrack</Code>
+    <Text>Jogging Track</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SquashCourt</Code>
+    <Text>Squash Court</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

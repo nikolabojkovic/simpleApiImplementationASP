@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4120405</Id>
+  <Name>Fairfield Inn</Name>
+  <Region>
+    <Id>52878</Id>
+    <Name>Heathrow</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>DITTON ROAD, LANGLEY LANGLEY</Address1>
+    <Address2 />
+    <Address3 />
+    <City>SLOUGH</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-1753-544244</Tel>
+    <Fax>44-1753-540272</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.49486</Latitude>
+    <Longitude>-0.55009</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-MARhotel_Recreational_Facilities_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LHR-MARhotel_Recreational_Facilities_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Heathrow Windsor Marriott offers 444 sq metres of flexible event space to meet all your requirements. Choose from 20 conference suites, meeting rooms &amp; boardrooms. Wi -Fi access is available throuought the hotel.For Leisure guests the hotel is a perfect base for visiting nearby attractions such as LEGOLAND, Windsor Castle &amp; Ascot Racecourse. After a day of sightseeing, take a dip in our swimming pool, sauna or steam room. We also have floodlit tennis courts and a beauty salon.Dining options include the Brasserie Centrale Restaurant, Pizza Da Marco &amp; Chats Bar.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This hotel is situated just across the main roundabout off the M4 (Heathrow turn off). The Heathrow Windsor Marriott is conveniently located for business. The closest Marriott to Terminal 5 we are only 4 miles &amp; a 15 minute journey on the Heathrow Hoppa shuttle service to Terminals 1, 2, 3 &amp; 5. We are close to the M4 motorway &amp; Slough train station, making us easy to get to by air, road or rail. Slough Trading Estate -the home of many European Headquarters is 2 miles away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are all large in size and are very modern. All bedrooms have two double beds.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is a very modern hotel, set back from the main road with ample parking.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Brasserie Centrale - Brasserie Centrale is a contemporary interpretation of a classic French Brasserie. The menu has regional French food with a British influence. Using well sourced ingredients, serve to create a menu experience to be enjoyed by all. Pizza da Marco - Relax with a delicious pizza, cooked to order right in front of you by our Italian chefs. Chats Bar - A welcoming atmosphere, friendly service and a tempting choice of light fare makes Chats the ideal place to relax throughout the day and evening.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby area is medium but this leads into a much larger foyer with ample seating for guests to take coffee, or just relax.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

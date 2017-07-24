@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7615955</Id>
+  <Name>Element by Westin Las Vegas Summerlin</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>10555 Discovery Drive</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89135</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1 702 589 2000</Tel>
+    <Fax>+ 1 702 589 2020</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-exterior2_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4448</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-exterior2_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2377</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8871</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2097</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-exterior1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12615</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-exterior1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2271</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-exterior2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11731</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-exterior2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2341</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8297</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2000</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8834</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2133</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9263</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2231</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-pool1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13026</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-pool1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2461</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8427</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1959</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6865</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1809</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5210</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1627</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217323-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5983</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217323-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1746</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nAccessible to many local attractions\nClose proximity to major attractions\nClose proximity to shopping district\nLocation\nConveniently located in Las Vegas\nLocal Attractions\nBear's Best Golf Club - 1.0 miles\nSiena Golf Club - 1.5 miles\nRecreation\nOutdoor swimming pool\nFully equipped fitness center\nBeautiful golf course nearby\nNearby casino entertainment\nRestaurants &amp; Lounges\nBreakfast Room\nNearby restaurant\nServices\n24 hr front desk service\nValet dry cleaning and laundry services\nShuttle service is available\nBusiness services available at front desk\nMeeting Facilities\nFully equipped business center\nSmall conference room available\nBanquet facilities\nAccommodations\n3 star accommodations\nClassic guest rooms\nSpacious rooms\nParking\nOn site parking available</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>City lights and city excitement await your arrival at the centrally located  Element by Westin Las Vegas Summerlin</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

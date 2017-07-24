@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>62396</Id>
+  <Name>LaGuardia Plaza Hotel (Formerly Crowne Plaza)</Name>
+  <Region>
+    <Id>21686</Id>
+    <Name>La Guardia Airport Area</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>104-04 DITMARS BLVD EAST ELMHURT NY 11369</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED STATES</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-718-4576300</Tel>
+    <Fax>1-718-8999768</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.767201</Latitude>
+    <Longitude>-73.867045</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/62396_1.jpg</Url>
+    <Width>600</Width>
+    <Height>400</Height>
+    <Bytes>100952</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/62396_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2838</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/62396_4..jpg</Url>
+    <Width>600</Width>
+    <Height>400</Height>
+    <Bytes>76481</Bytes>
+    <Caption>Lounge</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/62396_4._thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2525</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/62396_2.jpg</Url>
+    <Width>600</Width>
+    <Height>400</Height>
+    <Bytes>56132</Bytes>
+    <Caption>Swimming Pool</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/62396_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2006</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/62396_3.jpg</Url>
+    <Width>600</Width>
+    <Height>400</Height>
+    <Bytes>70447</Bytes>
+    <Caption>Meeting Place</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/62396_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2578</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Crowne Plaza La Guardia Airport is mid-rise hotel located opposite the Airport and six miles from Manhattan. The Crowne Plaza Laguardia is Only 1 Mile from Shea Stadium and the US Tennis Center (US Tennis Open).</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Grand Central
+• Javits Center
+• Lincoln Center
+• Madison Square Garden
+• New York Public Library
+• New York Stock Exchange
+• NY Vietnam Veterans Memorial
+• Pokemon Center NYC
+• Rockefeller Center
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Renovated in 2001, this fully air-conditioned hotel comprises 358 rooms spread over 7 floors. Guests are welcomed into the airport hotel's elegant lobby with a 24-hour reception service, a hotel safe, a currency exchange counter, a cloakroom and several lifts. Culinary options include a bar and a cosy restaurant. Well-equipped conference rooms are on offer to business travellers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Renovated in 2001, this fully air-conditioned hotel comprises 358 rooms spread over 7 floors. Guests are welcomed into the airport hotel's elegant lobby with a 24-hour reception service, a hotel safe, a currency exchange counter, a cloakroom and several lifts. Culinary options include a bar and a cosy restaurant. Well-equipped conference rooms are on offer to business travellers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Indoor pool.
+• Jacuzzi.
+• sauna.
+• Indoor health club.
+• Embers Lounge.
+• Pavillion Restaurant.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Express Check-In and Express Checkout.
+• All Major credit cards are accepted.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Restaurant provides an unusually elegant setting and a warm relaxed atmosphere. Delightful menus, sumptuous buffets, serving Breakfast, Lunch and Dinner daily.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

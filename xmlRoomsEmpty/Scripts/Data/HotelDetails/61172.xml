@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>61172</Id>
+  <Name>Mondrian</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>8440 SUNSET BLVD  W  HOLLYWOOD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles 90069</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-323-6508999</Tel>
+    <Fax>1-323-6505215</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>34.094471</Latitude>
+    <Longitude>-118.374341</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Bar_Lounge_2.jpg</Url>
+    <Width>228</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Meeting_Room_3.jpg</Url>
+    <Width>353</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>272</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Restaurant_1.jpg</Url>
+    <Width>193</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Restaurant_2.jpg</Url>
+    <Width>229</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Meeting_Room_4.jpg</Url>
+    <Width>231</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Bar_Lounge_3.jpg</Url>
+    <Width>215</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Suite_1.jpg</Url>
+    <Width>215</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-MON1hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-MON1hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel is conveniently located close to Beverly Hills, Hollywood, Burbank and downtown Los Angeles. It is in walking distance to night life, restaurants, shopping and theatres. The hotel has an extensively landscaped garden area with 360 degree views of city and mountains. There is a gymnasium with steam rooms, saunas and jacuzzis, fitness areas, health bar, lobby bar and lounge, extensive banquet facilities, and a gift shop. Pets are not allowed in the hotel. (0606/CH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is centrally located in the heart of West Hollywood's entertainment and design districts in the Hollywood foothills on Sunset Boulevard.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Renowned designer Benjamin Noriega-Ortiz creates breathtaking environments that offer an inspired fusion of beauty and comfort. This room showcases his surrealist aesthetic and devoted attention to detail, with whimsical custom-designed furniture, striking color palette, subtly textured wallpaper, an oversized looking glass that conceals a flat-screen TV and other surprising details. Every element reflects thoughtful luxury, including sustainable bamboo floors, Egyptian cotton linens, a rainfall shower and imported bath amenities from MALIN+GOETZ. Floor-to-ceiling windows offer stunning views of Los Angeles.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is a striking post-modern hotel in 1950's contemporary style with white stone and tinted windows.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has a patio garden restaurant, pool bar and grill, eat-in gourmet kitchen, 24 hour brasserie and a critically acclaimed restaurant on premises. The restaurant has an innovative fusion menu blending flavors of Asia and the Caribbean.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The hotel has an indoor and outdoor lobby.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

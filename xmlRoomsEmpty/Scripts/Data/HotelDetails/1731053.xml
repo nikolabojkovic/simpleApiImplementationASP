@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1731053</Id>
+  <Name>Hampton Inn Suites Las Vegas Airport</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>6575 SOUTH EASTERN AVENUE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-702-647-8000</Tel>
+    <Fax>1-702-220-8080</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>36.0702637</Latitude>
+    <Longitude>-115.1188795</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>180</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>300</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>180</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>154</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>180</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAM7hotel_Recreational_Facilities_2.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAM7hotel_Recreational_Facilities_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Our hotel features top notch accommodations in standard or studio suites ideal for any business traveler or family on vacation. All rooms feature: For your Comfort 32" Flat Screen Televisions, Curved Shower Rod, Duvet Covers, Easy to Set Alarm Clock Radio, In room work desk, Bath Products, Ergonomic Desk Chair, Premium Movie Channels, Sofa Bed - In Suites Only For your Convenience, Coffee maker, Complimentary On the House hot breakfast, Hair Dryer, High Speed Internet Access-No Charge, Iron and Ironing Board, Lap Desk, Microwave.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Enjoy world famous shows and attractions while relaxing in style - welcome to the new Hampton Inn &amp; Suites Las Vegas Airport hotel. A desert bordered by the breathtaking views of the awe-inspiring Las Vegas Strip it is easy to see why Las Vegas is known as the Entertainment Capital of the World. Our city's vast number of attractions will entertain and educate you at the same time. All of this and more are right at your fingertips and minutes away when you visit the Hampton Inn &amp; Suites Las Vegas Airport hotel. Whether you are a business traveler or vacationer you will want a hotel that offers modern conveniences and excellent service. Look no further than our friendly Las Vegas hotel. Located only minutes from the world famous Las Vegas Strip, directly across from the Sunset Park, our Las Vegas hotel is the perfect spot to rest between all of the fun things to see and do in our great city. Practice your rock climbing skills at the Red Rock Canyon or experience the thrill of seeing one of our many world famous shows and attractions. It's all here, just moments from the Hampton Inn &amp; Suites Las Vegas Airport hotel. Within miles of various attractions such as:  Sunset Park, Callaway Golf Center, Town Square Mall by Turnberry, Las Vegas Outlet Center, Red Rock National Park, Hoover Dam, Las Vegas Speedway, Las Vegas-Henderson Business Park.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Panavino. Yard House. Claim Jumper. California Pizza Kitchen.</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

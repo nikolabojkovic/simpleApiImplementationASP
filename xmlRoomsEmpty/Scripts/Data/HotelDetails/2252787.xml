@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252787</Id>
+  <Name>Rainbow Arokaya Holistic Longevity Center</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2106 New Petchabruri Road</Address1>
+    <Address2>Huaykwang</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2318 7008-9</Tel>
+    <Fax>(66) 2318 7087</Fax>
+    <Email>reservation@rainbowarokaya.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.74569</Latitude>
+    <Longitude>100.577484</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/11/11/02/39/rainbow_arokaya_holistic_longevity_center-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10066</Bytes>
+    <Caption>rainbow_arokaya_holistic_longevity_center-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/11/11/02/39/rainbow_arokaya_holistic_longevity_center-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2579</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/11/11/02/39/rainbow_arokaya_holistic_longevity_center-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>1808</Bytes>
+    <Caption>rainbow_arokaya_holistic_longevity_center-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/11/11/02/39/rainbow_arokaya_holistic_longevity_center-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1778</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/11/11/02/39/rainbow_arokaya_holistic_longevity_center-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>13985</Bytes>
+    <Caption>rainbow_arokaya_holistic_longevity_center-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/11/11/02/39/rainbow_arokaya_holistic_longevity_center-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2735</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Holistic Treatment at Rainbow Arokayal promises no miracle cures for modern era health complications, but offers an eclectic mix of the best of both Eastern and Western alternative medical practices. The human body is a complex, integrated system of interrelated components which necessitates a balanced and gradual approach towards improvement. Radical therapies and medicine are not offered in our services, as we are only interested in long-term, continuous improvement. It is with our services that you may return yourself to balance and harmony, but it is with our health education in which you can empower yourself to be your own healer.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>122278</Id>
+  <Name>Grand Hyatt</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>109 East 42nd Street at Grand Central Terminal</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York 10017</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-8831234</Tel>
+    <Fax>1-212-6973772</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.7516615</Latitude>
+    <Longitude>-73.9765757</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GRA1hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>243</Height>
+    <Bytes>13123</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-GRA1hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1812</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GRA1hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>27820</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-GRA1hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2549</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GRA1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>287</Height>
+    <Bytes>26753</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-GRA1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2337</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GRA1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>243</Height>
+    <Bytes>17890</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-GRA1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2082</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GRA1hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>15425</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-GRA1hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2034</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GRA1hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>16915</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-GRA1hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2218</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GRA1hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>293</Height>
+    <Bytes>33568</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-GRA1hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2778</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Grand Hyatt is located adjacent to grand central terminal in midtown Manhattan, within easy walking distance to many of the city's most fabled attractions. Business travelers will appreciate its proximity to major corporate offices. After recently completing a mega million renovation of the property, the Hyatt offers a full array of services, onsite dining options and fresh, well appointed accommodations.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Grand Central Terminal - adjacent
+• Whitney Museum of American Art at Altria - across street
+• Chrysler Building - 1 block
+• Bryant Park/New York Public Library - 3 blocks
+• Garment District - 3 blocks
+• United Nations - 4 blocks
+• Times Square - 4 blocks
+• Broadway theaters - 4 blocks
+• Rockefeller Center - 7 blocks
+• Radio City Music Hall - 10 blocks
+• Empire State Building - 10 blocks
+• Saks Fifth Avenue - 10 blocks
+• Museum of Modern Art - 10 blocks
+• Carnegie Hall - 0.75 mile
+• Central Park - 1 mile</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Grand Hyatt New York offers 1,311 guestrooms in a 25-story building. All rooms include Hyatt’s signature Grand Bed with Sealy Posturepedic pillowtop mattresses; 250-thread-count triple sheeting; down comforters; decorative throws; and an array of European, roll, and throw pillows.
+Large desks have ergonomic chairs and two-line cordless telephones. Granite/marble bathrooms contain shower/tub combinations, telephones, and Portofino toiletries.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Dating from the 1920s, an updated Grand Hyatt New York includes a vast marble lobby, gold columns, and mirrored ceiling. A waterfall cascades from the lobby's upper level to a marble fountain in the lower. The lower lobby connects directly to Grand Center Terminal's shopping arcade, which leads into the main concourse. For dinner, Commodore Grill &amp; Lounge offers a seasonal menu of American dishes. The breakfast/lunch restaurant has a glass wall for observing 42nd Street's heavy pedestrian traffic.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Executive Fitness Center
+• Shopping
+• Golf at Chelsea Pier
+• Walking Tours
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Major credit cards are accepted.
+• Check in time is 3PM
+• Check out time is 12PM
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>Driving directions from LaGuardia Airport: Take Grand Central Pkwy west to I-278 (Brooklyn-Queens Expy) west. Exit to SR 25A and bear right onto Queens Plaza N. Continue on Queensboro Bridge and exit to 2nd Ave south. Turn left on 2nd Ave, and the Grand Hyatt New York is on the right after about 8 miles.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• The Commodore Grill &amp; Lounge:
+The Commodore Grill is an upscale, full service restaurant serving American Continental cuisine.
+• Grand Coffee Bar:
+Enjoy choosing from a wide array of fresh baked goods, heathly flavorful sandwiches and delicious fresh fruits along with flavored coffees, teas, and juices.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>32</Rank>
+</HotelElement>

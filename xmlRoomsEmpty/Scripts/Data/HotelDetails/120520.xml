@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120520</Id>
+  <Name>Churchgate</Name>
+  <Region>
+    <Id>52924</Id>
+    <Name>Stansted</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>CHURCHGATE STREET VILLAGE  -  ESSEX</Address1>
+    <Address2 />
+    <Address3 />
+    <City>HARLOW</City>
+    <State />
+    <Zip>CM17 0JT</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00441279420246</Tel>
+    <Fax>00441279437720</Fax>
+    <Email>res.churchgate@crerarmgmt.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.782206</Latitude>
+    <Longitude>0.149249</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/22/43/6/22436-CON-4.jpg</Url>
+    <Width>320</Width>
+    <Height>230</Height>
+    <Bytes>13941</Bytes>
+    <Caption>Conferences</Caption>
+    <ThumbnailUrl>/RXLImages/1057/22/43/6/22436-CON-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2385</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/22/43/6/22436-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>154</Height>
+    <Bytes>14720</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/22/43/6/22436-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>145</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3444</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/22/43/6/22436-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>221</Height>
+    <Bytes>14971</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/22/43/6/22436-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>101</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2301</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/22/43/6/22436-PIS-3.jpg</Url>
+    <Width>320</Width>
+    <Height>232</Height>
+    <Bytes>18774</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1057/22/43/6/22436-PIS-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>96</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2515</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Exit the M11 at junction 7. Follow the A414 towards Harlow. At the 4th roundabout turn right onto the B183, signposted Hatfield Heath. Follow the signs to Churchgate St and at the 2nd roundabout turn right into Churchgate St village. After a further 91 metres turn right at the T junction and drive through the village. The hotel is at the bottom of the hill on the right hand side.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The historic hotel comprises a total of 85 rooms spread over 3 floors. The rustic lobby area of the hotel offers its guests a reception area with 24-hour service, a safe and a cloakroom. A TV and lounge room, a bar with excellent prices and an air-conditioned à la carte restaurant with highchairs for infants are also to be found within the hotel. Guests may take advantage of the public Internet terminal as well as room and laundry services. Car parking spaces are available.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MobilePhoneNetwork</Code>
+    <Text>Mobile Phone Network</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FreshWaterPool</Code>
+    <Text>Fresh Water Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parasol</Code>
+    <Text>Parasol</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4729206</Id>
+  <Name>Grand Residences By Marriott</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>PARK STREET 47</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>W1K 7EB</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>004420749281</Tel>
+    <Fax>44207491281</Fax>
+    <Email>RESERVATIONS@47PARKSTREET.COM</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5110474</Latitude>
+    <Longitude>-0.1550269</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/16/11/66/161166-COM-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>14757</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1057/16/11/66/161166-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2160</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/16/11/66/161166-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>22206</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/16/11/66/161166-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2484</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/16/11/66/161166-GEN-4.jpg</Url>
+    <Width>258</Width>
+    <Height>320</Height>
+    <Bytes>30186</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/16/11/66/161166-GEN-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>56</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1783</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/16/11/66/161166-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>15091</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/16/11/66/161166-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2142</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This Edwardian-style building is composed of 49 impeccably appointed residences. Inside every residence, elegant interiors rich in period detail with many original features offer luxury living. The guests will enjoy a wealth of modern amenities, yet there remains a wonderful timeless atmosphere combined with highly personalised attentive service.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kitchen</Code>
+    <Text>Kitchen</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BicycleStorage</Code>
+    <Text>Bicycle Storage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

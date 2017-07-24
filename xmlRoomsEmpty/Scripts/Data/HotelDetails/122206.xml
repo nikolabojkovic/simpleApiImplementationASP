@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>122206</Id>
+  <Name>Tribeca Grand Hotel</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2 AVENUE OF THE AMERICAS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10013</Zip>
+    <Country>USA</Country>
+    <Tel>2125196600</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>203</CountRooms>
+    <CountFloors>8</CountFloors>
+    <Latitude>40.719381</Latitude>
+    <Longitude>-74.004766</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Exterior_1.jpg</Url>
+    <Width>278</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Other_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRIhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRIhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Manhattan's Tribeca Grand Hotel, N.Y.,is located in a dynamic downtown neighborhood of restaurants, shops and businesses, Little Italy, Chinatown, Hudson Square nightclubs, New York University, Greenwich Village and Wall Street are all within three to 12 blocks of the Tribeca Grand. Just outside of the hotel, trendy art galleries, unique shops and store fronts, historic townhouses and cast-iron architecture add to the ambience that is the TriBeCa neighborhood. Tribeca Grand Hotel offers 203 guestrooms with large windows and minimalist decor in an eight-story building.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• NYU - 4 blocks
+• Little Italy - 3 blocks
+• Chinatown - 3 blocks
+• Wall Street - 12 blocks
+• SoHo Shops - 2 blocks
+• Hudson Square - 3 blocks
+• Lower East Side - 8 blocks
+• Greenwich Village - 5 blocks
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Swimming Pool
+• Fitness Centre
+• Golf
+• Running track/path
+• Racquetball/squash</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• Major credit cards are accepted
+• Check In Time - 3 p.m. Check Out Time - 12 p.m.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel's bar, the Church Lounge, where cocktails, cheeses, hors d'oeuvres, burgers and pastas are served.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

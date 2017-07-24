@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53647</Id>
+  <Name>Kensington International</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4 TEMPLETON PLACE KENSINGTON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-73704333</Tel>
+    <Fax>44-20-72447873</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4923508</Latitude>
+    <Longitude>-0.1948929</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-KEN6hotel_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Lounge</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-KEN6hotel_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-KEN6hotel_Bedroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-KEN6hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-KEN6hotel_Bedroom_2.jpg</Url>
+    <Width>318</Width>
+    <Height>237</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-KEN6hotel_Bedroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-KEN6hotel_Restaurant_1.jpg</Url>
+    <Width>268</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-KEN6hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-KEN6hotel_Conference_facilities_1.jpg</Url>
+    <Width>148</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Conference facilities</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-KEN6hotel_Conference_facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-KEN6hotel_Entrance_1.jpg</Url>
+    <Width>255</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Entrance</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-KEN6hotel_Entrance_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is an excellent hotel, ideally located for all travellers. (LP 08/07)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is situated a short distance from Earl’s Court Exhibition Centre and underground station, in Kensington.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Most of the rooms are medium to small, but they certainly are a distinguishing feature of the hotel with their contemporary design. All rooms are in excellent condition. The bathrooms are in very good condition too, some of them with bathtub and others with shower cubicle.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The exterior of the hotel is typical for a Georgian Townhouse and is in excellent condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The breakfast room and bar is found on the ground floor and is mainly decorated in green with very attractive oak wooden floors. Part of it is a Conservatory with an attractive black and white marble floor.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby of the hotel is small but pleasantly inviting, decorated in warm colours with a private library that guests can use and a pleasant oak wooden floor.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

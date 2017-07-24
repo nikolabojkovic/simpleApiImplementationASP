@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>56605</Id>
+  <Name>Royal Horseguards</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2 WHITEHALL COURT</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW1A 2EJ</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-871-3769033</Tel>
+    <Fax>44-871-3769133</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5049134</Latitude>
+    <Longitude>-0.1248779</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>34474</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2128</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>209</Height>
+    <Bytes>16240</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1790</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>27331</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2410</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>209</Height>
+    <Bytes>20074</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2354</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>22992</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2301</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>209</Height>
+    <Bytes>13627</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2236</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>261</Height>
+    <Bytes>25757</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2451</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Restaurant_1.jpg</Url>
+    <Width>270</Width>
+    <Height>270</Height>
+    <Bytes>16785</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2240</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>25040</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2258</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>25916</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2206</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>274</Height>
+    <Bytes>26861</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2681</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>21236</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2630</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25115</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2752</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>199</Height>
+    <Bytes>15576</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2080</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26638</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2521</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>227</Height>
+    <Bytes>21023</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2326</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>17931</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2233</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>28862</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3006</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_6.jpg</Url>
+    <Width>353</Width>
+    <Height>360</Height>
+    <Bytes>33968</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Bar_Lounge_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2583</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>30390</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2437</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Meeting_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>37134</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Meeting_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2789</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>22992</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2301</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYIhotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>29419</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYIhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2517</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is a very grand hotel which is rich in history. (0109AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in a quiet area of Whitehall overlooking the Thames, a short walk from the Houses of Parliament, Big Ben, Westminster Abbey, St James Park, Buckingham Palace, Trafalgar Square and The National Gallery.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>These rooms are larger and more luxurious than the standard rooms. All the rooms are furnished very elegantly in a traditional style, offering modern facilities. The rooms and bathrooms are in excellent condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is a traditional and impressive sandstone building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant is located on the ground floor. Leading on from the lobby is a traditional lounge, where afternoon tea is served, leading on from the lounge is the bar, and to the left the very traditional restaurant with the atmosphere of a gentlemen's club, being furnished with heavy furniture. Due to its proximity to Parliament it is frequented by many ministers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The large lobby is laid out with marble and features a small seating area in front of an open fire with a lounge area decorated in pastel colours and comfortable sofas.</Text>
+  </Description>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>17</Rank>
+</HotelElement>

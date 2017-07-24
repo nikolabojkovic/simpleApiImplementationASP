@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1911374</Id>
+  <Name>Northgate Ratchayothin Serviced Residence</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>248 Ratchadapisek Road; Ladyao; Chatuchak</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10900</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 26841616</Tel>
+    <Fax>+66 26841617</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.8287955</Latitude>
+    <Longitude>100.5598801</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229571-001exter_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3507</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229571-001exter_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1910</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229571-001exter.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8844</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229571-001exter.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1860</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229571-002room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8048</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229571-002room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1937</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229571-003room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6361</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229571-003room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1800</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229571-004room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7076</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229571-004room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1751</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229571-005room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6577</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229571-005room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1839</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229571-006pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7606</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229571-006pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1683</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229571-007tennis.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5924</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229571-007tennis.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1546</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This apartment hotel comprises a total of 130 studio rooms and 10 2-bedroom suites. Facilities on offer to guests at this air-conditioned establishment include a lobby area with a 24-hour reception and check-out service and a hotel safe. There is a café, a bar and a breakfast/dining room and guests will appreciate the conference facilities and free high-speed wireless Internet access. They can also take advantage of the room and laundry services and there is parking available for those arriving by car.</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

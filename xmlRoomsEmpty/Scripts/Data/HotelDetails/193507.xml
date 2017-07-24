@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>193507</Id>
+  <Name>New York LaGuardia Airport Marriott</Name>
+  <Region>
+    <Id>21686</Id>
+    <Name>La Guardia Airport Area</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>102-05 Ditmars Boulevard</Address1>
+    <Address2 />
+    <Address3 />
+    <City>East Elmhurst</City>
+    <State>New York</State>
+    <Zip>11369</Zip>
+    <Country>USA</Country>
+    <Tel>+1 718 565 8900</Tel>
+    <Fax>+1 718 898 4955</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7684253</Latitude>
+    <Longitude>-73.8674777</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/193507_1.jpg</Url>
+    <Width>350</Width>
+    <Height>243</Height>
+    <Bytes>25187</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/193507_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>100</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2551</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/193507_2.jpg</Url>
+    <Width>350</Width>
+    <Height>243</Height>
+    <Bytes>21203</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/193507_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>100</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2679</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/193507_5.jpg</Url>
+    <Width>350</Width>
+    <Height>243</Height>
+    <Bytes>29005</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/193507_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>100</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3217</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/193507_3.jpg</Url>
+    <Width>350</Width>
+    <Height>243</Height>
+    <Bytes>15890</Bytes>
+    <Caption>Meeting Place</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/193507_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>100</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2560</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>With a convenient location and a $10 million guest room renovation, no other hotel in Queens, NY compares to the New York Marriott LaGuardia Airport. Located across from LaGuardia Airport, the hotel is only a short distance from Midtown Manhattan, Long Island and JFK International Airport. Surrounded by the hustle and bustle of New York City and boasting over 15,000 sq. ft. of event space, this hotel is ideal for meetings, special events, and wedding receptions in Queens. All guests have access to a complimentary airport shuttle from the hotel to LaGuardia Airport. Also LaGuardia Airport hotel has earned the prestigious ENERGY STAR® label from the E.P.A.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is situated directly across from the airport, eliminating the stress of travel. It is close to Shea Stadium, Yankee Stadium, St. John's University and the USTA National Tennis Center. It provides easy access to the LaGuardia Airport.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>• This East Elmhurst, NY hotel features 435 guest rooms and 3 suites for business and leisure travel
+• Guest rooms feature luxurious Revive bedding with 300 thread-count linens and down comforters
+• Double-paned windows ensure a restful night in this Queens, NY hotel
+• High-tech amenities include high-speed internet access and flat-screen TVs in all hotel rooms
+• The amenities in this Queens, NY hotel include a fitness center, restaurant, lounge and room service
+• This hotel has a smoke-free policy
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>In New York LaGuardia Airport Marriott hotel guests are assured a pleasant night's rest with the LaGuardia Airport hotel's signature Marriott Revive bedding and double-paned sound proof windows. This East Elmhurst, NY hotel offers a unique plug-in panel in each room that allows guests to connect their digital devices to view on a large 32-inch flat screen TV. Other recent renovations at this Elmhurst, NY hotel include contemporary furniture upgrades and sleek new bathrooms.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Luxury accommodations and major local attractions await you at the Marriott La Guardia</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingRooms</Code>
+    <Text>Meeting rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeShop</Code>
+    <Text>Coffee shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Tours</Code>
+    <Text>Tours</Text>
+  </Amenity>
+  <Amenity>
+    <Code>24HourFrontDesk</Code>
+    <Text>24 Hour Front Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

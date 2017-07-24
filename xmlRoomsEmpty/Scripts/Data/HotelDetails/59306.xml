@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59306</Id>
+  <Name>W LOS ANGELES-WESTWOOD HOTEL</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>930 HILGARD AVE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LOS ANGELES, CA 90024</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-310-2088765</Tel>
+    <Fax>1-310-8240355</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>34.0632607</Latitude>
+    <Longitude>-118.4411035</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-Whotel_Entrance_1.jpg</Url>
+    <Width>360</Width>
+    <Height>260</Height>
+    <Bytes>68445</Bytes>
+    <Caption>Entrance</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-Whotel_Entrance_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2301</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-Whotel_Reception_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>69045</Bytes>
+    <Caption>Reception</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-Whotel_Reception_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1970</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-Whotel_Bedroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>260</Height>
+    <Bytes>65269</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-Whotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2030</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-Whotel_Bar_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>69291</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-Whotel_Bar_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2068</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-Whotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>66599</Bytes>
+    <Caption>Swimming Pool</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-Whotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2391</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-Whotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>65913</Bytes>
+    <Caption>Spa</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-Whotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2073</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-Whotel_Conference_facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>65615</Bytes>
+    <Caption>Conference facilities</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-Whotel_Conference_facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2298</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-Whotel_Conference_facilities_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>68200</Bytes>
+    <Caption>Conference facilities</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-Whotel_Conference_facilities_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2472</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>(0606/CH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is situated on a quiet, magnolia-lined residential street in Westwood and is twenty minutes from Los Angeles International Airport.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The 258 suites with Bungalow-style windows and wooden shutters filter the warm California sun and equipped with pillow-top mattresses and feather beds, goose down duvets and pillows and 350-thread-count cotton blend sheets.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant’s soothing environment of muted neutrals is a Zen respite from the Hollywood neon and an inspired meditation from the glitter and glitz. A 12-foot sandstone bar topped with dark woods is at the center of the room, opening onto a serene outdoor patio.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

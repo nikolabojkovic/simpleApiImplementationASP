@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9015980</Id>
+  <Name>Delmon Palace Hotel</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Al-Riqqa Road | P.O. Box 21969, Dubai, United Arab Emirates</Address1>
+    <Address2>Deira</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-2222333</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>132</CountRooms>
+    <CountFloors>7</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/88/28/85/882885-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7638</Bytes>
+    <Caption>882885-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/88/28/85/882885-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1998</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/88/28/85/882885-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7277</Bytes>
+    <Caption>882885-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/88/28/85/882885-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1869</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/88/28/85/882885-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6728</Bytes>
+    <Caption>882885-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/88/28/85/882885-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1761</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/88/28/85/882885-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7040</Bytes>
+    <Caption>882885-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/88/28/85/882885-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1742</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/88/28/85/882885-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>3347</Bytes>
+    <Caption>882885-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/88/28/85/882885-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1279</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The DELMON PALACE HOTEL is a Tourist hotel. Located in City Centre - Deira area. Shopping is accessible by bus/taxi and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in Rigga Road, Delmon Palace Hotel is only 5 minutes by car from Deira City Centre. The hotel has a bar and a nightclub, as well as a restaurant serving breakfast buffets. Wi-Fi is available in the entire hotel.The rooms and suites are air conditioned and include a balcony. They feature a sofa and a TV, a minibar, and safety deposit box. The bathroom includes a bathtub and free toiletries.The Spice Souq is 10 minutes’ driving distance from Delmon Palace Hotel, and Dubai International Airport is 7.5 km. Airport shuttle can be provided by the hotel.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>5972591</Id>
+  <Name>Eccleston Square Hotel</Name>
+  <Region>
+    <Id>52928</Id>
+    <Name>Westminster &amp; Victoria </Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>37 Eccleston Square</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW1V 1PB</Zip>
+    <Country>England</Country>
+    <Tel>0044 20 3489 1000</Tel>
+    <Fax />
+    <Email>stay@ecclestonsquarehotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.4910739</Latitude>
+    <Longitude>-0.1451031</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Marketed as a London`s most high tech hotel and boasting an excellent location close to Belgravia, the Eccleston Square is welcome addition to London`s design boutique hotels. The hotel prides itself on ultra modern facilities and sumptuous décor throughout. The bedrooms have been inspired by the super yacht  cabin style and have state of the art facilities, including 46” HD 3D plasma TVs, i-pod dock, personal i-pad 2 and beds that can be adjusted electronically. Wi-fi access is complimentary. The hotel`s restaurant is a French style bistro and guests can relax in the stylish cocktail bar or in the exclusive private garden.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

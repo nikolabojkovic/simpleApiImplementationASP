@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9748672</Id>
+  <Name>Maple Bangkok</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>9 Srinakarin Rd., Bangna,</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66 )2 - 398 - 9999</Tel>
+    <Fax>(66) 2 - 398 - 1111</Fax>
+    <Email>reservation@maplethai.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9697</Bytes>
+    <Caption>maple_bangkok-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2322</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11513</Bytes>
+    <Caption>maple_bangkok-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2465</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9191</Bytes>
+    <Caption>maple_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2524</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9550</Bytes>
+    <Caption>maple_bangkok-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2425</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>920</Bytes>
+    <Caption>maple_bangkok-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2234</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8052</Bytes>
+    <Caption>maple_bangkok-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/08/02/92/maple_bangkok-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2281</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Maple hotel is centrally located on the eastern side of Bangkok on Srinakarin road across Bang-na Trad Road. We are only 18 minutes from Suvarnabhumi Airport, 8 minutes to BITEC convention and exhibition center and Bangna BTS station. We are also surrounded by key industrial parks, including Bangpli, Ladkrabang and Bangpu. Corporate offices, government offices, golf courses and leading department stores along Srinakarin and Bangna roads are within easy reach.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

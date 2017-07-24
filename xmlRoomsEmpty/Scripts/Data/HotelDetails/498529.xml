@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>498529</Id>
+  <Name>Buckingham</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>39-40 Bedford Place</Address1>
+    <Address2>London</Address2>
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>Wc1b 5bp</Zip>
+    <Country>U.k.</Country>
+    <Tel>020 76362474</Tel>
+    <Fax>020 75804527</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>17</CountRooms>
+    <Latitude>51.5196127</Latitude>
+    <Longitude>-0.1239659</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/16/05/7/16057-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>19214</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/16/05/7/16057-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2652</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel is a beautiful new townhouse property wonderfully located in London's Bloomsbury; just minutes away from the British Museum and Russell Square and Holborn stations. An elegantly restored Georgian townhouse, it provides an intimate and inviting setting for its exclusive luxury studios and suites, all designed to ensure the utmost comfort.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

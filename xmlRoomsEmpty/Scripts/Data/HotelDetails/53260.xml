@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53260</Id>
+  <Name>Charing Cross Hotel</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>THE STRAND LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>WC2N 5HX</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-871-3769012</Tel>
+    <Fax>44-871-3769112</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5088626</Latitude>
+    <Longitude>-0.1250601</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Exterior_1.JPG</Url>
+    <Width>267</Width>
+    <Height>360</Height>
+    <Bytes>41559</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2069</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Bedroom_1.JPG</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>26547</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1797</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Bedroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>12122</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Bedroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1841</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Bar_1.JPG</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>35083</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Bar_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2131</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Conference_facilities_1.JPG</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>37633</Bytes>
+    <Caption>Conference facilities</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Conference_facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2095</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>27285</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2211</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Banqueting_facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>27754</Bytes>
+    <Caption>Banqueting facilities</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Banqueting_facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2231</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>23089</Bytes>
+    <Caption>Lounge</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2179</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Gym_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>30585</Bytes>
+    <Caption>Gym</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Gym_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2462</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>24794</Bytes>
+    <Caption>Lounge</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2219</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THI5hotel_Bedroom_3.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>12122</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-THI5hotel_Bedroom_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1841</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel benefits from a very central location, within easy reach of every major attraction that the city has to offer. (06/07RP)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Situated on the Strand adjacent to Charing Cross mainline and underground stations, the hotel is just a few minutes’ walk from Trafalgar Square, the Tate Gallery, Covent Garden, and Piccadilly Circus. All of the capital's attractions are easily reached from this most central point.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The large rooms are fully air conditioned and totally renovated. They are modern in design and have been furnished in light woods and pale colours. All rooms have full facilities, trouser press, iron and ironing board.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel has undergone major refurbishment in recent years. It is a traditional Victorian railway building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The small restaurant is very pleasantly furnished and has good views of the river. A selection of good quality cuisine is served.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby has been totally refurbished and is fully air conditioned.</Text>
+  </Description>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

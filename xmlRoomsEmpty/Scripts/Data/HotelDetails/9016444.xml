@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9016444</Id>
+  <Name>Fairmont The Palm</Name>
+  <Region>
+    <Id>9043419</Id>
+    <Name>Jumeirah / Marina / Palm</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Palm Jumeirah</Address1>
+    <Address2>Media City</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>72413</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-4573388</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>381</CountRooms>
+    <CountFloors>1</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/FY4front.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/FY4thumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1979</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/FY4bed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/FY4thumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1835</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/FY4map.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/FY4thumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1581</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Fairmont the Palm, Dubai is a prestigious 5-star hotel offering elegant accommodation in southwest Dubai. Highlights include gourmet dining, four swimming pools, a private beach, luxury spa and a privileged location on the Palm Jumeirah. The Palm Jumeirah is an artificial archipelago in the Persian Gulf, home to numerous luxury hotels, resorts and restaurants. The surrounding waters offer excellent scuba diving opportunities, in part thanks to the many (often deliberately sunk) wrecks. It is connected by monorail to the mainland at Dubai Marina. The hotel is housed in a contemporary mid-rise building with an elegant facade featuring terraces and balconies on every floor. Facilities include a private beach, four outdoor swimming pools with ocean views and a gym with daily exercise classes. There is also a luxury spa with steam rooms, saunas, a beauty salon and treatment rooms. A range of watersports are available on request. Free Wi-Fi is available throughout the premises. Fairmont Family (Palm View) Rooms are spacious and decorated in an elegant style with bright colours. They feature a sitting area with an armchair and footstool and a balcony with views of Palm Jumeirah. Amenities include air-conditioning, a Nespresso coffee machine, a flat-screen cable/satellite TV, safe and mini-bar. The marble en-suite bathrooms feature a bathtub, separate walk-in shower, bathrobes and slippers. Seagrill on 25 Restaurant &amp; Lounge offers grilled seafood, light dishes and Mediterranean wines in a bright modern space with floor-to-ceiling windows and doors leading out onto a terrace overlooking the Arabian Gulf. Frevo serves Brazilian cuisine in a modern dining room, whilst Flow Kitchen offers Middle Eastern, Asian and Mediterranean cuisine in a casual setting. Guests can also enjoy a range of malt whiskies and bourbons in The Cigar Room which features brown leather sofas and a wood floor. The Mashrabiya Lounge serves a delicious range of sweet and savoury treats inspired by classic British recipes in a relaxed and elegant setting. Free parking is possible onsite. The hotel provides 24-hour reception and room service.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

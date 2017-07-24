@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250728</Id>
+  <Name>Karnmanee Palace</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1 Pradiphat Road</Address1>
+    <Address2>Phayathai District</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(662) 618-6977-82</Tel>
+    <Fax>(662) 618-6976</Fax>
+    <Email>karnmaneeht@hotmail.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.791572</Latitude>
+    <Longitude>100.542138</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8975</Bytes>
+    <Caption>karnmanee_palace-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2390</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11755</Bytes>
+    <Caption>karnmanee_palace-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2717</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8600</Bytes>
+    <Caption>karnmanee_palace-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2175</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11059</Bytes>
+    <Caption>karnmanee_palace-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2433</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/35/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/35/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8548</Bytes>
+    <Caption>karnmanee_palace-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2319</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7201</Bytes>
+    <Caption>karnmanee_palace-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/35/karnmanee_palace-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2033</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The  Karnmanee Palace Hotel is located in the heart of Bangkok most exciting business, entertainment and shopping area. Only 20 minutes away from the Airport and near the central business district, easy access to other tourist and local attractions</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>695996</Id>
+  <Name>Murray Hill Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>143 East 30th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State />
+    <Zip>10016</Zip>
+    <Country>United States</Country>
+    <Tel>001 212 683 6900</Tel>
+    <Fax>0012125450103</Fax>
+    <Email>murrayhillinn@nyinns.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.7435242</Latitude>
+    <Longitude>-73.9807206</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17382_1.JPG</Url>
+    <Width>400</Width>
+    <Height>486</Height>
+    <Bytes>38142</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17382Thumb_1.jpg</ThumbnailUrl>
+    <ThumbnailWidth>58</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1898</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17382_2.JPG</Url>
+    <Width>400</Width>
+    <Height>278</Height>
+    <Bytes>32889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17382Thumb_2.jpg</ThumbnailUrl>
+    <ThumbnailWidth>101</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2499</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17382_3.JPG</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>28613</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17382Thumb_3.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2406</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17382_4.JPG</Url>
+    <Width>400</Width>
+    <Height>548</Height>
+    <Bytes>40737</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17382Thumb_4.jpg</ThumbnailUrl>
+    <ThumbnailWidth>51</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1609</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17382_5.JPG</Url>
+    <Width>400</Width>
+    <Height>442</Height>
+    <Bytes>26772</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17382Thumb_5.jpg</ThumbnailUrl>
+    <ThumbnailWidth>63</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1733</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17382_6.JPG</Url>
+    <Width>400</Width>
+    <Height>537</Height>
+    <Bytes>35284</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17382Thumb_6.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1637</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17382_7.JPG</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>25578</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17382Thumb_7.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2254</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17382_8.JPG</Url>
+    <Width>400</Width>
+    <Height>645</Height>
+    <Bytes>33112</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17382Thumb_8.jpg</ThumbnailUrl>
+    <ThumbnailWidth>43</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1492</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located in the heart of New York City, the Murray Hill Inn features all the amenities that you would find in a first-class hotel at a fraction of the price. The hotel is within easy walking distance of the Empire State Building, Macy`s, 34th Street`s Herald Square Shops &amp; Malls, Madison Square Garden, Penn Station, Grand Central Station, United Nations, and trendy night spots and famous restaurants. The Murray Hill Inn is a Friendly home away from home.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

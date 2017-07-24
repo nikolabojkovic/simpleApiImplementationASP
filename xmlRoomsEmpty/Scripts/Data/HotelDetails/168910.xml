@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>168910</Id>
+  <Name>Inn Come Suite Bangkok</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>LLADPRAO 112, WANGTHONGLANG 48/69</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10310</Zip>
+    <Country>THAILAND</Country>
+    <Tel>006629352455</Tel>
+    <Fax>006629319385</Fax>
+    <Email>INNCOMESUITE@MSN.COM</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.771107</Latitude>
+    <Longitude>100.619992</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/85/04/2/85042-COM-3.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>17272</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1047/85/04/2/85042-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2829</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/85/04/2/85042-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>9288</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/85/04/2/85042-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2107</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/85/04/2/85042-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>12236</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/85/04/2/85042-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2046</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/85/04/2/85042-RES-4.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>18596</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1047/85/04/2/85042-RES-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2974</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>In a land of gracious hospitality, rich culture, fabulous shopping and vibrant entertainment, guests will find an especially warm welcome at this hotel and a host of facilities and features making their stay even more memorable. The hotel houses a reception and guests can also make use of the on-site restaurant and 24-hour room service.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Massage</Code>
+    <Text>Massage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

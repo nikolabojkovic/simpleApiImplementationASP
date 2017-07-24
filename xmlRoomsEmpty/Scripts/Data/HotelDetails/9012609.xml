@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012609</Id>
+  <Name>Buddy Riverside Pakkred</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>17/56 MOO 7 SUKHAPRACHASAN 2 BANGPOOD PAKKRED NONTHABURI 11120 THAILAND</Address1>
+    <Address2>Muangthong Thani</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>11120</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 6602-5842222</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>83</CountRooms>
+    <CountFloors>3</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/45/18/55/451855-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>4775</Bytes>
+    <Caption>451855-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/45/18/55/451855-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1392</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/45/18/55/451855-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5009</Bytes>
+    <Caption>451855-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/45/18/55/451855-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1444</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/45/18/55/451855-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5568</Bytes>
+    <Caption>451855-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/45/18/55/451855-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1595</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/45/18/55/451855-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6109</Bytes>
+    <Caption>451855-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/45/18/55/451855-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1686</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/45/18/55/451855-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6447</Bytes>
+    <Caption>451855-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/45/18/55/451855-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1761</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Buddy Riverside Pakkred is a Tourist, Family Style, All Suite, Honeymoon, Colonial Style, Full Service, Child Friendly, Eco Friendly hotel. Located in City Suburb - Pakkred area. Shopping is accessible by bus/taxi and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>A magnificent place creates a rich heaven of arts, culture and history reflecting back to the Royal Thai Kingdom. Buddy Oriental Riverside Pakkred, the newest property from the Buddy Group Hotels &amp; Resorts, is perfectly located in Nonthaburi, a principally historical area in Thailand. This latest development scheme will deliver a luxury hotel by Chao Phraya River with 83 rooms, 2 function rooms with 300-participant capacity, Italian Restaurant, Fitness Center, Swimming Pool and Spa and Model of Phra Sumen Fort named Sirichaopraya Fort (ป้อมสิริเจ้าพระยา) which is a signature of the property. The new hotel is designed to blend with a showcase of art collections and ornamental treasures</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250981</Id>
+  <Name>Regent Ramkhamhaeng and Apartment</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>4 Soi Ramkhamhaeng 22 Ramkhamhaeng Road</Address1>
+    <Address2>Kwang Huamark</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2318 - 4444</Tel>
+    <Fax>(66) 2318 - 0536</Fax>
+    <Email>regent@regentthailand.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.754006</Latitude>
+    <Longitude>100.613512</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>13947</Bytes>
+    <Caption>regent_ramkhamhaeng_and_apartment-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3007</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11906</Bytes>
+    <Caption>regent_ramkhamhaeng_and_apartment-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2642</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-general2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10492</Bytes>
+    <Caption>regent_ramkhamhaeng_and_apartment-general2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-general2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2421</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>12126</Bytes>
+    <Caption>regent_ramkhamhaeng_and_apartment-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2847</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>4203</Bytes>
+    <Caption>regent_ramkhamhaeng_and_apartment-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2170</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>5724</Bytes>
+    <Caption>regent_ramkhamhaeng_and_apartment-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/17/18/regent_ramkhamhaeng_and_apartment-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1815</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Regent Ramkhamhaeng is a first class serviced apartment and hotel. It is located near Assumption University, Bangkok International Trade and Exhibition Centre (BITEC), and a gymnasium. The hotel is 30 minutes away from Suvarnabhumi Airport and 30 minutes away from business centre, Silom and Sukhumvit.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

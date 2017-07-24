@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>695999</Id>
+  <Name>The Amsterdam Inn</Name>
+  <Region>
+    <Id>64381</Id>
+    <Name>Upper West Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>340 Amsterdam Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State />
+    <Zip>10024</Zip>
+    <Country>United States</Country>
+    <Tel>001 212 579 7500</Tel>
+    <Fax>0012125796127</Fax>
+    <Email>amsterdaminn@nyinns.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.781419</Latitude>
+    <Longitude>-73.979965</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17393_1.JPG</Url>
+    <Width>400</Width>
+    <Height>613</Height>
+    <Bytes>57219</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17393Thumb_1.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1555</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17393_2.JPG</Url>
+    <Width>400</Width>
+    <Height>539</Height>
+    <Bytes>46909</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17393Thumb_2.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1811</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17393_3.JPG</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>34047</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17393Thumb_3.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2276</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17393_4.JPG</Url>
+    <Width>400</Width>
+    <Height>343</Height>
+    <Bytes>41100</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17393Thumb_4.jpg</ThumbnailUrl>
+    <ThumbnailWidth>82</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2352</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17393_5.JPG</Url>
+    <Width>400</Width>
+    <Height>271</Height>
+    <Bytes>19522</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17393Thumb_5.jpg</ThumbnailUrl>
+    <ThumbnailWidth>103</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2420</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17393_6.JPG</Url>
+    <Width>400</Width>
+    <Height>298</Height>
+    <Bytes>20424</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17393Thumb_6.jpg</ThumbnailUrl>
+    <ThumbnailWidth>94</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1973</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17393_7.JPG</Url>
+    <Width>400</Width>
+    <Height>291</Height>
+    <Bytes>25074</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17393Thumb_7.jpg</ThumbnailUrl>
+    <ThumbnailWidth>96</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2115</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17393_8.JPG</Url>
+    <Width>400</Width>
+    <Height>556</Height>
+    <Bytes>26804</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17393Thumb_8.jpg</ThumbnailUrl>
+    <ThumbnailWidth>50</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1443</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Amsterdam Inn Manhattan offers you the comforts of a home away from home and prides itself in offering a great place to stay on New York`s Upper Westside. Just a short walk to Central Park, Strawberry Fields, Museum of Natural History, Broadway, Lincoln Centre and Metropolitan Opera, Fordham University and Julliard School, many museums, night spots and restaurants, The Amsterdam Inn is close to everything people love about New York City. The Amsterdam Inn rooms have been newly renovated with kitchenettes and comfortable accommodations. The bathrooms have been redesigned with Italian tiles and basins.&lt;br&gt;&lt;b&gt;Please kindly note that maximum stay per booking is 7 nights!</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

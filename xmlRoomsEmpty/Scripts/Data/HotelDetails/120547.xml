@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120547</Id>
+  <Name>Menzies Strathmore Luton</Name>
+  <Region>
+    <Id>52894</Id>
+    <Name>Luton </Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>The Mall</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bedfordshire</City>
+    <State />
+    <Zip>LU1 2TR</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>08703339138</Tel>
+    <Fax>01582402528/44</Fax>
+    <Email>strathmore.reservations@menzieshotels.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.8789118</Latitude>
+    <Longitude>-0.4139271</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LTN-MENhotel_Lobby_1.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LTN-MENhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LTN-MENhotel_Lobby_2.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LTN-MENhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LTN-MENhotel_Swimming_Pool_1.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LTN-MENhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LTN-MENhotel_Meeting_Room_1.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LTN-MENhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LTN-MENhotel_Restaurant_1.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LTN-MENhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel is fully equipped to hold inhouse conferences, exhibitions, seminars and private functions. Facilities also include a leisure club with swimming pool, sauna and jacuzzi.  (DB 02/09)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in the centre of Luton within easy and quick reach of the airport.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All of the bedrooms are furnished to a very high standard and are equipped with full facilities including en-suite Bathroom, satellite T.V and tea/coffee making facilities.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a very modern purpose built building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel restaurant is very bright and modern and has a cocktail bar that is a little more informal. There is also a French bistro and an additional bar.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The reception area is large and spacious with pillars and marble floors. The lobby offers a large seating area.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndoorPool</Code>
+    <Text>Indoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HeatedPool</Code>
+    <Text>Heated Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Massage</Code>
+    <Text>Massage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

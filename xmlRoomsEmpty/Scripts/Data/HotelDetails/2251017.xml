@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2251017</Id>
+  <Name>Gulliver s Tavern</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>6/1 Sukumvit Soi 5</Address1>
+    <Address2>Wattana</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2655 - 7312 - 14</Tel>
+    <Fax>(66) 2655 - 7315</Fax>
+    <Email>info@gulliverhotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.743585</Latitude>
+    <Longitude>100.554867</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10248</Bytes>
+    <Caption>gulliver_s_tavern-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2435</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9501</Bytes>
+    <Caption>gulliver_s_tavern-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2293</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10334</Bytes>
+    <Caption>gulliver_s_tavern-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2574</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>2252</Bytes>
+    <Caption>gulliver_s_tavern-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1314</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6772</Bytes>
+    <Caption>gulliver_s_tavern-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/11/87/gulliver_s_tavern-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2036</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Gulliver s Hotel is a brand new boutique hotel conveniently located in Bangkoks trendy Sukhumvit area. Offering modern and clean rooms and amenities, Gulliver Hotel provides business people, expatriates and tourists a home away from home at affordable prices.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250723</Id>
+  <Name>Mystic Place Rooms in Bangkok</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>224/5-9, 224/11-18,</Address1>
+    <Address2>Pradipat Rd.</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>+66 2270 3344 ext: 111</Tel>
+    <Fax>+66 2270 3359</Fax>
+    <Email>nontiya@mysticplacebkk.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.790113</Latitude>
+    <Longitude>100.545309</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/09/05/mystic_place_rooms_in_bangkok-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7453</Bytes>
+    <Caption>mystic_place_rooms_in_bangkok-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/09/05/mystic_place_rooms_in_bangkok-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2119</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/09/05/mystic_place_rooms_in_bangkok-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>7702</Bytes>
+    <Caption>mystic_place_rooms_in_bangkok-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/09/05/mystic_place_rooms_in_bangkok-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3750</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/09/05/mystic_place_rooms_in_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>15664</Bytes>
+    <Caption>mystic_place_rooms_in_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/09/05/mystic_place_rooms_in_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3084</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Our boutique concept is to integrate artistic expression and comfortable living together as one creating a colorful, fun, chic and unforgettable experience for everyone. Each room reflects and has been inspired by the designing artist is individualistic creativity and soul.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

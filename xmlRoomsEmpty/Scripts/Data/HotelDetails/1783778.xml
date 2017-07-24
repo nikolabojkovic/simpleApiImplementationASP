@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1783778</Id>
+  <Name>Belgravia Mews Hotel</Name>
+  <Region>
+    <Id>52928</Id>
+    <Name>Westminster &amp; Victoria </Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>50 Ebury Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW1W 0LU</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044 (0)2077305434</Tel>
+    <Fax>0044 (0)2077300008</Fax>
+    <Email>wontacceptpending@travco.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4952421</Latitude>
+    <Longitude>-0.1481794</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-97hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>297</Height>
+    <Bytes>20611</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-97hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2197</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-97hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>296</Height>
+    <Bytes>18880</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-97hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2214</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-97hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>23666</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-97hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2656</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-97hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>229</Height>
+    <Bytes>15697</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-97hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2297</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Belgravia Mews Hotel is situated in the heart of central London on Ebury Street close to Victoria Station, and many of London's top attractions.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Belgravia Mews Hotel offers boutique styled contemporary and guest accommodations in central London. Situated in the Belgravia in the heart of central London, the hotel is well located for many of London's top attractions.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>An elegant London Town House building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The stylish area of Belgravia is situated in the districts of Kensington and Chelsea in London. These appealing areas are filled with great shopping, tempting restaurants and vibrant bars.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Welcoming small lobby area.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

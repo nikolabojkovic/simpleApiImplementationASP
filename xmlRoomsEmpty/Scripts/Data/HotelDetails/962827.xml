@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>962827</Id>
+  <Name>Sheraton Russell - Condominium</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>45 Park Avenue</Address1>
+    <Address2>New York</Address2>
+    <Address3 />
+    <City>New York-Ny</City>
+    <State />
+    <Zip>Ny 10016</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>212 685 7676</Tel>
+    <Fax>212 889 3193</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7486562</Latitude>
+    <Longitude>-73.9798207</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This hotel is located within the city of New York.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

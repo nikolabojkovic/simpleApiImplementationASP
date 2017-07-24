@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>160863</Id>
+  <Name>Custom Hotel</Name>
+  <Region>
+    <Id>21627</Id>
+    <Name>Airport (LAX)</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>8639 LINCOLN BOULEVARD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LOS ANGELES</City>
+    <State />
+    <Zip>90045</Zip>
+    <Country>USA</Country>
+    <Tel>310-645-0400</Tel>
+    <Fax>310-645-0700</Fax>
+    <Email>reservations@customhotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>33.95864</Latitude>
+    <Longitude>-118.418903</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-CUShotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>132</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-CUShotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-CUShotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-CUShotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-CUShotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-CUShotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-CUShotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-CUShotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A hip, contemporary Los Angeles boutique hotel within minutes of LAX and the beach towns of Santa Monica, Venice, Marina del Rey and Manhattan Beach. The Hotel is a place where design is accessible and playfully refreshing, and a warm sense of hospitality and community prevails. The hotel is pet-friendly</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This boutique hotel is located about 3miles from Los Angeles Airport, 3 miles from Marina Del Rey, and 6 miles from Santa Monica. The Hotel is 20-30 minutes from Beverly Hills, Hollywood and Downtown Los Angeles</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Deluxe guest rooms have king, queen or two double beds and located on floors 2 to 9. All guest rooms are non-smoking. They feature classic and custom designed furnishings including a signature bed with Percale Italian linen, Egyptian cotton bath towels, complimentary wireless internet access, flat screen LCD TV's sound proof windows, stereo with IPOD docking station, Laptop sized cafe, iron and ironing board, mini bar.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Hotel is modern contemporary aesthetic building with 12 floors</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Hotel has a full service restaurant onsite serving American cuisine and is open for breakfast, lunch  and dinner. There is also a Pool bar and Grill.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The Lobby lounge is of medium size and the perfect location for the sheer relaxation for the guests to enjoy with furnishing collected and custom designed as if in their own personal living room. Nightly entertainment with live DJ's</Text>
+  </Description>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

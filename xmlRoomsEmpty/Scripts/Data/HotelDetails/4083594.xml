@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4083594</Id>
+  <Name>Trump Soho</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>246 SPRING ST</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK, NY 10013</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-8425500</Tel>
+    <Fax>1-212-8425501</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>40.7254704</Latitude>
+    <Longitude>-74.0054756</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>276</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>335</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Swimming_Pool_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>290</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>274</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-TRU4hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>214</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-TRU4hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Appreciate Handel Architects' shimmering glass facade that establishes a new paradigm in innovative design, making Trump SoHo  Hotel Condominium a breathtaking addition to Manhattan's iconic skyline. The 391 spacious guestrooms and suites feature floor-to-ceiling windows, providing unrivalled views of the city's spectacular skyline and the Hudson River.  And with just 12 rooms per floor, Trump SoHo  maintains an intimate boutique ambiance of sophistication and indulgence. RELAX with unparalleled pampering and the most indulgent treatments imaginable at The Spa at Trump , the award-winning spa brand of the Trump Hotel Collection.   Designed by DiGuiseppe Architect, the Spa by Trump  is an 11,000 sq ft serene and sensuous space, offering nine private treatment rooms, salon services, indoor and outdoor relaxation areas, and the first authentic luxury hammams in New York City. MEET your clients and colleagues in 12,000 square feet of stylish and technologically sophisticated meeting space, able to accommodate your special events needs from boardroom to ballroom. ENTERTAIN in spectacular style at SoHi, the top floor private events space with a unique ambiance and views that will take your breath away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Stroll through SoHo's charming cobbled-stone streets with the highest concentration of ornamental cast-iron architecture in the world, a bustling cafe culture and a vibrant street art scene. Discover new treasures for your collection in this world-renowned artists' enclave, with the New Museum of Contemporary Art on the Bowery, the Deitch Projects gallery on Grand Street, the SoHo Photo Gallery on White Street and Guild &amp; Greyshkul on Wooster Street. Celebrate independent film at the Angelika Film Center and during the Tribeca Film Festival, or browse the Taschen and the MoMA stores for excellent collections of art and design books.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>DINE on impeccably-sourced produce and authentic Northern Italian artisanal cuisine at Quattro Gastronomia Italiana, Trump SoHo's  bi-level destination restaurant, with private dining rooms on the mezzanine level.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

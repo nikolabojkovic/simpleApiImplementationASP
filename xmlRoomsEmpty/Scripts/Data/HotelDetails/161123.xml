@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>161123</Id>
+  <Name>Bryant Park Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>40 WEST 40TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10018</Zip>
+    <Country>USA</Country>
+    <Tel>2128690100</Tel>
+    <Fax>7027969007</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>129</CountRooms>
+    <CountFloors>25</CountFloors>
+    <Latitude>40.7529606</Latitude>
+    <Longitude>-73.9837602</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/87/75/6/87756-GEN-1.jpg</Url>
+    <Width>245</Width>
+    <Height>300</Height>
+    <Bytes>25247</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/87/75/6/87756-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>57</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1991</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/87/75/6/87756-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>206</Height>
+    <Bytes>10727</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/87/75/6/87756-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>108</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2290</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/87/75/6/87756-HAB-7.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>7874</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/87/75/6/87756-HAB-7thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1845</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/87/75/6/87756-HAB-8.jpg</Url>
+    <Width>259</Width>
+    <Height>320</Height>
+    <Bytes>11373</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/87/75/6/87756-HAB-8thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>56</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1480</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Bryant Park is Situated across West 40th Street from Bryant Park/New York Public Library, this Midtown South hotel lies a half-block from the Garment District (west) and Fifth Avenue (east). Across the street, leafy Bryant Park features an old-fashioned carouselm a restaurant with umbrella-table seating. Bryant Park's Cellar Bar attracts fashionably dressed Manhattanites for after-work and evening socializing and features vaulted brick ceilings, leather banquettes, serving staff dressed in corsets, and DJ or recorded music.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Empire State Building.
+• Statue Of Liberty.
+• Apollo Theater.
+• Carnegie Hall.
+• Cathedral St. John The Divine.
+• Central Park.
+• Chrysler Building.
+• NY Vietnam Veterans Memorial.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Bryant Park hotel offers 128 guestrooms in the historic, 25-story American Radiator Building, a Gothic-revival structure featuring gilt exterior details whose interior was transformed into a casual, contemporary hotel featuring bold colors and stark-white hallways.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Shopping Center Nearby.
+• Restaurant.
+• Fitness Center.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• All Major credit cards are accepted</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• La Guardia International Airport (LGA):- Driving Time is 25 Minutes , Distance is 7 Miles.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Restaurant :-
+• Cellar Bar - Bar-food menu. Open nightly.
+• Koi - Minimalist decor and pan-Asian dining.
+
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,276 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120610</Id>
+  <Name>Kingsway Hall</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>66 GREAT QUEEN STREET</Address1>
+    <Address2>Covent Garden</Address2>
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>WC2B 5BX</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>020 73090909</Tel>
+    <Fax>020 73099696</Fax>
+    <Email>reservations@kingswayhall.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5155173</Latitude>
+    <Longitude>-0.1210652</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-kingsway-front_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4244</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-kingsway-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2199</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-kingsway-fitness.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8488</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-kingsway-fitness.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1982</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-dining0001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-dining0001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2137</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-kingsway-hall-lobby2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7971</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-kingsway-hall-lobby2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1863</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-kingsway-whirl.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7127</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-kingsway-whirl.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1664</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9013</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2124</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-room00003.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6876</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-room00003.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1791</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-room0002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7606</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-room0002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1856</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-room0001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7416</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-room0001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1794</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel5437-kingsway-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>25513</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel5437-kingsway-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2351</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Kingsway Hall is a Hotel of elegance located in the heart of London. This fully air-conditioned property is situated in Covent Garden, a few minutes away from Waterloo train station; it is within easy access to London's main attractions, like the British Museum, the London Eye, and Oxford Street. If you want to spend a night out in the city this is an ideal location since it is in the heart of Theatre Land and with a wide range of the best restaurants to choose from. The hotel is excellently located if you want to do business with easy access to the city. It also offers nine conference rooms and suites with audio-visual equipment. If you prefer to stay in the hotel you can enjoy the fitness centre and the Jacuzzi and steam rooms.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MobilePhoneNetwork</Code>
+    <Text>Mobile Phone Network</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MedicalService</Code>
+    <Text>Medical Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

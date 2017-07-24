@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>195420</Id>
+  <Name>Dream Palace Hotel</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Al Muraqabat</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>82777</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+ 971 4 222 9292</Tel>
+    <Fax>+ 971 4 222 7779</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>25.267974</Latitude>
+    <Longitude>55.321795</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212134-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4517</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212134-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2387</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212134-room6.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6352</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212134-room6.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1675</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212134-dining1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9186</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212134-dining1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2063</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212134-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12526</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212134-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2275</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212134-room5.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6722</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212134-room5.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1676</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212134-recreation1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8195</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212134-recreation1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1955</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212134-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8685</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212134-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1990</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212134-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6743</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212134-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1700</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1896823</Id>
+  <Name>Egerton House</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>17-19 Egerton Terrace; Knightsbridge</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW3 2BX</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 207 589 2412</Tel>
+    <Fax>+44 207 584 6540</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>28</CountRooms>
+    <Latitude>51.4968919</Latitude>
+    <Longitude>-0.1679175</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2700</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2696</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8833</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2001</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8907</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2007</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-dining1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8648</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-dining1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1924</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8627</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1840</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11580</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2118</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-tea.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13015</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-tea.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2261</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13570</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2325</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8551</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1869</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7072</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1663</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9010</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1932</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231795-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9719</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231795-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2035</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Knightsbridge and South Kensington are the nearest Underground stations, on the Piccadilly Line from London Heathrow. Guests have full access from motorways from airports and train stations and into the West End within minutes by car, taxi and public transport.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The elegant award-winning Victorian boutique townhouse features stylish decor, with fine fabrics, original art and handpicked antique furniture. The hotel was built in 1880 and comprises a total of 28 guest rooms. With warm and personable service that cannot be matched, guests feel more like friends when they stay at this hotel. The air-conditioned property welcomes guests in a lobby with 24-hour reception and check-out service. Facilities on offer to guests include a hotel safe, currency exchange facilities, a cloakroom, lift access and a newspaper stand. Meals may be taken in the breakfast/dining room. In addition, WLAN Internet access, 24-hour room service, a laundry service and a car park (for a fee) are at guests' disposal.</Text>
+  </Description>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>153386</Id>
+  <Name>Olympia</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>49 Earl's Court Square</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW5 9BY</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044(0) 207 370 3419</Tel>
+    <Fax>0044(0) 207 373 0034</Fax>
+    <Email>info@hotelolympia.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4896585</Latitude>
+    <Longitude>-0.1943281</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/OLYfront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/OLYthumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1917</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/OLYbed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/OLYthumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1522</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/OLYmap.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/OLYthumbmap.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1720</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Hotel Olympia is Located near all the Major attraction in London, We are within walking distance of Science Museum, Natural History Museum, Royal Albert Hall, Hyde Park, the heart of theatre land, the Olympia and Earl's Court Exhibition Halls, The Knightsbridge shopping stores are also a short walk way. situated on Earls Court square of Warwick road, Which is in the borough of Kensington and Chelsea, conveniently placed in the heart of London. Each room is equipped with telephone and Local television, giving you the up-to-date news, sports and local information. Every room has been thoughtfully decorated to give a fresh and warm relaxing atmosphere to give you that 'home away from home' feeling. We Welcome guests from all over the world, and our multi-lingual staff would assure best services to make our foreign guests feel at home. We at Hotel Olympia have rooms to accommodate all types of customer's according to their budget.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DataPorts</Code>
+    <Text>Data ports</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

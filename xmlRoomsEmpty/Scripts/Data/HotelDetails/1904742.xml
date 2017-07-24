@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1904742</Id>
+  <Name>Hampton Inn Los Angeles-Santa Clarita</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>25259 The Old Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Santa Clarita</City>
+    <State>California</State>
+    <Zip>91381</Zip>
+    <Country>USA</Country>
+    <Tel>1-661-253-2400</Tel>
+    <Fax>1-661-253-1683</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>34.376475</Latitude>
+    <Longitude>-118.56595</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nAccessible to many local attractions\nBeautiful views and exceptional service\nLocation\nPerfectly located in beautiful Santa Clarita\nShopping area is just minutes away\nMajor attractions are nearby\nLocal Attractions\nCity entertainment in close proximity\nRecreation\nFully equipped fitness center\nOutdoor swimming pool\nRestaurants &amp; Lounges\nBreakfast Room\nNearby restaurant\nServices\nRoom service\nBusiness services available at front desk\nMeeting Facilities\nFully equipped business center\nAccommodations\nClassic accommodations\nComfortable rooms</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The classic blend of city excitement and hotel entertainment; Hampton Inn Los Angeles-Santa Clarita is your prime choice of accommodations</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>63128</Id>
+  <Name>Paris Las Vegas</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3655 LAS VEGAS BLVD. SOUTH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas 89109</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>(877) 796-2096</Tel>
+    <Fax>1-702-9673807</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>36.1117119</Latitude>
+    <Longitude>-115.1711583</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>275</Height>
+    <Bytes>34794</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2787</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26114</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2827</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>286</Height>
+    <Bytes>31361</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2689</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>238</Height>
+    <Bytes>31149</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3056</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>38031</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3133</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>276</Height>
+    <Bytes>26897</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2484</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20998</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2293</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Restaurant_4.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>31134</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3065</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Restaurant_5.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>20486</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2294</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Swimming_Pool_2.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>22045</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2025</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Guest_Room_3.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>32557</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3241</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>300</Height>
+    <Bytes>29079</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2344</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Restaurant_6.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>31015</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Restaurant_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3273</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-PARhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>30695</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-PARhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3184</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>For Guests that choose the hotels Room and Breakfast Package, the hotel?s Continental Breakfast is for a maximum of two breakfast's per room (single occupancy rooms will receive one breakfast only) and operates as follows: Guests staying at Paris can enjoy breakfast at Java Detour.  Breakfast includes guest?s choice of coffee or tea, muffin and yogurt.  If they would prefer a different breakfast option at Java Detour, they will receive a $9.00 credit to order what they please.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is conveniently located in the heart of the Strip. Adjacent hotels include Bally’s and Aladdin, while Bellagio is across the street.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Guest rooms are elegantly furnished and decorated in European style. Each room  is appointed with custom European furniture, rich fabrics, marble bathrooms featuring a separate shower and tub. Armoires are beautifully crafted and provide ample closet space, plus all of the amenities you would expect in a 4-star hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a 34 story tower, fashioned after the historic Hotel De Ville in Paris France. The property offers authentic replicas of famous Paris landmarks including a 50 story half scale replica of the Eiffel Tower, Arc de Triumphe, Louvre and the Paris Opera House.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has 10 French-inspired restaurants. Dining options range from a signature dining experience, 17 stories above the Las Vegas strip, in the replica Parisian landmark of the Eiffel Tower. Mon Ami Gabi, is a charming French bistro with al fresco dining on the Strip . Les Artistes Steakhouse, often called the most beautiful dining room in Las Vegas because of its Impressionist art and opulent surroundings.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The large lobby features marbled floors, a seating area and numerous chandeliers.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>34</Rank>
+</HotelElement>

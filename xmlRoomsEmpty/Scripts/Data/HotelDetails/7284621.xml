@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7284621</Id>
+  <Name>Best Western Plus Grand Howard</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>50 Charoen-Raj Road; Bangkhlo; Bangkorleam</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10120</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2213 3100</Tel>
+    <Fax>+66 2213 3123</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.702051</Latitude>
+    <Longitude>100.515933</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1277191-photo-not-available-small.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>1454</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1277191-photo-not-available-small.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1454</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Accommodations\nDeluxe accommodations\nPunch Line\nClose to major attractions and city excitement, we invite you to be our guest\nCome experience the unique atmosphere of this trendy hotel.\nPolicies\nPlease note all early departures will be assessed room/tax for their entire stay\nLate check in or check out - please contact the hotel\n</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>4 star accommodations A unique culture experience Beautiful  views and exceptional service Close proximity to major attractions Onsite restaurant Business during the day and city excitement at night awaits your arrival</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

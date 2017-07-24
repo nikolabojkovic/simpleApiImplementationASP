@@ -1,0 +1,386 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>160786</Id>
+  <Name>Palms Place Hotel and Spa</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4381 W. FLAMINGO ROAD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State />
+    <Zip>89103</Zip>
+    <Country>USA</Country>
+    <Tel>702-942-7777</Tel>
+    <Fax>702-942-7024</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>36.114209</Latitude>
+    <Longitude>-115.198798</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-main0000000001_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3799</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-main0000000001_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2066</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8792</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2083</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-dining2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11090</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-dining2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2314</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-dining3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10367</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-dining3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2231</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-hamam.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8007</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-hamam.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1643</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-hottub.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7719</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-hottub.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1778</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-main0000000001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9395</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-main0000000001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2008</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8893</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2145</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-pool2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8585</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-pool2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2024</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7117</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1945</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-salon.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7428</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-salon.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1889</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-spa.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6489</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-spa.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1951</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-spa2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6007</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-spa2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1797</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1218795-spa3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7174</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1218795-spa3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1756</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Palms Place Hotel &amp; Spa is a 4-star property offering contemporary accommodation, a wide range of modern hotel facilities, dazzling entertainment and spicy nightlife and a fantastic location just a few blocks from the Las Vegas strip and the famed Bellagio Casino. The hotel is situated on Flamingo Road, mere blocks from the Las Vegas Strip and famous attractions including the Bellagio Casino and the Palazzo Shopping Centre. The hotel is also within close proximity of Las Vegas McCarran International airport and the Bali Hai Golf Club. The hotel resides in a modern high-rise and is connected to its sister hotel, the Palms Casino Resort via an enclosed, motorized walkway. Onsite facilities include a fully-equipped health and fitness centre complete with a number of treatment rooms offering beauty and relaxation therapies and massages, a seasonal outdoor swimming pool, a gaming and shopping arcade, casino and a multitude of bars, clubs and dining areas. The hotel offers extensive dining opportunities and cuisine to suite all tastes and budgets. From the celebrity hot-spot steakhouse and sophisticated Italian dining room, to Asian delicacies and delectable seafood, there is something to please all palates. In addition, the hotel features a food court for fast food on the go, a variety of clubs and bars and a relaxing lounge.1-Bedroom Suite is highly stylish with fabulous features including a luxurious king-sized bed with pillow-top mattress and Italian bedding. The room also includes a laundry closet with washer and dryer, in-room safe and hardwood and marble flooring throughout.
+
+***Please note that there is a mandatory resort fee payable directly to the hotel upon arrival at the rate of 20 USD plus tax per room per night. Resort fee includes complimentary Internet access throughout stay, Cardio Center access, a shuttle service to and from Fashion Show Mall, unlimited local and toll-free calls, a daily newspaper and 2-for-1 drinks at any onsite Casino bar or Rojo Lounge during stay. (Not per day) ***</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Whirlpool</Code>
+    <Text>Whirlpool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndoorPool</Code>
+    <Text>Indoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DiscoClub</Code>
+    <Text>Disco / Club</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Theatre</Code>
+    <Text>Theatre</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Casino</Code>
+    <Text>Casino</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DiningRoom</Code>
+    <Text>Dining Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Garage</Code>
+    <Text>Garage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FreshWaterPool</Code>
+    <Text>Fresh Water Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SunLounge</Code>
+    <Text>SunLounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parasol</Code>
+    <Text>Parasol</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SunBathingTerrace</Code>
+    <Text>Sun Bathing Terrace</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Balcony</Code>
+    <Text>Balcony</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

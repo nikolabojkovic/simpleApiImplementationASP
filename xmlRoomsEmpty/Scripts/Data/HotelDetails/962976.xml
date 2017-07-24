@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>962976</Id>
+  <Name>Radio City Apartments</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>142 West  49th Street</Address1>
+    <Address2>New York  New York</Address2>
+    <Address3 />
+    <City>New York-Ny</City>
+    <State />
+    <Zip>10019</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 212 730 0728</Tel>
+    <Fax>+1 212 921 0572</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7601144</Latitude>
+    <Longitude>-73.9828995</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160600_0.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>27944</Bytes>
+    <Caption>Exterior view</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160600_0thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>19250</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160600_1.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>21451</Bytes>
+    <Caption>Exterior view</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160600_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>19814</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160600_2.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>18273</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160600_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>19553</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160600_3.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>14440</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160600_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>14467</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160600_4.jpg</Url>
+    <Width>400</Width>
+    <Height>301</Height>
+    <Bytes>25430</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160600_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>20276</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160600_5.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>14300</Bytes>
+    <Caption>Bathroom</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160600_5thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>17080</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 3 star hotel is located in the city centre of New York.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

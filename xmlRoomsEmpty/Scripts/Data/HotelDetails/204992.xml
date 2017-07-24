@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>204992</Id>
+  <Name>Minotel Wigmore Court</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>23 GLOUCESTER PLACE, WESTMINSTER</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State>ENGLAND</State>
+    <Zip>W1U 8HS</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>442079350928</Tel>
+    <Fax>0</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>18</CountRooms>
+    <CountFloors>0</CountFloors>
+    <CheckInTime>12:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>51.5172905</Latitude>
+    <Longitude>-0.1576394</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260526-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4337</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260526-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2246</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260526-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11895</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260526-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2118</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260526-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9383</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260526-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2011</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260526-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8001</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260526-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1752</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260526-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9344</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260526-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2106</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260526-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8690</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260526-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1980</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Hotel Wigmore Court is an Edwardian townhouse in the heart of London, Great Britain. It is ideally located, close to Selfridges on Oxford Street and all major attractions.\nA multi-storey car park lies adjacent to the hotel.\n</Text>
+  </Description>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

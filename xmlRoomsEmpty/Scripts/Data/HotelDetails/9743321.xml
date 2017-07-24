@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9743321</Id>
+  <Name>Vertical Suite The</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>90/9 Srinakrarin Road</Address1>
+    <Address2>Nongbon, Pravet</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>66 (02) 748 1035 ext 163, 177</Tel>
+    <Fax>66 (02) 748 1050</Fax>
+    <Email>reservation@theverticalsuite.net</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9849</Bytes>
+    <Caption>vertical_suite_the-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2339</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9713</Bytes>
+    <Caption>vertical_suite_the-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2310</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-logo.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>2489</Bytes>
+    <Caption>vertical_suite_the-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-logothumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>952</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7609</Bytes>
+    <Caption>vertical_suite_the-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2117</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7464</Bytes>
+    <Caption>vertical_suite_the-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/00/64/vertical_suite_the-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2175</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Vertical Suite Srinakarin combines comfort and high standards for Bangkok accommodation. Some of the quality services available include Concierge and Lift or elevator.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

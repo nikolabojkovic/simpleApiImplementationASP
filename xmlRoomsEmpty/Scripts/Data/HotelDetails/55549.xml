@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>55549</Id>
+  <Name>Hilton Paddington</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>146 Praed Street, London W2 1EE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED KINGDOM</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-78500500</Tel>
+    <Fax>44-20-78500600</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5172946</Latitude>
+    <Longitude>-0.1725435</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>21316</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2288</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16422</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1815</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>24856</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2823</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>32327</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3033</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23393</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2787</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23983</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2695</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>244</Height>
+    <Bytes>16654</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1872</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>29590</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2965</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>15870</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2125</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20741</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2248</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>24856</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2823</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>22848</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2783</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>14445</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2039</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>234</Height>
+    <Bytes>18420</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2061</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>32327</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3033</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>245</Height>
+    <Bytes>26037</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2363</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Bar_Lounge_4.jpg</Url>
+    <Width>356</Width>
+    <Height>360</Height>
+    <Bytes>28952</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2239</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>15492</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2016</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>20021</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2299</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>244</Height>
+    <Bytes>20285</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2195</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Ballroom_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18730</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Ballroom_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2066</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>244</Height>
+    <Bytes>21205</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2463</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>31819</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3019</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HILRhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>27797</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HILRhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2948</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located next to Paddington railway station with easy access to central London.  The direct fifteen minute rail link to Heathrow Airport leaves from Paddington Station on the Heathrow Express.  Marble Arch, Kensington Palace and Hyde Park and nearby.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are large on average but do vary a lot. All rooms and bathrooms are in exceptional condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a historical building with a traditional Edwardian facade.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The large all day brasserie is contemporary in design and offers Mediterranean cuisine.Dress code is smart.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Imposing lobby, modern in design. (09/10 RP)</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

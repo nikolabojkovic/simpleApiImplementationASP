@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>121669</Id>
+  <Name>Sahara Hotel &amp; Casino</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2535  LAS VEGAS BLVD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State />
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>7027372111</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>36.142766</Latitude>
+    <Longitude>-115.1578976</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-exterior2IS_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3220</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-exterior2IS_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1838</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-exterior2IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8326</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-exterior2IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1775</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-pool2IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13545</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-pool2IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2053</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-pool3IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11527</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-pool3IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2175</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-poolIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13322</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-poolIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2413</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-restaurantIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11994</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-restaurantIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2300</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-newroomIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6694</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-newroomIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1648</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-room2IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8048</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-room2IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1672</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-RoomIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10784</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-RoomIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1977</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-meetingIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8765</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-meetingIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1820</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-ballroomsiS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12776</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-ballroomsiS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2153</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-casinoIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13074</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-casinoIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2325</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9415-EntertainmentIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10278</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9415-EntertainmentIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2199</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Moroccan palace rising from the desert on the north end of the Las Vegas Strip is not a mirage, but the historic Sahara Hotel &amp; Casino, offering a variety of restaurants, outstanding entertainment and a plethora of affordable rooms. The Sahara, recognizable by its tall, colourful towers, which were featured prominently in the classic film "Ocean`s 11," is evidence that some things do get better with age. Once a gathering spot for legends like the Rat Pack and Jack Benny, the Sahara continues to attract celebrities, including NASCAR greats like Kyle and Richard Petty. Bar names such as "Abracadabra" and "The Thirsty Camel" emphasize the hotel`s Moroccan theme, but old pictures of Liberace and the Beatles remind you that classic Vegas is alive and well at the Sahara.&lt;br&gt;&lt;b&gt;A resort fee of $6 plus tax per room per night will be charged locally</Text>
+  </Description>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Garage</Code>
+    <Text>Garage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FreshWaterPool</Code>
+    <Text>Fresh Water Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Balcony</Code>
+    <Text>Balcony</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

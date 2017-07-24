@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>191689</Id>
+  <Name>Raffles</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SHEIKH RASHID ROAD WAFI PO BOX 121800</Address1>
+    <Address2 />
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-3248888</Tel>
+    <Fax>971-4-3246000</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>25.228178</Latitude>
+    <Longitude>55.320282</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20687</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2501</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18165</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2317</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>17916</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2151</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Spa_1.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>15041</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2483</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>266</Height>
+    <Bytes>21626</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1974</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>265</Height>
+    <Bytes>29274</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2052</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>24382</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2260</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>30580</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3325</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_5.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>13961</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2422</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_6.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>15808</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2530</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_7.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22178</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2556</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>266</Height>
+    <Bytes>18534</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1988</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_8.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18048</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2323</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21831</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2489</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_9.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>12380</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2333</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_10.jpg</Url>
+    <Width>180</Width>
+    <Height>288</Height>
+    <Bytes>14390</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2591</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>27194</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2411</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_11.jpg</Url>
+    <Width>360</Width>
+    <Height>245</Height>
+    <Bytes>23467</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_11_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2486</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>18054</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2217</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_12.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22473</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_12_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2400</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Suite_13.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23683</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Suite_13_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2716</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>264</Height>
+    <Bytes>24644</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2024</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-RAFhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>28804</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-RAFhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2522</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Raffles Dubai promises the exceptional standards of service inherent in the Raffles name, enhanced by Arabian hospitality values. With its unique archtitecture, extraordinary design and ideal location, it is perfectly positioned for the affluent business and leisure traveller. There is also the outdoor pool, Raffles Amrita Spa with its 7 treatment rooms including a couple suite, gym, sauna and jacuzzi is a unique and exquisite haven perfect for relaxation, rejunenation and indulgence. Overall a great hotel which is setting the standards of Dubai. (SD 07.08)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Occuppies a prominent position on Sheikh Rashid Road and located next the Wafi City Shopping Mall. Its only 5km from Dubai International Airport and a short drive to Dubai's commercial and financial centre. Therefore placing this distinguished landmark hotel in the heart of Dubai.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All 246 suites are palatial in size and plush in style, with decor inspired by the Middle East, or infused with the harmonious principles of the four elements; Earth, Wind, Fire and Water. All rooms benefit from their own spacious balconies with views across the city. The suites are 70 square metres in size and extremely oppulent.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>A stunning 19-storey pyramid shaped structure.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>When it comes to dining, Raffles Dubai tanalizing 11 food and beverage options will excite even the most discerning gourmands.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Large grand lobby area as you enter with the main reception in front. Plenty of areas to relax and take in the stunning decor.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

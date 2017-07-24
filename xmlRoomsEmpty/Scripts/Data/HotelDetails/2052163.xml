@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2052163</Id>
+  <Name>The Langham Place Fifth Avenue (formerly Setai)</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>400 Fifth Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10018</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 212 695 4005</Tel>
+    <Fax>+1 212 695 4045</Fax>
+    <Email>fit@setaififthavenue.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>157</CountRooms>
+    <Latitude>40.750228</Latitude>
+    <Longitude>-73.983714</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>243</Height>
+    <Bytes>21799</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2461</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>236</Height>
+    <Bytes>25059</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2621</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>266</Height>
+    <Bytes>17134</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2153</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25049</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2633</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Exterior_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>18490</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1897</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>21545</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2452</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>23625</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2399</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>334</Height>
+    <Bytes>21341</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2149</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21003</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2634</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>24418</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2683</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>229</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Exterior_2.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>238</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>334</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>266</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>264</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Spa_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Spa_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Exterior_3.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Spa_3.jpg</Url>
+    <Width>360</Width>
+    <Height>244</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Spa_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SEThotel_Spa_4.jpg</Url>
+    <Width>360</Width>
+    <Height>298</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SEThotel_Spa_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Boutique and luxury hotel with superb location offering 157 guest rooms and suites and 57 apartment suites. Relax in the first-floor bar with a vintage wine from the cellars, then ascend the grand, sweeping staircase to The Setai Fifth Avenue's inspired fine dining restaurant. Invigorate yourself in the full-featured spa with its rejuvenating Chill Room, Aqua Lounge and Hammam.   Located between 36th and 37th streets, The Setai Fifth Avenue shares the Avenue with The Guggenheim, The Metropolitan Museum of Art, Tiffany?s, Rockefeller Center, The New York Public Library, and The Empire State Building.  This hotel also offers private meeting and event spaces.   Wi-fi is available in the entire hotel and is free of charge.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Setai Fifth Avenue is situated in Midtown Manhattan on fifth Avenue,  with easy access to all of New York's unique neighborhoods and districts. Just minutes from Times Square, the heart of New York's theater district, and is a short stroll to Bryant Park, one of New York City's finest outdoor spaces.  Near by  New York's most prestigious landmarks, including The Empire State Building, The New York Public Library and Grand Central Station. Midtown Manhattan is where business, culture, shopping and theatre combine to create an exciting destination.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Setai Fifth Avenue, a Capella Managed Hotel, soars more than 60 stories above the famed Midtown stretch of Manhattan's Fifth Avenue. Occupying one of the finest spots in New York City.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The signature restaurant, Ai Fiori and the Bar. With a varied menu of food and beverages, The Setai Fifth Avenue is proud to offer fine dining in New York City, just an elevator ride from our guest rooms or short steps off of Manhattan's most distinguished avenue.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is spacious and elegantly decorated with luxury finished adorn.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

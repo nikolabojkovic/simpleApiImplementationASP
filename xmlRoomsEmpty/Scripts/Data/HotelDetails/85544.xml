@@ -1,0 +1,345 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>85544</Id>
+  <Name>Ritz Carlton</Name>
+  <Region>
+    <Id>9043419</Id>
+    <Name>Jumeirah / Marina / Palm</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>THE WALK AT JUMEIRAH BEACH RESIDENCES</Address1>
+    <Address2>PO BOX 26525</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-3994000</Tel>
+    <Fax>971-4-3994309</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>25.082548</Latitude>
+    <Longitude>55.137699</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>27480</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2820</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26319</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2788</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21706</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2648</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Restaurant_1.jpg</Url>
+    <Width>292</Width>
+    <Height>300</Height>
+    <Bytes>38298</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3025</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>30213</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2808</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>29931</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3125</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Spa_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>19410</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2227</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>29657</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2918</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23548</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2513</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>30573</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2909</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>335</Height>
+    <Bytes>33074</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2598</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Meeting_Room_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>24531</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2910</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Restaurant_2.jpg</Url>
+    <Width>300</Width>
+    <Height>288</Height>
+    <Bytes>28458</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2934</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Exterior_3.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>25759</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2842</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23687</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2792</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23918</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2783</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Spa_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21895</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Spa_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2328</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Restaurant_4.jpg</Url>
+    <Width>297</Width>
+    <Height>300</Height>
+    <Bytes>24479</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2264</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Ballroom_2.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>21219</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2584</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>28852</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3124</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-RIThotel_Ballroom_3.jpg</Url>
+    <Width>356</Width>
+    <Height>247</Height>
+    <Bytes>25470</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-RIThotel_Ballroom_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2774</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This multi awarding winning hotel is regarded as one of the finest in the Middle East and is unique in Dubai as it is the only boutique style hotel in Dubai Jumeirah. SD06/10</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Overlooking the Arabian Gulf opposite the Jumeirah Palm development, this beach front resort is in the new Jumeriah Beach Residence and Dubai Marina area.  The hotel is approximately 35 kms from the Dubai city and 5 kms west of the Burj Al Arab.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>There are 138 guest rooms including 87 deluxe rooms and 8 suites, 38 club rooms, 3 club suites, the club suite and the emirates suite. The rooms have luxurious amenities including refreshing cold towels and fruit juice upon arrival, twice-daily maid service, 24 hour room service, closet safe, dual-line telephones with voice mail and data line capability, fully-stocked honor bar, laundry service, bathrobes and slippers, complimentary newspaper, complimentary fruit basket and mineral water upon arrival.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The low rise building has an Andalucian design blended with  Arabic influence which looks more like a private mansion than an international hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The French seafood restaurant, the Mediterranean restaurant and bar, the lobby lounge, the library and the cigar room all serve high quality cuisine.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The medium sized lobby is Arabic in design but personal and unobtrusive and sets the tone of the rest of the public areas.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

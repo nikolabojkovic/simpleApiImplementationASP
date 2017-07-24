@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>960723</Id>
+  <Name>Grafton On Sunset</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>8462 West Sunset Boulevard</Address1>
+    <Address2>West Hollywood, California</Address2>
+    <Address3 />
+    <City>West Hollywood-Ca</City>
+    <State />
+    <Zip>90069</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 323 654 4600</Tel>
+    <Fax>+1 323 654 5918</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>34.0946351</Latitude>
+    <Longitude>-118.3748782</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/13/79/90/137990-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>256</Height>
+    <Bytes>13101</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/13/79/90/137990-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>87</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2057</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/13/79/90/137990-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>197</Height>
+    <Bytes>12713</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/13/79/90/137990-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>113</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2700</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/13/79/90/137990-HAB-5.jpg</Url>
+    <Width>320</Width>
+    <Height>134</Height>
+    <Bytes>10194</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/13/79/90/137990-HAB-5thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>167</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3699</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/13/79/90/137990-PIS-3.jpg</Url>
+    <Width>253</Width>
+    <Height>320</Height>
+    <Bytes>16028</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1058/13/79/90/137990-PIS-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>55</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1598</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This is a modern, fun hotel with a laid-back atmosphere and wireless Internet access throughout the property. Fully renovated in 2009, there are 108 rooms in total at this city hotel. Guests are welcomed in the lobby with 24-hour reception and check-out services, a hotel safe and lift access to the upper floors. Facilities include air conditioning, a kids' club, conference facilities, room and laundry services, a garage and bicycle hire. Guests can also wine and dine in the café, bar and restaurant.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

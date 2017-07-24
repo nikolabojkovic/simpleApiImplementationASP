@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>720503</Id>
+  <Name>Crosby Street Hotel</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>79 CROSBY STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10012</Zip>
+    <Country>United States</Country>
+    <Tel>+1 212 226 6400</Tel>
+    <Fax>+1 212 26 0055</Fax>
+    <Email>.</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>86</CountRooms>
+    <CountFloors>11</CountFloors>
+    <Latitude>40.723014</Latitude>
+    <Longitude>-73.997405</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel's lobby features glass windows and an impressive metal sculpture. It also features a sumptuous resident?s lounge with fireplace, deep sofas and original art leading onto a spacious leafy courtyard garden. Boasting high ceilings and floor length windows, each guestroom is individually designed using a clever combination of colour and texture, modern and antique furniture and original art. The in-house restaurant is open all day for breakfast, lunch and dinner as well for coffee, cocktails and English afternoon tea.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is situated on a quiet cobbled street in the heart of New York's vibrant SoHo neighbourhood between Prince and Spring Streets.</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

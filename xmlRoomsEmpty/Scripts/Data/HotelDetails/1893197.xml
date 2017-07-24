@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1893197</Id>
+  <Name>Opulence Hotel</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>47 Gloucester Place</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W1U 8JE</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 20 7487 1111</Tel>
+    <Fax>+44 20 7487 1112</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>19</CountRooms>
+    <Latitude>51.5180073</Latitude>
+    <Longitude>-0.1582784</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2431</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2429</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8425</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2041</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-lobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8569</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-lobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2002</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9650</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2138</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9130</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2079</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8778</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1998</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8477</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1976</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8770</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2022</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230456-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8273</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230456-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1854</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From Heathrow Airport: take the Heathrow Express to Paddington train station and change to the London Underground. The hotel is within walking distance of Marble Arch station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This boutique hotel offers its guests nothing less than an intimate and charming atmosphere. A passion that is handled precisely, the elegant, antique and authentic furniture combined with beautiful artwork are in perfect harmony with the graceful ambiance of the city hotel. The 19 luxuriously appointed rooms and suites offer a relaxing classic decor amid a refined atmosphere. Facilities include a 24-hour reception, a restaurant, room service and a laundry service.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

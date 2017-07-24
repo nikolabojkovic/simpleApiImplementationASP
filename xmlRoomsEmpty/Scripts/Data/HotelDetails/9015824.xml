@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9015824</Id>
+  <Name>Auris Plaza Hotel Al Barsha</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Barsha 1, Behind Mall of the Emirates, Al Barsha</Address1>
+    <Address2>Mall Of The Emirates</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>P.O.Box 390531</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-4554800</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>337</CountRooms>
+    <CountFloors>14</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/83/82/45/838245-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7108</Bytes>
+    <Caption>838245-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/83/82/45/838245-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1603</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/83/82/45/838245-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8699</Bytes>
+    <Caption>838245-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/83/82/45/838245-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2132</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/83/82/45/838245-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6768</Bytes>
+    <Caption>838245-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/83/82/45/838245-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1721</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/83/82/45/838245-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7336</Bytes>
+    <Caption>838245-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/83/82/45/838245-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1781</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/83/82/45/838245-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6411</Bytes>
+    <Caption>838245-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/83/82/45/838245-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1715</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The AURIS PLAZA HOTEL AL BARSHA is a Tourist, Modern, Business, City hotel hotel. Located in Al Barsha area. Shopping is accessible by bus/taxi and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Auris Plaza is a modern five star hotel located within a five minute walk of the Mall of the Emirates and adjoining metro station. Each of the 337 guestrooms and suites have a seating area with a flat-screen TV, and complimentary WiFi access is available throughout the hotel. The hotel features two restaurants, a rooftop terrace, cafe and hookah lounge. 24 hour room service is also available. Leisure amenities include a rooftop pool, fully-equipped fitness centre, sauna, and a spa offering a variety of massage and beauty treatments. The Auris Plaza Hotel's central location offers easy access to the city's major attractions, and is a 30 minute drive from Dubai International Airport.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ChildrensClub</Code>
+    <Text>Childrens Club</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

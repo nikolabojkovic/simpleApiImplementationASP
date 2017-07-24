@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252883</Id>
+  <Name>My Pratunam</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>70,70/1-4 Soi Petchburi 15</Address1>
+    <Address2>Petchburi Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66 ) 2631- 9393</Tel>
+    <Fax>(66 ) 2631- 9355</Fax>
+    <Email>rsvn.myhotel@hotmail.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.755296</Latitude>
+    <Longitude>100.538311</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/04/04/00/24/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/04/04/00/24/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

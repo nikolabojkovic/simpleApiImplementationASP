@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9016070</Id>
+  <Name>City Premiere Deluxe Hotel Apartments</Name>
+  <Region>
+    <Id>9043418</Id>
+    <Name>Sheikh Zayed Road / Downtown</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>SHEIKH ZAYED ROAD</Address1>
+    <Address2>Burj Khalifa</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>115439</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 04-3897777</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>271</CountRooms>
+    <CountFloors>45</CountFloors>
+    <CheckInTime>15:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/90/66/15/906615-img1-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>4795</Bytes>
+    <Caption>906615-img1-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/66/15/906615-img1-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1362</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/66/15/906615-img2-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8533</Bytes>
+    <Caption>906615-img2-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/66/15/906615-img2-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1998</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/66/15/906615-img3-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7178</Bytes>
+    <Caption>906615-img3-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/66/15/906615-img3-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1876</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/66/15/906615-img4-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8041</Bytes>
+    <Caption>906615-img4-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/66/15/906615-img4-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1966</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/66/15/906615-img5-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6008</Bytes>
+    <Caption>906615-img5-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/66/15/906615-img5-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1589</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The CITY PREMIERE DELUXE HOTEL APARTMENTS is a Tourist, City hotel hotel. Located in Sheikh Zayed Road area. Shopping is accessible by bus/taxi and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>City premiere hotel apartments is the newest deluxe hotel apartments along the major thoroughfare of sheikh zayed road. stands on a 45-storey building, it houses the café premiere, the restaurant opens for 24 hours which serves buffet breakfast, lunch and dinner;blue oseafood restaurant, which features the freshest and the most uniquely prepared seafood in the area; the patio pool café, which serves the freshest drinks and light snacks and sandwiches.city premiere’s prime location and accessibility are something not to be discounted of. from dubai international airport, you can reach us in just 15 minutes’ drive or 25 minutes by metro train and upon exit at business bay metro station, take a 5-minute walk to reach the hotel.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kidspool</Code>
+    <Text>Kids Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

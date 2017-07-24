@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>55552</Id>
+  <Name>Bw Prem Shaftesbury Piccadilly</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>65-73 SHAFTESBURY AVENUE PICCADILLY</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON W1D 6EX</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-78716000</Tel>
+    <Fax>44-20-77451212</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.511891</Latitude>
+    <Longitude>-0.1319763</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHA1hotel_Lobby_1.jpg</Url>
+    <Width>350</Width>
+    <Height>348</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHA1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHA1hotel_Meeting_Room_1.jpg</Url>
+    <Width>348</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHA1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHA1hotel_Restaurant_1.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHA1hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is a very good quality hotel, with luxurious features an unbeatable location. Ideal for those looking to be in the very heart of Theatreland and within a short stroll of Soho, Covent Garden, Leicester Square and Piccadilly Circus. (1007AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Shaftesbury hotel is located in the heart of London's West End and Theatre District, right next to Piccadilly Circus and two minutes walk to Leicester Square.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>A Boutique style hotel with luxurious features, each room has been newly refurbished with the emphasis on comfort and relaxation, furnishings are stylish but discreet. Most beds are King-size (except twins) with purpose-built reading lamps and oversized smooth headboards. Some of the rooms feature bathroom televisions. DVD and CD players are on request basis.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a traditional red and white brick building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Guests can relax in the "Premier Bar" open all day for refreshments. The hotel also has two restaurant:  the "Premier Restaurant" combines home-cooked meals and American diner-style snack options whilst the "RV Indian Cuisine Restaurant"  is a new restaurant serving the highest quality menu of modern Indian cuisine.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A narrow entrance leads to the small lobby area for guest check in and general enquiries. Comfortable seating is available in the guest lounge, upstairs.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

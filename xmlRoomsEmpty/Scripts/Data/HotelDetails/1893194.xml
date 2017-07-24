@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1893194</Id>
+  <Name>The Georgian Hotel</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>87 Gloucester Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W1U 6JF</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 207 2244405</Tel>
+    <Fax>+44 20 7224 4002</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>19</CountRooms>
+    <Latitude>51.5195068</Latitude>
+    <Longitude>-0.1587422</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230441-ExteriorGH1_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2290</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230441-ExteriorGH1_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2275</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230441-ExteriorGH1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8726</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230441-ExteriorGH1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2080</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230441-LobbyGH1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8819</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230441-LobbyGH1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2169</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230441-BreakfastroomGH1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10351</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230441-BreakfastroomGH1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2044</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230441-GuestroomGH1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8538</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230441-GuestroomGH1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1871</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Reception working hours are from 07:00 h to 22:00 h. Check-in after this time is only possible with charge.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This traditional hotel in the heart of London provides a home from home atmosphere with 19 quality rooms within a traditional Georgian setting. It offers a good base for sightseeing, business trips, and family stays. Facilities include a 24-hour reception, hotel safe, lift access and a breakfast room.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

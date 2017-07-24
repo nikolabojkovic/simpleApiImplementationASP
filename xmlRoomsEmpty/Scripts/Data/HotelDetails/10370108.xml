@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>10370108</Id>
+  <Name>Holiday Inn NYC - Lower East Side</Name>
+  <Region>
+    <Id>64378</Id>
+    <Name>Lower East Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>150 Delancey Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>NY 10002</Zip>
+    <Country>USA</Country>
+    <Tel>001 2124752500</Tel>
+    <Fax>001 2124752501</Fax>
+    <Email>ealade@mrhotelgroup.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/N3Yfront.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/N3Ythumbfront.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2087</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/N3Ybed.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/N3Ythumbbed.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1957</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/N3Ymap.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/N3Ythumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1660</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Holiday Inn Nyc - Lower East Side is a modern 3-star hotel offering well-presented accommodation and good service in the heart of New York. The hotel boasts a gym, free Wi-Fi and a great location close to the East Village. The hotel is situated in the Lower East Side, adjacent to the Williamsburg Bridge. Nearby places of interest include La Plaza Cultural community garden and the East Village. Notable for its Bohemian roots, today, the East Village has evolved into a contemporary upscale area with a chic ambience and is home to a great many art galleries, boutiques and lively bars. Essex S subway station is located in the vicinity, providing fast and easy access to other popular New York destinations. The hotel is housed in a modern mid-rise building with a cream facade. Facilities include a gym with cardio and weights equipment. Free Wi-Fi is available throughout the premises. The restaurant offers American cuisine and a variety of hot and cold beverages in a casual setting. Standard rooms have an elegant decor incorporating warm colours and dark wood furniture. Amenities include air-conditioning, a flat-screen satellite/cable TV and a safe. The en-suite bathrooms feature a bathtub with integrated shower. Chargeable parking is possible nearby.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

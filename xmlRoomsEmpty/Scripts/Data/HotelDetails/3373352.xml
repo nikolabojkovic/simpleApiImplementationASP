@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3373352</Id>
+  <Name>Athena</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>110-114 Sussex Gardens, Hyde Park</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W2 1UA</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 207 706 3866</Tel>
+    <Fax>+44 207 262 6143</Fax>
+    <Email>stay@athenahotellondon.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>38</CountRooms>
+    <CountFloors>4</CountFloors>
+    <Latitude>51.513122</Latitude>
+    <Longitude>-0.176725</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/29/60/6/29606_1.jpg</Url>
+    <Width>430</Width>
+    <Height>322</Height>
+    <Bytes>33045</Bytes>
+    <Caption>Outside view</Caption>
+    <ThumbnailUrl>/RXLImages/1026/29/60/6/29606_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2614</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/29/60/6/29606_2.jpg</Url>
+    <Width>430</Width>
+    <Height>322</Height>
+    <Bytes>21090</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/29/60/6/29606_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2030</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/29/60/6/29606_3.jpg</Url>
+    <Width>430</Width>
+    <Height>322</Height>
+    <Bytes>27788</Bytes>
+    <Caption>Standard Room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/29/60/6/29606_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2092</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/29/60/6/29606_4.jpg</Url>
+    <Width>430</Width>
+    <Height>322</Height>
+    <Bytes>25143</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/29/60/6/29606_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2408</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel is placed in a wonderful Victorian building. Each room is decorated in this characteristic style with the luxury of today, all of them comfortably furnished with several useful and nice facilities. After a good night sleep and before getting ready for another day of visiting the lively city of London, guests can enjoy a traditional English Breakfast, served each morning in the beautiful designed breakfast room.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The central location of the hotell is perfect to visit Britain's most vibrant city. It is situated close to central London and placed in a nice and quiet neighborhood. The hotel is located in half way along Sussex Gardens in the West End of London between Edgeware Road and Lancaster Gate.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

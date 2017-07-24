@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>57784</Id>
+  <Name>La Reserve</Name>
+  <Region>
+    <Id>52877</Id>
+    <Name>Hammersmith &amp; Fulham</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>422-428 FULHAM ROAD LONDON SW6 1DU</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED KINGDOM</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-73858561</Tel>
+    <Fax>44-20-73857662</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4802627</Latitude>
+    <Longitude>-0.1910445</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LARhotel_Exterior_1.jpg</Url>
+    <Width>323</Width>
+    <Height>220</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LARhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LARhotel_Lobby_1.jpg</Url>
+    <Width>335</Width>
+    <Height>220</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LARhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LARhotel_Guest_Room_1.jpg</Url>
+    <Width>350</Width>
+    <Height>230</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LARhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LARhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>350</Width>
+    <Height>230</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LARhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This lovely hotel is ideal for those wishing to stay in a quiet residential area, whilst remaining within easy reach of all that the capital has to offer. This is a privately owned property where guests satisfaction is management's priority.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located close to Fulham Broadway underground station, literally next door to the Chelsea Football Ground and within easy reach of Knightsbridge, Kensington and fashionable Chelsea. Moreover, Fulham is a very lively area with plenty or restaurants and bars and some trendy clothing shops.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The medium-sized rooms are well decorated in a modern style, some of the rooms have been recently refurbished to a very good standard. The bathrooms are in very good condition too.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel has a fairly traditional facade, with steps leading up to the main hotel entrance. There is a car park to the front of hotel for guest use.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant/breakfast room is very bright and is decorated in modern style.This room has been recently refurbished and modern plasma screens are now located in both breakfast room and lounge area. There is also an adjoining bar where drinks and snacks are served all day long. Guests will enjoy a rich buffet breakfast every morning, and on summer days breakfast can also be enjoyed in the patio area!</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is small and quite intimate, with the understated reception to the right. There is a lounge area to the left of the lobby, which has been recently refurbished and is decorated in a contemporary style.</Text>
+  </Description>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

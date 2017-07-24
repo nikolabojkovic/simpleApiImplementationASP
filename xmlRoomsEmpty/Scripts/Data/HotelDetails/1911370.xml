@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1911370</Id>
+  <Name>Legacy Express Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>No. 29 Sukhumvit Road (Front corner of Sukhumvit Soi 1); Klongtoey Nua; Wattana</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>Thailand</Country>
+    <Tel>+662 655 7474</Tel>
+    <Fax>+662 655 7060</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.742856</Latitude>
+    <Longitude>100.551038</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226373-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>2868</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226373-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1776</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226373-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6501</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226373-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1702</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226373-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7486</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226373-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1812</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226373-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8386</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226373-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2039</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226373-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7310</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226373-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1702</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226373-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7034</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226373-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1970</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226373-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11763</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226373-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2035</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226373-room5.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6423</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226373-room5.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1794</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From Suvarnabhumi International Airport, there is a public transportation or taxi available. Alternatively, there is airport rail link to Phayathai station and then BTS Skytrain to PloenChit, from which it takes only 3 minutes to get to the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Featuring a great location, the hotel is one of the newest, yet affordable accommodations in Bangkok. It features 63 bright and modern rooms with free internet access, 24 hours reception and concierge service.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

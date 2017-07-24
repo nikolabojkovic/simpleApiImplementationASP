@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252966</Id>
+  <Name>Four Seasons International House</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4/41 Petchburi 19</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2653 - 6053</Tel>
+    <Fax>(66) 2653 - 8678</Fax>
+    <Email>postmaster@fourseasonsinter.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.751714</Latitude>
+    <Longitude>100.539091</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10018</Bytes>
+    <Caption>four_seasons_international_house-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2557</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9922</Bytes>
+    <Caption>four_seasons_international_house-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2414</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9410</Bytes>
+    <Caption>four_seasons_international_house-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2226</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-general2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9154</Bytes>
+    <Caption>four_seasons_international_house-general2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-general2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2280</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/01/53/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/01/53/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>5735</Bytes>
+    <Caption>four_seasons_international_house-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/02/02/01/53/four_seasons_international_house-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1813</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Four Seasons International House is perfectly located at the center of Pratunam garment center where all converge to find many garment dealers offering good bargains. A ten minute walk to World Trade Center, Isetan Department Store, Sogo, Gaysorn Plaza and the famous shrine of the Four-Face Buddha.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

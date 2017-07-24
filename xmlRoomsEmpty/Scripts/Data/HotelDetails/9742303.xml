@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9742303</Id>
+  <Name>Mode Sathorn</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>891/1, Rama 1 Road</Address1>
+    <Address2>Wangmai</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2216 - 2075</Tel>
+    <Fax>(66) 2216 - 2140</Fax>
+    <Email>info@modesathorn.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9992</Bytes>
+    <Caption>mode_sathorn-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2419</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>12339</Bytes>
+    <Caption>mode_sathorn-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2598</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11390</Bytes>
+    <Caption>mode_sathorn-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2493</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9982</Bytes>
+    <Caption>mode_sathorn-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2360</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7493</Bytes>
+    <Caption>mode_sathorn-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/04/04/02/56/mode_sathorn-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2002</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Conveniently central in Bangkoks renowned entertainment, embassy, shopping and business district adjacent to Surasak BTS Station on North Sathorn, one-stop from Sala Daeng Station on Silom Road, or one-stop from Saphan Thaksin riverside station. All Bangkoks tourist attractions are easily accessible as is Bangkok International Airport.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

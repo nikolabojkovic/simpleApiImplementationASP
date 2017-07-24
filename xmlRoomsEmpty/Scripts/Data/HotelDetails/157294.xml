@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>157294</Id>
+  <Name>Sanctum Apartments</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>1 Greville Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>NW6 5HA</Zip>
+    <Country>England</Country>
+    <Tel>020 764 421 00</Tel>
+    <Fax>02076442103</Fax>
+    <Email>reception@sanctum-international.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5363688</Latitude>
+    <Longitude>-0.1911487</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAN2hotel_Exterior_1.jpg</Url>
+    <Width>210</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SAN2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAN2hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>265</Height>
+    <Bytes>0</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SAN2hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAN2hotel_Bedroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>265</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SAN2hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAN2hotel_Bedroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>266</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SAN2hotel_Bedroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAN2hotel_Bathroom_1.jpg</Url>
+    <Width>177</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bathroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SAN2hotel_Bathroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Each apartment is exceptionally well appointed, elegantly furnished, fully air conditioned, complete with broadband internet access, plasma TV&amp;DVD player, high quality kitchen and bathrooms, 24-hour Reception/Concierge, laundry facilities and maid service.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Based on Kilburn High road, equidistant from Kilburn and Maida Vale, nearest underground is Kilburn on the (Jubilee Line). Recently completed in 2006 they are, as you would expect in excellent condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This property really stands out from the crowd, it is of modern design and is constructed with glass and white rendered stone.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The property does not have a Restaurant.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The Lobby is medium sized with Marbled floor tiles. There are two lifts adjacent to the main reception.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

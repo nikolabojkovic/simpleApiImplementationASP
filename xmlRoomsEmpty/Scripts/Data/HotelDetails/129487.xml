@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129487</Id>
+  <Name>Westin Las Vegas Hotel Casino &amp; Spa</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>160 East Flamingo</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 836 5900</Tel>
+    <Fax>17028369776</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>36.1152568</Latitude>
+    <Longitude>-115.1655364</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-main00001_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3878</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-main00001_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2120</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-lounge000001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7257</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-lounge000001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1775</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-gym000001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9780</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-gym000001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2102</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-dining00002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13297</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-dining00002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2340</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-newlounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8466</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-newlounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2077</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-main00001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9568</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-main00001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2088</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-meeting000001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9115</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-meeting000001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2207</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-pool000001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8372</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-pool000001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1894</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-room000001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7138</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-room000001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1788</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-dining00001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10065</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-dining00001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2363</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-lobby00001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7980</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-lobby00001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1898</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-spa00001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9099</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-spa00001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2071</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel6849-meeting00002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8155</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel6849-meeting00002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1939</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Westin Las Vegas Hotel Casino &amp; Spa is a 3-star superior property offering modern accommodation and excellent facilities in the heart of Las Vegas. Highlights include a spa, an outdoor swimming pool, a casino, evening entertainment and an ideal location just one block away from the Las Vegas Strip. The world-famous Las Vegas Strip is home to several renowned hotels and casinos, offering 24-hour entertainment. Away from the hustle of the Strip, visitors can also explore The Forum Shops and the Miracle Mile Mall. The hotel occupies a stylish high-rise building with a peach-coloured exterior. Facilities include a spa, a sauna, a Jacuzzi, a steam room, a state-of-the-art gym, an outdoor swimming pool and a casino. Chargeable Wi-Fi is also available throughout the premises. Suede is a 24-hour restaurant offering international cuisine, while the Casino Lounge offers beverages and a bar menu in a relaxing setting. The hotel also has a Starbucks and a live entertainment venue. Standard rooms are 32sqm and decorated in a contemporary style. Amenities include a 27-inch flat-screen TV, a one-cup coffee maker, a mini-bar, complimentary water, air-conditioning, a security safe and an en-suite bathroom. The hotel offers 24-hour room service. ***Please note that there is a mandatory resort fee payable directly to the hotel upon arrival at the rate of 11.50 USD plus tax per room per night. The fee covers valet parking, bottled water in the room and access to Westin resort facilities.***</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

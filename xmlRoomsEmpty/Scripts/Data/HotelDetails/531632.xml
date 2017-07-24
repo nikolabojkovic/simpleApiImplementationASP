@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>531632</Id>
+  <Name>Adelphi Grande</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>16 Sukhumvit Soi 41, Bangkok 10110</Address1>
+    <Address2>Tba</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 2-6950555</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountFloors>1</CountFloors>
+    <Latitude>13.730089</Latitude>
+    <Longitude>100.572292</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4292</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2151</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12720</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2006</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9765</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2187</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7931</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1858</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-lobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7623</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-lobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1766</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8563</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1932</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8613</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2017</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-restaurant1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9036</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-restaurant1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2112</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8473</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2023</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6774</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1862</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8116</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1970</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6245</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1816</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7000</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1855</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-room5.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6885</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-room5.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1871</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217280-room6.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6200</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217280-room6.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1709</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>24 Hours services Reception &amp; Shuttle Tuk Tuk services to BTS Station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Built in 2009, the air-conditioned hotel features 166 contemporary studios and one-bedroom suites with fantastic views out over the city. Facilities available to guests include a lobby with 24-hour reception and check-out services, a hotel safe, currency exchange facilities, a café, WLAN Internet access (fees apply), room and laundry services and a car park. The hotel offers a 24-hour Tuk Tuk shuttle service to the BTS station.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

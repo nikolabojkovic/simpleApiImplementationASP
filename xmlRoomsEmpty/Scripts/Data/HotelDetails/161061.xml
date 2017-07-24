@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>161061</Id>
+  <Name>San Carlos Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>150 EAST 50TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK CITY</City>
+    <State />
+    <Zip>10022</Zip>
+    <Country>USA</Country>
+    <Tel>2127551800</Tel>
+    <Fax>2126889778</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.7560673</Latitude>
+    <Longitude>-73.971355</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/68/72/1/68721-COM-3.jpg</Url>
+    <Width>320</Width>
+    <Height>217</Height>
+    <Bytes>15988</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1058/68/72/1/68721-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>103</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2605</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/68/72/1/68721-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>217</Height>
+    <Bytes>16624</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/68/72/1/68721-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>103</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2412</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/68/72/1/68721-GEN-4.jpg</Url>
+    <Width>320</Width>
+    <Height>217</Height>
+    <Bytes>16705</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/68/72/1/68721-GEN-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>103</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2562</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/68/72/1/68721-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>217</Height>
+    <Bytes>13624</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/68/72/1/68721-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>103</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2308</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The hotel offers free wireless Internet access in every room, a weekday newspaper and a continental breakfast.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel is an elegant, charming and stylishly sophisticated hotel. It offers spacious lodging accommodation units, plush furnishings and warm personal service.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MedicalService</Code>
+    <Text>Medical Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniFridge</Code>
+    <Text>MiniFridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Launderette</Code>
+    <Text>Launderette</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2976403</Id>
+  <Name>Prince's Gardens</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>IMPERIAL COLLEGE LONDON, PRINCE CONSORT ROAD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW71LU</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>2075949507</Tel>
+    <Fax>2075949505</Fax>
+    <Email>VACENQUIRIES@IMPERIAL.AC.UK</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4996358</Latitude>
+    <Longitude>-0.1791038</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/15/03/60/150360-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>11519</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/15/03/60/150360-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1950</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/15/03/60/150360-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>13016</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/15/03/60/150360-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2171</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From South Kensington station, turn right into the subway sign-posted for the museums and continue for approximately 5 minutes until reaching the very end of the subway. At the exit, cross the road at the crossing and turn left up Exhibition Road walking towards Hyde Park. At the corner of Exhibition Road and Prince's Gardens turn right. Half way along the path is the entrance to reception which is located in Southside Halls on the right-hand side.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Supermarket</Code>
+    <Text>Supermarket</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVRoom</Code>
+    <Text>TV Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120691</Id>
+  <Name>Cranley Gardens</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>CRANLEY GARDENS 8</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW7 3DB</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00442073733232</Tel>
+    <Fax>00442073737944</Fax>
+    <Email>info@cranleygardenshotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4909307</Latitude>
+    <Longitude>-0.1799193</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/15/11/7/15117-BAR-4.jpg</Url>
+    <Width>307</Width>
+    <Height>320</Height>
+    <Bytes>17452</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/1057/15/11/7/15117-BAR-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>67</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1810</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/15/11/7/15117-COM-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>12350</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1057/15/11/7/15117-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2021</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/15/11/7/15117-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>256</Height>
+    <Bytes>15465</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/15/11/7/15117-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>87</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2108</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/15/11/7/15117-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>207</Height>
+    <Bytes>13059</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/15/11/7/15117-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>108</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2454</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel is 15 minutes from Victoria Station by taxi. Gloucester Road and South Kensington stations are only around a 5-minute walk from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Built in 1860, this charming hotel includes 85 rooms. Guests are offered a 24-hour reception and there are lifts as well as cloakroom. In addition, there is a bar, a breakfast room, conference facilities, Internet access, bike rental as well as room and laundry services.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantSmokingArea</Code>
+    <Text>Restaurant Smoking Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BicycleStorage</Code>
+    <Text>Bicycle Storage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BicycleRental</Code>
+    <Text>Bicycle Rental</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

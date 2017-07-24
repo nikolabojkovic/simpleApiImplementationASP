@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129537</Id>
+  <Name>Fiesta Rancho Hotel</Name>
+  <Region>
+    <Id>21610</Id>
+    <Name>Fremont Street/Downtown</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2400 North Rancho Drive</Address1>
+    <Address2 />
+    <Address3 />
+    <City>North Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89130</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 631 7000</Tel>
+    <Fax>+1 702 367 6138</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>100</CountRooms>
+    <Latitude>36.2131928</Latitude>
+    <Longitude>-115.2083655</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203464-Front_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2552</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203464-Front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2551</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203464-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11628</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203464-Front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2218</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203464-Lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11097</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203464-Lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2247</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203464-Pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11147</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203464-Pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1992</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203464-Dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13788</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203464-Dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2423</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203464-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9426</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203464-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2035</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located only minutes from the world famous Las Vegas Strip and the Las Vegas Motor Speedway, Fiesta Rancho Hotel &amp; Casino offers access to all that makes Las Vegas an exciting place to visit. Our 5-story, 100 room hotel tower set in contemporary decor is designed to meet the needs of the individual, family or business traveller. We look forward to making your Las Vegas experience unforgettable. &lt;br&gt;&lt;b&gt; Guests should note that a resort fee is payable direct to the hotel upon arrival. Resort fees are subject to change and guests are advised to check the hotel`s website for current charges.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

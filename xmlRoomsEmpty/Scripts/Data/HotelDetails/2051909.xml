@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2051909</Id>
+  <Name>The Cosmopolitan Of Las Vegas</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3708  LAS VEGAS BOULEVARD SOUTH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas (NV)</City>
+    <State />
+    <Zip>89109</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 702 698 7000</Tel>
+    <Fax>+1 702 698 7007</Fax>
+    <Email>ResortServices@cosmopolitanlasvegas.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>2995</CountRooms>
+    <CountFloors>50</CountFloors>
+    <Latitude>36.1092162</Latitude>
+    <Longitude>-115.1732212</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>23366</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2435</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>26660</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2523</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>18580</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1957</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>15738</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2112</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24072</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2598</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>21606</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2428</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_5.jpg</Url>
+    <Width>315</Width>
+    <Height>360</Height>
+    <Bytes>19356</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1962</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>230</Height>
+    <Bytes>23938</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2790</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>25624</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2414</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_6.jpg</Url>
+    <Width>315</Width>
+    <Height>360</Height>
+    <Bytes>37107</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2255</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>23738</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2694</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_8.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24247</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2314</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_9.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24747</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2495</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>23910</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2344</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_10.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>26507</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2293</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>28530</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2591</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-THE5hotel_Guest_Room_11.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24557</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-THE5hotel_Guest_Room_11_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2665</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Cosmopolitan's district of 3 distinct Las Vegas pool experiences lets you choose the scene that best suits your mood. Our 100,000 sq. feet of casino offerings feature the latest technology. The Cosmopolitan is also pleased to offer first-of-their-kind Casino Cabanas - part exclusive social atmosphere, part great gaming. Non smoking property(0311/IH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>From the center of The Strip rises an original and enchanting destination that is adding an entirely new dimension to the Las Vegas experience.  The Cosmopolitan of Las Vegas is just minutes away from McCarran International Airport.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>City Room-Queen/Queen   Inviting and elegant, the City Room is a spacious studio with two queen-sized beds and a large, luxurious bathroom featuring an exhilarating shower and exquisite marble floors. Each room incorporates the latest technology for maximum in-room enjoyment: sophisticated entertainment systems, plasma-screen televisions, high-speed wireless Internet access, and state-of-the-art control panels. Maximum occupancy 4 persons.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Cosmopolitan Resort and Casino is a uniquely designed structure consisting of 2 seperate towers with floor to ceiling glass windows and outdoor terraces.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>An unmatched collection of restaurants...committed to creating innovative but authentic cuisine experiences, The Cosmopolitan offers original dining options where real people and real chefs come together to celebrate food and have a good time.  A diverse lineup of dynamic culinary experiences include Blue Ribbon Sushi Bar &amp; Grill, China Poblano, Comme Ca, D.O.C.G., Estiatorio Milos, Jaleo, Scarpetta, STK, and many more.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The sensory thrilling features of the public spaces throughout this resort are immediately apparent as guests arrive in the hotel lobby.  Large LED illuminated colums line the lobby and continously change the energy of the lobby with fantastic imagery.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>245</Rank>
+</HotelElement>

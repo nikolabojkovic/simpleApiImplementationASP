@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>56599</Id>
+  <Name>Royal Cambridge</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>124-126 SUSSEX GARDENS LONDON W2  14B</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED KINGDOM</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-78730000</Tel>
+    <Fax>44-20-78730830</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5157613</Latitude>
+    <Longitude>-0.1721337</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYNhotel_Exterior_1.jpg</Url>
+    <Width>263</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYNhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-ROYNhotel_Guest_Room_1.jpg</Url>
+    <Width>263</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-ROYNhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A good hotel in a central location.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located just 3 minutes walk from Paddington Station and 5 minutes walk from Edgware Road and Lancaster Gate tube stations and Hyde Park is withing walking distance too.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Most rooms are of a good size, some of the rooms are small in size, well presented and are decorated in bright colors, wooden furniture and traditional English style. Bathrooms are in fair conditions.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>A traditional London townhouse, set back from the main road.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There is no restaurant, but there is a breakfast room on the lower ground floor, very well set out.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is small and pleasant.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

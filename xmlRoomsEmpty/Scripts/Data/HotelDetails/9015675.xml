@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9015675</Id>
+  <Name>Landmark Grand Hotel</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>DEIRA, RIQQA STREET</Address1>
+    <Address2>Al Riqqa</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>42222</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 9714-2501111</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>174</CountRooms>
+    <CountFloors>7</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/75/52/45/755245-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6280</Bytes>
+    <Caption>755245-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/52/45/755245-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1591</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/75/52/45/755245-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7420</Bytes>
+    <Caption>755245-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/52/45/755245-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1813</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/75/52/45/755245-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6768</Bytes>
+    <Caption>755245-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/52/45/755245-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1690</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/75/52/45/755245-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>9088</Bytes>
+    <Caption>755245-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/52/45/755245-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2039</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/75/52/45/755245-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5774</Bytes>
+    <Caption>755245-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/52/45/755245-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1515</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The LANDMARK GRAND HOTEL is a Tourist hotel. Located in Deira area. Shopping is accessible by bus/taxi and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Landmark Grand brings you a host of outstanding services - whether you want the best business facilities, a classy vacation or a weekend escape!Perfectly situated on Riqqa Road, opposite the iconic Al Ghurair Mall in the heart of downtown Dubai, the Grand is at the hub of exceptional business and shopping experiences.Even as you enter, you will admire the stunning finish and details of our architect Reza Kabul.You will be greeted with impeccable hospitality, as you are welcomed into any of our 175 well-appointed rooms and suites.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

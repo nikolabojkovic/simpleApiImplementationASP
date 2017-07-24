@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>73420</Id>
+  <Name>Four Seasons</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>155 Rajadamri road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok 10330</City>
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>+66 2 126-8866</Tel>
+    <Fax>66-2-2539195</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>13.740766</Latitude>
+    <Longitude>100.540234</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>23106</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2253</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>24000</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2743</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>24019</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2681</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>19567</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2656</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>17198</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2338</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>21672</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2465</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>18031</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2206</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>19699</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2408</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>24705</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2762</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>19475</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2576</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>20520</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2209</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>19773</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2483</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>23357</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2643</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>18100</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2474</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>18660</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2345</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>20932</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2398</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>20931</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2640</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>20059</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2408</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Restaurant_5.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>25525</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2815</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>19246</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2410</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>22896</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2770</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Bar_Lounge_4.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>21810</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2419</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>19339</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2614</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>20351</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2437</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Ballroom_3.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>24174</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Ballroom_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2761</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>18821</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2556</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Ballroom_4.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>22170</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Ballroom_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2457</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-REGhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>15830</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-REGhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2159</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>There is a quiet courtyard setting featuring quality shops around the hotel's warm and homely garden. A wide range of services and facilities are available such as exclusive spa treatments and fully equipped fitness facilities. This is an excellent choice of deluxe class hotel in the very prime location of Bangkok City. (01/09SW)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on Bangkok's Rajdamri Road, within 5 minutes' walk to the Central World Plaza and Gaysorn Plaza and also close the sky train Rajdamri Station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Deluxe rooms are large and very well appointed and continue the use of Thai art to good effect. Bathrooms are luxurious and exceptional with the full marble bathroom features a deep soaking tub and a separate glass-enclosed shower plus L'occitane- brand name toiletries Newly refurbished Deluxe rooms with a minimum 42 square meter with 2 color schemes, a warm palette of ochre's and gold against the backdrop of dark rich timbers, khaki and cream for Thai feel. a 42-rich plasma TV and can be connected to a laptop for power point presentations and internet screen, DVD player as well as in-room safety box which could store laptop.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is with 3 traditional low-rise buildings in an elegant white with tiled roofs and an imposing entrance reflecting traditional Thai style stone wall and lotus pond.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There are restaurants which provide Thai, Japanese and international cuisine. The Italian restaurant is award winning. There is also a famous steak house.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is very large and offers quiet luxury. A feature of the lobby is a sweeping staircase to the 1st floor where guests encounter an example of the finest Thai art on silk.  An exceptional painting feature luxurious Thai art on the ceiling and helps to extend the deluxe feeling to visitors.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

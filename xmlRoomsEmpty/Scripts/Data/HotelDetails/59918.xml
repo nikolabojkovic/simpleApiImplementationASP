@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59918</Id>
+  <Name>Hilton Garden Inn Queens/Jfk A</Name>
+  <Region>
+    <Id>21685</Id>
+    <Name>John. F. Kennedy Int'l Airport (JFK)</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>148-18 134th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Jamaica (NY) NY 11430</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-718-3224448</Tel>
+    <Fax>1-718-3223338</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.665708</Latitude>
+    <Longitude>-73.806088</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59918_5.jpg</Url>
+    <Width>350</Width>
+    <Height>288</Height>
+    <Bytes>18424</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59918_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>85</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2146</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59918_4.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>15450</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59918_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2354</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59918_3.jpg</Url>
+    <Width>346</Width>
+    <Height>350</Height>
+    <Bytes>26677</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59918_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>69</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1919</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59918_2.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>17061</Bytes>
+    <Caption>Swimming Pool</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59918_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2454</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Providing quality accommodation services for visitors in New York, Hilton Garden Inn Queens JFK Airport is an ideal place for an enjoyable vacation. This hotel's proximity to Columbia University, the oldest institution of higher learning, makes it a preferred choice for students. Also located close by is Yankee Stadium, a popular baseball stadium located in the Bronx. Tourists can admire the paintings at Guggenheim Museum and Metropolitan Museum Of Art, both of which are a short drive away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>St. John's University - 6.3 km / 3.9 mi
+Belmont Park - 8.9 km / 5.6 mi</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Hilton Garden Inn Queens/JFK Airport offers 188 guestrooms in a six-story building. Business-friendly guestrooms feature work desks, ergonomic chairs, two multi-line phones with complimentary local calls and voice mail, secure printing to the 24-hour business center, and complimentary high-speed Internet access. Microwaves and compact refrigerators are also provided.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This contemporary six-story New York-area Hilton Garden Inn is located in Queens, five miles from Long Island and 15 miles from Times Square in Manhattan. Complimentary 24-hour transportation is provided to New York's JFK airport. An indoor swimming pool, fitness equipment, and 24-hour business center are among the amenities offered. Wireless Internet access is complimentary in the lobby area, which houses a restaurant, bar, and 24-hour convenience store.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check-in: 3:00PM
+Check-out: 12:00PM
+No Pets Allowed</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>From JFK Airport: Take the Van Wyck Expressway North to Federal Circle. Exit at Federal Circle. Follow circle to the left .When you see BP Gas Station stay to the right, at the stop sign make a right onto 134th Street. Hotel is on the left hand side
+
+From Brooklyn / Staten Island: Take Belt Parkway East to Exit 19 Nassau Expressway. Follow signs to Lefferts Blvd and exit Lefferts Blvd. Proceed to next stop light, make a left to Lefferts Blvd. Turn right onto South Conduit Avenue / RTE 27E. Turn Right onto 134th Street.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>A freshly prepared breakfast is offered daily in the Great American Grill restaurant, and in most locations, lunch and dinner are also available.The Pavilion Pantry convenience mart offers sundries, an assortment of beverages and ready-to-cook meals bound for the in-room microwave oven or refrigerator.Beverages are served in the cozy Pavilion Lounge and select properties also offer a full bar.</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingRooms</Code>
+    <Text>Meeting rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LuggageService</Code>
+    <Text>Luggage Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ATMMachine</Code>
+    <Text>ATM Machine</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4219909</Id>
+  <Name>Fairfield Inn &amp; Suites Brooklyn</Name>
+  <Region>
+    <Id>21684</Id>
+    <Name>Brooklyn</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>181 3rd Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Brooklyn</City>
+    <State />
+    <Zip>NY11217</Zip>
+    <Country>United States</Country>
+    <Tel>001 718 522 4000</Tel>
+    <Fax>0017185224011</Fax>
+    <Email>darren.piercey@marriott.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.6802993</Latitude>
+    <Longitude>-73.9839689</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4043</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2080</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9279</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2160</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9792</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2152</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8656</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1987</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-lobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9316</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-lobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2129</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8615</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2020</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-lounge1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9484</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-lounge1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2061</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-lounge2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9052</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-lounge2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2244</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11643</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1998</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5875</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1649</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1298496-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>4801</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1298496-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1447</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This brand new hotel in Brooklyn New York is near the MetroTech Center, vibrant shopping, dining and popular local favorite hot spots 
+Fairfield Inn New York featuring complimentary hot breakfast with Jimmy Dean Breakfast Sandwiches, Bold Beginnings coffee, cereal and fresh fruit. 
+Free high-speed Internet access, a fitness center, a business centre, meeting space and rooftop gardens highlight this hotel near downtown Brooklyn.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

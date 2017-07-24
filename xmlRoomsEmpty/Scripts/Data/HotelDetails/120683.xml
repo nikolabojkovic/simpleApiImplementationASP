@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120683</Id>
+  <Name>Somerset Roland Gardens</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>OLD BROMPTON ROAD/ROLAND GARDENS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW7 3RX</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>0044 2073416800</Tel>
+    <Fax>0044 2073416801</Fax>
+    <Email>ISERNA@THE-ASCOTT.CO.UK.COM</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>89</CountRooms>
+    <CountFloors>8</CountFloors>
+    <Latitude>51.4898851</Latitude>
+    <Longitude>-0.1804232</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1001/15102hotel1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>17547</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/15102hotel1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2349</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1001/15102room1.jpg</Url>
+    <Width>320</Width>
+    <Height>231</Height>
+    <Bytes>15170</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/15102room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>96</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2482</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Built in 1950 and renovated in 2001, this complex comprises a total of 89 apartments spread over 8 floors. Facilities on offer include a 24-hour reception desk with safe, a currency exchange facility, a cloakroom, a lift and a café. There is also a casino and a restaurants with highchairs for infants available for use. A public Internet terminal and laundry and room services round off the offerings.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MobilePhoneNetwork</Code>
+    <Text>Mobile Phone Network</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HiFiStereoSystem</Code>
+    <Text>HiFiStereoSystem</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Balcony</Code>
+    <Text>Balcony</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomCentralHeating</Code>
+    <Text>Central heating in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Keys</System>
+    <Score>40</Score>
+    <Description>Four key</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

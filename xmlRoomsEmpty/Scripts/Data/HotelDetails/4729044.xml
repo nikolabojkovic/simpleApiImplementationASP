@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4729044</Id>
+  <Name>De Salis Hotel</Name>
+  <Region>
+    <Id>52924</Id>
+    <Name>Stansted</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>HALL ROAD, GAUNT END</Address1>
+    <Address2 />
+    <Address3 />
+    <City>ELSENHAM, STANSTED</City>
+    <State />
+    <Zip>CM22 6DR</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00441279817821</Tel>
+    <Fax>00441279816984</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.90634</Latitude>
+    <Longitude>0.253887</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/13/38/44/133844-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9426</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/38/44/133844-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1916</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/13/38/44/133844-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9796</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/38/44/133844-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2015</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From the M11 exit at junction 8. Head towards terminal, signposted short stay car park and Radisson SAS. At the last roundabout before the terminal (Coppers End Roundabout) take the fourth exit, signposted Molehill Green. You will immediately come to a mini roundabout. Take a left towards Molehill and Elsenham. Keep on this road for exactly 4 km and we are on your right. When you are 2 km away from the hotel, on your right will be the Three Horse Shoes pub (this way you now your going the right way) If you face any problems on your journey, please do not hesitate to call us. Nearest Motorway or Main Road, M11 Junction No., 8 - 5 Km Airport, London - Stansted - 2 Km Nearest Major Train Station, Stansted - 2 Km Tel No. of Taxi Company, - 2 Km.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

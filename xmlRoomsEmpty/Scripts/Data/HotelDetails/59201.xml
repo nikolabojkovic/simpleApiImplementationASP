@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59201</Id>
+  <Name>Pierre</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2 EAST 61 STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK ,NY , 10021</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-8388000</Tel>
+    <Fax>1-212-9408109</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>40.7650087</Latitude>
+    <Longitude>-73.9715767</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59201_1.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>17829</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59201_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2159</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59201_2.jpg</Url>
+    <Width>350</Width>
+    <Height>238</Height>
+    <Bytes>18829</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59201_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>102</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2396</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59201_3.jpg</Url>
+    <Width>350</Width>
+    <Height>262</Height>
+    <Bytes>24896</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59201_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2761</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59201_4.jpg</Url>
+    <Width>350</Width>
+    <Height>262</Height>
+    <Bytes>21912</Bytes>
+    <Caption>Meeting Place</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59201_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2664</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Pierre, the iconic flagship of Taj Hotels on New York's Fifth Avenue overlooking Central Park, re-opened on June 1, 2009 following a meticulous $100 million renovation to create new guestroom and bath interiors and reconfigure first floor public areas to include London's classic brasserie, Le Caprice and Two E Bar/Lounge, the residential-style lounge by day and stylish bar by night.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Barney's - 0.2 km / 0.1 mi
+• Tiffany &amp; Co. - 0.3 km / 0.2 mi
+• Central Park Zoo - 0.4 km / 0.2 mi
+• Museum of Modern Art - 0.7 km / 0.4 mi
+• Carnegie Hall - 0.7 km / 0.4 mi
+• Rockefeller Plaza - 0.9 km / 0.6 mi
+• Broadway - 1.4 km / 0.9 mi
+• Grand Central Terminal - 1.5 km / 1 mi
+• Chrysler Building - 1.6 km / 1 mi
+• Times Square - 1.6 km / 1 mi
+• Central Park - 2.1 km / 1.3 mi
+• Empire State Building - 2.2 km / 1.3 mi
+• Brooklyn Bridge - 7.1 km / 4.4 mi
+• Ellis Island - 9.4 km / 5.8 mi
+• Statue of Liberty - 10.5 km / 6.5 mi</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All guestrooms and suites at The Pierre have been transformed to feature a warm, inviting residential-style decor with a feeling of quiet luxury. Guestrooms feature high ceilings, Italian Frette linens, and richly textured silk and brocade fabrics. Accommodations also feature wall-mounted 40-inch flat-screen TVs, high-definition DVD players, and Bose Wave Studios with iPod docking stations. A master switch controls lighting. Wireless and wired high-speed Internet access are available for a surcharge. Electronic laptop safes have charging capabilities.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Pierre, A Taj Hotel, rises majestically above Central Park and Fifth Avenue on Manhattan’s Upper East Side. Madison Avenue, one block east, is lined with designer boutiques, elite stores such as Barneys New York, and art galleries. Cultural attractions, including the Theater District, Lincoln Center, and the Metropolitan Museum of Art, are within one mile.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Ice skating
+• Boat launch
+• Rowing or canoeing
+• Boating
+• Running track/path
+• Bicycle rentals
+• Hiking/biking trails
+• Bird watching
+• Playground
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check-in time is 3 PM
+Check-out time is Noon</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>From LGA take airport ramp to Grand Central Pkwy toward Manhattan-it becomes I-278E; take Exit 45 onto 31st St.-31st St becomes NY-25A; turn on to Queens Plaza/Queensboro Bridge;exit 2AVE-S to 60th Street: turn left onto 60th Street;turn right onto Park Avenue: turn left on to 61st Street to 2 East 61st Street.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Le Caprice - Opening summer of 2009, Le Caprice is modeled after its legendary London counterpart. The eclectic menu showcases European classics with some international influence. Decor includes white-and-chrome finishes and a monochromatic Art Deco design by Martin Brudnizki.
+
+• 2 East - The Pierre's new Upper East Side bar, designed by Alexandra Champalimaud, has a sophisticated downtown atmosphere. 2 East serves light fare, afternoon tea, and a variety of cocktails and other libations. A bronze bar is the centerpiece of the room.
+Room service is available 24 hours a day.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The Pierre, New York’s landmark hotel on Central Park at Fifth Avenue is a testament to understated elegance. With its distinctive design, superb location and outstanding service, The Pierre is regarded as one of the world's finest luxury hotels.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2078096</Id>
+  <Name>Evergreen Place Bangkok</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>318 PHAYA THAI ROAD, RATCHATHEWI BANGKOK THAILAND</Address1>
+    <Address2>City Center</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10400</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 662-4172490</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>114</CountRooms>
+    <CountFloors>23</CountFloors>
+    <Latitude>13.7570172</Latitude>
+    <Longitude>100.53395</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/13/80/97/138097-BAR-4.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>14327</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/80/97/138097-BAR-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2347</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/13/80/97/138097-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>10170</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/80/97/138097-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2111</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/13/80/97/138097-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9642</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/80/97/138097-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1998</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/13/80/97/138097-PIS-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>17123</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/80/97/138097-PIS-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2604</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This air-conditioned city hotel offers 115 one-bedroom and two-bedroom suites, all accessible by lift from the hotel lobby. The modern-contemporary design with a touch of Thai glamour provides a cosy living experience, perfected by full facilities that elevate a comfortable stay to new heights. Guests are welcomed in the lobby with 24-hour reception and check-out service, and can also inform themselves at the newspaper stand or make use of the currency exchange facilities. Along with the restaurant and breakfast room, there are large open areas on the clubhouse floor and around the compound for communal gatherings, while business travellers may be particularly interested in the conference facilities and Internet access. Room and laundry services are available for a fee, and parking is available to guests arriving by car.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>130021</Id>
+  <Name>Hilton Manhattan East</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>304 East 42nd Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10017</Zip>
+    <Country>USA</Country>
+    <Tel>+1 212 986 8800</Tel>
+    <Fax>+1 212 986 1758</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.749452</Latitude>
+    <Longitude>-73.971907</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/130021_1.jpg</Url>
+    <Width>220</Width>
+    <Height>165</Height>
+    <Bytes>6112</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/130021_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1889</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/130021_5.jpg</Url>
+    <Width>500</Width>
+    <Height>333</Height>
+    <Bytes>122033</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/130021_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2371</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/130021_3.jpg</Url>
+    <Width>500</Width>
+    <Height>326</Height>
+    <Bytes>174711</Bytes>
+    <Caption>Hotel Bar</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/130021_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>107</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2725</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/130021_4.jpg</Url>
+    <Width>500</Width>
+    <Height>397</Height>
+    <Bytes>49252</Bytes>
+    <Caption>Grand Ballroom</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/130021_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>88</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2662</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Tudor Hotel is a 300-room, award-winning hotel, located in New York City's fashionable East Side. A recognized historical New York landmark, the Tudor features beautifully appointed, newly redecorated guest rooms and suites, with modern amenities. Just a block away from the United Nations and an easy stroll to other major landmarks, like the Empire State Building, Times Square and Grand Central Station, the Tudor is also set amidst New York’s best shopping and dining.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• The United Nations Headquarters 1 Block
+• Grand Central Station 3 Blocks
+• The Chrysler Buidling 2 Blocks
+• Times Square 6 Blocks
+• Fifth Avenue 4 Blocks</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The 300 luxurious guestrooms and suites at the Tudor Hotel is a luxury hotel – premium rates apply. Hotel combine tasteful décor with modern amenities, including an Italian marble bathroom with telephone, hairdryer and makeup mirror. Other features provided are cable/satellite TV, a CD player, in-room movies via pay per view and cable, and in-room video check-out. Guests also appreciate the hotel’s well-stocked minibar and coffee maker with complimentary coffee.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Tudor Hotel provides guests the perfect place to work up a sweat – or to work off some steam – at the 24-hour a day complimentary Fitness Center. The Center has the latest work-out equipment and includes a sauna and masseuse.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>3:00 pm check-in,
+12:00 pm check-out</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Home to Cecil's Bistro, an elegant restaurant serving fine American bistro fare. For lighter fare, check out the charming Cecil's Lounge &amp; Bar, which serves up light dining, cocktails, and aperitifs. The hotel also offers guests an extensive room service menu.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Tudor Hotel at the United Nations is conveniently located on New York's east side, one block away from the United Nations and within walking distance of some of New York's legendary sites, such as the Empire State Building, Times Square and more!
+</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>24HourFrontDesk</Code>
+    <Text>24 Hour Front Desk</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

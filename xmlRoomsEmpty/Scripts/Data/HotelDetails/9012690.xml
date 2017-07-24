@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012690</Id>
+  <Name>Shama Sukhumvit Serviced Apartment</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>39/1 SUKHUMVIT 2, SUKHUMVIT ROAD</Address1>
+    <Address2>Bumrungrad Hospital</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 02-1056000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>90</CountRooms>
+    <CountFloors>18</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/82/02/05/820205-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6548</Bytes>
+    <Caption>820205-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/82/02/05/820205-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1506</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/82/02/05/820205-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6431</Bytes>
+    <Caption>820205-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/82/02/05/820205-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1693</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/82/02/05/820205-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5229</Bytes>
+    <Caption>820205-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/82/02/05/820205-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1510</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/82/02/05/820205-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7243</Bytes>
+    <Caption>820205-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/82/02/05/820205-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1863</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/82/02/05/820205-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6844</Bytes>
+    <Caption>820205-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/82/02/05/820205-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1685</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Shama Sukhumvit Serviced Apartment is a Tourist, Family Style, Modern, City hotel, City apartment, Child Friendly hotel. Located in City Centre - Ploenchit area. Shopping is within walking distance and the nightlife/restaurants are right next to the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>A celebration of modern city living coupled with Shama's reputable signature service and world renowned Thai hospitality. Shama Sukhumvit offers 90 contemporary serviced apartments located in a prestigious residential area amongst fashionable restaurants, stylish shopping, and the central business district with nearby BTS skytrain access.This unique “resort within a city” meets the refined standards of business and leisure travellers alike. Tropical gardens awash with flora and fauna combined with contemporary furnishings, extensive clubhouse complete with rooftop swimming pool, fitness centre, kids area, yoga and meditation rooms make this property a true retreat from the bustle of the city.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Playground</Code>
+    <Text>Playground</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kidspool</Code>
+    <Text>Kids Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Babysitter</Code>
+    <Text>Babysitter</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ATMMachine</Code>
+    <Text>ATM Machine</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

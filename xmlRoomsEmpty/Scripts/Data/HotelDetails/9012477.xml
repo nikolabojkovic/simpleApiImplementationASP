@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012477</Id>
+  <Name>Mercure Bangkok Siam</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>927 Rama I Road, Wangmai, Pathumwan</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10330</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 2874 7222</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountFloors>1</CountFloors>
+    <CheckInTime>15:00</CheckInTime>
+    <CheckOutTime>11:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/91/44/55/914455-img1-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7626</Bytes>
+    <Caption>914455-img1-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/44/55/914455-img1-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1759</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/44/55/914455-img2-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8193</Bytes>
+    <Caption>914455-img2-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/44/55/914455-img2-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1895</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/44/55/914455-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5766</Bytes>
+    <Caption>914455-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/44/55/914455-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1691</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/44/55/914455-img4-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7160</Bytes>
+    <Caption>914455-img4-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/44/55/914455-img4-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1725</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/44/55/914455-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>1914</Bytes>
+    <Caption>914455-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/44/55/914455-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>838</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The MERCURE BANGKOK SIAM is a Tourist hotel. Located in BANGKOK area. Shopping is accessible by bus/taxi and the nightlife/restaurants are easily accessible by taxi or bus from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Opening December 2012Located right in the heart of Bangkok, only steps away from the National Stadium BTS Station and with easy access to public transportation, shopping malls, dining outlets and tourist attractions, Mercure Bangkok Siam is ideal for both business and leisure travellers. All rooms feature a contemporary design, fully equipped facilities and complimentary WiFi internet access. The hotel has 3 meeting rooms, swimming pool, fitness centre and a modern restaurant.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

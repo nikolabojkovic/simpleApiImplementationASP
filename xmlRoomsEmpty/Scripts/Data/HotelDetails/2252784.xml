@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252784</Id>
+  <Name>Paradiso Boutique Suites</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1/11 -12 Sukhumvit Soi 10</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2255 - 9494</Tel>
+    <Fax>(66) 2255 - 9500</Fax>
+    <Email>info@paradisosuites.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.738499</Latitude>
+    <Longitude>100.557566</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/15/58/94/155894-COM-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>14265</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1047/15/58/94/155894-COM-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2379</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Bangkok's newest designer hotel inspired by the pace and the pulse of a vibrant metropolis; the hotel is comfortable, intimate and stylish with artsy wall hangings and modern interiors ever present everywhere you look. Comfort and beauty are incomplete without each other and this is kept in mind for the entire design of the hotel from the exteriors till the furniture and fittings.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

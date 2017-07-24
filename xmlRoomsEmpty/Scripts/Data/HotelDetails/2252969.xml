@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252969</Id>
+  <Name>The Oasis Inn Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>230/8   Soi 1 Sukhumvit Rd</Address1>
+    <Address2>Sub Soi 1/1</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2 - 655 5181</Tel>
+    <Fax>(66) 2 - 252 1082</Fax>
+    <Email>room@oasisinnbangkok.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.745127</Latitude>
+    <Longitude>100.552379</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/03/03/12/15/the_oasis_inn_bangkok-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8804</Bytes>
+    <Caption>the_oasis_inn_bangkok-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/03/03/12/15/the_oasis_inn_bangkok-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2347</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/03/03/12/15/the_oasis_inn_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6414</Bytes>
+    <Caption>the_oasis_inn_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/03/03/12/15/the_oasis_inn_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1917</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/03/03/12/15/the_oasis_inn_bangkok-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>5173</Bytes>
+    <Caption>the_oasis_inn_bangkok-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/03/03/12/15/the_oasis_inn_bangkok-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2266</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/03/03/12/15/the_oasis_inn_bangkok-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7536</Bytes>
+    <Caption>the_oasis_inn_bangkok-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/03/03/12/15/the_oasis_inn_bangkok-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2181</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>An Oasis Definition Where plants grow and travelers can replenish. A place or time of relief. A retreat, refuge, haven, sanctuary. Opened in mid 2007 and residing in Soi 1 Sukhumvit Road one of Bangkoks busiest tourist areas,  The Oasis Inn Bangkok  really lives up to its name. Settled in a quite sub soi The Oasis offers a peaceful retreat from the hustle and bustle of this amazing city.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

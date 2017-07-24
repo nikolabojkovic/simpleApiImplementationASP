@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7166037</Id>
+  <Name>Ramada Encore</Name>
+  <Region>
+    <Id>52894</Id>
+    <Name>Luton </Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>London Luton Airport</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Luton</City>
+    <State />
+    <Zip>LU2 9LF</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 1582 218111</Tel>
+    <Fax>+44 1582 218111</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>51.87657831</Latitude>
+    <Longitude>-0.380740237</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296835-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>2745</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296835-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1646</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296835-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6681</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296835-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1605</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296835-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5675</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296835-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1798</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296835-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6327</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296835-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1821</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Situated 15 minutes` walk from Luton Airport`s terminal and 5 minutes` walk from Luton Parkway train station, this smart, modern hotel is ideally located for both business and leisure guests. All bedrooms are air-conditioned and have a work area, 26 inch flat-screen TV, direct dial telephone, tea/coffee facilities and iron and ironing board on request. There is a restaurant and bar on site which serves food between the hours of 7am and 10pm. Bar snacks are available 24 hours. Free WiFi is available throughout the hotel. On site parking (payable) and an airport shuttle service is available at certain times (payable).</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

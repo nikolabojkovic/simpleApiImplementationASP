@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120444</Id>
+  <Name>Radisson Blu Edwardian Heathrow</Name>
+  <Region>
+    <Id>52878</Id>
+    <Name>Heathrow</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>HEATHROW AIRPORT, 140 BATH ROAD,</Address1>
+    <Address2>HAYES MIDDLESEX</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip>UB3 5AW</Zip>
+    <Country>UK - ENGLAND</Country>
+    <Tel>00442087596311</Tel>
+    <Fax>00442087594559</Fax>
+    <Email>RESREH@RADISSON.COM</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.48161</Latitude>
+    <Longitude>-0.441298</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2178</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2171</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9008</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1932</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-lobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11807</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-lobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2104</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9380</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2083</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-restaurant2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9997</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-restaurant2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2415</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-restaurant1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9504</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-restaurant1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2070</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12130</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2279</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12122</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2059</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9837</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1914</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212551-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13024</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212551-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2352</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Radisson Blu Edwardian Heathrow Hotel is conveniently placed just moments from Londonâs Heathrow airport, making it a perfect base for short stays, stopovers or for those catching early flights. The luxury hotel is also close to Windsor Castle and Royal Park, Twickenham International Rugby, Legoland and Chessington World of Adventures. The award-winning hotel is lavish, stylish and well-equipped. Dramatic spaces, distinctive design and dedicated service come together in a location that's perfect for local, national and international events. Features include a gymnasium, complete with a full range of cardiovascular and resistance machines and free weights and a health spa offering a wide range of services and treatments from herbal saunas and plunge pools to massage and beauty treatments. The hotel also boasts two restaurants offering modern British cuisine, a wide selection of drinks and light snacks. Henley's restaurant and bar serves innovative and contemporary dishes, using high-quality ingredients, served in traditional wood paneled surroundings. In contrast, the buzzing Brasserie offers a more informal choice of food and drinks. The luxury rooms and suites at this London Heathrow hotel have a warm classic ambiance with rich fabrics and marble bathrooms. In-room amenities include complimentary Wi-Fi internet access, satellite television, pay-per-view movies and tea and coffee making facilities.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MobilePhoneNetwork</Code>
+    <Text>Mobile Phone Network</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BicycleRental</Code>
+    <Text>Bicycle Rental</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Garage</Code>
+    <Text>Garage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HiFiStereoSystem</Code>
+    <Text>HiFiStereoSystem</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

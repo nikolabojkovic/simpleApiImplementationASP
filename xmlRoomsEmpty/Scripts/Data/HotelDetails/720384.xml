@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>720384</Id>
+  <Name>Palihouse Holloway</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>8465 HOLLOWAY DRIVE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>West Hollywood (CA)</City>
+    <State />
+    <Zip>90069</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 323 656 4100</Tel>
+    <Fax>+1 +choose 323 656 4500</Fax>
+    <Email>rooms@palihouse.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>37</CountRooms>
+    <CountFloors>4</CountFloors>
+    <Latitude>34.090948</Latitude>
+    <Longitude>-118.375465</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/13/36/72/133672-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>256</Height>
+    <Bytes>15480</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/13/36/72/133672-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>87</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2304</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/13/36/72/133672-GEN-2.jpg</Url>
+    <Width>320</Width>
+    <Height>256</Height>
+    <Bytes>12238</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/13/36/72/133672-GEN-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>87</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2069</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Check-in is from 3 pm and guests are required to check out by 11 am.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel blends classic New Orleans style with European ambience. The hall includes a courtyard brasserie, an espresso bar and a lobby lounge. The lobby lounge features Moroccan tile floors, distressed leathers, a dark walnut staircase and industrial loft accents. Facilities on offer to guests include a restaurant.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

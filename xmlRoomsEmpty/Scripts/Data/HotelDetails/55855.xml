@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>55855</Id>
+  <Name>Bedford</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SOUTHAMPTON ROW</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London WC1B 4HD</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-76367822</Tel>
+    <Fax>44-20-78374653</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5196027</Latitude>
+    <Longitude>-0.1218228</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-BEDhotel_Exterior_1.jpg</Url>
+    <Width>310</Width>
+    <Height>205</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-BEDhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-BEDhotel_Lobby_1.jpg</Url>
+    <Width>300</Width>
+    <Height>218</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-BEDhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-BEDhotel_Guest_Room_1.jpg</Url>
+    <Width>275</Width>
+    <Height>202</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-BEDhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-BEDhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-BEDhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Although the hotel appears to be quite dated, with 1970's style decor and furnishings, the location and simple but comfortable accommodation make this functional, practical hotel a good choice for those on a budget. (0708RPL)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on a busy street in the Bloomsbury area, just five minutes’ walk from Russell Square and Holborn underground stations and ten minutes from Oxford Street. The British Museum is also just around the corner.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are medium in size and decorated in 1970's style, the decor is quite dated, however clean and in fair condition. The bathrooms are quite small and also in fair condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a 1970's building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Buffet-style breakfast, lunch, and dinner are all served in the restaurant, which overlooks a small secluded terrace with a pond. There is also a coffee bar, which serves snacks throughout the day.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The reception is small but pleasantly light due to the large windows looking out onto the street. The decor is 1970's style and there is a seating area available.</Text>
+  </Description>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

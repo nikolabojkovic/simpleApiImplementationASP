@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252989</Id>
+  <Name>Nana Hiso</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>88 Sukhumvit Road. Soi 3 (Nana nua)</Address1>
+    <Address2>Klongtoey Wattana</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2255 - 3311</Tel>
+    <Fax>(66) 2255 - 4020</Fax>
+    <Email>contact@nana-hiso-hotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.747478</Latitude>
+    <Longitude>100.554063</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/64/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/64/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

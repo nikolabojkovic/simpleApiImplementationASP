@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1917266</Id>
+  <Name>Best Western Burbank Airport Inn</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>7615 Lankershim Blvd hollywood</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles</City>
+    <State>California</State>
+    <Zip>91605</Zip>
+    <Country>USA</Country>
+    <Tel>8187652900</Tel>
+    <Fax>8187650200</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>44</CountRooms>
+    <Latitude>34.2088855</Latitude>
+    <Longitude>-118.3879529</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-front_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2219</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2212</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8884</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1981</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8063</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-lobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6130</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-lobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1692</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-rest.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8014</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-rest.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1915</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7785</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2072</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7063</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2001</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6735</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1809</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1221548-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7091</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1221548-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1981</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description  Accessible to many local attractions   Close proximity to shopping district   Ideal accommodations for business functions   Perfect location appropriate for both families and couples   Modern design &amp; chic guestroom décor     Location  Conveniently located in Hollywood     Recreation  Fully equipped fitness center     Restaurants &amp; Lounges  Nearby restaurant     Services  Business services available at front desk   Elevators   24 hr front desk service     Accommodation  44 guestrooms   3 star accommodations   All guestrooms are equipped with the latest comfort facilities such as FREE WIFI access in all of the hotel to cater for the modern traveler.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Dynamic service and local attractions await your arrival at the exciting  Best Western</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

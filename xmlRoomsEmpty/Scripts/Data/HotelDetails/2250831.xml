@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250831</Id>
+  <Name>Sam s Lodge Sukhumvit Soi 19</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>28-28/1 Sukhumvit Soi 19</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2253 - 2993</Tel>
+    <Fax>(66) 2255 - 4518</Fax>
+    <Email>stay@samslodge.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.739224</Latitude>
+    <Longitude>100.559948</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/05/05/00/86/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/05/05/00/86/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

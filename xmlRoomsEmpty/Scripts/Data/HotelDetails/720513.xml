@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>720513</Id>
+  <Name>Four Seasons Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>57 EAST 57TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10022</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 212 758 5700</Tel>
+    <Fax>+1 212 758 5711</Fax>
+    <Email>vipconcierge@alliedtpro.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>368</CountRooms>
+    <Latitude>40.7621419</Latitude>
+    <Longitude>-73.9714292</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4458</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2244</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14673</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2256</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8795</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1909</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9529</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2149</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8473</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1862</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13115</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2088</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8289</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1736</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8876</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1968</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6757</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1828</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel14909-spa.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9253</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel14909-spa.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2111</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Four Seasons Hotel New York is a stunning 5-star superior property offering luxury accommodation in the heart of New York. Highlights include fine dining, incredible city views, elegant decor, a 24-hour gym, contemporary spa and an excellent location near Central Park. Central Park is a leafy, open space located in the centre of Manhattan. Its vast array of leisure facilities include Central Park Zoo, Belvedere Castle, the Delacorte Theater, many cafes, restaurants, lakes, children's playgrounds, ice rinks and sports facilities, and the Metropolitan Museum of Art. Several subway stations are located in the vicinity, providing fast and easy access to other popular New York destinations. The hotel occupies an elegant 52-storey skyscraper designed by renowned architect I.M. Pei. Constructed in the early 1990s, its refined decor incorporates classic Art Deco motifs throughout. Facilities include a 24-hour gym, contemporary art gallery, whirlpool, sauna, steam room and a modern spa complex offering a range of massage and wellness treatments. Chargeable Wi-Fi is available throughout the premises. City View rooms are 46sqm and decorated in a sophisticated style with soft, natural tones. They are located on floors 6-22 and boast large windows overlooking 57th or 58th Street. Amenities include air-conditioning, a flat-screen cable TV with DVD player, video games console, work desk and safe. The marble en-suite bathrooms feature a walk-in shower, TV, bathrobes and complimentary toiletries. The Garden serves exquisite contemporary cuisine in a stunning space boasting live African acacia trees, whilst the more relaxed TY Lounge offers light international dishes and expertly-crafted cocktails in an elegant setting. Elsewhere, guests can enjoy fine Italian wines and caviar alongside exquisite champagnes and refined vodkas in the stylish Calvisius Caviar Lounge, whilst The Bar provides delicious snacks and refreshing drinks throughout the day. The hotel provides 24-hour reception, concierge and room service. Chargeable parking is possible onsite.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

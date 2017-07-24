@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3014459</Id>
+  <Name>Clarion Hotel</Name>
+  <Region>
+    <Id>21685</Id>
+    <Name>John. F. Kennedy Int'l Airport (JFK)</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>138-05 JAMAICA AVENUE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Jamaica</City>
+    <State />
+    <Zip>11435</Zip>
+    <Country>USA</Country>
+    <Tel>8774246423</Tel>
+    <Fax />
+    <Email>ihelp@choicehotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.702739</Latitude>
+    <Longitude>-73.815189</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/14/43/45/144345-GEN-1.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>14721</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/43/45/144345-GEN-1thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2364</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/43/45/144345-GEN-3.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>13356</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/43/45/144345-GEN-3thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2384</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/43/45/144345-GEN-4.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>16418</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/43/45/144345-GEN-4thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2634</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/43/45/144345-HAB-2.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>9870</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/43/45/144345-HAB-2thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2016</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The front desk is open 24 hours for assistance.</Text>
+  </Description>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

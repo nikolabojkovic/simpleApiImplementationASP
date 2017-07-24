@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>319145</Id>
+  <Name>Media Rotana</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Al Barsha South</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip />
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 435 0000</Tel>
+    <Fax>+971 4 435 0011</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>460</CountRooms>
+    <Latitude>25.0764291</Latitude>
+    <Longitude>55.2314448</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>27963</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2412</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>18173</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2516</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>15931</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2635</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>31029</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3193</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>22169</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2728</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>20054</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2470</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>33869</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2777</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>24498</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2548</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>19744</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2586</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>15093</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2375</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>12755</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1976</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>20517</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2603</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>27216</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3033</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>32848</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2964</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Guest_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>23000</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2737</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>23144</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2963</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Lobby_4.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>24394</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Lobby_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2732</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-MED3hotel_Guest_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>18753</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-MED3hotel_Guest_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2470</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A high standard property with good levels or service and comfort you would expect from a large hotel chain. Good facilities on site along with Bodylines Health Club and Outdoor Swimming Pool. RD11/08</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in Al Barsha and is strategically located in the heart of Dubai's new business hub, off Sheikh Zayed Road and opposite to Dubai Media &amp; Internet City. The hotel is convenient for those clients attending exhibitions at the World Trade Centre or who need to be close by to Jebel Ali. Very close are numerous championship golf courses, public beaches and the Mall Of Emirates.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are elegantly furnished with warm and inviting colors. All rooms feature high-speed internet connection, complimentary tea &amp; coffee making facilities, fully stocked mini-bar, multi-channel satellite television, direct dial telephone, in-room safe and hairdryer.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Two brand new multi storey towers with main entrance in the middle.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There is 5 outlets in the hotel which include a lobby lounge, pool bar and all day dining restaurant.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Hotel has medium size lobby.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

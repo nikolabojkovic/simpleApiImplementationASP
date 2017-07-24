@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1911356</Id>
+  <Name>Diamond City Hotel Pratunam</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>594/23 Soi Payanark; Rama VI Road. Bangkok</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10400</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 02 215 7333</Tel>
+    <Fax>+66 06113185</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.752277</Latitude>
+    <Longitude>100.526699</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3545</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2038</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8778</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2082</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9520</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2132</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8809</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1986</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9588</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2117</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11819</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9021</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2214</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-room0001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7862</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-room0001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1944</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8290</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2005</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8290</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1976</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8402</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2115</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9407</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2248</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1223028-room5.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8802</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1223028-room5.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2091</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From the Suvarnabhumi International Airport there is an Airport Link available that runs to the Payathai Station. From the station leaves SkyTrain that stops at the Rajthewee Station, which is nearby the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>In this air-conditioned, boutique city hotel in the centre of Bangkok, the friendly staff greet guests in the lobby with a 24-hour reception and check-out service. Here, every need is catered for and every desire anticipated. Available amenities include a newspaper stand, hotel safe, currency exchange facilities and lift access to the newly furnished guest rooms. Communal areas apart from the lobby include a TV lounge, bar and restaurant. The conference facilities may be of particular interest to business travellers, as well as the wireless Internet access (fees apply). Guests are sure to enjoy the warm hospitality at reasonable prices and the excellent service standards. Parking is available for guests arriving by car, and for a surcharge a laundry service may also be used. With its convenient location, security and privacy, not to mention delicious cuisine available around the clock from the room service (fees apply), this hotel offers accommodation within any budget.</Text>
+  </Description>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

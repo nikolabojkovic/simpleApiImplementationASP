@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120907</Id>
+  <Name>City Continental London Kensington</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>PENYWERN ROAD 11-13</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW5 9TT</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00442073736514</Tel>
+    <Fax>04402073703639</Fax>
+    <Email>info@citycontinental-kensington.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4909864</Latitude>
+    <Longitude>-0.1931881</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-buildingkensington_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4459</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-buildingkensington_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2369</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-buildingkensington.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11824</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-buildingkensington.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2298</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-cafe.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8181</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-cafe.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2098</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-dining00001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8046</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-dining00001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1898</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-kensingtonbrk.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7978</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-kensingtonbrk.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2059</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8593</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2006</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room00001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7056</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room00001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1763</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room00002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7012</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room00002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1737</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room00003.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6067</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room00003.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1636</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room00004.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7725</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room00004.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1797</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room0005.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8012</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room0005.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1858</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room0006.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7319</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room0006.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1840</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room0007.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5887</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room0007.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1629</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room0008.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7245</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room0008.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1874</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1219580-room0009.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6735</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1219580-room0009.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1725</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel is located very near to the Earl`s Court Exhibition Centre and Earls Court tube station with a 15 minute journey into the heart of the West End of London. All bedrooms have a private bathroom, telephone, TV, hairdryer and tea &amp; coffee making facilities. The decor is floral, giving a cheerful atmosphere, which is complimented by attentitive staff who provide a welcoming service. The public areas consist of a small breakfast room and a reception area.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

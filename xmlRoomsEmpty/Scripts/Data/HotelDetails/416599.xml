@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>416599</Id>
+  <Name>Rembrandt</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>11 THURLOE PLACE</Address1>
+    <Address2>.</Address2>
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW7 2RS</Zip>
+    <Country>Great Britain</Country>
+    <Tel>44 2075898100</Tel>
+    <Fax>44 2072253363</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>195</CountRooms>
+    <CountFloors>6</CountFloors>
+    <Latitude>51.495765</Latitude>
+    <Longitude>-0.170124</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/9316_1.jpg</Url>
+    <Width>480</Width>
+    <Height>381</Height>
+    <Bytes>155217</Bytes>
+    <Caption>Outside view</Caption>
+    <ThumbnailUrl>/RXLImages/1026/9316_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>88</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>19154</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/9316_2.jpg</Url>
+    <Width>480</Width>
+    <Height>320</Height>
+    <Bytes>35468</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/9316_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>22888</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/9316_3.jpg</Url>
+    <Width>320</Width>
+    <Height>480</Height>
+    <Bytes>28964</Bytes>
+    <Caption>Standard Room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/9316_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>9581</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/9316_4.jpg</Url>
+    <Width>480</Width>
+    <Height>320</Height>
+    <Bytes>39925</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/9316_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>22093</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel perfectly combines elegant Edwardian architecture with contemporary design. It offers rooms with individual, warm-toned, English country house decor.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in Knightsbridge. Victoria and Albert Museum, the Science Museum, Natural History Museum and the Royal Albert Hall are within easy reach. It provides easy access to Heathrow International Airport.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SmokingRoom</Code>
+    <Text>Smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InRoomMovies</Code>
+    <Text>In-room movies</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>*FB plus</Code>
+    <Text>*FB plus</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomSlippers</Code>
+    <Text>Room Slippers</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

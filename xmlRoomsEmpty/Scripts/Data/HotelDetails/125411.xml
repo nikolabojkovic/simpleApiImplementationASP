@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>125411</Id>
+  <Name>Hilton Los Angeles North/Glendale</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>100 West Glenoaks Boulevard</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Glendale</City>
+    <State>California</State>
+    <Zip>91202</Zip>
+    <Country>USA</Country>
+    <Tel>+1 818 956 5466</Tel>
+    <Fax>+1 818 956 5490</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>34.1592111</Latitude>
+    <Longitude>-118.2551525</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-exterior001_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3693</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-exterior001_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2014</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-exterior001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9627</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-exterior001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1931</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-fitnessctr001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8090</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-fitnessctr001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1871</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-businessctr001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7326</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-businessctr001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1765</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-coffeeinroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7369</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-coffeeinroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1878</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-restaurant003.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9898</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-restaurant003.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2274</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-restaurant001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8976</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-restaurant001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2101</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-restaurant002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8909</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-restaurant002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2003</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-pool001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8727</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-pool001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1883</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-conferencerm.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9934</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-conferencerm.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2111</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-frontdesk.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8423</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-frontdesk.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1926</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-pool002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8271</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-pool002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1868</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-terrace001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13036</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-terrace001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2301</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-tv_dskinroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6412</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-tv_dskinroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1800</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-dblroom001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6042</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-dblroom001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1611</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203757-twnroom001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7411</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203757-twnroom001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1761</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Local Attractions\nGriffith Observatory - 2 miles\nLos Angeles Zoo - 3 miles\nRose Bowl/Pasadena Old Towne - 4 miles\nNBC Studios - 5 miles\nPasadena Convention Center - 7 miles\nLA Convention Center - 10 miles\nDowntown LA - 10 miles\nRestaurants &amp; Lounges\nOnsite restaurant\nServices\nConcierge services\nElevators\nRoom service\nMeeting Facilities\n8052 –sq ft of event space for business meetings, conferences, and special occasions\nAccommodations\n351 guestrooms\nParking\nParking available for a fee\nPolicies\nSorry, no pets allowed</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Business travelers will take pleasure in their stay at the Hilton Glendale  which provides an atmosphere that is both productive and comfortable</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

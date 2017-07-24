@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2176506</Id>
+  <Name>The Soho Hotel</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4, Richmond Mews</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>W1D 3DH</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>20-75593000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>85</CountRooms>
+    <CountFloors>1</CountFloors>
+    <Latitude>51.5140114</Latitude>
+    <Longitude>-0.1336499</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/74/11/4/74114-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>10241</Bytes>
+    <Caption>74114-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/74/11/4/74114-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2234</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/74/11/4/74114-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6089</Bytes>
+    <Caption>74114-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/74/11/4/74114-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1632</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/74/11/4/74114-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6067</Bytes>
+    <Caption>74114-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/74/11/4/74114-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1703</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/74/11/4/74114-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7059</Bytes>
+    <Caption>74114-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/74/11/4/74114-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1743</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/74/11/4/74114-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7070</Bytes>
+    <Caption>74114-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/74/11/4/74114-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1829</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The The Soho Hotel is a Tourist hotel. Located in City area. and the nightlife/restaurants are easily accessible by taxi or bus from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel comprises 85 bedrooms and suites plus 6 one and two bedroom apartments with an alternative street entrance and private elevator. There are two spacious drawing rooms, REFUEL Bar and Restaurant, two state-of-the art screening rooms, four private event rooms plus a fully equipped gym with two beauty treatment rooms and a personal trainer on-site. There are four spectacular fifth floor penthouse suites each with wrap around tree-lined terraces and views stretching across London.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1695849</Id>
+  <Name>Time Opal Hotel Apartments</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>AL BARSHA CLOSE TO MALL OF EMIRATES DUBAI</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai City UNITED ARAB EMIRATES</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4472526</Tel>
+    <Fax>971-4472527</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>25.111171</Latitude>
+    <Longitude>55.201943</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-OPAhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-OPAhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Hotel was previously named Layia Opal Living Courts</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Al Barsha 5 minutes walk from famous Mall of the Emirates , 30 minutes from Dubai International airport and 10 minutes from Ibn Batouta famous mall</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Medium in size 1 bedroom consists of 1 bedroom and 1 living room with small sitting area and ceramic bath.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Tall high rise modern tower.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Medium in size with a marble floor and nice decorations , with a light colour reception desk.</Text>
+  </Description>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>204899</Id>
+  <Name>Durrants</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>26 - 32 George Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W1H 5BJ</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044 (0)2079358131</Tel>
+    <Fax>0044 (0)2074873510</Fax>
+    <Email>enquiries@durrantshotel.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5163028</Latitude>
+    <Longitude>-0.1621109</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-DURhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>209</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-DURhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-DURhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>209</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-DURhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-DURhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>209</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-DURhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Durrants offers quality and style in this 92 bedroom hotel, and includes restaurants, bar and business facilities. The antiques throughout the hotel are a reminder of the 18th century origins and create the unique Durrants atmosphere.The hotel has full concierge service for guests' convenience for making arrangements during their stay. SD 12/10</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Centrally located in the heart of London's West End, only five minutes walk to Oxford Street and ten minutes to Bond Street and Regent Street. A couple stops away by underground from the Eurostar St. Pancras Terminal and conveniently near restaurants and theatres.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All bedrooms are furnished with comfort in mind and contain attractive prints and classic English fabrics.
+Many rooms have antique furniture but all include handmade Savoir beds. Air conditioning is installed in many, but not all, of the rooms. Wireless internet access is available in all bedrooms.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>A privately owned Georgian townhouse hotel</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Durrants restaurant and bar are key features of the hotel, open to both residents and non-residents and form very much part of the hotel activity.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A small lobby area with a small seating area, with a beautiful wooden staircase.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DataPorts</Code>
+    <Text>Data ports</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingRooms</Code>
+    <Text>Meeting rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

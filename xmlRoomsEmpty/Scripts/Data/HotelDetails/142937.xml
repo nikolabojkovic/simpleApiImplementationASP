@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>142937</Id>
+  <Name>Bossotel Bangkok</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>55/8-14 Soi Charoenkrung 42/1</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10500</Zip>
+    <Country>Thailand</Country>
+    <Tel>+6626306120</Tel>
+    <Fax>6626306129</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.72112</Latitude>
+    <Longitude>100.515584</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205311-Bossotel-BK-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3990</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205311-Bossotel-BK-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2187</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205311-Bossotel-BK-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7646</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205311-Bossotel-BK-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1986</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205311-Bossotel-BK-restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6923</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205311-Bossotel-BK-restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1706</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205311-Bossotel-BK-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11717</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205311-Bossotel-BK-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2167</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205311-Bossotel-BK-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10571</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205311-Bossotel-BK-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2132</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This friendly hotel offers guests value for money in a prime location just a short walk away from Taksin Skytrain Station and Chao Phraya River Centre Pier for easy access to the Grand Palace and other major sightseeing opportunities. The 80 comfortable guest rooms all come equipped with air-conditioning, minibar, Satellite TV, personal safe, tea &amp; coffee making facilities and ensuite bathroom. A choice of two restaurants include Seven Angles serving buffet breakfast and light meals and Irene Restaurant specialising in authentic Thai cuisine, room service is also available throughout the day and evening. Guests can relax at Lyn-La Spa offering affordable massage and beauty treatments in a tranquil setting.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

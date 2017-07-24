@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>193558</Id>
+  <Name>Gild Hall - A Thompson Hotel</Name>
+  <Region>
+    <Id>21687</Id>
+    <Name>Lower Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>15 Gold Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10038</Zip>
+    <Country>USA</Country>
+    <Tel>+1 212 232 7700</Tel>
+    <Fax>+1 212 425 0330</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7077534</Latitude>
+    <Longitude>-74.0070631</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Guest_Room_1.jpg</Url>
+    <Width>359</Width>
+    <Height>360</Height>
+    <Bytes>31741</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2460</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>27886</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2608</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Lobby_2.jpg</Url>
+    <Width>358</Width>
+    <Height>360</Height>
+    <Bytes>40375</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3077</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Lobby_3.jpg</Url>
+    <Width>355</Width>
+    <Height>360</Height>
+    <Bytes>31630</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2819</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Restaurant_1.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>31647</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2881</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Meeting_Room_1.jpg</Url>
+    <Width>216</Width>
+    <Height>288</Height>
+    <Bytes>16209</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2079</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Restaurant_2.jpg</Url>
+    <Width>305</Width>
+    <Height>360</Height>
+    <Bytes>32133</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2642</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>277</Height>
+    <Bytes>34881</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3043</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>301</Height>
+    <Bytes>39010</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3040</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>25471</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2474</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>280</Height>
+    <Bytes>20414</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2126</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>22159</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2457</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>23967</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2295</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-91hotel_Guest_Room_4.jpg</Url>
+    <Width>216</Width>
+    <Height>288</Height>
+    <Bytes>15511</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-91hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2275</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on the historic Gold Street, minutes away from Wall Street and the South Street Seaport, bringing a new level of boutique luxury to Manhattan?s illustrious financial district</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Effortlessly blending classical European sensibility with American contemporary style, the hotel serves as a modern-day gentlemen?s club for the kings and queens of Wall Street.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant is a reinterpreted English tavern serving modern pub fare. Topped with rich flannel throws and mahogany details.  The hotel features a bi-level Library Bar perfectly suited for intimate cocktails and private parties</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Throughout the hotel, a classical European sensibility mixes with American contemporary taste - a harmonious blend that results in a comfortable, luxurious and unforgettable stay.Following in the tradition of men who like their cigars and love their scotch, the hotel's bi-level lobby bar is outfitted in rich brown leather with deep red accents. Bound volumes of literature and history line the walls, while an elegant chrome chandelier lights the space.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

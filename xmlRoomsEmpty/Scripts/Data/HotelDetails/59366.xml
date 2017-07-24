@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59366</Id>
+  <Name>The New York Palace</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>455 MADISON AVE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK, NY 10022</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-8887000</Tel>
+    <Fax>1-212-3036000</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>40.7581465</Latitude>
+    <Longitude>-73.975341</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>233</Height>
+    <Bytes>22427</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2225</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23553</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2495</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>202</Height>
+    <Bytes>16880</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2293</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25943</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2581</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>249</Height>
+    <Bytes>33646</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3061</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>230</Height>
+    <Bytes>27260</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2721</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>243</Height>
+    <Bytes>20625</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2550</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>212</Height>
+    <Bytes>22027</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2605</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23851</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2663</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>21836</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2677</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>247</Height>
+    <Bytes>28530</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2777</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>28715</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2772</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25893</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2796</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>24619</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2660</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Guest_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>284</Height>
+    <Bytes>12730</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1746</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>33506</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2858</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>301</Height>
+    <Bytes>17123</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1990</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>234</Height>
+    <Bytes>34530</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2725</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>30646</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2913</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Bar_Lounge_4.jpg</Url>
+    <Width>360</Width>
+    <Height>266</Height>
+    <Bytes>32180</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3091</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>216</Height>
+    <Bytes>24488</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2751</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Lobby_1.jpg</Url>
+    <Width>229</Width>
+    <Height>288</Height>
+    <Bytes>19649</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2460</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Suite_4.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>24198</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2307</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Suite_5.jpg</Url>
+    <Width>360</Width>
+    <Height>221</Height>
+    <Bytes>22901</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Suite_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2674</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Guest_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>256</Height>
+    <Bytes>17759</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Guest_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1949</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PALhotel_Guest_Room_8.jpg</Url>
+    <Width>360</Width>
+    <Height>205</Height>
+    <Bytes>21406</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PALhotel_Guest_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2559</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The landmark New York Palace brings together the facilities and amenities of a truly first-class hotel. The New York Palace Hotel is in the heart of Midtown Manhattan, a short walk from New York's Broadway theaters, Central Park, the business districts and world class designer shopping. The Palace is known for luxury, five star accommodations, spectacular views, spacious rooms and unparalleled service. A business center, meeting space and complete catering services make the Palace ideal for doing business.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Central Park
+• Fifth Avenue
+• Grand Central Station
+• Madison Square Garden
+• Madison Avenue
+• Museum Of Modern Art
+• Theatre District
+• Times Square
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>• Year Built: 1980 and Last Renovation: 1997
+• 55 story tower.
+• 22,000 square feet of elegant function space.
+• The 7,000 square foot Spa &amp; Fitness Center.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Swimming Pool
+• Fitness Centre
+• Golf
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Major credit cards are accepted.
+• Check-in: 3:00PM
+• Check-out: 12:00PM
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>Driving Directions From La Guardia Airport : Take The Grand Central Parkway -interstate 278-West. Exit Onto The Triboro Bridge -pay Toll-. BearTo The Left Manhattan Fdr South. Take The Fdr South.Exit Onto 49th Street. Follow 49th Street To 6thAvenue. Turn Right On 6th Avenue. Turn Right Onto 50th Street. The New York Palace Is Located On 50thStreet Between Madison And Park Avenues.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Gilt: Gilt has an evocative menu of Modern European cuisine.
+• Istana: An American brasserie serving an eclectic choice of appetizers, entrees and tempting desserts.
+• In-Room Dining.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

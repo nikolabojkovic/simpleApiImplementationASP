@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>58802</Id>
+  <Name>Best Western Plus Gateway Hotel</Name>
+  <Region>
+    <Id>21625</Id>
+    <Name>Santa Monica - Beach Cities</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1920 Santa Monica Blvd.</Address1>
+    <Address2>Santa Monica</Address2>
+    <Address3 />
+    <City>Los Angeles</City>
+    <State />
+    <Zip>CA  90404</Zip>
+    <Country>USA</Country>
+    <Tel>1-310-8299100</Tel>
+    <Fax>1-310-8299211</Fax>
+    <Email>info@gatewayhotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>34.028235</Latitude>
+    <Longitude>-118.480024</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BWGhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>69088</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-BWGhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2051</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BWGhotel_Entrance_1.jpg</Url>
+    <Width>360</Width>
+    <Height>193</Height>
+    <Bytes>19464</Bytes>
+    <Caption>Entrance</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-BWGhotel_Entrance_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2434</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BWGhotel_Lobby_1.jpg</Url>
+    <Width>335</Width>
+    <Height>270</Height>
+    <Bytes>21032</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-BWGhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1804</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BWGhotel_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>187</Height>
+    <Bytes>16729</Bytes>
+    <Caption>Lounge</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-BWGhotel_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1926</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BWGhotel_Bedroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>62457</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-BWGhotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1792</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BWGhotel_Bedroom_2.jpg</Url>
+    <Width>345</Width>
+    <Height>270</Height>
+    <Bytes>18950</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-BWGhotel_Bedroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1900</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BWGhotel_Restaurant_1.jpg</Url>
+    <Width>347</Width>
+    <Height>270</Height>
+    <Bytes>23152</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-BWGhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2460</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BWGhotel_Conference_facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>17604</Bytes>
+    <Caption>Conference facilities</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAX-BWGhotel_Conference_facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1831</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>All non-smoking hotel with free parking, free shuttle to the beach and shopping, free 24-hour fitness room, free wireless Internet with own laptop. (0606/CH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in the city of Santa Monica, just one mile from the beach and shopping area.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Guestrooms are comfortable and spacious.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is an attractive resort hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has an IHOP restaurant on-site, serving American meals for breakfast, lunch and dinner. Other dining options are nearby.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Lobby is medium in size with a guest sitting area and a computer station with internet access.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

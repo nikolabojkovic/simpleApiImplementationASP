@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1783942</Id>
+  <Name>The Beaufort Hotel</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>33 Beaufort Gardens</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW3 1PP</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044 (0)2075845252</Tel>
+    <Fax>0044 (0)2075892834</Fax>
+    <Email>reservations@thebeaufort.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.4977161</Latitude>
+    <Longitude>-0.1643263</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/9BDfront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/9BDthumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1966</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/9BDbed.JPG</Url>
+    <Width>401</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/9BDthumbbed.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2081</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/9BDmap.JPG</Url>
+    <Width>400</Width>
+    <Height>398</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/9BDthumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2090</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Beaufort is a boutique 4-star superior hotel offering luxury accommodation in the exclusive Knightsbridge area of London. It boasts exquisite interiors and is just steps from Harrods and Harvey Nichols. The hotel is located on Beaufort Gardens, just off Brompton Road. The Knightsbridge district is an exclusive residential area famed for its upmarket shopping centres and boutiques. Nearby places of interest include Harrods, Hyde Park, the Royal Albert Hall and the museums of South Kensington. Knightsbridge tube station is located in the vicinity, providing fast and easy access to other popular London destinations. The hotel is comprised of two grand Victorian townhouses. There are no leisure facilities onsite, but a public health club is located nearby. There is also free Wi-Fi available throughout the hotel. There is no restaurant onsite, but a room service menu is available, offering international dishes from 10:00-22:00. There are also plenty of dining opportunities in the vicinity. Deluxe rooms are large and spacious, beautifully decorated in fresh light tones. The bathrooms feature a separate marble bath and shower, bathrobes and Gilchrest &amp; Soames toiletries. Amenities include air-conditioning, satellite TV, CD player and safe. Guests also enjoy complimentary afternoon cream tea with homemade scones and free beverages from the residents bar. Chargeable public parking is possible nearby.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

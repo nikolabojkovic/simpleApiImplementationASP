@@ -1,0 +1,421 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>56839</Id>
+  <Name>Crowne Plaza Kensington</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>100 CROMWELL ROAD LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London SW7 4ER</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-73732222</Tel>
+    <Fax>44-20-73730559</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.495316</Latitude>
+    <Longitude>-0.183439</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>232</Height>
+    <Bytes>16007</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2324</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Ballroom_1.jpg</Url>
+    <Width>240</Width>
+    <Height>288</Height>
+    <Bytes>15372</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2260</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>226</Height>
+    <Bytes>20231</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2247</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>251</Height>
+    <Bytes>26740</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2338</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>12185</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1720</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16324</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1966</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>16154</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2224</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16114</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2001</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>17845</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2233</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19298</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2145</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>263</Height>
+    <Bytes>25487</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2555</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>17818</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2166</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23130</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2451</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Other_2.jpg</Url>
+    <Width>231</Width>
+    <Height>288</Height>
+    <Bytes>11890</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2257</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Lobby_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16233</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Lobby_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2007</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>24614</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2519</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Exterior_3.jpg</Url>
+    <Width>192</Width>
+    <Height>288</Height>
+    <Bytes>20553</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2816</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Lobby_5.jpg</Url>
+    <Width>292</Width>
+    <Height>288</Height>
+    <Bytes>19844</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Lobby_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2308</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Exterior_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>28240</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Exterior_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2515</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>221</Height>
+    <Bytes>16032</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2116</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>277</Height>
+    <Bytes>24363</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2453</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16249</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2067</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>214</Height>
+    <Bytes>13394</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1933</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Meeting_Room_4.jpg</Url>
+    <Width>354</Width>
+    <Height>288</Height>
+    <Bytes>14865</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1840</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Meeting_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>13635</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Meeting_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1869</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Meeting_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16606</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Meeting_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2185</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Health_Club_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20603</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Health_Club_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2253</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOL1hotel_Meeting_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>15579</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOL1hotel_Meeting_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2054</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>An excelent hotel, a perfect choice for travellers who appreciate modern comforts in an excellent location.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located directly on the busy Cromwell Road in the heart of fashionable South Kensington.Gloucester Road underground station is right opposite the hotel and offers excellent connections to all parts of London.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are large-sized on average, and in exceptional condition having been refurbished in 2009. The vivid colour schemes and dark, modern wood furniture give them a modern and designer atmosphere.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a traditional Victorian townhouse building. It is one of the few offering an extremely pleasant and rare private garden, where clients can enjoy a drink and eat when the weather allows it or just relax.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant is on the ground floor, with direct access from the street. its a very bright, full of light modern room with excellent cuisine.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is medium in size and beautifully decorated in a very modern and vibrant style.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

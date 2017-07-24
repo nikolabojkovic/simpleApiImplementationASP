@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9748664</Id>
+  <Name>41 Suite Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2/39-41 Soi Sukhumvit 41 (Pirom)</Address1>
+    <Address2>Klongton Nua, Wattana</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2662 - 5055</Tel>
+    <Fax>(66) 2662 - 5966</Fax>
+    <Email>info@41suitebangkok.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10334</Bytes>
+    <Caption>41_suite_bangkok-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2612</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9205</Bytes>
+    <Caption>41_suite_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2433</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10664</Bytes>
+    <Caption>41_suite_bangkok-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2721</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/05/00/47/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/05/00/47/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8376</Bytes>
+    <Caption>41_suite_bangkok-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2272</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8302</Bytes>
+    <Caption>41_suite_bangkok-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/05/00/47/41_suite_bangkok-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2315</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A cosy boutique hotel in the heart of central Bangkok next to Prompong Skytrain station on Sukhumvit road and surrounded by numerous restaurants luxury entertainment outlets, Benjasiri Central Park and shopping complexes embodies the essence of living well with 34 elegantly appointed rooms with a wide range of facilities.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

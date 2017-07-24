@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>63002</Id>
+  <Name>Hilton Los Angeles Airport</Name>
+  <Region>
+    <Id>21627</Id>
+    <Name>Airport (LAX)</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>5711 WEST CENTURY BOULEVARD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles</City>
+    <State>California</State>
+    <Zip>90045</Zip>
+    <Country>USA</Country>
+    <Tel>1-310-4104000</Tel>
+    <Fax>1-310-4106177</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>33.946003</Latitude>
+    <Longitude>-118.381677</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20086</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2189</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>317</Height>
+    <Bytes>26309</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2124</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>19450</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2092</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21513</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2427</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>12279</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1821</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>17105</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1832</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20250</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2158</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20909</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2243</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>14537</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1791</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19036</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2102</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22261</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1944</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23246</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2294</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>17054</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2032</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Lobby_1.jpg</Url>
+    <Width>283</Width>
+    <Height>360</Height>
+    <Bytes>24583</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2230</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>17707</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2158</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>14351</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1883</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>16324</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1844</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>283</Height>
+    <Bytes>26889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2303</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_8.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>30361</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2550</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_9.jpg</Url>
+    <Width>360</Width>
+    <Height>283</Height>
+    <Bytes>28810</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2493</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>22735</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2174</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>17289</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2024</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Other_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>16279</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1992</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Meeting_Room_10.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>17820</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Meeting_Room_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2053</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>17247</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2100</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>19618</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2092</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>13728</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1937</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-HILhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>13056</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-HILhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1812</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>For leisure, the fitness centre of this hotel is open 24 hours a day. There is a sparkling swimming pool and four whirlpool spas. The LAX Airport Hotel is just a quarter mile from Los Angeles Airport. Complimentary shuttle service to and from the LAX airport is available 24 hours a day. (0308/KC)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located a quarter mile from the airport and 2 miles from Manhattan Beach. The Manhattan Village Shopping Centre can be reached using the scheduled complimentary shuttle service operated by Ocean Express. Airport shuttle service is every 15 minutes.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The spacious rooms are tastefully decorated and feature Suite Dreams bed with triple sheeting and 100% percale linens, luxurious down comforters, high-speed Internet access, large flat-screen TV and a clock radio with MP3 player connection. The business floor features desks, dataport/voicemail telephone and an executive lounge. All rooms are equipped with high-speed Internet, voicemail/dataport telephones, irons/boards, coffee makers, hair dryers and televisions, featuring over 50 movie selections.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is a sophisticated high-rise convention hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Casual dining is offered at either the cafe, which serves delicious buffets for breakfast, lunch and dinner, as well as an a la carte menu; or at the bistro for to go dinners, or a quick snack - night or day (open 24 hours). For dinner, there is a northern Italian restaurant with a more romantic setting. A sports bar provides several televisions for watching sporting events.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The hotel offers a large, breathtaking lobby with a grand staircase and comfortable seating areas.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>20</Rank>
+</HotelElement>

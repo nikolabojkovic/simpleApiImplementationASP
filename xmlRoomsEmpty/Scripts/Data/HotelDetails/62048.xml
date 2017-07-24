@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>62048</Id>
+  <Name>Hilton Garden Inn Hollywood</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2005 N HIGHLAND AVE HOLLYWOOD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles 90068</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-323-8768600</Tel>
+    <Fax>1-323-8763272</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>34.1066228</Latitude>
+    <Longitude>-118.3374838</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4501</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2339</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11886</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2156</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-diing.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7635</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-diing.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1874</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-dining1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12588</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-dining1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2251</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9361</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2164</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8313</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1950</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8403</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1985</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-lounge1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7945</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-lounge1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1919</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12512</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2237</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9094</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2025</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-pool1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9429</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-pool1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2000</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6750</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6750</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6812</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1724</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1260350-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6722</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1260350-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1771</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel will become a Hilton Garden Inn effective March 1, 2012.    Hollywood Heights Hotel is a business-friendly hotel located in central Hollywood, close to Hollywood Bowl, Kodak Theater, and Grauman's Chinese Theatre. Additional points of interest include Hollywood Walk of Fame and Hollywood Sign. Recreational offerings at the hotel include an on-site fitness centre, outdoor pool and spa. NOTE: This property is a non-smoking hotel. (0607/CH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in the heart of Hollywood, one block from Hollywood Boulevard and the Hollywood Bowl.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Guestrooms are beautifully appointed, equipped with electronic key access, iron and ironing boards, coffee makers, work stations with telephones, Internet access, dataports, voicemail and wake-up service.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a 7-storey hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The cafe is open for breakfast and dinner, and the lounge is open nightly for cocktails and appetizers.</Text>
+  </Description>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

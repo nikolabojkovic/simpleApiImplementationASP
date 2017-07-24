@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7710558</Id>
+  <Name>Chiswick Rooms</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>407 Goldhawk Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W6 0SA</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044 (0)2033070400</Tel>
+    <Fax>0044 (0)2085639255</Fax>
+    <Email>stay@chiswickrooms.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/C6Efront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/C6Ethumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1962</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/C6Ebed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/C6Ethumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1827</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/C6Emap.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/C6Ethumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1765</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Chiswick Rooms is a stylish 4-star boutique hotel offering modern accommodation in west London. Highlights include free Wi-Fi and a good location close to a tube station. Chiswick is an affluent suburb just north of the River Thames in west London. It boasts a several large green spaces, beautiful historic buildings, 19th-century pubs and a wealth of shops, restaurants and bars. Nearby places of interest include Chiswick House, Duke's Meadow, the Broadway Centre, Westfield London Shopping Centre, Hammersmith Apollo and the London Wetland Centre. Stamford Brook tube station is located in the vicinity, providing fast and easy access to other popular London destinations. The hotel is housed in a small mid-rise building featuring a light brick facade with decorative, black and white plaster on the ground floor. There are no leisure facilities onsite. There is no restaurant onsite, but there are plenty of dining opportunities in the vicinity. Standard rooms are cosy and showcase a modern decor with parquet flooring and minimalist furniture. Amenities include tea and coffee equipment, free Wi-Fi, a work desk, mini-fridge, iPod dock and flat-screen satellite TV. The en-suite bathrooms feature a walk-in shower and complimentary toiletries. The hotel has a 24-hour reception. Chargeable parking is possible nearby.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

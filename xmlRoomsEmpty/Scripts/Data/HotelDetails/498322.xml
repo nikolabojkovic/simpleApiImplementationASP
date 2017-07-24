@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>498322</Id>
+  <Name>Lancaster</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4-6 Bedford Place</Address1>
+    <Address2>London</Address2>
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>Wc1b 5jd</Zip>
+    <Country>U.k.</Country>
+    <Tel>020 76373400</Tel>
+    <Fax>020 74368253</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>35</CountRooms>
+    <Latitude>51.5200102</Latitude>
+    <Longitude>-0.1238642</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/16/06/5/16065-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>15145</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/16/06/5/16065-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2420</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Nearest underground station is Russell Square, Come out of the station and turn left and walk towards Russell Square. After crossing the road turn left and walk along the Russell Square Garden, turn right into Russell Square. First left is Bedford Place and the hotel is on the left.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Hotel is a new hotel with original Georgian features, it offers a quiet and comfortable stay with quality service, great views and 2 restaurants.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

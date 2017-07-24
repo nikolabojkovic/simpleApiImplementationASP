@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9015752</Id>
+  <Name>Al Ghurair Rayhaan By Rotana</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>OMAR BIN AL KHATTAB ROAD NEXT TO AL GHURAIR MALL</Address1>
+    <Address2>Al Ghurair Mall</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>185051</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 9714-2933000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>428</CountRooms>
+    <CountFloors>20</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/91/14/75/911475-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>4667</Bytes>
+    <Caption>911475-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/14/75/911475-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1393</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/14/75/911475-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>3347</Bytes>
+    <Caption>911475-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/14/75/911475-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1279</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/14/75/911475-img3-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5985</Bytes>
+    <Caption>911475-img3-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/14/75/911475-img3-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1762</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/14/75/911475-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8363</Bytes>
+    <Caption>911475-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/14/75/911475-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1993</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/14/75/911475-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>3347</Bytes>
+    <Caption>911475-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/14/75/911475-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1279</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The AL GHURAIR RAYHAAN BY ROTANA is a Tourist, Family Style, Business, Leisure, City hotel, Airport Hotel, Spa Resort, Full Service hotel. Located in City Centre - Deira area. Shopping is right next door and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The word rayhaan is now synonymous to world class arabic hospitality. rayhaan properties are a breath of fresh air with their modern design cues complementing the values of arabian culture. al ghurair rayhaan by rotana is a proud addition to the rayhaan family. respecting the beliefs and culture of our guests, this alcohol free environment hotel is a magnificent 5 star hotel. the splendor of the hotel is decked with pristine services and alluring comforts which is a rotana trade mark.deira is one of the most bustling locations in the emirate of dubai. al ghurair rayhaan by rotana is nestled in the heart of deira and is linked to the new extension of the renowned al ghurair centre, with a few kilometers away from dubai international airport, walking distance from union metro station (central hub to all metro stations) and stone's away from the beautiful dubai creek. the booming location is an exciting integration of shopping, residential living and commercial activity.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Babysitter</Code>
+    <Text>Babysitter</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ATMMachine</Code>
+    <Text>ATM Machine</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SquashCourt</Code>
+    <Text>Squash Court</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

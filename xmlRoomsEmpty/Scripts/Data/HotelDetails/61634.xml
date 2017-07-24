@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>61634</Id>
+  <Name>Gansevoort Meatpacking NYC</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>18 NINTH AVENUE NEW YORK</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NY 10014</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-2066700</Tel>
+    <Fax>1-212-2555858</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>40.73988</Latitude>
+    <Longitude>-74.0061336</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GAN1hotel_Exterior_1.jpg</Url>
+    <Width>270</Width>
+    <Height>350</Height>
+    <Bytes>19238</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-GAN1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2088</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GAN1hotel_Bedroom_1.jpg</Url>
+    <Width>353</Width>
+    <Height>270</Height>
+    <Bytes>13978</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-GAN1hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1901</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-GAN1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>70205</Bytes>
+    <Caption>Swimming Pool</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-GAN1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1988</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This unique property in the trendy Meatpacking District of Manhattan, offers a rooftop lounge and a 45-foot heated outdoor, glass-surrounded, swimming pool with underwater music, the first of its kind in Manhattan.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on the corner of Ninth Avenue and 13th Street in Manhattan's trendy Meatpacking District.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Rooms are spacious, (250 sq. ft.) with lofty nine-foot ceilings and are queen or king bedded, featuring plush feather beds, hypo-allergenic down duvets, 400 thread count Egyptian Cotton Linens and LCD TV's/ CD Players.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a 14-story glass and zinc-colored metal paneled structure. The hotel' s entrance on Ninth Avenue features 18-foot internally illuminated glass columns and a 14-foot high revolving door.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>A multi-level indoor/outdoor Japanese bar and restaurant is on premises.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby includes intimate sitting nooks for relaxing and socializing, plus a dedicated reception and concierge areas lobby. The public areas of the hotel displays artwork from Wooster Projects, one of the Meatpacking Districts' prominent galleries.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

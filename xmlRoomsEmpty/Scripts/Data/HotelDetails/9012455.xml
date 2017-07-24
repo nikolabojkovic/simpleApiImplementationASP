@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012455</Id>
+  <Name>Aim Sathorn Hotel</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>106/1, SOI SRI-BAMPHEN, SATHORN ROAD, SATHORN</Address1>
+    <Address2>Sathorn</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10120</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 66-22866657</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>45</CountRooms>
+    <CountFloors>7</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/91/55/15/915515-img1-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7933</Bytes>
+    <Caption>915515-img1-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/55/15/915515-img1-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1832</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/55/15/915515-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5444</Bytes>
+    <Caption>915515-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/55/15/915515-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1556</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/55/15/915515-img3-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8948</Bytes>
+    <Caption>915515-img3-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/55/15/915515-img3-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2158</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/55/15/915515-img4-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8827</Bytes>
+    <Caption>915515-img4-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/55/15/915515-img4-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2084</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/55/15/915515-img5-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>4801</Bytes>
+    <Caption>915515-img5-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/55/15/915515-img5-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1459</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The  Aim Sathorn Hotel is a Tourist, City hotel hotel. Located in City Centre - Sathorn area. Shopping is accessible by bus/taxi and the nightlife/restaurants are Restaurant Local Cuisine the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Aim Sathorn Hotel is located at the center city of Bangkok. The hotel is just opening in December 2012, decoreated with simple design and comfort. The hotel offers comfort living and perfect location for budget travellers. The hotel features 45 rooms; Superior Room (Twin or Double), Deluxe Room (Twin), and One Bedroom Suite (Double)Superior Room with area of 25 sqm offers Twin or Double, private bathroom and balcony, air condition, satellite TV, Telephone, Minibar, free in-room wifi and all public area.Deluxe Room features more space ( 33 sqm ) with Twin bed, private bathroom and balcony, air condition, satellite TV, Telephone, Minibar, free in-room wifi and all public area.One Bedroom Suite: 57 sqm offers Double bed, private bathroom and balcony, sitting arean, air condition, satellite TV, Telephone, Minibar, free in-room wifi and all public area.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

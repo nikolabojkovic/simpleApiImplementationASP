@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1296500</Id>
+  <Name>Marlin Apartments Londinium Tower</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>MANSELL STREET 87</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>E1 8AP</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>02073784840</Tel>
+    <Fax>02073784841</Fax>
+    <Email>enquiries@marlinapartments.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5116243</Latitude>
+    <Longitude>-0.0730555</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/94/50/3/94503-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>10155</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/94/50/3/94503-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2168</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/94/50/3/94503-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>214</Height>
+    <Bytes>13243</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/94/50/3/94503-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2500</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/94/50/3/94503-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>11380</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/94/50/3/94503-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2233</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From Tower Bridge, heading northbound, enter the middle lane on descent from the bridge and take the road heading northbound onto Minories Street. Follow the road round to the right and take the left lane at the lights. The building is directly to the right on crossing the traffic lights, above Goodmans Field public house. Car parking facilities are located on South Tenter Street (E1). Please follow the one-way system, turn right on Mansell Street onto Alie street, and then 1st right onto St Marks Street. South Tenter is the 3rd right and takes you to the car park at the rear of the development.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Check-in time is 3 pm and check-out time is 10.30 am. Please note: The agent will notify access codes to the building. If guests have not received or could not access their booking confirmation directly via email it is very important they contact reservations prior to arrival to receive these codes and directions to the development before 7 pm on the day of check-in.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kitchen</Code>
+    <Text>Kitchen</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Balcony</Code>
+    <Text>Balcony</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

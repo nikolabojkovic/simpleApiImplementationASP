@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2251247</Id>
+  <Name>Bansabai Hostel</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>8/137 Moo 3, Soi Sahakorn 15</Address1>
+    <Address2>Latphrao 71, Latphrao Rd</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(662) 539 - 0150</Tel>
+    <Fax>(662) 538 - 4387</Fax>
+    <Email>mkt@bansabaihostel.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.816692</Latitude>
+    <Longitude>100.609757</Longitude>
+  </GeneralInfo>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

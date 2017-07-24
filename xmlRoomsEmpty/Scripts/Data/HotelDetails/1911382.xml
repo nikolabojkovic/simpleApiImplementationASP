@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1911382</Id>
+  <Name>Feung Nakorn Balcony Rooms and Cafe</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>125 Trok Feung Thong; Feung Nakorn road; Kwang Wadrachaborpid; Pharnakorn</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10200</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 26221100</Tel>
+    <Fax>+66 26223632</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>41</CountRooms>
+    <Latitude>13.748702</Latitude>
+    <Longitude>100.497726</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-main_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2413</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2400</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-dininig.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11434</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-dininig.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2171</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7999</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1932</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11719</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2093</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7090</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1824</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6099</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1702</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6745</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1785</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5849</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1677</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231675-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6636</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231675-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1843</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nAccessible to many local attractions\nGreat combination for business and pleasure\nPerfect for weekend getaway\nClose proximity to historic district\nLocation\nConveniently located in Bangkok\nRestaurants &amp; Lounges\nOnsite restaurant\nAccommodation\n41 guestrooms\nContemporary guest rooms</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The Feung Nakorn Balcony Rooms and Cafe is ideal of either vacationing or busy travel</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

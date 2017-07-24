@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>721888</Id>
+  <Name>The Greenwich Hotel - Atp10</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>377 Greenwich Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10013</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 212 941 8900</Tel>
+    <Fax>+1 212 596 1080</Fax>
+    <Email>vipconcierge@alliedtpro.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>88</CountRooms>
+    <CountFloors>8</CountFloors>
+    <Latitude>40.7199929</Latitude>
+    <Longitude>-74.0100365</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/20/58/1/20581_1.jpg</Url>
+    <Width>300</Width>
+    <Height>256</Height>
+    <Bytes>19020</Bytes>
+    <Caption>Outside view of hotel</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20/58/1/20581_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>82</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2338</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/20/58/1/20581_2.jpg</Url>
+    <Width>300</Width>
+    <Height>162</Height>
+    <Bytes>11661</Bytes>
+    <Caption>Hotel lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20/58/1/20581_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>129</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3112</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/20/58/1/20581_3.jpg</Url>
+    <Width>300</Width>
+    <Height>163</Height>
+    <Bytes>8265</Bytes>
+    <Caption>Standard room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20/58/1/20581_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>128</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2392</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/20/58/1/20581_4.jpg</Url>
+    <Width>300</Width>
+    <Height>133</Height>
+    <Bytes>10038</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20/58/1/20581_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>157</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3865</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Boasting an ideal blend of old world charm and modern technology, this hotel offers an array of amenities that sophisticated travellers expect. Individually decorated, the guestrooms feature furnishings drawn from a wide range of cultural influences - from the hand-loomed Tibetan silk rugs to the patterns of Moroccan tiles.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on Greenwich Street in New York, close to Battery Park City. Some of the city attractions are World Trade Center - Ground Zero, Brooklyn Bridge, Empire State Building and Statue of Liberty.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

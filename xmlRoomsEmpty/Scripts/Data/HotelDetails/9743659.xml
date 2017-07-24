@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9743659</Id>
+  <Name>Ratchada City</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1,3,5,7,9 Soontornsiri</Address1>
+    <Address2>Pracharajbumphen Rd</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2 - 275 - 0088</Tel>
+    <Fax>(66) 2 - 275 - 0099</Fax>
+    <Email>contact@ratchadacityhotel.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/09/10/10/00/35/ratchada_city-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9478</Bytes>
+    <Caption>ratchada_city-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/09/10/10/00/35/ratchada_city-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2265</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/09/10/10/00/35/ratchada_city-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>4352</Bytes>
+    <Caption>ratchada_city-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/09/10/10/00/35/ratchada_city-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2623</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/09/10/10/00/35/ratchada_city-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7233</Bytes>
+    <Caption>ratchada_city-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/09/10/10/00/35/ratchada_city-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2133</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Ratchada City Hotel is located in a rapidly developing business and entertainment district of bangkok. One of its major through fares shopping and entertainment areas within walking distance. The Thailand Cultural Center is 800 m. away and Huay Khwang Subway Station only 100 m. away. Convenient access to the express way making the journey to Don Muang International Airport just 30 minutes drive.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

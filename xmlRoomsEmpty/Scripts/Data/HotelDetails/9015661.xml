@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9015661</Id>
+  <Name>Cosmopolitan Hotel</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>AL BARSHA 1</Address1>
+    <Address2>Mall Of The Emirates</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>38250</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-3762222</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>114</CountRooms>
+    <CountFloors>7</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/2V5front.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/2V5thumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1746</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/2V5bed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/2V5thumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1810</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/2V5map.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/2V5thumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1691</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Cosmopolitan is a luxurious 4-star hotel offering elegant accommodation in the heart of Al Barsha. Highlights include a spa and free Wi-Fi. Al Barsha is located relatively close to Dubai Marina and contains several modern, residential neighbourhoods. Nearby places of interest include Dubai Internet City, the Mall of the Emirates and Jebel Ali Race Course. Sharaf DG metro station is located in the vicinity, providing fast and easy access to other popular Dubai destinations. The hotel occupies a modern mid-rise property. Facilities include an outdoor rooftop swimming pool, whirlpool, sauna and gym. A range of massages and spa treatments are available on request. Free Wi-Fi is available throughout the premises. Deluxe rooms are 31sqm and decorated in a bright elegant style. They feature a small sitting area. Amenities include a flat-screen satellite TV, iPod dock, safe, microwave and work desk. The en-suite bathrooms feature a bathtub and walk-in shower. The Ginger restaurant offers international dishes in a relaxed and friendly setting. Guests can enjoy a range of drinks at the hotel bar. Free parking is possible onsite. The hotel has a 24-hour reception.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Babysitter</Code>
+    <Text>Babysitter</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

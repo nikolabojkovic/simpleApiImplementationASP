@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252960</Id>
+  <Name>La Residence Bangkok</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>173/8-9 Suriwongse Road</Address1>
+    <Address2>Bangrak</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2233 - 3301</Tel>
+    <Fax>(66) 2237 - 9322</Fax>
+    <Email>info@laresidencebangkok.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.728077</Latitude>
+    <Longitude>100.525911</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8807</Bytes>
+    <Caption>la_residence_bangkok-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2243</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8089</Bytes>
+    <Caption>la_residence_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2159</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10369</Bytes>
+    <Caption>la_residence_bangkok-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2335</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>3760</Bytes>
+    <Caption>la_residence_bangkok-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2297</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8339</Bytes>
+    <Caption>la_residence_bangkok-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2172</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6724</Bytes>
+    <Caption>la_residence_bangkok-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/16/81/la_residence_bangkok-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1972</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A small hotel. Not one of those great marble and brass monuments but a small, intimate place you can call home right in the heart of Bangkok. It may be small but what a touch of class! And its only a step away from all the top shopping and night spots right on Suriwongse Road, next door to downtown Silom.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

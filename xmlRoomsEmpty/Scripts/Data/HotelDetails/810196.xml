@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>810196</Id>
+  <Name>Conrad Residences</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>All Seasons Place</Address1>
+    <Address2>87/3 Wireless Road</Address2>
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10330</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2-690-9999</Tel>
+    <Fax>+66 2-690-9000</Fax>
+    <Email>reservations@conradbangkok.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>112</CountRooms>
+    <CountFloors>7</CountFloors>
+    <Latitude>13.738572</Latitude>
+    <Longitude>100.548388</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-CON1hotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-CON1hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>With a minimum 7-night stay /in an exception of peak period/ all guests of the Conrad Bangkok Residences are able to take advantage of the facilities and amenities of the Conrad Bangkok hotel in the privacy of a beautifully-appointed apartment. Conrad Bangkok Residences are comprised of a total of 112 luxurious rooms on 7 stories ranging from studio suites to one and two bedroom deluxe suites. The residences feature 112 rooms furnished in a contemporary Thai style with silk and wood each equipped with 3 phones with 2 phone lines voicemail and data port link to Broadband high speed internet access. All rooms boast bathrooms with a bathtub and separate shower stall. Rooms include mini bar refrigerator coffee and tea making facilities a spacious work desk and fully equipped kitchen with electric stove cooking equipment microwave oven refrigerator toaster kitchen utensils and tableware . The hotel's dining outlets include Japanese Chinese and International with an Italian touch and entertainment and a Coffee Shop with a relaxed bar off the lobby. The hotel business center is available to guests 24 hours and includes private meeting rooms satellite video conferencing mobile phone rental and a full range of secretarial services. Relaxation and fitness is accommodated on the entire 7th Floor and adjoining roof top garden with a spa comprised of 15 treatment rooms and state-of-the-art fitness center. The rooftop gardens feature an outdoor pool 2 lighted tennis courts and jogging track.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Bangkok's most sought after serviced apartments are located within the Conrad Bangkok Hotel in All Seasons Place. Situated in the heart of the business and embassy district All Seasons Place is already well positioned as the city's most prestigious office and multi-use development.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Cafe  2 - Open kitchens willing chefs. A buffet that's not. Browse point and choose. Then watch as the freshest produce is cooked to your desire. We call it the "Culinaria". You'll call it the place to get connected. Seafood Buffets International guest chefs afte. 87 - Dinner. Drinks. DJ's. Dancing. Choose from the best of fine Italian cuisine by Chef Nicola Coccia our Italian Inspiration puts his spin on modern Italian cuisine. Groove to mellow adjustments of mood then trace trails of cool as the night builds to boilin. Liu - A single character a sweep of meaning. New thinking. New feeling. Contemporary takes on classics of Chinese cuisine and the art of tea brought back to the future. Drinking Tea Eating Rice - Perfection in simplicity. Food as art dining as contemplation distilled to essence. Sashimi Sushi Sake Teppanyaki. Japanese cuisine as it was meant to be. pure and real. City Terrace - Pool Restaurant - Pool side restaurant with healthy juices snacks and sandwiches available. DELI by Conrad.</Text>
+  </Description>
+  <Amenity>
+    <Code>InRoomMovies</Code>
+    <Text>In-room movies</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PetsAllowed</Code>
+    <Text>Pets allowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Tours</Code>
+    <Text>Tours</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>*FB plus</Code>
+    <Text>*FB plus</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

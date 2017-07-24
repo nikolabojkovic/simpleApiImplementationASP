@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>122289</Id>
+  <Name>Flatotel New York City</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>135 WEST 52ND STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10019</Zip>
+    <Country>USA</Country>
+    <Tel>212 887 9400</Tel>
+    <Fax>212 887 9442</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>198</CountRooms>
+    <CountFloors>46</CountFloors>
+    <CountSuites>90</CountSuites>
+    <Latitude>40.761821</Latitude>
+    <Longitude>-73.980947</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Exterior_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>247</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Guest_Room_6.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-92hotel_Guest_Room_7.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-92hotel_Guest_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Flatotel will dazzle you with their fresh contemporary design, and state of the art amenities. With the intimacy of a boutique hotel, and the concept of the “hearth being the heart &amp; soul of a house. Located in Midtown Manhattan, this contemporary hotel is one block from Broadway theaters and within two blocks of Rockefeller Center, the Museum of Modern Art (MoMA), and Fifth Avenue shopping. With a lobby that includes cowhide seating, slate floor, and sleek lounge, Flatotel establishes an easygoing ambience that attracts guests from the entertainment and fashion worlds as well as leisure travelers. Photographers sometimes use the lobby and the summertime outdoor café/bar for fashion shoots.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Broadway theaters - 1 block
+• Fifth Avenue shopping - 1.5 blocks
+• Rockefeller Center - 2 blocks
+• Museum of Modern Art - 2 blocks
+• Radio City Music Hall - 3 blocks
+• St. Patrick's Cathedral - 4 blocks
+• Saks Fifth Avenue - 4 blocks
+• Carnegie Hall - 5 blocks
+• Central Park - 7 blocks
+• Columbus Circle (Time Warner Center, CNN tour, shopping/dining) - 8 blocks
+• Times Square - 10 blocks
+• Central Park Zoo - 12 blocks
+• Lincoln Center for the Performing Arts - 0.75 mile
+• Grand Central Terminal - 0.75 mile
+• Empire State Building - 1 mile
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>This 46-story hotel offers 288 guestrooms and suites, all with oversized windows. Unremodeled Suites offer up to 1,400 square feet of space, 1990s white mica furniture, full kitchens, and pull-down beds or sofa beds in the living area. Suites include two TVs but no Internet access.
+Deluxe Guestrooms offer up to 350 square feet, dark-wood furniture, king or queen platform beds, Egyptian-cotton linens, and headboards with dual reading lights. Desks have ergonomic chairs and complimentary high-speed Internet connections.
+All rooms and suites include shower/tub combinations, oversized showerheads, sinks, microwaves, and refrigerators. Most TVs have built-in VCRs. For others, complimentary VCR/DVD players are available on request. Micro-fiber bathrobes are also available on request.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>Central Park, seven blocks north, encompasses 843 acres of meadows, woods, cliffs, ravines, gardens, paths, and lakes in an emerald setting. Popular walking and running routes include Central Park Drive (closed to traffic during scheduled hours) and the path around the Jacqueline Kennedy Onassis Reservoir. The Loeb Boathouse, on a 20-acre lake, offers rowboat and bicycle rentals. The Wollman Memorial Skating Rink has ice-skating in the winter, in-line skating during the warmer months, and splendid views of the park and city year-round.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• All Major credit cards are accepted.
+• Check-In: 3:00 Pm.
+• Checkout: 12:00 Pm.
+• Express Check-In and Express Checkout</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Moda Restaurant &amp; Lounge - Seasonal menu of Mediterranean/Italian fare. Tall booths, banquettes. Black chairs, white linens. Breakfast daily. Lunch choices such as Lobster Salad Brioche, risotto, pasta. Dinner menu adds choices such as Crisp Pork Loin, Lamb Stuffed with Figs and Pine Nuts, Duck Breast with Apples and Ravioli. Bar service midday to late night. Complimentary morning coffee at bar.
+Loggia - Outdoor bar/restaurant in public glass-ceiling walkway between West 52nd and West 53rd streets. Open in warm weather for lunch, dinner, cocktails. Same menu as Moda Restaurant &amp; Lounge.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

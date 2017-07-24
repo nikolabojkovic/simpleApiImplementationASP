@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>5303964</Id>
+  <Name>Sherry Netherland</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>781 5th Ave</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip>10022</Zip>
+    <Country>USA</Country>
+    <Tel>(212) 355-2800</Tel>
+    <Fax>(212) 319-4306</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.764314</Latitude>
+    <Longitude>-73.972522</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Centrally located in Midtown Manhattan on Fifth Avenue, this hotel is situated directly across from the Grand Army Plaza, Central Park's main entrance, and offers unbeatable services and luxurious amenities. The Sherry Netherland welcomes guests with Belgian Chocolates and a bouquet of flowers. The hotel's full concierge boasts services such as sports and theater ticket sales. Guests can relax with an in-room massage, workout in the state-of-the-art fitness center or visit the celebrity beauty salon and barbershop. Relax in a spacious guestroom or suite with hand-crafted decor, high ceilings and marble bathrooms at the Netherland Sherry. Visitors will enjoy stunning views of Central Park or 59th Street. The in-room refrigerator offers mineral water and soft drinks, great for a refreshing drink after a long day.
+
+Facility Includes :
+- Complimentary High-speed wireless Internet access
+- Parking $55 per day (subject to change)
+- Alarm clock/radio 
+- Iron and ironing board 
+- In-room safe 
+- Coffee/tea maker
+- Voicemail &amp; free local calls 
+- Restaurant
+- Concierge services
+- Business Center
+- Fitness Center</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- No triple or quad occupancy available.
+- The Hotel is 100% non-smoking.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1920698</Id>
+  <Name>Dunes Hotel Apartment Al Barsha</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>Near Mall of Emirates</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>115557</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+9714 323 6333</Tel>
+    <Fax>+ 9714 323 6336</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>69</CountRooms>
+    <Latitude>25.11461</Latitude>
+    <Longitude>55.199593</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>1955</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1952</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9280</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2146</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8077</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1956</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9989</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2197</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7657</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1738</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8239</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1828</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8068</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1793</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8807</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2104</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7330</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1884</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7949</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1951</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1226713-room5.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7917</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1226713-room5.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1912</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Dunes Hotel Apartment Barsha is located within 5km of some of the cityï½s top business centres, including Dubai Media City, Internet City and Knowledge Village.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This city hotel is air-conditioned and guests are welcomed in a lobby with a 24-hour reception service. Facilities include a hotel safe, currency exchange, cloakroom and lift access. There is a hairdressing salon, café and restaurant on the premises. WLAN Internet access is available and guests can take advantage of the room and laundry services on offer. Guests arriving by car may park their vehicle in the hotel's car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1783956</Id>
+  <Name>Town Hall Hotel</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Patriot Square, Bethnal Green</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>E2 9NF</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044 (0)2078710460</Tel>
+    <Fax>0044 (0)2076210311</Fax>
+    <Email>reservations@townhallhotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5306146</Latitude>
+    <Longitude>-0.0556963</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>15607</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1955</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>23406</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2670</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>274</Height>
+    <Bytes>27258</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2573</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Exterior_1.jpg</Url>
+    <Width>281</Width>
+    <Height>360</Height>
+    <Bytes>26995</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2337</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23213</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2616</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>265</Height>
+    <Bytes>25282</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2641</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>15962</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2133</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>35877</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3196</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Suite_1.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>24668</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2537</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>259</Height>
+    <Bytes>18796</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2239</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>17790</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2093</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>24559</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2405</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>279</Height>
+    <Bytes>15913</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1878</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Swimming_Pool_2.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>22996</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2625</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_4.jpg</Url>
+    <Width>265</Width>
+    <Height>360</Height>
+    <Bytes>13969</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1801</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Other_2.jpg</Url>
+    <Width>260</Width>
+    <Height>360</Height>
+    <Bytes>22408</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2150</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Other_3.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>26897</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2252</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Restaurant_2.jpg</Url>
+    <Width>259</Width>
+    <Height>360</Height>
+    <Bytes>18269</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2172</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>23138</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2393</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Other_4.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>20674</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Other_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2175</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>22967</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2609</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_7.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>15147</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2003</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>24483</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2962</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_8.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>19196</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2221</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25832</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2757</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_9.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>16738</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2144</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-TOW4hotel_Guest_Room_10.jpg</Url>
+    <Width>360</Width>
+    <Height>266</Height>
+    <Bytes>20477</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-TOW4hotel_Guest_Room_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2256</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A delight to relax in, but easily long enough for a satisfying swim, the pool area was designed in shades of white marble with touches of brass to recall the elegance and charm of a traditional spa. Natural light falls from the roof and catches the reflective tiles which line the pool, turning the water a shimmering green, blue and copper as the day progresses.  If you?re looking to let off some steam after a long day?s work, our fitness centre has everything you need. Conveniently situated in the basement of the hotel, but naturally lit by a large skylight, we have a full range of equipment in a glass-walled gym that overlooks the 15 metre swimming pool. Showers and changing facilities are provided for both men and women.  Pool and fitness centre are open from 7am to 10pm for the use of guests, but are not supervised.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Town Hall hotel is located in the heart of London's vibrant East End. Only 20 minuted walking from London's financial district and well-connected to The City and the West End by tube and train. The celebrated and vibrant area of Shoreditch , Hoxton, Colombia Road and Broadway market are all just minutes away.  3 minute walking away from Bethnal Green tube station on the Central Line and 2 minutes walking from Cambridge Heath Road overground.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Town Hall hotel has a total of 98 rooms / studio / apartments.  The spacious rooms are a heaven of comfort and luxury. All rooms and apartments are equipped with flat screen TV, DVD player and Ipod docking station. European and british plug sockets, free WI-FI, bespoke, architect-design bathroom, fully controlled air-conditioning and heating, toiletries, complimentary tea and coffee making provided, daily maid service.  Every Studio and Apartment is unique, but whether you are in a contemporary, under-the-eaves loft space flooded with patterned light from the ornamental metal veil, or in a high-ceilinged traditional room with dark fumed oak and classic grey stone, you know that each detail has been attended to for a five-star finish. All studio and apartment are equipped with an innovative bespoke  kitcken, waching-machine; dish-washer.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Town Hall hotel is a Grade II listed building. The imposing Edwardian frontage and neo-classic facade have been restored and preserved. The new space added to the roof is discreetly set back from the frontage, but forms a stunning new rear facade of a metal veil, laser cut in an art-deco inspired pattern. Bold, striking and very beautiful, this design has already drawn accolades from industry experts.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Viajante Restaurant - one Michelin star restaurant run by the well known Chef Mr. Nuno Mendes.  Nuno Mendes has been a pioneer explorer in gastronomy, engaged in a passionate quest for the most delicious flavours, the finest ingredients, the most innovative techniques. Nuno has garnered lavish accolades from the most jedad of reviewers and introduced diners to his magical blent of authentic ingredients and perfectly executed cooking. Viajante , its perfectly-balanced tasting menus combine the simple with the extravagant - radishes grown in a local garden pique the appetite for iberico pork belly brumbed on scallops in mashrooms veloute, a beetroot sorbet clears the palette for melt-in-the-mouth beef from a smallholding in North Wales.  Corner Room restaurant served a la carte menu and it is open for lunch and dinner as well.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The Town Hall lobby is medium size, marble floor and marble wall with and imposing staircase.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingRooms</Code>
+    <Text>Meeting rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

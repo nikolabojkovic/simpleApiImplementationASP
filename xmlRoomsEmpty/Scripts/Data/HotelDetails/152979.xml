@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>152979</Id>
+  <Name>Express by Eurotraveller</Name>
+  <Region>
+    <Id>52923</Id>
+    <Name>Southbank</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>18 Amelia Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SE17 3PY</Zip>
+    <Country>UK - England</Country>
+    <Tel>+ 44 (0)20 73584898</Tel>
+    <Fax>+ 44 (0)20 73584899</Fax>
+    <Email>express@eurotravellerhotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4898816</Latitude>
+    <Longitude>-0.0978253</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/JEZfront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/JEZthumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2408</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/JEZbed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/JEZthumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1763</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/JEZmap.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/JEZthumbmap.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2327</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>EXPRESS by Eurotraveller Hotel combines past with present in its look and build. Having 30 en-suite bedrooms, EXPRESS by Eurotraveller Hotel is high end hotel ideally situated in central London's South east area close to many of London's exclusive shopping areas, and with easy access to the City. The hotel is near some of most famous tourist attractions in England's capital city including Hyde Park, Marble Arch and Buckingham Palace, the South Bank, Tower Bridge, Imperial war museum, London eye are just a few. The famous Coronett theatre, Ministry of Sound, Brixton Academy (15mins by car) and the traditional East Street market are walking distance from the hotel and Walworth road shopping area gives an edge of diversity as an attraction for the hotel guests. The hotel is also conveniently located just minutes from Elephant &amp; Castle and Kennington underground station, with Bakerloo and Northern lines providing easy access to central London and Euro tunnel rail link services.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DataPorts</Code>
+    <Text>Data ports</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

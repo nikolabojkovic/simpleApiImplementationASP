@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>528879</Id>
+  <Name>Fortune Plaza Hotel</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Al Nahda Road, Al Qusais</Address1>
+    <Address2>Dubai Airport Free Zone</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>P.O.Box 35559</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-2635500</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>94</CountRooms>
+    <CountFloors>3</CountFloors>
+    <Latitude>25.2665142</Latitude>
+    <Longitude>55.3805788</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/13/00/07/130007-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>14513</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/00/07/130007-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1979</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/13/00/07/130007-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>13753</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/00/07/130007-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2030</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/13/00/07/130007-PIS-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>13909</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/00/07/130007-PIS-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1930</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Dubai's premiere boutique hotel offers 94 luxury accommodation units to the discerning traveller, with a myriad of services and guest amenities to ensure an exquisite stay. Facilities include a lobby with 24-hour reception, lift access, a restaurant, room service and same-day laundry services.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>NightClub</Code>
+    <Text>Night Club</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

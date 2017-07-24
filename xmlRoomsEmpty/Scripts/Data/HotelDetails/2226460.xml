@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2226460</Id>
+  <Name>Travelodge Waterloo Hotel</Name>
+  <Region>
+    <Id>52923</Id>
+    <Name>Southbank</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>195 -203 Waterloo Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SE1 8UX</Zip>
+    <Country>England</Country>
+    <Tel>0871 984 6291</Tel>
+    <Fax>0207 6339372</Fax>
+    <Email>travel.trade@travelodge.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5026014</Latitude>
+    <Longitude>-0.1103634</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Opening on 1st July 2010 Travelodge London Waterloo is located a short walk from the Waterloo Station, 8 miles from London City Airport and 22 miles from London Heathrow Airport. Within easy reach of the hotel you will find London Aquarium, Tate Modern, Globe Theatre, Covent Garden, The West End and Oxford Street. This non-smoking hotel features a Bar Cafe offering light snacks and beverages throughout the day. The hotel offers comfortable guest rooms featuring TV, tea and coffee making facilities with additional facilities such as hairdryer and ironing board available from reception.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

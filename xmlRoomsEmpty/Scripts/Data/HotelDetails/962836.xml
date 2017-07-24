@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>962836</Id>
+  <Name>Chandler</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>12 East  31 Street</Address1>
+    <Address2>New York  New York</Address2>
+    <Address3 />
+    <City>New York-Ny</City>
+    <State />
+    <Zip>10016</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 212 889 6363</Tel>
+    <Fax>+1 212 889 6699</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>120</CountRooms>
+    <Latitude>40.745971</Latitude>
+    <Longitude>-73.9852329</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL154700_0.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>27570</Bytes>
+    <Caption>Exterior view</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL154700_0thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>20055</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL154700_1.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>25208</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL154700_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>21143</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL154700_2.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>17960</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL154700_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>19308</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL154700_3.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>25482</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL154700_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>20415</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL154700_4.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>25988</Bytes>
+    <Caption>Conference room</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL154700_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>21010</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This 3 star hotel is located in the city centre of New York. It is close to the Empire State Building and the nearest station is Orange Line, Yellow Line. The Hotel has a fitness centre/gym. All 120 rooms are equipped with minibar, hairdryer, safe, ironing set and air conditioning.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 3 star hotel is located in the city centre of New York. It is close to the Empire State Building and the nearest station is Orange Line, Yellow Line.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>54220</Id>
+  <Name>Premier Inn</Name>
+  <Region>
+    <Id>52878</Id>
+    <Name>Heathrow</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SHEPISTON LANE LONDON-HEATHROW</Address1>
+    <Address2 />
+    <Address3 />
+    <City>MIDDLESEX UB31RW</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-870-9906612</Tel>
+    <Fax>44-870-2419000</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4961636</Latitude>
+    <Longitude>-0.4464651</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-PRE2hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LHR-PRE2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LHR-PRE2hotel_Bedroom_1.jpg</Url>
+    <Width>356</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LHR-PRE2hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This popular budget style accommodation offers a good standard of room and on-site bar &amp; restaurant, with easy access to the airport. (BL 12/2005)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This modern hotel is very conveniently located at junction 4 of the M4 only 1 mile from Heathrow Airport. Nearby attractions include Windsor Castle, Legoland, Ascot Racecourse, Thorpe Park and Twickenham Stadium.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms are of a modern &amp; contemporary style and are well presented. Bedrooms also include extra facilities like satellite TV, hairdryer and telephone/modem point. All rooms are en-suite with bath, power shower &amp; complimentary toiletries.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>A modern building typical of the chain.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Bar Est is the perfect solution whether it’s a drink in the bar or a relaxing evening meal. Offering a wide selection of quality dishes with a traditional English and Continental flavour in a light, bright, contemporary setting.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A reception area with plenty of space for check in.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

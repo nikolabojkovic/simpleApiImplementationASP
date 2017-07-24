@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4972166</Id>
+  <Name>Grass Suite On Thonglor</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SOI SUKHUMVIT55 (THONGLOR12),KLONGTON NUA,BANGKOK 264/1</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>006627256555</Tel>
+    <Fax>006627159436</Fax>
+    <Email>front@grassthonglor.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.741595</Latitude>
+    <Longitude>100.553076</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

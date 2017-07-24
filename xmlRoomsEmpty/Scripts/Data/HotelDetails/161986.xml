@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>161986</Id>
+  <Name>Menzies Flitwick Manor</Name>
+  <Region>
+    <Id>52894</Id>
+    <Name>Luton </Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>CHURCH ROAD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>FLITWICK</City>
+    <State />
+    <Zip>MK45 1AE</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>01525712242</Tel>
+    <Fax>01525718753</Fax>
+    <Email>flitwick@menzieshotels.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.9969499</Latitude>
+    <Longitude>-0.5022409</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/93/25/0/93250-COM-2.jpg</Url>
+    <Width>320</Width>
+    <Height>318</Height>
+    <Bytes>19680</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1057/93/25/0/93250-COM-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1677</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/93/25/0/93250-CON-4.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>17015</Bytes>
+    <Caption>Conferences</Caption>
+    <ThumbnailUrl>/RXLImages/1057/93/25/0/93250-CON-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2248</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/93/25/0/93250-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>319</Height>
+    <Bytes>16355</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/93/25/0/93250-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1661</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/93/25/0/93250-RES-3.jpg</Url>
+    <Width>319</Width>
+    <Height>320</Height>
+    <Bytes>26266</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1057/93/25/0/93250-RES-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>69</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1980</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The hotel has a helicopter landing pad.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Nestled in the tranquillity of hectares of rolling gardens and wooded parkland, this classical Georgian house continues its ancestral traditions of hospitality. A true country house hotel, this establishment offers 18 individually designed guest rooms. The award-winning rosette restaurant and elegant drawing room offer the perfect places to relax. Facilities include 24-hour check-in and check-out service, a bar and, for an additional charge, room service. Conference facilities are available on site as well. Free Wifi available also.  Hotel Accredited with the Green Tourism Award</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

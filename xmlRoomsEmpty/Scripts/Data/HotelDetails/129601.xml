@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129601</Id>
+  <Name>Trump International Hotel Las Vegas</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2000 Fashion Show Drive</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas (NV)</City>
+    <State />
+    <Zip>NV 89109</Zip>
+    <Country>USA</Country>
+    <Tel>001 7029820000</Tel>
+    <Fax>001 7024767330</Fax>
+    <Email>tourtravellv@trumphotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>36.1295436</Latitude>
+    <Longitude>-115.1728221</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>245</Height>
+    <Bytes>14708</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1739</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>247</Height>
+    <Bytes>18335</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1886</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>21628</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2224</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Restaurant_1.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>10994</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2086</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Spa_2.jpg</Url>
+    <Width>315</Width>
+    <Height>288</Height>
+    <Bytes>11872</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Spa_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1676</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>21279</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2211</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Exterior_1.jpg</Url>
+    <Width>174</Width>
+    <Height>288</Height>
+    <Bytes>11651</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2117</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>17383</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1902</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>21288</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2295</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>221</Height>
+    <Bytes>13351</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1946</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>39296</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2878</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Swimming_Pool_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20143</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2149</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Spa_3.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>18249</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Spa_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2030</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23872</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2374</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Spa_4.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>13413</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Spa_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1670</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Spa_5.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>13029</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Spa_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1712</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>160</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>165</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TRUhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TRUhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Trump Hotel Las Vegas features a wealth of luxury amenities. From the white-glove adorned doormen who greet you to the fine Italian marble, his ultra-luxury resort welcomes you to a private oasis with world-class spa &amp;  fitness center exceptional gourmet dining. There is a 10,000 square foot spa, salon and fitness center. The spa boasts 9 rooms, including couples massage and facial treatment rooms. Select a specialty treatment from the extensive spa and salon menu or enjoy a workout at the  fitness center which features state-of-the-art machines and weights overlooking the  pool deck. The inviting pool deck features a sparkling swimming pool, chaise lounge chairs, private cabanas and food &amp; beverage service is available at your beckon call. There are meeting facilities are 2,400 square feet of intimate meeting space made up of:800 and 1,000 square feet meeting rooms as well as a 600 square foot Trump Board Room.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Trump Hotel Las Vegas is located directly adjacent to the world-renowned Fashion Show Mall and across the strip from the Wynn and Encore Resorts. The resort is mere steps from the Strip, gaming and shopping.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Studios have a very sophisticated, upscale look. Sleek contemporary furnishings with rich, elegant fabrics can be found throughout. floor to ceiling windows, European-style kitchens with appliances from Wolf, Bosch and Sub-Zero, Breccia Oniciata Italian marble floors in the entries and baths, custom designed master baths with twin sinks, custom designed vanities and marble counter tops, TV mirrors, wireless internet, flat-screen televisions with cable and in-suite movies.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Stunning golden ultra modern high rise, rising 64 floors above the desert.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>DJT is located on the lobby level and serves all three meals. This unique Modern American restaurant will offer a sensational culinary journey through cuisine of the new world set in an intriguing fine dining yet relaxed Las Vegas environment. A private dining room is also available for up to twelve people.The DJT bar offers a relaxed lounge with lots of comfortable seating. A poolside bar and bistro, H2o serves breakfast and lunch daily. H2O consists of a Mediterranean and Neo-Japanese inspired cuisine, within a relaxed pool side atmosphere.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Beautiful Italian marble floors, crystal chandeliers, crystal pillars, plenty and intimate and comfortable sitting areas near the bar to the right.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DataPorts</Code>
+    <Text>Data ports</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingRooms</Code>
+    <Text>Meeting rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>62</Rank>
+</HotelElement>

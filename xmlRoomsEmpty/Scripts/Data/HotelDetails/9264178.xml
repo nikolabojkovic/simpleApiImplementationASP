@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9264178</Id>
+  <Name>S33 Sukhumvit Hotel</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>9/10-14, Soi Sukhumvit 33</Address1>
+    <Address2>Klongtoey-Nua, Wattana</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>+66 261 4610-4</Tel>
+    <Fax>+662 259 7739</Fax>
+    <Email>info@s31hotel.con</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/11/12/12/00/06/s33_sukhumvit_hotel-logo.gif</Url>
+    <Width>128</Width>
+    <Height>126</Height>
+    <Bytes>4850</Bytes>
+    <Caption>s33_sukhumvit_hotel-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/11/12/12/00/06/s33_sukhumvit_hotel-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>71</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1806</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Welcome to S33, S Group&amp;quot;s newest hotel to be launched in November 2011.   Surrounded by a wealth of restaurants and bars, this stylish boutique hotel retains S Group&amp;quot;s signature dcor of clean, elegant lines while the warmth of the staff ensures that every stay is a pleasure. This compact urban hotel is located midway along Sukhumvit Soi 33, just a 10 minute stroll from Prompong skytrain station, making it ideal for business and leisure travellers to get around town.   Visit S Group&amp;quot;s website at the end of September for S33&amp;quot;s opening promotional rates and reserve your rooms</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

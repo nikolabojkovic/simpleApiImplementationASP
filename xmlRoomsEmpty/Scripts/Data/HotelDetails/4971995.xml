@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4971995</Id>
+  <Name>Bless Residence</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SOI SUKHUMVIT 33, NORTH KLONGTAN, WATTANA 10</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>6626622444</Tel>
+    <Fax>6626623256</Fax>
+    <Email>RESERVATION@BLESSRESIDENCE.COM</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.733101</Latitude>
+    <Longitude>100.56733</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

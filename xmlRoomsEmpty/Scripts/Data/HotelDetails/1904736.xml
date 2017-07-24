@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1904736</Id>
+  <Name>Hampton Inn &amp; Suites Hermosa Beach CA</Name>
+  <Region>
+    <Id>21625</Id>
+    <Name>Santa Monica - Beach Cities</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1530 Pacific Coast Highway</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Hermosa Beach</City>
+    <State>California</State>
+    <Zip>90254</Zip>
+    <Country>USA</Country>
+    <Tel>1-310-318-7800</Tel>
+    <Fax>1-310-318-7801</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>33.8658448</Latitude>
+    <Longitude>-118.3933275</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1207691-LAXHBHX_Hampton_Inn_Suites_Hermosa_Beach_A_70x70.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2176</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1207691-LAXHBHX_Hampton_Inn_Suites_Hermosa_Beach_A_70x70.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2176</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1207691-LAXHBHX_Hampton_Inn_Suites_Hermosa_Beach_A_200x200.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9143</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1207691-LAXHBHX_Hampton_Inn_Suites_Hermosa_Beach_A_200x200.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1892</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nGreat combination for business and pleasure\nLocation\nBeach access\nRecreation\nFully equipped fitness center\nRestaurants &amp; Lounges\nBreakfast Room\nNearby restaurant\nServices\nElevators\nValet dry cleaning and laundry services\nMeeting Facilities\nFully equipped business center\nAccommodation\n53 guestrooms\nComfortable rooms\nPolicies\nSorry, no pets allowed</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The perfect choice for any vacation; the  Hampton Inn &amp; Suites Hermosa Beach boasts spectacular beaches; outstanding service; and thrilling activities</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

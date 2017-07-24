@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>60449</Id>
+  <Name>Affinia Dumont</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>150 E. 34 ST.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK, NY 10016</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-4817600</Tel>
+    <Fax>1-212-8898856</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.745913</Latitude>
+    <Longitude>-73.979291</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>274</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Spa_2.jpg</Url>
+    <Width>309</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Spa_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>232</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>245</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>227</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>230</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Suite_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Health_Club_2.jpg</Url>
+    <Width>360</Width>
+    <Height>212</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Health_Club_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Suite_5.jpg</Url>
+    <Width>360</Width>
+    <Height>233</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Suite_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Suite_6.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Suite_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Suite_7.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Suite_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DUMhotel_Suite_8.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DUMhotel_Suite_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Hotel Affinia Dumont is situated in the heart of New York City. Its central Murray Hill location provides easy access to midtown offices, fashion showrooms and the Empire State. Representing a high-tech and health-conscious concept, the hotel's new Oasis Day Spa puts special focus on its effort to promote health, relaxation and total wellness. The independently operated Oasis Day Spa offers seven rooms for treatments such as the Lava Stone Massage, Vichy Shower Experience, Aromatherapy Body Polish, Seaweed Facial, and Pink Clay Wrap. Spa services can be arranged in guests' studios and suites. A fitness concierge provides complimentary body assessments and body-mass-index measurements, as well as advice on staying fit in Manhattan.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Park Avenue - 1.5 blocks
+• Empire State Building - 3 blocks
+• Macy's - 6 blocks
+• Chrysler Building - 8 blocks
+• Times Square - 10 blocks
+• Bryant Park/New York Public Library - 10 blocks
+• Broadway theaters - 13 blocks
+• United Nations Headquarters - 14 blocks
+• Rockefeller Center - 0.75 mile
+• Greenwich Village - 0.75 mile
+• Museum of Modern Art - 1 mile
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Affinia Dumont offers 241 residential-style studios and suites in a 37-story building. Fully equipped kitchens contain four-burner ranges, microwave ovens, and full-size refrigerators provisioned as minibars. Beds include tall leather headboards, overhead reading lights, down or non-allergenic comforters, throw pillows, and feather-down pillows, with pillow menus offering three additional choices.
+L-shaped leather-topped desks come with ergonomic chairs, task lights, cordless multiline phones, and high-speed Internet connections (surcharge). Marble-floor bathrooms contain shower/tubs and Aveda toiletries.
+The hotel supplies complimentary “fit kits” for personal use. Running and walking kits comprise MP3 players, pedometers, maps, and water. A strength kit has weights and a stretch band. A yoga kit has a mat, block, and video. Guests can borrow health-and-fitness books, tapes, and music CDs from a complimentary Wellness Library. Fitness magazines are included in studios and suites.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This newly launched hotel has been specially designed for travelling executives who enjoy a certain level of productivity and relaxation while on the road. The hotel offers spacious accommodations with comfort and amenities.The hotel features modern design and the most up-to-date technology in every room. The complimentary 24-hour fitness center offers women's and men's steam showers, cardio machines with TVs and headphones, weight machines, and free weights. The 1,100-square-foot center also includes a room for private yoga sessions (surcharge). Personal training is also available for a surcharge
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Ice skating
+• Rowing or canoeing
+• Swimming
+• Racquetball/squash
+• Running track/path
+• Tennis
+• Aerobics
+• Pilates classes/instruction
+• Yoga classes/instruction
+• Hiking/biking trails
+• Helicopter/airplane sightseeing
+• Horse riding/rental
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check In Time - 3 P.m.
+Check Out Time - Noon
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>From La Guardia Airport:
+Take Grand Central Parkway West Toward Manhattan.Get Off At Exit #4 Onto The Brooklyn-queens Expressway Toward Verrazano Narrows Bridge/Interstate 278 West.Follow The Brooklyn Queens Expressway West For About Two Miles,And Then Take Exit #35/Interstate 495 West Toward Midtown Tunnel.Keep Left At The Fork In The Ramp.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Barking Dog - Casual, independently operated café/bar serving breakfast, lunch, dinner. Dog theme, including photos and paintings. Deck seating in warm weather adjacent to dog-friendly walled courtyard with water bowls. Comfort-food menu including meatloaf,shepherd's pie,macaroni and cheese,pot roast, barbecued pork ribs, buttermilk fried chicken,Atlantic salmon,lasagne Bolognese,burgers,salads,sandwiches,wraps.Food/bar service until late night.
+
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

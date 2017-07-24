@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59255</Id>
+  <Name>Affinia Gardens</Name>
+  <Region>
+    <Id>64380</Id>
+    <Name>Upper East Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>215 EAST 64TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK,</City>
+    <State>NY</State>
+    <Zip>10065</Zip>
+    <Country>USA</Country>
+    <Tel>1-212-3551230</Tel>
+    <Fax>1-212-7587858</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.7643232</Latitude>
+    <Longitude>-73.9631474</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59255_Exterior.jpg</Url>
+    <Width>350</Width>
+    <Height>256</Height>
+    <Bytes>25575</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59255_Exterior_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>95</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2716</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59255_Lobby.jpg</Url>
+    <Width>350</Width>
+    <Height>252</Height>
+    <Bytes>17132</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59255_Lobby_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2292</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59255_Guest%20Room.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>16021</Bytes>
+    <Caption>Guest room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59255_Guest%20Room_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2488</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59255_Fitness%20Center.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>22508</Bytes>
+    <Caption>Fitness Center</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59255_Fitness%20Center_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2974</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Affinia Gardens is Set in New York’s Upper East Side, featuring spacious rooms and suites, soothing services and comforting amenities, Affinia Gardens is the perfect place for a tranquil retreat. It’s also deceptively close to some of Manhattan’s most popular attractions, such as Central Park, just four blocks away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Affinia is within a 5-minute walk of the Lexington and 63rd Street Subway Station, which offers transportation to New York landmarks, includes Rockefeller Center and Times Square. Shopping, dining and entertainment are located on 5th Avenue, which is within a 10-minute walk from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>There are 129 suites offering generous living space, including full kitchens and large vanities with Hollywood lighting, making them ideal for stays of a day, a week or much, much longer. With rooms larger than many New York City apartments.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Services
+*Room Service available from four outstanding restaurants in the neighborhood
+*Grocery shopping
+*Secretarial services
+*Concierge
+*Valet Parking is $50 per 24-hour period; self-parking is $40. No in-and-out privileges.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There is no restaurant in the hotel.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

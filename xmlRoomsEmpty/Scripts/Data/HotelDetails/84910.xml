@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>84910</Id>
+  <Name>Mandarin</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>662 RAMA IV ROAD, BANGKOK 10500 THAILAND</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>66-2-2380230</Tel>
+    <Fax>66-2-6330305</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.73308</Latitude>
+    <Longitude>100.526823</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-MANhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/BKK-MANhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-MANhotel_Bedroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/BKK-MANhotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel offers a large swimming pool, sundeck garden terrace with bar and snack service, shopping arcade, post office, travel/tour counter and foreign exchange. In addition, the hotel has a taxi transportation desk, beauty salon and barber shop, fitness centre, 24 hour telex, cable, international telephone and communication service centre, multi-storey car park. The hotel boasts a business centre providing secretarial, translation, public relations and photographic services. In general the hotel is well located for the tourist who wants to be close to the Silom and Surawong area but has a limited budget. (07/04PC)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on Rama IV Road just a 100 metres away from the Rama IV Si Phya Road junction. The hotel is close to most airline offices and main business areas. It is conveniently located for major entertainment, and is within twenty minutes to Pat Pong entertainment district on Silom Road. The hotel is only ten minutes away from the shopping districts such as MBK, Siam and World Trade Shopping Centre. It is also close to nearest subway at Sam Yan Station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Rooms are medium sized. The triple rooms are larger than the twin rooms. The colour scheme is blue grey with floral designs. All rooms are air-conditioned with individual controls, self dial telephone with wake-up services, multi-channel music. The rooms also have stocked refrigerators and colour television with in-house movies plus satellite television (UBC). Bathrooms are finished in Italian marble. 24 hour room service, same day valet and laundry service are also available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is housed in a low-rise, modern, peach-coloured concrete structure with two wings.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has a choice of restaurants serving a selection of cuisine from spicy Thai to gourment continental or round-the-clock coffeeshop favourites. Bar and nightspots are equally varied. Further excellent facilites include banquet and convention amenities for parties for between 20 - 2000 guests.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The very large lobby is grand and the chandelier is reminiscent of a bygone era. There is plenty of seating.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4983188</Id>
+  <Name>Premier Inn Silicon Oasis</Name>
+  <Region>
+    <Id>9043435</Id>
+    <Name>Others</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>P O BOX 3511 DUBAI SILOCON OASIS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>043821555</Tel>
+    <Fax>043821666</Fax>
+    <Email>RESERVATIONS.DSO@MENA.PREMIERINN.COM</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>25.1246111</Latitude>
+    <Longitude>55.381</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

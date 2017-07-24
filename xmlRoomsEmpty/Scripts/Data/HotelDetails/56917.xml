@@ -1,0 +1,441 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>56917</Id>
+  <Name>Holiday Inn London - Camden Lock</Name>
+  <Region>
+    <Id>52890</Id>
+    <Name>Kings Cross &amp; Camden</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>30 JAMESTOWN ROAD LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>NW1 7BY</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-020-74854343</Tel>
+    <Fax>44-020-36428932</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5401992</Latitude>
+    <Longitude>-0.1459337</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Guest_Room_1.jpg</Url>
+    <Width>278</Width>
+    <Height>360</Height>
+    <Bytes>20558</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2471</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22904</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2699</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22809</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2635</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Other_1.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>8581</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1777</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23277</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2593</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>23741</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2266</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Exterior_1.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>15676</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2368</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16562</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2169</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16941</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2168</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>215</Height>
+    <Bytes>21948</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2912</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26955</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3101</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>33945</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3190</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>151</Height>
+    <Bytes>18315</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3338</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Meeting_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26066</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Meeting_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2590</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Meeting_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19801</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Meeting_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2258</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18080</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2075</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Meeting_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22296</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Meeting_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2494</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21168</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2282</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23304</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2685</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22561</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2317</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>24202</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2470</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>18719</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2212</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>243</Height>
+    <Bytes>28471</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2891</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>15506</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2050</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>14123</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1946</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Exterior_4.jpg</Url>
+    <Width>355</Width>
+    <Height>288</Height>
+    <Bytes>23245</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Exterior_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2281</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Ballroom_3.jpg</Url>
+    <Width>360</Width>
+    <Height>230</Height>
+    <Bytes>30715</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Ballroom_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3093</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>13487</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1973</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-HOLHhotel_Health_Club_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21667</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-HOLHhotel_Health_Club_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2495</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A high standard of accommodation in one of London's trendiest locations. The hotel is surrounded by the bars, pubs,restaurants, and nightlife of vibrant Camden Town, but with the relaxed canal side location.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Situated in the heart of bustling Camden, the hotel overlooks the Regents Canal and the popular Camden Lock market. The antiques market, London Zoo and Regents Park are all very close and it is only a short walk away from Camden Underground Station (Northern Line) 4 to 5 tube stops to the West End.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All the rooms are bright and spacious with a contemporary design. Power shower, bath, mini-bar, and hospitality tray are standard in all rooms.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Purpose-built hotel with a very modern design.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There is a stylish and contemporary Mediterranean-style restaurant. There is also a relaxing lounge and bar area.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is bright and welcoming and offers comfortable seating for clients. The bar and lounge area are adjacent to the reception.</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>66556</Id>
+  <Name>Bliston Suwan Park View</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>NO.9 SOI TONSON, PLOENCHIT RD., LUMPINI, PATHUMWAN, BANGKOK 10330</Address1>
+    <Address2 />
+    <Address3 />
+    <City>THAILAND</City>
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>66-2-6587979</Tel>
+    <Fax>66-2-6587999</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.742501</Latitude>
+    <Longitude>100.545502</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-SOM6hotel_Exterior_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/BKK-SOM6hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-SOM6hotel_Bedroom_1.JPG</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/BKK-SOM6hotel_Bedroom_1_thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-SOM6hotel_Living_Room_Area_1.JPG</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Living Room Area</Caption>
+    <ThumbnailUrl>/RXLImages/7/BKK-SOM6hotel_Living_Room_Area_1_thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Hotel has outdoor pool, spa and fully equipped fitness center located on 5thf floor. Hotel offers many business and recreational facilities as well as the personalized services for the discerning executive and international family. (01/07SW)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Centrally located amidst the lush greens on Wireless and Tonson Road, only   
+3-minute walk to Central Chidlom Department Store and BTS Childlom Sky train. The hotel is in the middle of diplomatic and business districts. Easy access with 45-minute drive along the expressway to Suvarnabhumi Airport.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>There are 152 spacious rooms with a choice of one, two and three-bedroom     
+Layouts. Rooms start from 6th floor to 20 floor. Every room is custom-designed in contemporary décor with wooden floor and fitted with a fully equipped kitchen, home entertainment system like DVD, cozy dinning and well-appointed living areas and complimentary broadband Internet access.  1 bedroom Executive is very spacious of 70 square meters combined with 1 master bedroom and 1 living area.  Bathroom is tidy and clean - shower in bathtub, no bathrobe and slipper.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a modern block construction of concrete and glass with 20 floors.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Located on ground floor opposite with lobby area providing all day dinning especially Mediterranean cuisine during dinner.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Lobby is in medium size with marble floor in elegance seats for guests.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

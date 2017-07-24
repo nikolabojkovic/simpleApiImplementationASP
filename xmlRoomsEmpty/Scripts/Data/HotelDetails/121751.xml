@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>121751</Id>
+  <Name>Courtyard By Marriott LAX</Name>
+  <Region>
+    <Id>21627</Id>
+    <Name>Airport (LAX)</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>6161 WEST CENTURY BLVD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LOS ANGELES</City>
+    <State />
+    <Zip>90045</Zip>
+    <Country>USA</Country>
+    <Tel>3106491400</Tel>
+    <Fax>3106490965</Fax>
+    <Email>kim.chieppa@ihrco.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>33.94671</Latitude>
+    <Longitude>-118.393415</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/44/20/6/44206-CON-4.jpg</Url>
+    <Width>320</Width>
+    <Height>220</Height>
+    <Bytes>15717</Bytes>
+    <Caption>Conferences</Caption>
+    <ThumbnailUrl>/RXLImages/1058/44/20/6/44206-CON-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>101</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2742</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/44/20/6/44206-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>221</Height>
+    <Bytes>15025</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/44/20/6/44206-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>101</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2610</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/44/20/6/44206-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>217</Height>
+    <Bytes>12521</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/44/20/6/44206-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>103</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2079</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/44/20/6/44206-RES-3.jpg</Url>
+    <Width>320</Width>
+    <Height>219</Height>
+    <Bytes>16742</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1058/44/20/6/44206-RES-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>102</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2518</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Parking costs around 13 USD per car per day. For a charge of 1 USD, guests may make use of the shuttle service, which runs to Los Angeles International Airport. Coffee is provided free in the lobby; newspapers, coffee and tea are also complimentary in the rooms. The hotel is completely non-smoking.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Renovated in 2005, this air-conditioned hotel comprises a total of 178 rooms spread over 7 floors. Guests are received in the lobby with a 24-hour reception, a lift, a safe and a cloakroom. Furthermore, there is a newspaper stand, a bar, a conference room and an air-conditioned à la carte restaurant available to guests. It also is possible to enjoy the classic American cuisine of the Courtyard Café. Room and laundry services are on offer (for an additional fee), as well as a launderette facility (charges apply) and a car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>Whirlpool</Code>
+    <Text>Whirlpool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DiningRoom</Code>
+    <Text>Dining Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniFridge</Code>
+    <Text>MiniFridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

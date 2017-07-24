@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4336494</Id>
+  <Name>414 Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>414 West 46 Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10036</Zip>
+    <Country>United States</Country>
+    <Tel>212399006</Tel>
+    <Fax />
+    <Email>SAKINANYC@GMAIL.COM</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.761229</Latitude>
+    <Longitude>-73.9917385</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1107/69/45/79/226922_foto1_ext.jpg</Url>
+    <Width>500</Width>
+    <Height>356</Height>
+    <Bytes>32030</Bytes>
+    <Caption>226922_foto1_ext</Caption>
+    <ThumbnailUrl>/RXLImages/1107/69/45/79/226922_foto1_extthumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2598</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1107/69/45/79/226922_foto2_out-2.jpg</Url>
+    <Width>500</Width>
+    <Height>356</Height>
+    <Bytes>31996</Bytes>
+    <Caption>226922_foto2_out-2</Caption>
+    <ThumbnailUrl>/RXLImages/1107/69/45/79/226922_foto2_out-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2632</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1107/69/45/79/226922_foto3_out.jpg</Url>
+    <Width>500</Width>
+    <Height>356</Height>
+    <Bytes>31862</Bytes>
+    <Caption>226922_foto3_out</Caption>
+    <ThumbnailUrl>/RXLImages/1107/69/45/79/226922_foto3_outthumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2718</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1107/69/45/79/226922_foto4_roomb-2.jpg</Url>
+    <Width>500</Width>
+    <Height>357</Height>
+    <Bytes>17197</Bytes>
+    <Caption>226922_foto4_roomb-2</Caption>
+    <ThumbnailUrl>/RXLImages/1107/69/45/79/226922_foto4_roomb-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2203</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1107/69/45/79/226922_fotpe1_roomb.jpg</Url>
+    <Width>500</Width>
+    <Height>356</Height>
+    <Bytes>16944</Bytes>
+    <Caption>226922_fotpe1_roomb</Caption>
+    <ThumbnailUrl>/RXLImages/1107/69/45/79/226922_fotpe1_roombthumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1957</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1107/69/45/79/226922_fotpe2_roomb-2.jpg</Url>
+    <Width>500</Width>
+    <Height>356</Height>
+    <Bytes>17519</Bytes>
+    <Caption>226922_fotpe2_roomb-2</Caption>
+    <ThumbnailUrl>/RXLImages/1107/69/45/79/226922_fotpe2_roomb-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2130</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The 414 Hotel is a superior tourist and business class boutique hotel, located in the heart of midtown Manhattan, only steps away from Times Square, Broadway Theaters, The Jacob Javits Convention Center, and many other attractions. It is comprised in two historical townhouses, built behind each other, separated by a charming inner garden courtyard. The hotel offers comfortable, well-appointed and tastefully decorated rooms, each with large private bath facilities, air conditioned, heating, cable tv, telephone, hair dryer, wifi connection and safe box . The hotel has 22 rooms, including one King Size Suite. Most of these rooms have views on the central private courtyard.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

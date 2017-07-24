@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>257978</Id>
+  <Name>Le Bleu</Name>
+  <Region>
+    <Id>21684</Id>
+    <Name>Brooklyn</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>370 4TH AVENUE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BROOKLYN</City>
+    <State />
+    <Zip>11215</Zip>
+    <Country>USA</Country>
+    <Tel>718 625 1500</Tel>
+    <Fax>718 625 2600</Fax>
+    <Email>info@hotellebleu.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>40.673277</Latitude>
+    <Longitude>-73.986952</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/97/13/3/97133-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>12320</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/97/13/3/97133-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2196</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/97/13/3/97133-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>239</Height>
+    <Bytes>11090</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/97/13/3/97133-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2265</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Hotel Le Bleu is located on Fourth Avenue in the heart of Brooklyn`s trend-setting Park Slope neighbourhood, hotel le bleu is the first NYC boutique hotel in Brooklyn. Towering above historic Brooklyn brownstones and cast in cool blue accent lighting, hotel le bleu is a beacon of hospitality in New York City.
+A stylish, urban retreat in the heart of one of the world`s most vibrant cities – hotel le bleu is truly a one-of-a-kind choice for Brooklyn boutique accommodations
+Renowned designers Andres Escobar &amp; Associates crafted hotel le bleu to stand out from all other Brooklyn luxury hotels. Stark lines, polished steel, accents of blue – and all complemented by lavish furnishings and warm, precise service. From the hotels 48 luxurious Brooklyn hotel rooms to inspired rooftop lounge, it`s simple elegance for a modern world. The team at hotel le bleu has a passion for hospitality. Our tempered approach, forward-thinking with a light touch, has earned us a spot among the most revered hotels in New York City</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Balcony</Code>
+    <Text>Balcony</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

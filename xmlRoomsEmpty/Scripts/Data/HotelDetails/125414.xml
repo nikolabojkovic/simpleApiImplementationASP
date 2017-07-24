@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>125414</Id>
+  <Name>Figueroa Hotel</Name>
+  <Region>
+    <Id>21624</Id>
+    <Name>Downtown</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>939 South Figueroa Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles</City>
+    <State>California</State>
+    <Zip>90015</Zip>
+    <Country>USA</Country>
+    <Tel>+213 627 8971</Tel>
+    <Fax>+213 689 0305</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>285</CountRooms>
+    <Latitude>34.0454322</Latitude>
+    <Longitude>-118.2642282</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Club.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14317</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Club.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2412</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Conference.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12878</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Conference.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2292</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Mtg.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10327</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Mtg.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2059</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10077</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2022</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Living-Rm.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9830</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Living-Rm.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1986</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9396</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1991</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12412</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2179</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Front2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9545</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Front2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2022</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1204304-Figueroa-Front2.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2295</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1204304-Figueroa-Front2_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2292</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General information:the Figueroa is "I Dream of Jeanie," "Indiana Jones," and the Arabian Nights. Like other hotels it has a pool, a bar, a restaurant. But the Figueroa takes decoration a step beyond the bland ambiance found in most hotels and adds flair and fantasy.Location:Located two blocks north of the convention center, the Hotel Figueroa is unlike any hotel you've ever been in, unless you've been to Morocco.Area:The Los Angeles Convention Center and Pacific Stock Exchange are a short walk away with the Staples Center entertainment and sports venue just one half mile south.Recreation:At night, a warm, reddish glow permeates the lobby, which is more of a social parlor than just a place to check in and order wake-up calls. The lobby is a hub of friendly activity. Visitors let their eyes wander over the unique lighting fixtures, wooden statues, and ornate knick-knacks.Out back you'll find a gorgeous desert-garden deck with a mosaic-tiled pool and Jacuzzi, and the Verandah Bar, the poolside place to go on warm Southern California nights for a minty mojito. Rooms:Elevators lead to equally artistic guest rooms that, though a bit dark and small, are very comfortable. Each comes with a firm, well-made bed with a wrought-iron headboard or canopy and a Georgia O'Keeffe-reminiscent spread, a Mexican-tiled bathroom, and Indian fabrics that double as blackout drapes.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>the Figueroa is "I Dream of Jeanie," "Indiana Jones," and the Arabian Nights. Like other hotels it has a pool, a bar, a restaurant. But the Figueroa takes decoration a step beyond the bland ambiance found in most hotels and adds flair and fantasy.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

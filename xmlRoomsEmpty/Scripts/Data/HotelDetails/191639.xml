@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>191639</Id>
+  <Name>Crowne Plaza Festival City</Name>
+  <Region>
+    <Id>9043420</Id>
+    <Name>Creek / Festival City</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>PO BOX 45777 DUBAI</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED ARAB EMIRATES</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971047012222</Tel>
+    <Fax>971-4-2329097</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>25.224859</Latitude>
+    <Longitude>55.349529</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CROEhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>18285</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CROEhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1836</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CROEhotel_Exterior_2.jpg</Url>
+    <Width>150</Width>
+    <Height>150</Height>
+    <Bytes>6933</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CROEhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2660</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CROEhotel_Guest_Room_1.jpg</Url>
+    <Width>308</Width>
+    <Height>270</Height>
+    <Bytes>16982</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CROEhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2167</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CROEhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>24110</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CROEhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2215</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Another good addition to the Dubai Hotel portfolio, this hotel sits right on the Dubai Creek and is complemented by its sister hotel, the Intercontinental, right next door. TM07.08</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Set on the banks of Dubai Creek, the latest additional to Crowne Plaza Hotel &amp; Resorts is located at the heart of Dubai's most ambitious development; Festival City. The Hotel offers 316 superbly appointed designer rooms and suites. Most rooms offer sweeping views over Dubai creek. The hotel is located just a five minute taxi ride (2 km) from Dubai International Airport, right in the heart of bustling shopping and business districts.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>This is a brand new hotel and so the rooms are as you would expect very well appointed with excellent finishing in a contemporary style. All rooms have flat screen plasma televisions with international channels, high speed internet access and great views of the Dubai Skyline</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Brand new all glass facade.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Within the hotel there is 3 Restaurant and Bars. Guest can also have the choice of many other outlets in the sister hotel, the Intercontinental, and also within the Shopping Mall located next door.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>An inviting lobby with seating area and the main reception on the right hand side.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>205125</Id>
+  <Name>The Two Hyde Park Square</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2 HYDE PARK SQUARE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State>ENGLAND</State>
+    <Zip>W2 2JY</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00442072628271</Tel>
+    <Fax>00442072627628</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>74</CountRooms>
+    <CountFloors>7</CountFloors>
+    <CheckInTime>16:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>51.5142967</Latitude>
+    <Longitude>-0.1675515</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/8/24016-0.jpg</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/24016thumb-0.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2317</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/8/24016-1.jpg</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/24016thumb-1.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2232</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/8/24016-2.jpg</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/24016thumb-2.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2143</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/8/24016-3.jpg</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/24016thumb-3.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1992</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/8/24016-map.gif</Url>
+    <Width>239</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/24016thumb-map.gif</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2431</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel offers 74 rooms equipped with bathroom, hairdryer, radio, modem, satellite TV, telephone and heating. Facilities include garage and laundry-service. Built 1960, renovated 2003.  74 rooms, 7 floors.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Location: next to Hyde Park, near Marble Arch and of the shopping center of Oxford Street.</Text>
+  </Description>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

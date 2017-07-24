@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>125339</Id>
+  <Name>Best Western Airport Plaza Inn</Name>
+  <Region>
+    <Id>21627</Id>
+    <Name>Airport (LAX)</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1730 Centinela Ave</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Inglewood</City>
+    <State>California</State>
+    <Zip>90302-1027</Zip>
+    <Country>USA</Country>
+    <Tel>+1 310 568 0071</Tel>
+    <Fax>+1 310 337 1919</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>58</CountRooms>
+    <Latitude>33.977525</Latitude>
+    <Longitude>-118.36932</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGFRONT_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4029</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGFRONT_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2197</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGFRONT.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10241</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGFRONT.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2114</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGFRONTDESK.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11218</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGFRONTDESK.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2223</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGLOBBY.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9188</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGLOBBY.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1970</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGPOOL.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9962</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGPOOL.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1815</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGDBL.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9621</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGDBL.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1913</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGDBL2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7675</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGDBL2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1667</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGKING.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7614</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGKING.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1711</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGKING1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10510</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGKING1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2063</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGSUITE.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7596</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGSUITE.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1782</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGSUITE1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7327</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGSUITE1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1813</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3612-SGHOLLYWOOD.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11034</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3612-SGHOLLYWOOD.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2074</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nAccessible to many local attractions\nAirport Hotel\nLocation\nLocated in central Los Angeles\nShopping area is just minutes away\nMajor attractions are nearby\nLocal Attractions\nCity entertainment in close proximity\nRecreation\nFully equipped fitness center\nOutdoor swimming pool\nNearby casino entertainment\nRestaurants &amp; Lounges\nOnsite restaurant\nServices\nRoom service\nBusiness services available at front desk\nShuttle service is available\nMeeting Facilities\n8,000 –sq ft of event space for business meetings, conferences, and special occasions\nConference rooms hosting up to 300 people\nAccommodation\n58 guestrooms\n3 star accommodations\nClassic accommodations</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Best Western Airport Plaza Inn provides excellent prices without compromising your comfort;  making it the ideal accommodation</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Icemachine</Code>
+    <Text>Ice Machine</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

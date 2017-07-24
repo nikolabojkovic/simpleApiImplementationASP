@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>11553394</Id>
+  <Name>Hilton Garden Inn Los Angeles/Hollywood</Name>
+  <Region>
+    <Id>19704</Id>
+    <Name>Los Angeles (and vicinity), CA</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2005 North Highland Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Hollywood</City>
+    <State>California</State>
+    <Zip>90068</Zip>
+    <Country>USA</Country>
+    <Tel>+1 323 876 8600</Tel>
+    <Fax>+1 323 876 3272</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4498</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2342</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11886</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2156</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9052</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2036</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6541</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1670</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-pool1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9429</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-pool1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2000</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6565</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1735</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-dining2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12588</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-dining2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2251</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6884</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1740</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8538</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2009</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-lounge2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12777</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-lounge2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2306</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8917</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2034</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-lounge1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8008</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-lounge1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1915</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8403</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1985</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8529</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-dining1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7635</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-dining1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1874</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9361</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2164</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-lobby2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8117</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-lobby2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1792</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12530</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2218</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Tourico/hotel1315030-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6516</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Tourico/hotel1315030-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1747</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Location\nThis smart and modern hotel enjoys a good location only two blocks from Hollywood Boulevard and a couple of minutes' walk from the countless premier attractions of the city. Links to the public transport network as well as shopping and entertainment venues can be reached in about 250 m, and it is approximately 16 km to Los Angeles.\nFacilities\nThe hotel was renovated in 2008 and opened as the Hollywood heights Hotel in April. There are 160 rooms half of which feature one king-size bed and the other half two double beds.\nRooms\nThe rooms all come with an en suite bathroom with a hairdryer. In addition, a direct dial telephone, satellite/ cable TV, a radio, an Internet connection, a coffee machine, an iron and ironing board, and a double or king-size bed are also provided in all accommodation units as standard. The air conditioning and heating are individually adjustable.\nSports/Entertainment\nIn the hotel grounds there is an attractive swimming pool area with a sun terrace. Sports enthusiasts may also enjoy a work-out in the gym.\nMeals\nBreakfast is available to guests each morning. At lunchtime and in the evenings guests may select dishes from the set menu.\nPayment\nAll major credit cards are accepted including American Express, Discover, MasterCard, and VISA.\nMisc.\nThe hotel is 100% non-smoking and provides valet parking only. There is a charge for parking per night which is not included in the rate.\nHow to get there\nFrom the North: Head Southwest on Sherman Way towards Cartwright Ave. Turn left to merge onto CA-170 South. Merge onto US-101 South. Take exit 9C towards Highland Ave/Hollywood Bowl. Merge onto Cahuenga Blvd West. Continue onto North Highland Ave. The hotel will be on the right. From the South: Take the I-5 North to the US-101 North. Take exit 9A for Cahuenga Blvd towards the Hollywood Bowl. Make a sharp left onto North Cahuenga Blvd. Turn right on Franklin Ave and turn left on Highland Ave. The hotel will be on the left. From the East: Take the I-15 South towards Los Angeles. After approximately 223 Miles, Take exit 109A to merge onto I-10 West towards Los Angeles. Merge onto US-101 North. Take exit 9A for Cahuenga Blvd towards Hollywood Bowl. Make a Sharp left onto North Cahuenga Blvd. Turn right on Franklin Ave and Turn left on Highland Ave. The hotel will be on the Left. From the West: Take the I-10 East toward Los Angeles. Take exit 7A for La Cienega Blvd towards CA-187 West. Keep left fork, follow signs for La Cienega Blvd North and Merge onto La Cienega Blvd. Turn right onto CA-2 East/ Santa Monica Blvd East. Turn left onto North Highland Ave. The hotel will be on the Left. Los Angeles International Airport is 12 miles from the hotel. Drive time from there is 20 minutes. Directions: Head South on World Way towards West Way. Keep right at the Fork and merge onto South Sepulveda Blvd. Slight right onto the I-105 East ramp. Keep left at the fork and merge on to i-110 North towards Los Angeles. Continue onto CA-110 North. TaBurbank-Glendale-Pasadena Airport. Distance from hotel: 6 miles. Drive time: 15 minutes. Directions: Head Southwest on Sherman Way towards Cartwright Ave. Turn left to merge onto CA-170 South. Merge onto US-101 South. Take exit 9C towards Highland Ave/Hollywood Bowl. Merge onto Cahuenga Blvd West. Continue onto North Highland Ave.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>LocationThis smart and modern hotel enjoys a good location only two blocks from Hollywood Boulevard and a couple of minutes' walk from the countless premier attractions of the city. Links to the public transport network as well as shopping and entertainment venues can be reached in about 250 m; and it is approximately 16 km to Los Angeles.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

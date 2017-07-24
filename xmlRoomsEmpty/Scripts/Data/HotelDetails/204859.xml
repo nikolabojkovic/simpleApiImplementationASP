@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>204859</Id>
+  <Name>Comfort Inn Buckingham Palace Road</Name>
+  <Region>
+    <Id>52928</Id>
+    <Name>Westminster &amp; Victoria </Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>812 ST. GEORGES DRIVE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State>ENGLAND</State>
+    <Zip>SW1V4BJ</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00442078342988</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <CountRooms>51</CountRooms>
+    <CountFloors>0</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>11:00</CheckOutTime>
+    <Latitude>51.4901696</Latitude>
+    <Longitude>-0.142482</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/8/165500-0.JPG</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/165500thumb-0.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2449</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/8/165500-1.JPG</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/165500thumb-1.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2316</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/8/165500-2.JPG</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/165500thumb-2.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1995</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel features 51 rooms equipped with desk, hairdryer and cable TV. The hotel also offers free wireless high-speed Internet access throughout the hotel. 51 rooms.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Location: close to Buckingham Palace as well as museums, restaurants and shopping areas.</Text>
+  </Description>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

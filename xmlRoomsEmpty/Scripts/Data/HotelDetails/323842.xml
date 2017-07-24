@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>323842</Id>
+  <Name>Laguardia</Name>
+  <Region>
+    <Id>21686</Id>
+    <Name>La Guardia Airport Area</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>100-15 DITMARS BLVD NEW YORK - LA GUARDIA</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED STATES</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-718-4261500</Tel>
+    <Fax>1-718-2055853</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.7677834</Latitude>
+    <Longitude>-73.8879034</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/323842_1.jpg</Url>
+    <Width>350</Width>
+    <Height>190</Height>
+    <Bytes>15529</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/323842_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>128</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2696</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/323842_3.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>18050</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/323842_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2512</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/323842_23.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>21568</Bytes>
+    <Caption>Hotel Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/323842_23_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3049</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/323842_4.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>21355</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/323842_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3178</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This New York-area hotel is a half-mile from LaGuardia Airport and provides complimentary shuttle service. On-site amenities include a restaurant (open for breakfast and dinner), a bar/lounge, a fitness center, and meeting rooms. A health club one and a half miles away offers discount access to hotel guests. Sundries are for sale at</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Citi Field - 2.6 km / 1.6 mi
+• Solomon R. Guggenheim Museum - 7.6 km / 4.7 mi
+• Metropolitan Museum of Art - 7.8 km / 4.9 mi
+• Apollo Theater - 8 km / 5 mi
+• Central Park - 8.1 km / 5 mi
+• St. John's University - 8.4 km / 5.2 mi
+• Columbia University - 8.7 km / 5.4 mi
+• Chrysler Building - 9.1 km / 5.7 mi
+• Rockefeller Plaza - 9.2 km / 5.7 mi
+• Grand Central Terminal - 9.2 km / 5.7 mi
+• Broadway - 9.8 km / 6.1 mi
+• Times Square - 9.9 km / 6.2 mi
+• Empire State Building - 10 km / 6.2 mi
+• Brooklyn Bridge - 12.7 km / 7.9 mi
+• World Trade Center - Ground Zero - 13.6 km / 8.4 mi</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>LaGuardia Airport Hotel offers 229 guestrooms in an eight-story building. Wired and wireless Internet access (surcharge) are available, as is access through televisions via wireless keyboards (surcharge). Televisions also offer video games, premium channels, and pay movies. Rooms have desks with ergonomic chairs and recliner chairs, and two dual-line telephones, one cordless. Bathrooms contain shower/tub combinations with curved shower rods for extra elbow room and Golden Door Spa toiletries.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This Queens, NY hotel is one third mile from LaGuardia Airport. Citi Field, home of the New York Mets, is 1.5 miles from the hotel, and Midtown Manhattan is about 6 miles away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Pets not allowed
+Check-in time is 3 PM
+Check-out time is Noon
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Hub Pub Café - Parquet floor, dark-wood paneling. Traditional American fare. Open for breakfast and dinner.
+• Hub Pub Lounge - Casual bar/lounge with jukebox, video game, TVs. Open until 10 PM.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>24HourFrontDesk</Code>
+    <Text>24 Hour Front Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

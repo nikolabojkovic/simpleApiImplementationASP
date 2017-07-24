@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>60683</Id>
+  <Name>Dream</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>210 W. 55 STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK, NY 10019</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-2472000</Tel>
+    <Fax>1-212-9740595</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.7645673</Latitude>
+    <Longitude>-73.9817996</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Exterior_1.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Guest_Room_1.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Restaurant_1.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Restaurant_2.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Restaurant_3.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Exterior_2.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Exterior_3.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Exterior_4.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Exterior_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Guest_Room_3.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Exterior_5.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Exterior_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-DREhotel_Guest_Room_5.jpg</Url>
+    <Width>338</Width>
+    <Height>257</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-DREhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Housed in an 1895 Beaux Arts building, Dream is within four blocks of Carnegie Hall, Fifth Avenue shopping, Central Park, and the AOL/Time Warner Center. Visually stunning boutique hotel - Dream is New York's latest celebrity hang-out.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Carnegie Hall - 1 block
+• Fifth Avenue (shopping) - 2 blocks
+• Central Park - 4 blocks
+• AOL/Time Warner Center - 4 blocks
+• Rockefeller Center - 5 blocks
+• Radio City Music Hall - 5 blocks
+• NBC Studio Tour - 6 blocks
+• Times Square - 0.5 mile
+• Lincoln Center - 0.5 mile
+• Grand Central Terminal - 1 mile
+• Intrepid Sea, Air &amp; Space Museum - 1.5 miles
+• Empire State Building - 1.5 miles
+• U.N. Headquarters - 1.5 miles
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Dream's 220 restful guestrooms have white walls, all-white bedding, hypo-allergenic synthetic-down comforters, and 300-thread-count Egyptian linens. Bathrooms have showers only or shower/tub combinations, bathrobes, and Chopra Center bath products. Tech-savvy amenities include Bose Wave radios, large-screen plasma TVs with picture-in-picture functionality, laptop-compatible safes, and high-speed Internet access (surcharge). Preloaded iPods are available on request for complimentary use (deposit required). Other amenities include minibars, complimentary newspapers, and turndown service.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel's penthouse lounge offers panoramic views of the city and a seasonal terrace. Drinks are also available in the lobby lounge, Rm.Fifty5. The Fellini-inspired Italian restaurant Serafina serves breakfast, lunch, and dinner. A second restaurant, Amalia, serves Mediterranean-inspired cuisine for brunch, lunch, and dinner. Dream is home to the Chopra Center and Spa (surcharge), specializing in Ayurvedic healing treatments. Also available at the spa are yoga and meditation classes, various workshops, and saunas and steam rooms. A complimentary fitness room is on site.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Golfing
+• Ice skating
+• Swimming
+• Rowing or canoeing
+• Tennis
+• Running track/path
+• Pilates classes/instruction
+• Yoga classes/instruction on site
+• Aerobics
+• Bicycle rentals
+• Hiking/biking trails
+• Horse riding/rental
+• Playground
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Check In Time - 3 P.m.
+• Check Out Time - 12 P.m.
+• Credit Card Required - Upon Check-in
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• From Laguardia Airport:
+Take Grand Central Parkway West To I-278 West (Brooklyn-queens Expressway). Exit Sr-25a And Bear Right Onto Queens Plaza North. Take The Queensboro Bridge And Exit Onto Second Ave. Head South, Then Turn Right Onto East 57th St. Turn Right Again On Sixth Ave. Proceed One Block North And Turn Right Onto West 58th St. The Hotel's Motor Entrance Is Hafway Down The Block On The Left.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Serafina - Fellini-inspired restaurant serving Italian cuisine such as pastas and pizzas. Open for breakfast, lunch, and dinner.
+• Ava Lounge - Penthouse lounge named for film star Ava Gardner. Eclectic mix of 1950s retro and French Riviera decor, including sculpted walls, bench seats, black-and-white floors, and a wood-planked seasonal terrace offering panoramic views. Signature cocktails served. Open seasonally from mid-afternoon until late evening.
+• Rm.Fifty5 - Lobby lounge. Open from mid-afternoon until late evening.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

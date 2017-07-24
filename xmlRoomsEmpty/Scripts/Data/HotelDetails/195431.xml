@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>195431</Id>
+  <Name>Siri Sathorn</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>27 Saladaeng I; Silom Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10310</Zip>
+    <Country>Thailand</Country>
+    <Tel>+662 266 2345</Tel>
+    <Fax>+662 267 5555</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>111</CountRooms>
+    <Latitude>13.727246</Latitude>
+    <Longitude>100.536728</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1035715-Siri-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10421</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1035715-Siri-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2191</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1035715-Siri-frontdesk.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7114</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1035715-Siri-frontdesk.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1835</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1035715-Siri-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11599</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1035715-Siri-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2276</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1035715-Siri-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8610</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1035715-Siri-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2172</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1035715-Siri-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8485</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1035715-Siri-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2064</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1035715-Siri-Spa.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6018</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1035715-Siri-Spa.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1654</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Just 34 kilometers from Suvarnabhumi Airport (40 minutes approx.)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This charming spa apartment hotel gives guests a unique vantage point from which to explore the sights, sounds and experiences of Bangkok. It is ideal for business travellers and holidaymakers alike and comprises a total of 111 luxurious suites. Facilties on offer to guests at this air-conditioned establishment include meeting rooms and wireless high-speed Internet throughout all guest suites and public areas of the hotel. There is a lobby area with a 24-hour reception and 24-hour check-in/check out service, a hotel safe, lift access, a café, a bar and a restaurant. Guests may also take advantage of the room and laundry services and for younger guests there is a children's playground. There is parking and a garage for those arriving by car.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

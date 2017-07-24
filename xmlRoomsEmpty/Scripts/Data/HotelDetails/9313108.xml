@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9313108</Id>
+  <Name>Dhabkwan resort and spa</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2/21 - 24  Moo 2</Address1>
+    <Address2>Suang Yai , Mueng District</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>+(66)2 969 1200</Tel>
+    <Fax>+(66)2 969 1230</Fax>
+    <Email>reservation@dhabkwan.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/11/11/00/00/10/dhabkwan_resort_and_spa-general1.jpg</Url>
+    <Width>300</Width>
+    <Height>168</Height>
+    <Bytes>16440</Bytes>
+    <Caption>dhabkwan_resort_and_spa-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/11/11/00/00/10/dhabkwan_resort_and_spa-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>125</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3660</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/11/11/00/00/10/dhabkwan_resort_and_spa-logo.jpg</Url>
+    <Width>68</Width>
+    <Height>45</Height>
+    <Bytes>1261</Bytes>
+    <Caption>dhabkwan_resort_and_spa-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/11/11/00/00/10/dhabkwan_resort_and_spa-logothumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1553</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/11/11/00/00/10/dhabkwan_resort_and_spa-room1.jpg</Url>
+    <Width>240</Width>
+    <Height>136</Height>
+    <Bytes>10809</Bytes>
+    <Caption>dhabkwan_resort_and_spa-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/11/11/00/00/10/dhabkwan_resort_and_spa-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>123</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3691</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/11/11/00/00/10/dhabkwan_resort_and_spa-room2.jpg</Url>
+    <Width>275</Width>
+    <Height>183</Height>
+    <Bytes>13397</Bytes>
+    <Caption>dhabkwan_resort_and_spa-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/11/11/00/00/10/dhabkwan_resort_and_spa-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2905</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>We develop and market whole new realities, mixing and matching magic with beauty to answer the needs of our customers.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

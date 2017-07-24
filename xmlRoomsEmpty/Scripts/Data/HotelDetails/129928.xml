@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129928</Id>
+  <Name>Franklin Hotel</Name>
+  <Region>
+    <Id>64380</Id>
+    <Name>Upper East Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>164 East 87th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10128</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1 800 607 4009</Tel>
+    <Fax>+ 1 212 684 7353</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7798489</Latitude>
+    <Longitude>-73.954501</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-FRAhotel_Guest_Room_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-FRAhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The historic Franklin Hotel greets guests into an intimate lobby with elegant European style. Fresh flowers fill the numerous sitting areas in the living room off the main entrance. In one alcove, European continental breakfasts are served, which also features a 24-hour cappuccino and tea machine. Hotel accommodations include guestrooms with soothing green hues, chandeliers, neutral carpets and contemporary dark wood furnishings. Guest beds are dresses with monogrammed white linens. Guestrooms also feature large dressing mirrors and televisions. Complimentary wireless Internet access is available. Sotheby's and Christie's Auction Houses are two miles of the Franklin Hotel, two of the larges clearinghouses where guests can find one of a kind art and unique personal possessions of famous people.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Franklin Hotel is located in Manhattan's exclusive Upper East Side neighborhood. This residential hotel offers a quiet escape from the busy city, yet is close to New York's cultural center, famed museums, exclusive shopping and eclectic restaurants. The 843-acre Central Park's gardens and lakes provide plenty of opportunities for walking, jogging and winter ice skating.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are well designed with canopy style beds and aveda bath amenities. All rooms feature black and white artwork. They are small to medium in size and in good condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a low rise, traditional in style hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There is not a restaurant on the premises, but of coarse there are many dinning options in the area.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The hotel has a small, well appointed lobby.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeShop</Code>
+    <Text>Coffee shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

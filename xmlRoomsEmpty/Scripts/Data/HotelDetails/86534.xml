@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>86534</Id>
+  <Name>Amari Atrium</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1880 NEW PETCHBURI ROAD, BANGKAPI,</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10310</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 (0) 2718 2000-1</Tel>
+    <Fax>+66 (0) 2718 2002</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.747092</Latitude>
+    <Longitude>100.570157</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-AMA9hotel_Exterior_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>48062</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-AMA9hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2275</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-AMA9hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>21430</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-AMA9hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2453</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel has an attractive swimming pool, a Clark Hatch fitness centre and a  
+Thai style open air jacuzzi on level 4. The hotel offers complimentary shuttle 
+bus transfer to major shopping area such as Central World Plaza, MBK department
+store, Pratunam local market, Robinson Sukhumvit, Patpong, Bangkok Night Bazaar
+and weekend market on the weekend.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on New Petchaburi Road about 500 metres from the Asoke    
+Road junction and with quick access to the Rama IX expressway. This stylish    
+hotel is just about 45 mins from Suvarnabhumi Airport and about 2 kilometres   
+from the heart of Sukhumvit area. It offers easy access to any part in town by 
+nearest subway Petchburi station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>2 bedroom suites on the executive floors, on the top two levels of the Amari Atrium Hotel, have been designed excellently. This room types actually is Deluxe Suite connecting with Executive room. All rooms and suites on these floors enjoy special benefits like private reception, 24 hour butler service, fax machine and dataport , exclusive executive lounge and complimentary breakfast and early evening cocktails. It is one of the few hotels in Bangkok that offers rooms with disabled facilities. The well lit bathrooms have baths and granite platforms and are in good condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is high rise "T" shaped 27 storey white concrete and glass tower.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Breakfast is served in Cascade, the 24 hour coffee shop, which is just off the main lobby on the right handside. A lobby bar is attached. It is built on split levels with an attractive stream flowing right through the restaurant which is, aesthetically, very soothing. The hotel's Italian restaurant is at pool level and is also home to 'Mingles' vodka bar that offers live evening entertainment.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is bright and airy, with a blend of cool and warm splashes of colour.
+By night, the grand understated centrepiece of the lobby seating area lights   
+the space with a warm stylish glow that provides an air of intimacy and        
+splendour at the same time. The generous reception area has a sleek new counter
+completing the contemporary feel to this impressive new lobby.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>18</Rank>
+</HotelElement>

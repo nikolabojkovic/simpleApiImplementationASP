@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>130006</Id>
+  <Name>Blue Moon Hotel of New York City</Name>
+  <Region>
+    <Id>64378</Id>
+    <Name>Lower East Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>100 Orchard Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10002</Zip>
+    <Country>USA</Country>
+    <Tel>+1 212 533 9080</Tel>
+    <Fax>+1 212 533 9148</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>22</CountRooms>
+    <Latitude>40.7186194</Latitude>
+    <Longitude>-73.9899045</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041300-Blue-Moon-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11160</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041300-Blue-Moon-Front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2550</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041300-Blue-Moon-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11160</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041300-Blue-Moon-Front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2289</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041300-Blue-Moon-Room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8308</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041300-Blue-Moon-Room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1942</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041300-Blue-Moon-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9525</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041300-Blue-Moon-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1935</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041300-Blue-Moon-Room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7984</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041300-Blue-Moon-Room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1893</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Blue Moon Hotel is less than eight-and-one-half miles from LaGuardia Airport in downtown Manhattan on the Lower East Side. The Tenement Museum is one block from the hotel. South Street Seaport and New York University are one mile away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Tenement Museum - 1 block.
+• New York University - 1.0 mile.
+• South Street Seaport - 1.0 mile.
+• Madison Square Garden - 2.0 miles.
+• Empire State Building - 2.0 miles.
+• Central Park - 3.0 miles.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Each of the Blue Moon Hotel's 22 guestrooms include cable television with premium channels and complimentary wireless Internet access. All guestrooms are equipped with a minibar, coffeemaker and refrigerator.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Shopping Mall.
+• Restaurant.
+• Fitness Center.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Check In Time - 3 p.m
+• Check Out Time - 11 a.m.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• From Laguardia Airport:
+Head west on the Grand Central Parkway. Take the exit for the Brooklyn/Queens Expressway.
+Stay on the Brooklyn/Queens Expressway. Take the left exit for the Williamsburg Bridge into Manhattan. After the bridge ends, stay straight on Delancey Street. Turn left o nto Lulow Street. Turn right onto Grand Street. Turn right onto Orchard Street .</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

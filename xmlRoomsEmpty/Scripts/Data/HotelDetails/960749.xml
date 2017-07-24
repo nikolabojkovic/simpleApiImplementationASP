@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>960749</Id>
+  <Name>Holiday Inn Woodland Hills</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>21101 Ventura Boulevard</Address1>
+    <Address2>Woodland Hills, California</Address2>
+    <Address3 />
+    <City>Woodland Hills-Ca</City>
+    <State />
+    <Zip>91364</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 818 883 6110</Tel>
+    <Fax>n/a</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>34.167729</Latitude>
+    <Longitude>-118.593089</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 3 star hotel is located in the city centre of Woodland Hills-Ca.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

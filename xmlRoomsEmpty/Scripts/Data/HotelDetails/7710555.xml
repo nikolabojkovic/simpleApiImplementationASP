@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7710555</Id>
+  <Name>Bulgari Hotel &amp; Residences London</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>171 Knightsbridge</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW7 1DW</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044 (0)2071511010</Tel>
+    <Fax>0044 (0)2071511011</Fax>
+    <Email>london-reservations@bulgarihotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/J28front.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/J28thumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2242</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/J28bed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/J28thumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1764</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/J28map.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/J28thumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1852</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Bulgari Hotel &amp; Residences London is a glamorous 5-star property offering exquisite accommodation and excellent facilities in the heart of London. Highlights include an indoor swimming pool, luxury spa and an excellent location within steps of Hyde Park. Knightsbridge is an exclusive area famous for its upmarket shopping centres and boutiques. Nearby places of interest include Harrods, Harvey Nichols, Hyde Park, Buckingham Palace and the South Kensington museums. Knightsbridge tube station is located in the vicinity, providing fast and easy access to other popular London destinations. The hotel occupies a modern mid-rise property with a glamorous interior boasting lavish use of marble and silver. Facilities include an indoor swimming pool, well-equipped fitness centre, cinema, whirlpool, and spa offering a range of beauty and massage treatments. Free Wi-Fi is available throughout the premises. Il Ristorate offers contemporary Italian cuisine in a sleek and intimate setting complete with mahogany furniture and a beautiful handcrafted staircase. Guests can enjoy signature cocktails, fine wines and tasty snacks in the stylish bar, which features black granite and titanium finish on the ceiling. A buffet breakfast is provided every morning, and there are also plenty of dining opportunities in the vicinity. Deluxe rooms are 44sqm and elegantly designed, featuring a contemporary decor and floor-to-ceiling windows. Amenities include a Nespresso coffee machine, mini-bar and 42-inch flat-screen satellite TV with on-demand content. The en-suite marble bathrooms feature a bathtub with separate walk-in shower and complimentary toiletries. The hotel provides 24-hour reception and room service. It  offers a chargeable airport shuttle service, and chargeable parking is possible nearby.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingRooms</Code>
+    <Text>Meeting rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

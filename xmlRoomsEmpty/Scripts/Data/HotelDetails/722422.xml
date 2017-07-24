@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>722422</Id>
+  <Name>Jonrad Hotel Dubai</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>RIQQA STREET</Address1>
+    <Address2>P.O BOX 29476</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>29476</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 2225550</Tel>
+    <Fax>+971 4 2247848</Fax>
+    <Email>KOBRA@DESERTADVENTURES.AE</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>48</CountRooms>
+    <CountFloors>0</CountFloors>
+    <Latitude>25.267819</Latitude>
+    <Longitude>55.315465</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/12/86/18/128618-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>12038</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/86/18/128618-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2301</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has friendly and courteous staff promising a comfortable and rewarding stay to all its guests. Renovated in 2009, it provides an extensive range of facilities and warm, attentive service in a family atmosphere. Featuring a unique colour scheme and decor, the 39 luxuriously appointed guestrooms feature contemporary furnishings with carpet. The fine dining restaurant serves exclusive mouth-watering Indian and Chinese cuisine. Guests may also dine in the café. The air-conditioned hotel offers a lobby, 24-hour reception and check-out services, a hotel safe, currency exchange facilities, a cloakroom, lift access, a newspaper stand and a hairdressing salon. Furthermore, WLAN Internet access and both room and laundry services are available.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessProgramme</Code>
+    <Text>Fitness Programme</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

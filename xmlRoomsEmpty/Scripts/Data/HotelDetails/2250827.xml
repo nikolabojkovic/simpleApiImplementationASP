@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250827</Id>
+  <Name>Platinum Suite</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>88 Soi Pattanakarn</Address1>
+    <Address2>Suan Luang</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>02 3189239</Tel>
+    <Fax>02 3189246</Fax>
+    <Email>theplatinumsuite@hotmail.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.739844</Latitude>
+    <Longitude>100.60863</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/10/10/00/91/platinum_suite-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11591</Bytes>
+    <Caption>platinum_suite-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/10/10/00/91/platinum_suite-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2644</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/10/10/00/91/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/10/10/00/91/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Finest adn convenient location on the main business road, 15 minutes to Suvarnabhumi Airport, BTS, 9 Rama 9 express way, The Mall Department Store, Secon Square Department Store,  Major Cineplex Rakhamhaeng.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

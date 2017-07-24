@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59087</Id>
+  <Name>Ritz Carlton Central Pk</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>50 CENTRAL PARK SOUTH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK, NY 10019</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-3089100</Tel>
+    <Fax>1-212-2078831</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>40.7653412</Latitude>
+    <Longitude>-73.9760088</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Exterior_1.jpg</Url>
+    <Width>282</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>285</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Lobby_2.jpg</Url>
+    <Width>356</Width>
+    <Height>247</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>284</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>287</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Meeting_Room_1.jpg</Url>
+    <Width>295</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>285</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Exterior_2.jpg</Url>
+    <Width>247</Width>
+    <Height>356</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Bar_Lounge_1.jpg</Url>
+    <Width>356</Width>
+    <Height>247</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-RIT1hotel_Lobby_4.jpg</Url>
+    <Width>285</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-RIT1hotel_Lobby_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Ritz-carlton Returns To New York*S Central Park South In A Brilliant New Location, One Of The Most Prestigious Ad- Dresses In The World. Offering Some Of The Most Spectacular Views Of Central Park .This Hotel Is Designed To Meet The Needs Of Today*S Travelers. A 30-minute drive from LaGuardia Airport, a 45-minute drive from JFK Airport, a 45-minutes drive from Newark Airport, New Jersey
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Empire State Building - 1 Mile.
+• Grand Central Station - 1 Mile.
+• Guggenheim Museum - 1 Mile.
+• Jacob Javits Center - 16 Miles.
+• Lincoln Center - 2 Miles.
+• Newark Airport - 1 Mile.
+• Times Square - 4 Miles.
+• Wall Street - 4 Miles.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>• This 33-story Mobil Five-Star and AAA Five-Diamond hotel comprises 261 guestrooms and 12 luxury condominiums.
+• La Prairie at The Ritz-Carlton Spa offers six treatment rooms , Atelier restaurant features modern French cuisine with American accents.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Fitness centre.
+• Shopping Mall.
+• Spa Room.
+• Beauty Saloon.
+• Video Games.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• All major credit cards are accepted.
+• Check-in Time: 3:00 Pm.
+• Check-out Time: 12:00 Am.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>From Laguardia Airport:- (30-minute drive).
+Left turn on Fifth Avenue, Right on 57th Street Right on Sixth Avenue Right on Central Park South ,The hotel is on the corner of Sixth Avenue &amp; Central Park South; the main entrance is on Central Park South.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Atelier:-
+Atelier serves French cuisine with a nod to American accents in an intimate, elegant dining room, reflecting true Ritz-Carlton style.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

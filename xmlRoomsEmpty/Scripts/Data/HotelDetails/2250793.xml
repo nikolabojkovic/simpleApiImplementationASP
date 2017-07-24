@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250793</Id>
+  <Name>Villa Cha Cha</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>36 Taladtod</Address1>
+    <Address2>Phranakorn</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2280 - 1025 - 7</Tel>
+    <Fax>(66) 2280 - 1024</Fax>
+    <Email>rsvn@villachacha.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.760426</Latitude>
+    <Longitude>100.497383</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/02/11/villa_cha_cha-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>12736</Bytes>
+    <Caption>villa_cha_cha-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/02/11/villa_cha_cha-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2533</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/02/11/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/02/11/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Villa Cha-Cha in Thai literally translates to Really Slow Time and that just about sums up this place! Located roughly behind Viengtai Hotel on Tani Road, it is no more than 5 minutes walk from Khao San Road, but feels like it is miles away! Boutique accommodation, Villa Cha-cha has created a resort feel in the heart of one of Bangkoks busiest tourist areas!</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

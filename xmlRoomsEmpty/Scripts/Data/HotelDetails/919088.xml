@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>919088</Id>
+  <Name>Travelodge London Central Moorgate</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>7-12 City Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>EC1Y 1AE</Zip>
+    <Country>England</Country>
+    <Tel>0044 870 191 1700</Tel>
+    <Fax>00441844358519</Fax>
+    <Email>travel.trade@travelodge.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5226545</Latitude>
+    <Longitude>-0.0872158</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Travelodge Central Moorgate is a contemporary 3-star hotel that has been created from the historically listed former Singer sewing machine building. Located in the highly fashionable district around Old Street, Shoreditch, Islington and Hoxton the area is bustling with trendy bars and restaurants. All rooms have comfy king sized beds, ensuite bathrooms, remote control colour TVs and free tea and coffee making facilities Onsite is a `Bar Cafe` which serves a breakfast buffet and evening meals and operates as fully licensed bar in the evening. Centrally located within easy reach of all of London`s key tourist attractions, the hotel offers an unusual design within a lively area.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

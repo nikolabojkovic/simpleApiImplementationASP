@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>962968</Id>
+  <Name>Pan American</Name>
+  <Region>
+    <Id>21686</Id>
+    <Name>La Guardia Airport Area</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>79-00 Queens Blvd.  Elmhurst</Address1>
+    <Address2>New York  New York</Address2>
+    <Address3 />
+    <City>New York-Ny</City>
+    <State />
+    <Zip>11373</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 718 446 7676</Tel>
+    <Fax>+1 718 446 7991</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>220</CountRooms>
+    <Latitude>40.737599</Latitude>
+    <Longitude>-73.884614</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160000_0.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>21397</Bytes>
+    <Caption>Exterior view</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160000_0thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>21609</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160000_1.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>23831</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160000_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>21267</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160000_2.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>23493</Bytes>
+    <Caption>Standard bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160000_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>20790</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL160000_3.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>37669</Bytes>
+    <Caption>Deluxe room</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL160000_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>17563</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This 3 star hotel is located within the city of New York. It is a short drive away from the Empire State Building and the nearest station is Grand Avenue Station. The Hotel has a coffee shop and a fitness centre/gym. All 220 rooms are equipped with hairdryer and air conditioning.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 3 star hotel is located within the city of New York. It is a short drive away from the Empire State Building and the nearest station is Grand Avenue Station.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeShop</Code>
+    <Text>Coffee shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

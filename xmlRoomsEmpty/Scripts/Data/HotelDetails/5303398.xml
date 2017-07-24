@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>5303398</Id>
+  <Name>The Standard New York</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>848 Washington Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip>10014</Zip>
+    <Country>USA</Country>
+    <Tel>(212) 645-4646</Tel>
+    <Fax>(212) 645-5656</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.740876</Latitude>
+    <Longitude>-74.0078215</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>18-Story tower arching over the high line, located on the mighty Hudson river in the heart of downtown Manhattan's meatpacking district. The hotel boasts 337 rooms with floor to ceiling windows, spectacular views, The Standard grill, Outdoor Biergarten, extensive private meeting and event space with a 1,500 square foot glass-enclosed gym and free wireless internet connection everywhere.
+
+Facility Includes :
+- 19 miles from JFK Airport/11 miles from LaGuardia/11 miles from Newark
+- Valet Parking is $55 per day (fee subject to change)
+- Complimentary internet access
+- Complimentary Local calls
+- Ipod ready sound system
+- 338 rooms/18 floors
+- Plasma HD Television
+- 24 hour room service
+- Custom Bathrobes
+- Work space
+- Mini-Bar&lt;p&gt; &lt;/p&gt;
+- Meeting and Event space
+- Fitness Center
+- Restaurant
+- Bar</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- No triple or quad occupancy available.
+- Guests must provide a credit card for incidental charges upon check-in.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

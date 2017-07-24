@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>419274</Id>
+  <Name>Desmond Tutu Center</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>180 TENTH AVENUE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10011</Zip>
+    <Country>United States</Country>
+    <Tel>+1 212 929 3888</Tel>
+    <Fax>+1 212 991 5970</Fax>
+    <Email>.</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>60</CountRooms>
+    <CountFloors>0</CountFloors>
+    <Latitude>40.745962</Latitude>
+    <Longitude>-74.0049928</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/9614_1.jpg</Url>
+    <Width>508</Width>
+    <Height>263</Height>
+    <Bytes>40444</Bytes>
+    <Caption>Outside view</Caption>
+    <ThumbnailUrl>/RXLImages/1026/9614_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>135</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>29410</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The innovative center combines charming 19th-century Gothic architecture with sophisticated 21st-century comforts. Offering extraordinary accommodations, the center?s guestrooms feature a beautiful South African motif.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in the charming and convenient Manhattan Chelsea neighborhood in New York City. The center is also convenient to the Empire State Building, Madison Square Garden, Chelsea Piers, Herald Square and the Theatre District. It provides easy access to the LaGuardia Airport (LGA) and  John F. Kennedy International Airport (JFK).</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Tours</Code>
+    <Text>Tours</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>*FB plus</Code>
+    <Text>*FB plus</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2079419</Id>
+  <Name>Ramee Rose Hotel</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>TECOM,AL BARSHA</Address1>
+    <Address2>The Palm Jumeira</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>26816</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 04-4500111</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>93</CountRooms>
+    <CountFloors>14</CountFloors>
+    <Latitude>25.0963899</Latitude>
+    <Longitude>55.1801447</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/14/17/44/141744-img1-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6435</Bytes>
+    <Caption>141744-img1-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/14/17/44/141744-img1-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1712</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/14/17/44/141744-img2-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5190</Bytes>
+    <Caption>141744-img2-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/14/17/44/141744-img2-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1603</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/14/17/44/141744-img3-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7256</Bytes>
+    <Caption>141744-img3-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/14/17/44/141744-img3-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1754</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/14/17/44/141744-img4-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>9770</Bytes>
+    <Caption>141744-img4-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/14/17/44/141744-img4-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2202</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/14/17/44/141744-img5-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7514</Bytes>
+    <Caption>141744-img5-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/14/17/44/141744-img5-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1752</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>After reaching the Sheikh Zayed road towards Jebel Ali and after crossing the Mall of Emirates, to your left hand side, take the extreme right lane then you will see a sign going to Hessa St. East. That take you directly to a short tunnel. Once you come out from the tunnel turn to the first right. To your left, you will see Ramee Rose Hotel, continue driving until you reach the round then tale the U-turn then right.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This is a brand new luxurious 3 star hotel, featuring14 storeys and 93 gracefully appointed guestrooms and suites. The hotel boasts impressive leisure facilities, business services including a Spa that takes up one full floor of the hotel, as well as a fully equipped health club and swimming pool with sun deck. Dedicated business centre, fantastic casual dining facilities and unique clubs are available too.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Amenity>
+    <Code>NightClub</Code>
+    <Text>Night Club</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

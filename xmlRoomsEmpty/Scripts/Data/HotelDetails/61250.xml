@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>61250</Id>
+  <Name>Wilshire</Name>
+  <Region>
+    <Id>21624</Id>
+    <Name>Downtown</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3515 WILSHIRE BLVD LOS ANGELES CA 90010</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED STATES</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-213-3817411</Tel>
+    <Fax>1-213-3852653</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>34.0617515</Latitude>
+    <Longitude>-118.3003518</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-RADhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>238</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-RADhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-RADhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-RADhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-RADhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>233</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-RADhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel is only a short drive away from Los Angeles International Airport, Disneyland, Knott's Berry Farm, Los Angeles Zoo, Dodger Stadium and other popular destinations. (0606/CH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is centrally located in the heart of Los Angeles on the famous Wilshire Boulevard. It is three miles west of Downtown, 2 miles south of Hollywood, 4 miles East of Beverly Hills, and just 11 miles to Los Angeles best beaches.  Hollywood landmarks, which include Mann's Chinese Theater and the Hollywood Walk of Fame, are within a 10-minute drive. The Los Angeles Convention Center, the new Staples Center Arena and downtown is just 3 miles East. Miracle Mile Museums and theaters are just 2 miles to the West.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The hotel offer guestrooms and suites, many with a view of the Hollywood Hills and each with a floor-to-ceiling windows. Non-smoking and handicapped-accessible guestrooms are also available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Twelve-story modern hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has two award-winning restaurants. A Japanese restaurant serves a more exotic menu with sushi and teppan-yaki bars. The other restaurant  features a creative collection of Continental and California dishes. The delicious made to order pasta bar, is a popular luncheon choice. The restaurant also offers homemade desserts, soups and a selection of the freshest salads.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is very large and elegant with marble flooring and pillars, a large reception desk and seating area.</Text>
+  </Description>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

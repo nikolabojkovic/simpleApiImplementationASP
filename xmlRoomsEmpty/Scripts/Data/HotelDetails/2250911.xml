@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250911</Id>
+  <Name>Florida</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>43 Phayathai Road</Address1>
+    <Address2>Phayathai</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2247 - 0990</Tel>
+    <Fax>(66) 2247 - 7418 - 9</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.757253</Latitude>
+    <Longitude>100.534561</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8386</Bytes>
+    <Caption>florida-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2177</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8098</Bytes>
+    <Caption>florida-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2154</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9893</Bytes>
+    <Caption>florida-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2479</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9989</Bytes>
+    <Caption>florida-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2484</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>5546</Bytes>
+    <Caption>florida-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2458</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8069</Bytes>
+    <Caption>florida-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/64/florida-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1909</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Florida Hotel, A Standard City Hotel with Superb Location (Right in Front of Phayathai Skytrain Station ready to take you conveniently all over Bangkok.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

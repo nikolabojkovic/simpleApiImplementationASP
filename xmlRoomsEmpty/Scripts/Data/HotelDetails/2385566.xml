@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2385566</Id>
+  <Name>Threadneedles</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>5 Threadneedle Street,</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>EC2R 8AY</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 (0)20 7657 8080</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5142044</Latitude>
+    <Longitude>-0.0847846</Longitude>
+  </GeneralInfo>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

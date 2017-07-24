@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1270424</Id>
+  <Name>Hampton Inn New York LaGuardia Airport</Name>
+  <Region>
+    <Id>21686</Id>
+    <Name>La Guardia Airport Area</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>102-40 DITMARS BLVD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>EAST ELMHURST</City>
+    <State />
+    <Zip>11369</Zip>
+    <Country>USA</Country>
+    <Tel>7186726600</Tel>
+    <Fax>7186722409</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.767913</Latitude>
+    <Longitude>-73.867602</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/1270424_1.jpg</Url>
+    <Width>600</Width>
+    <Height>400</Height>
+    <Bytes>34894</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/1270424_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2545</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/1270424_5.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>16449</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/1270424_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2587</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/1270424_7.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>20482</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/1270424_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2976</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/1270424_4.jpg</Url>
+    <Width>600</Width>
+    <Height>400</Height>
+    <Bytes>27020</Bytes>
+    <Caption>Gym</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/1270424_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2041</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Hampton Inn New York Laguardia Airport is a 3 star accommodations, Affordable accommodations, Designed to meet families needs, Great combination for business and pleasure.
+Location: Conveniently located in East Elmhurst.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Citi Field - 2.4 km / 1.5 mi
+Adelphi University - 4.9 km / 3 mi
+Solomon R. Guggenheim Museum - 7.8 km / 4.9 mi
+Metropolitan Museum of Art - 8 km / 5 mi
+St. John's University - 8.1 km / 5.1 mi
+Apollo Theater - 8.2 km / 5.1 mi
+Central Park - 8.3 km / 5.2 mi
+Columbia University - 8.9 km / 5.5 mi
+Chrysler Building - 9.3 km / 5.8 mi
+Rockefeller Plaza - 9.4 km / 5.8 mi
+Grand Central Terminal - 9.4 km / 5.8 mi
+Broadway - 10 km / 6.2 mi
+Times Square - 10.1 km / 6.3 mi
+Empire State Building - 10.1 km / 6.3 mi
+Brooklyn Bridge - 12.8 km / 8 mi</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Guestrooms at Hampton Inn New York LaGuardia Airport offer coffee/tea makers. Televisions come with cable/satellite channels and pay movies. High-speed Internet access is provided along with free local calls. Irons/ironing boards are also included. Rollaway beds are also available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Recreation: Fully equipped fitness center, Indoor swimming pool.
+Services: 24 hr front desk service, Elevators, Business services available at front desk.
+Meeting Facilities: Fully equipped business center , Small conference room available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>Directions From La Guardia Airport:
+Head west on Terminal B toward LaGuardia Road. Slight left at LaGuardia Road. Slight left at Terminal Access Road. Slight right at 102nd Street. At Ditmars Boulevard Square take the 3rd Exit onto Ditmars Boulevard.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Restaurants &amp; Lounges: Onsite restaurant.
+Guests are offered a complimentary hot and cold buffet breakfast.
+
+
+</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

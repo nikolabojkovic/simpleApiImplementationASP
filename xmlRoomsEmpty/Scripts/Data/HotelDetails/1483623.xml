@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1483623</Id>
+  <Name>Rainbow Hotel</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Bank Street Bur Dubai</Address1>
+    <Address2>P.O.BOX 6283</Address2>
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>04-3572172</Tel>
+    <Fax>04-3572131</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>25.256986</Latitude>
+    <Longitude>55.300482</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>All the 40 guest rooms are tastefully appointed and include numerous amenities to make guests' stay comfortable.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

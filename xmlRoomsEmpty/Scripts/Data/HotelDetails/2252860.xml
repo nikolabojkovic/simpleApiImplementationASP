@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252860</Id>
+  <Name>Paragon Inn</Name>
+  <Region>
+    <Id>2297627</Id>
+    <Name>Suvarnabhumi Airport</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>222 Moo. 15 Soi Latkrabang 22</Address1>
+    <Address2>Latkrabang Road, Rachathewa Bangplee</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2346 - 4224</Tel>
+    <Fax>(66) 2346 - 4226</Fax>
+    <Email>paragoninn@live.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.72334</Latitude>
+    <Longitude>100.476226</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/04/04/00/57/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/04/04/00/57/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1942198</Id>
+  <Name>Mondrian Soho</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>9 Crosby Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10013</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1 212 389 1000</Tel>
+    <Fax>+ 1 212 389 1001</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.719824</Latitude>
+    <Longitude>-74.000057</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>22753</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2541</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>218</Height>
+    <Bytes>20653</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2330</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Guest_Room_2.jpg</Url>
+    <Width>271</Width>
+    <Height>360</Height>
+    <Bytes>11178</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1693</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>218</Height>
+    <Bytes>22398</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2506</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Suite_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>16793</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1950</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Other_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>11235</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1632</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>29642</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2296</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>16484</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2131</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Lobby_2.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>21369</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2484</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MONhotel_Guest_Room_4.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>16488</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MONhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2142</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in SoHo, Manhattan's most sophisticated and chic neighborhood. Soho boasts over 100 shops, 250 galleries and nearly 200 restaurants, putting the hotel right in the middle of New York Culture. Noteworthy destinations in the neighborhood include Jill Sander, Opening Ceremony, Saturday Surf Shop and Bloomingdales. SoHo is in close proximity to many significant neighborhoods, including Wall Street and the Financial District as well as the lively neighborhoods of Greenwich Village, Little Italy, and Chinatown. SoHo is also North of the exclusive Tribeca Neighborhood.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Rooms are medium in size and offers beautiful views of Manhattan. Rooms come equipped with a LCD HDTV with full cable access, wireless internet access, iron and ironing board, hair dryer and a mini bar. (ES:4/11)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Modern building with 25 floors.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant can be found just off the hotel?s lobby and serves breakfast, lunch and dinner daily.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is medium in size.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

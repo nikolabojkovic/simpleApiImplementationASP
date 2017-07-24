@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4729077</Id>
+  <Name>The Grantly</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SHEPERDS BUSH GREEN 50</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>W12 8PS</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>2072244405</Tel>
+    <Fax>2072244002</Fax>
+    <Email>reservation@hotelsolutionsdirect.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5033282</Latitude>
+    <Longitude>-0.2226426</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/15/13/37/151337-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>12096</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/15/13/37/151337-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2029</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The property is about 75 years old, and was a former mansion. Parking available 1space per room. It provides bed and breakfast accommodation with Wi-Fi is available throughout the building.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

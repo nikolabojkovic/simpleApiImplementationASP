@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250941</Id>
+  <Name>Reno</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>40 Rama 1 Road</Address1>
+    <Address2>Soi Kasemsan 1</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2215 - 0026 - 7</Tel>
+    <Fax>(66) 2215 - 3430</Fax>
+    <Email>info@renohotel.co.th</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.747358</Latitude>
+    <Longitude>100.529151</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9103</Bytes>
+    <Caption>reno-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2117</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10073</Bytes>
+    <Caption>reno-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2652</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9882</Bytes>
+    <Caption>reno-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2497</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-general2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6944</Bytes>
+    <Caption>reno-general2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-general2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1917</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>13318</Bytes>
+    <Caption>reno-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2506</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>1940</Bytes>
+    <Caption>reno-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1854</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7111</Bytes>
+    <Caption>reno-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/06/06/01/99/reno-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2222</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Reno Hotel Bangkok features 58 sleek modern guest room, including deluxe suite with poolside view, Each room is a marvel in design and pillar of comfort with air condition and bathtub. Most of our rooms are provided with deposit safe-box, television set, and red\frigerator. We also offer high speed internet and secure e-mail access at our Reno internet Lounge.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

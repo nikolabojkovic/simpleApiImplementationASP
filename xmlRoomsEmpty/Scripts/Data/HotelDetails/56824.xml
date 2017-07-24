@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>56824</Id>
+  <Name>Copthorne Tara Hotel London Kensington</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SCARSDALE PLACE, KENSINGTON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>W8 5SR</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-20-79377211</Tel>
+    <Fax>44-20-79377100</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.498875</Latitude>
+    <Longitude>-0.191075</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>33927</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3235</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22880</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2440</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>22860</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2491</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>27288</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2727</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>27889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2929</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>33743</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3013</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>25289</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2754</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>32889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3031</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Lobby_2.jpg</Url>
+    <Width>350</Width>
+    <Height>300</Height>
+    <Bytes>26832</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2424</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Restaurant_3.jpg</Url>
+    <Width>350</Width>
+    <Height>300</Height>
+    <Bytes>29744</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2637</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>31291</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2899</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>21960</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2513</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>33868</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3544</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>20199</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2426</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>25962</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2571</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COPhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>19144</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COPhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2268</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is an excellent hotel in a good location; it is a superb choice for those visiting London for sightseeing or shopping. (0309/VM)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This large hotel is situated in the heart of Kensington, only a moment's walk from the High Street Kensington underground station and a host of shops and restaurants. Hyde Park and Kensington Gardens are also very close by, and the hotel is situated in a quiet secluded position.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are large and attractively decorated with contemporary styling. The bathrooms are black and white marble and both areas are in exceptional condition. Rooms include TVs with satellite and movie channels, and high-speed Internet ports. Other features include refrigerators and direct-dial phones.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is a modern, twelve-storey hotel with a conservatory style entrance full of plants.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Breakfast is served at The Brasserie (restaurant &amp; bar) located on the ground floor, which is traditionally furnished, and has a central buffet. Dinner guests may choose from the Brasserie Restaurant, which offers international cuisine or from the Bar which offers snacks and light meals on a 24 hours-service. The Bugis Street Restaurant offers a delightful selection of authentic Singaporean, Malaysian and Cantonese cuisine. It is open daily from 12 noon until 10.30pm.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The spacious lobby is decorated in art-deco styled walnut, teak and maple panelling. Black marble urn-shaped lamps, teal-upholstered sofas and chairs, and stone-topped tables furnish the sitting area. Guest may visit The Cafexpress situated on the ground floor, which offers 24 hours access to high speed internet stations and plasma screen viewing news or sporting events while savouring a tea/coffee, hot/cold snacks are also served (open from 7am-8pm).</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>50</Rank>
+</HotelElement>

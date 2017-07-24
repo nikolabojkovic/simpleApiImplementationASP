@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>421412</Id>
+  <Name>Doubletree Suites By Hilton Santa Monica</Name>
+  <Region>
+    <Id>21625</Id>
+    <Name>Santa Monica - Beach Cities</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1707 FOURTH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>SANTA MONICA</City>
+    <State>California</State>
+    <Zip>90401-3310</Zip>
+    <Country>USA</Country>
+    <Tel>1-310-395-3332</Tel>
+    <Fax>1-310-458-6493</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>34.011235</Latitude>
+    <Longitude>-118.488944</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>25158</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2185</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>30674</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2818</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>229</Height>
+    <Bytes>20723</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2236</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>35633</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2544</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>157</Height>
+    <Bytes>12138</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2008</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>246</Height>
+    <Bytes>16629</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2101</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>16583</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2180</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19536</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2304</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21314</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2332</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>247</Height>
+    <Bytes>21574</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2456</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Swimming_Pool_2.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>24540</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2542</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>193</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/SMO-DOU1hotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/SMO-DOU1hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Our luxurious guest suites include all the comforts of home and must-have amenities for business and leisure traveler alike. Doubletree Guest Suites hotel features 10 000 square feet of flexible meeting and banquet space five executive meeting suites beautiful terrace garden courtyard complimentary wireless high-speed Internet access in guest suites and public areas valet and self parking outdoor pool and whirlpool fully equipped fitness center with dry sauna golf course nearby at Riviera Country Club 4th Street Grille with superb continental cuisine jazz Loft serving light snacks and spirits Cafe Pronto featuring Starbucks coffee in-room dining gift shop business center concierge desk and volleyball rollerblading jogging and bicycling at Santa Monica Beach and Pier. Hilton HHonors members can earn both points and miles for every qualifying stay through the award winning Hilton HHonors Program. When you are ready to explore Los Angeles the Doubletree Guest Suites Santa Monica hotel is just minutes from several of the city's bustling entertainment centers. Head downtown for art music or a game at the Staples Center home of the Los Angeles Lakers and many concerts.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Welcome to the Doubletree Guest Suites Santa Monica hotel - a full-service all-suite hotel in the heart of sunny Santa Monica California. The Doubletree Guest Suites Santa Monica hotel is located just off I-10 four blocks from trendy Santa Monica Beach and Pier and minutes from Third Street Promenade Venice Beach and Malibu Beach. Los Angeles International Airport LAX is just 30 minutes away.
+ Pure California the Doubletree Guest Suites Santa Monica hotel offers spectacular views of the Pacific Ocean friendly service and an unbeatable location with easy access to the Santa Monica Freeway and Southern California's most popular destinations like Rodeo Drive The Getty Museum Universal Studios Westwood Century City UCLA Hollywood and Pepperdine University.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Suite Service - Enjoy home style cuisine in the comfort of your suite. Suite Service offers a variety of menu items including a selection of Doubletree Eat Right options. Fourth Street Grille - The Fourth Street Grille is a full service restaurant serving breakfast lunch and dinner. A daily breakfast buffet is offered which includes made to order omelettes. The casual dining menu features a wide variety of cuisine blending fresh ingredients with. JAZZ LOFT - Overlooking the hotel atrium the Jazz Loft is a great place to mix and mingle with associates after a meeting or to unwind after a long day of travel. Happy Hour is availalble Monday through Friday between 530pm and 700pm offering complimentary appetizers. Cafe Pronto - Located in the hotel atrium Cafe Pronto features Starbucks beverages fresh juices and smoothies and a variety of light menu items including breakfast pastries sandwiches wraps and fruit.</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>31</Rank>
+</HotelElement>

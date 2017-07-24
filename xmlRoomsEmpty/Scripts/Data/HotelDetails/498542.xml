@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>498542</Id>
+  <Name>Portland</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>31-32 Bedford Place</Address1>
+    <Address2>London</Address2>
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>Wc1b 5jh</Zip>
+    <Country>U.k.</Country>
+    <Tel>020 75807088</Tel>
+    <Fax>020 74365282</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>51.5201157</Latitude>
+    <Longitude>-0.1243804</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/16/06/3/16063-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>15720</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/16/06/3/16063-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2342</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/16/06/3/16063-TER-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>28526</Bytes>
+    <Caption>Terrace</Caption>
+    <ThumbnailUrl>/RXLImages/1057/16/06/3/16063-TER-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2861</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>By road From the M40 continue along Marylebone Road, turn right into Upper Woburn Place, continue until Russell Square, turn right into Russell Square. First left is Bedford Place and the hotel is on the right.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The is a restored boutique style hotel with 18 studio rooms. There is 24h room service, wifi and laundry service.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

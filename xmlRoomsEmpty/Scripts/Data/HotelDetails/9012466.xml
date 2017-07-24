@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012466</Id>
+  <Name>Continent Hotel Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>413 SUKHUMVIT ROAD, KLONGTOEY NUA, WATTANA, BANGKOK</Address1>
+    <Address2>Asoke Juction</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 02-6867000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>153</CountRooms>
+    <CountFloors>39</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/90/42/85/904285-img1-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6205</Bytes>
+    <Caption>904285-img1-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/42/85/904285-img1-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1668</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/42/85/904285-img2-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8998</Bytes>
+    <Caption>904285-img2-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/42/85/904285-img2-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2024</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/42/85/904285-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8634</Bytes>
+    <Caption>904285-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/42/85/904285-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2044</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/42/85/904285-img4-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>10363</Bytes>
+    <Caption>904285-img4-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/42/85/904285-img4-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2195</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/42/85/904285-img5-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8091</Bytes>
+    <Caption>904285-img5-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/42/85/904285-img5-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1862</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The  CONTINENT HOTEL BANGKOK is a Tourist, Modern, Business, Leisure, Boutique, City hotel, Honeymoon, Design Trendy hotel. Located in City Centre - Sukhumvit Rd. area. Shopping is within walking distance and the nightlife/restaurants are Night Club the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Continent Hotel, Bangkok is an absorbing and expressive business, leisure and lifestyle hotel. The hotel is positioned right in the heart of Sukhumvit between Soi 21 and Soi 23.Within walking distance is the BTS Asok sky train, MRT Sukhumvit station, international shopping destinations like Terminal 21, Robinson and more. The thrilling nightlife entertainment area and tourist attractions are close by. One of the greatest city view high-rise hotels in Bangkok, The Continent Hotel offers 153 guestrooms which are designed in four different themes called Ocean, Forest, Desert and Space. All rooms and suites are well appointed and present a lifestyle of comfort and convenience with sophisticated in-room amenities. Additional facilities include innovative bars, a lofty restaurant, a meeting space, a sky gym with city view and an elevated swimming pool.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Amenity>
+    <Code>JoggingTrack</Code>
+    <Text>Jogging Track</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Amenity>
+    <Code>NightClub</Code>
+    <Text>Night Club</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

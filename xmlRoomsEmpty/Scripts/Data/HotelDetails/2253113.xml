@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2253113</Id>
+  <Name>Rambuttri Village Inn and Plaza</Name>
+  <Region>
+    <Id>2297624</Id>
+    <Name>Riverside</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>95 Soi Ram Buttri</Address1>
+    <Address2>Chakkra Phong Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2282 - 9162</Tel>
+    <Fax />
+    <Email>info@khaosan-hotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.761385</Latitude>
+    <Longitude>100.49602</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9422</Bytes>
+    <Caption>rambuttri_village_inn_and_plaza-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2301</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8923</Bytes>
+    <Caption>rambuttri_village_inn_and_plaza-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2156</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>13857</Bytes>
+    <Caption>rambuttri_village_inn_and_plaza-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2810</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>5614</Bytes>
+    <Caption>rambuttri_village_inn_and_plaza-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2492</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>5445</Bytes>
+    <Caption>rambuttri_village_inn_and_plaza-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1699</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6220</Bytes>
+    <Caption>rambuttri_village_inn_and_plaza-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/07/07/05/39/rambuttri_village_inn_and_plaza-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1880</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>One of the latest and most beautiful guesthouses in this area, Rambuttri Village Inn has and enviable modern Oriental-style architecture and landscaped garden.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

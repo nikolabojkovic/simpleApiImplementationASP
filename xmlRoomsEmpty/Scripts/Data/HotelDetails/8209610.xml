@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>8209610</Id>
+  <Name>BPM Hotel</Name>
+  <Region>
+    <Id>21684</Id>
+    <Name>Brooklyn</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>139 33rd Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Brooklyn</City>
+    <State />
+    <Zip>NY11232</Zip>
+    <Country>United States</Country>
+    <Tel>001 718 305 4182</Tel>
+    <Fax />
+    <Email>frontdesk@hotelbpmbrooklyn.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC41055_1.JPG</Url>
+    <Width>400</Width>
+    <Height>301</Height>
+    <Bytes>28362</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC41055Thumb_1.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2548</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC41055_2.JPG</Url>
+    <Width>400</Width>
+    <Height>284</Height>
+    <Bytes>17672</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC41055Thumb_2.jpg</ThumbnailUrl>
+    <ThumbnailWidth>99</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2552</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC41055_3.JPG</Url>
+    <Width>400</Width>
+    <Height>301</Height>
+    <Bytes>27963</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC41055Thumb_3.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2623</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC41055_4.JPG</Url>
+    <Width>400</Width>
+    <Height>284</Height>
+    <Bytes>15978</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC41055Thumb_4.jpg</ThumbnailUrl>
+    <ThumbnailWidth>99</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2009</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC41055_5.JPG</Url>
+    <Width>400</Width>
+    <Height>301</Height>
+    <Bytes>19917</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC41055Thumb_5.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2106</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC41055_6.JPG</Url>
+    <Width>400</Width>
+    <Height>284</Height>
+    <Bytes>17317</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC41055Thumb_6.jpg</ThumbnailUrl>
+    <ThumbnailWidth>99</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2205</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC41055_7.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>20705</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC41055Thumb_7.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1596</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located in Sunset Park Brooklyn, this trendy boutique hotel features streaming music throughout the property and rooms equipped with Keurig coffee makers.Brooklyn city centre is 5 miles away.Each guest room at Hotel BPM is decorated in contemporary furnishings and features a flat-screen TV and iPod docking station. A minibar and free Wi-Fi are also available in the bright rooms.Guests can enjoy live DJ entertainment in the lobby, as well as a 24-hour reception. BPM Hotel Brooklyn also offers concierge services.A continental breakfast is served every morning.The 36th Street underground station is 3 minutes` walk from the hotel. Manhattan`s Times Square is 30 minutes` underground journey.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

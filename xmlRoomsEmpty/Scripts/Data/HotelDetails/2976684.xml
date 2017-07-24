@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2976684</Id>
+  <Name>Think Bermondsey</Name>
+  <Region>
+    <Id>52923</Id>
+    <Name>Southbank</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>BERMONDSEY STREET 190</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SE1 3TQ</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>08456029437</Tel>
+    <Fax>00442079409971</Fax>
+    <Email>bookings@190bermondseystreet.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.4987541</Latitude>
+    <Longitude>-0.0811739</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/11/09/35/110935-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>7969</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/11/09/35/110935-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1945</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/11/09/35/110935-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>10481</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/11/09/35/110935-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2296</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/11/09/35/110935-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>9070</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/11/09/35/110935-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2122</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/11/09/35/110935-HAB-4.jpg</Url>
+    <Width>213</Width>
+    <Height>320</Height>
+    <Bytes>11600</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/11/09/35/110935-HAB-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1329</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>When travelling by car from London City Airport depart on Hartmann Road. Turn right onto Connaught Road. At the roundabout, take the first exit onto Hartmann Road. At the roundabout, take the second exit onto Connaught Bridge. At the roundabout, take the second exit onto Victoria Dock Road. Turn right onto Prince Regent Lane. Turn left onto Newham Way. Continue onto A13. Bear left onto Braham Street A11. Turn left onto Leman Street A1202. Turn right onto Prescot Street. Bear left onto Mansell Street. Bear left onto Tower Bridge Approach A100. Continue onto A100. Turn right onto Long Lane A2198. Turn right onto Bermondsey Street A2205. Then one will arrive at the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This apartment hotel was built in 2009 and offers a total of 102 rooms. Unlike a traditional hotel, the apartments here allow guests to cook, entertain, relax or even order takeaways. Facilities at the hotel include a lobby with 24-hour reception and lift access. For those arriving by car, a car park is available for a fee.</Text>
+  </Description>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

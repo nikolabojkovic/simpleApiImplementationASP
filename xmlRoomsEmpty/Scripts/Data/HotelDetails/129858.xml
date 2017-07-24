@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129858</Id>
+  <Name>Park Central Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>870 7th Avenue &amp; 56th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10019</Zip>
+    <Country>USA</Country>
+    <Tel>+1 212 247 8000</Tel>
+    <Fax>+1 212 707 5557</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>935</CountRooms>
+    <Latitude>40.7648499</Latitude>
+    <Longitude>-73.9805371</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Exterior_1.jpg</Url>
+    <Width>270</Width>
+    <Height>345</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Guest_Room_1.jpg</Url>
+    <Width>251</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>210</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>221</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PARhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>245</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PARhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Park Central New York in the world's greatest city. A spectacular $65 million renovation has placed the Park Central at the top of the list of New York City Central Park hotels for business and leisure. Surround yourself with the classic attractions of the Big Apple.The hotel is Located directly across Carnegie Hall in midtown New York City.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Carnegie Hall - across the street
+• Carnegie Deli - 0.5 block
+• Broadway theaters - 1 block
+• Central Park - 3 blocks
+• Museum of Modern Art - 3.5 blocks
+• Columbus Circle (Time Warner Center, CNN tour, shopping/dining) - 4 blocks
+• Museum of Television &amp; Radio - 4.5 blocks
+• Rockefeller Center - 5 blocks
+• Radio City Music Hall - 6 blocks
+• Lincoln Center for the Performing Arts - 8 blocks
+• Central Park Zoo - 8.5 blocks
+• Museum of American Folk Arts - 10 blocks
+• Times Square - 0.75 mile
+• American Museum of Natural History - 1 mile
+• Frick Collection - 1 mile
+• Grand Central Terminal - 1 mile
+• Empire State Building - 1 mile
+• Metropolitan Museum of Art - 1.25 miles
+• Jacob K. Javits Convention Center - 1.25 miles</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>This 25-story New York City hotel offers 934 guestrooms. Beds feature pillowtop mattresses, white down comforters, multiple down pillows, and earth-toned brocade throws. Large desks come with leatherette ergonomic chairs and multiline speakerphones. High-speed wired and wireless Internet access are available for surcharges.
+Televisions with 32-inch flat screens offer pay movies and video games (surcharge). Small bathrooms have granite vanities, telephones, and shower/tub combinations. Decor includes caramel-colored furniture and blue-striped carpeting.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Built in 1920 and renovated in 2000, this hotel comprises a total of 25 floors with 915 rooms, of which 20 are suites. Facilities on offer include an air-conditioned lobby with a 24-hour reception. The Park Central New York is just steps from the rolling paths of Central Park, the sights of Rockefeller Center, and the thriving streets of Times Square . A spectacular $65 million renovation has placed the Park Central at the top of the list of New York City Central Park hotels for business and leisure travel. Surround yourself with the classic attractions of the Big Apple, from shopping, to museums, dining, and beyond. With spacious accommodations and hallmark service, this first-class midtown New York hotel invites you to discover the convenience of our landmark Midtown setting</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>Baggage room, business center, convenience store, Gymnasium, Billiards room, Game room, Beauty and Hairdressing Salon are the nearby activities.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Pets not allowed
+• Check-in time is 4 PM
+• Check-out time is Noon</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• • Driving directions from LaGuardia Airport:
+Take Grand Central Pkwy to Brooklyn-Queens Expy to I-278 west. Exit to SR 25A, then bear right into Queens Plaza N and take the Queensboro bridge. Exit to 2nd Ave S, then follow 60th St to 5th Ave. Turn left on 5th, then right on W 59th St. Turn left on 7th Ave, and the hotel is on the right.
+• • Driving directions from JFK International Airport:
+Take I-678 (Van Wyck Expy) to SR 25 (Queens Blvd) west. Bear left onto Queens Plaza N and take the Queensboro bridge. Exit to 2nd Ave S, then follow 60th St to 5th Ave. Turn left on 5th, then right on W 59th St. Turn left on 7th Ave, and the hotel is on the right.
+• • Driving directions from Newark:
+Follow signs to take US 1/US 9 north to I-95 (New Jersey Tpke). Take Exit 16E to Lincoln Tunnel, then exit to Dyer Ave. Turn right on W 42nd St, then left on 8th Ave. Turn right on W 57th St, then right on 7th Ave. The hotel is on the right.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Park Central New York's lobby has bistro-style Café New York is open from morning until night serving breakfast, lunch and dinner, plus a special pre-theater menu. If you're in the mood for cocktails, conversation and light fare.
+Lobby Lounge - Cocktails and light fare served from mid-afternoon to late night. Oversized silk brocade sofas with leather seat cushions. Granite-topped tables.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

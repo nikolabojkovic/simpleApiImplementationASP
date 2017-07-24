@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7615952</Id>
+  <Name>La Quinta Inn &amp; Suites Las Vegas RedRock/Summerlin</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>9570 West Sahara Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89117</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 243 0356</Tel>
+    <Fax>+1 702 233 8023</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214613-exteriorIS_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3424</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214613-exteriorIS_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2010</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Business during the day and city excitement at night awaits your arrival</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

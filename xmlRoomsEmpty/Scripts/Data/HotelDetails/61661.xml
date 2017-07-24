@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>61661</Id>
+  <Name>Waldorf Astoria</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>301 PARK AVENUE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK , NY 10022</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>212-355-3000</Tel>
+    <Fax>212-872-7272</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.7567283</Latitude>
+    <Longitude>-73.9740641</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WAL2hotel_Exterior_1.jpg</Url>
+    <Width>270</Width>
+    <Height>353</Height>
+    <Bytes>24862</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-WAL2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2232</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WAL2hotel_Lobby_1.jpg</Url>
+    <Width>340</Width>
+    <Height>270</Height>
+    <Bytes>21490</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-WAL2hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2284</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WAL2hotel_Lounge_1.jpg</Url>
+    <Width>339</Width>
+    <Height>270</Height>
+    <Bytes>24675</Bytes>
+    <Caption>Lounge</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-WAL2hotel_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2477</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WAL2hotel_Bedroom_1.JPG</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>24906</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-WAL2hotel_Bedroom_1_thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2073</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WAL2hotel_Bedroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>176</Height>
+    <Bytes>51820</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-WAL2hotel_Bedroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2270</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WAL2hotel_Restaurant_1.JPG</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>29296</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-WAL2hotel_Restaurant_1_thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2333</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WAL2hotel_Outdoor_dining_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>23706</Bytes>
+    <Caption>Outdoor dining</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-WAL2hotel_Outdoor_dining_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>12843</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WAL2hotel_Banqueting_facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>24112</Bytes>
+    <Caption>Banqueting facilities</Caption>
+    <ThumbnailUrl>/RXLImages/7/NYC-WAL2hotel_Banqueting_facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>8252</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Waldorf Astoria is a New York Art Deco landmark and icon hosting dignitaries, presidents and Hollywood celebrities since opening in 1931. Located in East Midtown Manhattan, this hotel is a four-block walk from the Broadway Theater District and Bloomingdale's. Occupying an entire block on prestigious Park Avenue, the Waldorf Astoria is one of the original grand hotels.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Rockefeller Center - 2 blocks
+• Radio City Music Hall - 3 blocks
+• Broadway theaters - 4 blocks
+• Museum of Modern Art - 6 blocks
+• Times Square - 0.75 mile</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Waldorf Astoria offers 1,416 high-ceilinged guestrooms and suites in a 42-story building. the room at the Park Avenue entrance features a 150,00-piece Wheel of Life mosaic floor created in 1931 by French artist Louis Rigal from 181 shades of marble. The Waldorf Astoria's 3,000 square-foot fitness facility includes personal trainers and massage therapists.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Ice skating.
+• Rowing /squash.
+• Tennis /Aerobics.
+• Hiking/biking trails.
+• Horse riding/rental.
+• Helicopter/airplane sightseeing.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Check In Time - 3 p.m.
+• Check Out Time - 12 p.m.
+• Credit card required - At Check-in.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>From LaGuardia International Airport:
+Take Grand Central Pkwy W to Triboro Bridge. Take FDR Drive South to the 49th Street Exit. Turn right on Park Ave, the hotel is on the right.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Peacock Alley.
+• Bull and Bear Steakhouse &amp; Bar.
+• Oscar's American Brasserie.
+• Inagiku Restaurant.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>29</Rank>
+</HotelElement>

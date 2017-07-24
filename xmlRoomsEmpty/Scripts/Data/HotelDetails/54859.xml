@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>54859</Id>
+  <Name>Cadogan</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>75 SLOANE STREET LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>SW1X 9SG</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-72357141</Tel>
+    <Fax>44-20-72450994</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.4969312</Latitude>
+    <Longitude>-0.1590714</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-Front_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>5297</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-Front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2665</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297front1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8626</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297front1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2173</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297restaurant1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7481</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297restaurant1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2124</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6763</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7526</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1920</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-Dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11548</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-Dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2266</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297meeting1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6429</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297meeting1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1894</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-Cadogan_ext.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14695</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-Cadogan_ext.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2504</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5983</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1879</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5820</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1913</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6431</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1947</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5415</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1792</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14194</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-Front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2542</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297bathroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5835</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297bathroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1815</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6290</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1891</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297reception.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6739</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297reception.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1999</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6261</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1885</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-1201297fron.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7202</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-1201297fron.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1885</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-Cadogan_guest.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7979</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-Cadogan_guest.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1867</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201297-Room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8403</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201297-Room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1698</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is a beautiful 5 star hotel, member of 'The Leading Small Hotels of the World'. The bedrooms and most public areas of the hotel have been recently renovated and given new life. The hotel benefits from the exclusive access to Cadogan Gardens, where picnics and tennis lessons can be organized by the hotel. The location is excellent and is well situated for travellers wishing to stay in the heart of London's most exclusive shopping area. The Cadogan Hotel is a prestigious Knightsbridge address; an SW1 hotel off London's Sloane Square that weaves contemporary styling with classic Edwardian decadence. (0408RP-L)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Set in a beautiful mansion located in one of the World's most famous shopping spots, Sloan Street, halfway between Knightsbridge and Sloan Square and opposite Cadogan Gardens. The hotel is within 3 minutes walking distance of Harrods and Harvey Nichols.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All the bedrooms have been designed to provide comfort and tranquility. The Deluxe category of rooms have just been totally refurbished using much of the original antique mahogany furniture mixed with contemporary/designer lamps, beds and flat screen televisions, retaining much of the Edwardian grandeur of the hotel, but creating a contemporary atmosphere. All the Deluxe rooms benefit from King Size bed and are of very large size. Luxurious fabrics have been used for curtains and bedspreads. New colours have been introduced to the rooms; some follow a brown scheme, some a grey/silver scheme and some a more feminine apple green scheme.  
+
+For a bit of history, book room 118, where Oscar Wilde was arrested in 1835 and where his smoking jacket still hangs in the wardrobe. The Edward VII suite, is the room where King Edward VII would meet his mistress, famous actress Lillie Langtrie.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is a very elegant and imposing Victorian building. The hotel entrance is discreet, with a large wooden door framed by pillars.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The newly refurbished and re launched Langtry's restaurant is the perfect place to satisfy your appetite while shopping in one of the world's most famous shopping spots. The magnificent restaurant with it's Victorian Grand fire place and plaster designs, has been updated and furnished using designer lamps, chairs and fabrics, and mixes traditional Victorian matt colours with bright, contemporary reds. It serves traditional English cuisine 'with a twist', by the famous chef Robert Lyons. There is also a drawing room which is sumptuously decorated and is famous for its impressive afternoon tea.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is small but cozy and airy. A contemporary reception desk and designer lamps are mixed with wood paneling, rich fabric curtains, oil paintings and the original mosaic flooring, to create a luxurious but contemporary feeling. Every single guest will be received with a complimentary welcome drink on arrival, will be shown around the hotel and personally accompanied to their rooms.</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

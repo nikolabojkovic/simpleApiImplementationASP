@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>721846</Id>
+  <Name>Sutton Place Suites (new York,</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>310 East 55th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10022</Zip>
+    <Country>United States</Country>
+    <Tel>+1 (212) 842 1202</Tel>
+    <Fax>+1 (212) 842 2656</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>70</CountRooms>
+    <CountFloors>13</CountFloors>
+    <Latitude>40.757498</Latitude>
+    <Longitude>-73.965631</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/20281_1.jpg</Url>
+    <Width>300</Width>
+    <Height>399</Height>
+    <Bytes>159578</Bytes>
+    <Caption>Outside view</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20281_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>11560</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/20281_2.jpg</Url>
+    <Width>405</Width>
+    <Height>300</Height>
+    <Bytes>104395</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20281_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>94</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>19451</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/20281_3.jpg</Url>
+    <Width>402</Width>
+    <Height>300</Height>
+    <Bytes>56261</Bytes>
+    <Caption>Standard Room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20281_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>16763</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Offering homely ambiance and a great value for money, this hotel is ideal for long or short stays in New York City. Its beautiful and spacious accommodations feature living/dining area along with a fully equipped kitchen.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in Midtown Manhattan. Some popular attractions nearby include Times Square, Central Park, Empire State Building and Rockefeller Plaza.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PetsAllowed</Code>
+    <Text>Pets allowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,345 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>60347</Id>
+  <Name>Westin Los Angeles Airport</Name>
+  <Region>
+    <Id>21627</Id>
+    <Name>Airport (LAX)</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>5400 WEST CENTURY BOULEVARD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LOS ANGELES</City>
+    <State>CA</State>
+    <Zip>90045</Zip>
+    <Country>USA</Country>
+    <Tel>1-310-2165858</Tel>
+    <Fax>1-310-4174545</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>33.94457</Latitude>
+    <Longitude>-118.374092</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>255</Height>
+    <Bytes>18738</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2250</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>288</Height>
+    <Bytes>18852</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2151</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Ballroom_1.jpg</Url>
+    <Width>358</Width>
+    <Height>360</Height>
+    <Bytes>29371</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2258</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>352</Height>
+    <Bytes>28905</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2240</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>19924</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2213</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>288</Height>
+    <Bytes>28259</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2699</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Suite_1.jpg</Url>
+    <Width>354</Width>
+    <Height>360</Height>
+    <Bytes>22709</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2183</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Health_Club_1.jpg</Url>
+    <Width>359</Width>
+    <Height>360</Height>
+    <Bytes>29034</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2390</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>300</Height>
+    <Bytes>22693</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2316</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>300</Height>
+    <Bytes>23515</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2438</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Spa_1.jpg</Url>
+    <Width>357</Width>
+    <Height>360</Height>
+    <Bytes>28974</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2399</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>22758</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2562</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>300</Height>
+    <Bytes>20790</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2105</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Restaurant_2.jpg</Url>
+    <Width>358</Width>
+    <Height>360</Height>
+    <Bytes>31127</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2434</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21824</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2869</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>26825</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2871</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>263</Height>
+    <Bytes>16635</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2080</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>26587</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2619</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>18513</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2047</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>19129</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2496</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAXI-WEShotel_Ballroom_3.jpg</Url>
+    <Width>360</Width>
+    <Height>288</Height>
+    <Bytes>27501</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAXI-WEShotel_Ballroom_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2540</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel offers a complimentary airport shuttle, an outdoor heated pool and a health club. The hotel, just four blocks from Los Angeles International Airport, offers easy access to major corporations, marvellous shopping, sunny beaches and fine restaurants. NOTE: This hotel is 100% smoke-free, including all guestrooms and public areas. There will be no refund for early departures. (0408/KC)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is less than one mile (4 blocks) from the airport on the main drag, only 10 minutes from the beach towns of Marina del Rey and Manhattan Beach.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms feature the Westin Heavenly Bath® and Westin Heavenly Bed®. Layers of duvets and smooth cotton sheeting and blackout curtains create a soothing atmosphere for a good night’s sleep. NOTE: No rollaways are permitted in double/double equipped rooms due to fire regulations. Cribs are allowed in this layout. Rollaways are permitted in rooms with 1 king-size bed only.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The property is a white stucco modern mid-rise building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There is a restaurant featuring a la carte and buffet dining open for breakfast, lunch and dinner; the Lobby Court is a warm and inviting lounge for afternoon and evening cocktails and light fare. There is a Starbucks Coffee Bar on premises.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The hotel has a large open lobby with marble floors and sitting areas.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>18</Rank>
+</HotelElement>

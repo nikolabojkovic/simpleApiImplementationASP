@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>55897</Id>
+  <Name>Park Plaza Riverbank</Name>
+  <Region>
+    <Id>52923</Id>
+    <Name>Southbank</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>18 ALBERT EMBANKMENT</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SE1 7TJ</Zip>
+    <Country>UK - England</Country>
+    <Tel>+44 844 854 5295</Tel>
+    <Fax>+44 844 854 5296</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.4905641</Latitude>
+    <Longitude>-0.1225482</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_1.jpg</Url>
+    <Width>315</Width>
+    <Height>224</Height>
+    <Bytes>20344</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1842</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>20012</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1963</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>21345</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2389</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>18825</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2295</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Ballroom_1.jpg</Url>
+    <Width>345</Width>
+    <Height>231</Height>
+    <Bytes>14907</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2235</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>21413</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1909</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Bar_Lounge_1.jpg</Url>
+    <Width>338</Width>
+    <Height>224</Height>
+    <Bytes>19234</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2724</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Lobby_2.jpg</Url>
+    <Width>320</Width>
+    <Height>235</Height>
+    <Bytes>13251</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2124</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>30767</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2626</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>22196</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2282</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>16272</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2325</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20717</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2565</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>19173</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2488</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_5.jpg</Url>
+    <Width>315</Width>
+    <Height>224</Height>
+    <Bytes>20517</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2278</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>24600</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2261</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_6.jpg</Url>
+    <Width>338</Width>
+    <Height>224</Height>
+    <Bytes>19225</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2845</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_7.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>15292</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2383</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_8.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>22910</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3129</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_9.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20551</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2772</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_10.jpg</Url>
+    <Width>315</Width>
+    <Height>224</Height>
+    <Bytes>20517</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2278</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_11.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>15476</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_11_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2476</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-RIV1hotel_Restaurant_12.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>22196</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-RIV1hotel_Restaurant_12_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2282</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is an excellent product highly recommended with a top of the range Health Spa. (01/09 LP)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on the Riverbank, in proximity of Waterloo.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All executive rooms are large in size and decorated to a very high standard. All are is exceptional conditions and feature almost up to date facilities. The bathrooms are large in size and in exceptional condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a purpose built impressive hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The stylish French brasserie restaurant on the ground floor offers a large variety of dishes influenced by Japanese and Californian flavours.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The large lobby is modern in style and pleasantly decorated.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

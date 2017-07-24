@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129878</Id>
+  <Name>Astor On The Park</Name>
+  <Region>
+    <Id>64381</Id>
+    <Name>Upper West Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>465 Central Park West</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10025</Zip>
+    <Country>USA</Country>
+    <Tel>+1 212 866 1880</Tel>
+    <Fax>+1 212 316 9555</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7985086</Latitude>
+    <Longitude>-73.9598769</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/129878_Exterior.jpg</Url>
+    <Width>235</Width>
+    <Height>157</Height>
+    <Bytes>24277</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/129878_Exterior_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2990</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/129878_Gust%20rum.jpg</Url>
+    <Width>312</Width>
+    <Height>235</Height>
+    <Bytes>13778</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/129878_Gust%20rum_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>92</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2249</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/129878_interior.jpg</Url>
+    <Width>312</Width>
+    <Height>235</Height>
+    <Bytes>14046</Bytes>
+    <Caption>Hotel Interior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/129878_interior_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>92</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2589</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/129878_Lobby.jpg</Url>
+    <Width>312</Width>
+    <Height>235</Height>
+    <Bytes>16208</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/129878_Lobby_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>92</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2417</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located across the street from Central Park in Manhattan's Upper West Side, Astor on the Park is a great choice for budget-minded visitors traveling to New York City. It is approximately a 20 minutes walk from the hotel to the Museum of Natural History and around a 30-40 minutes walk to the Fifth Avenue, Broadway, Times Square and the Rockefeller Centre. It is also in easy access of the subway on 103rd street or 96th street with all of the above in easy reach on train lines B and C.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Central Park - across the street
+• Morningside Park - 0.25 miles
+• Cathedral of St. John the Divine - 0.5 miles
+• Columbia University - 1 mile
+• Riverside Park - 1 mile
+• American Museum of Natural History - 1.5 miles
+• Shakespeare Gardens - 1.5 miles
+• Lincoln Center - 2.5 miles
+• Metropolitan Opera House - 2.5 miles
+• Columbus Circle - 2.5 miles
+• Times Square - 4 miles
+• Broadway Theatre District - 4 miles
+• Empire State Building - 5 miles
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Astor on the Park Hotel has 79 guestrooms with one queen or two double beds. Queen rooms can accommodate a maximum of two guests; while rooms with two double beds can accommodate a maximum of four guests.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The property offers basic amenities and accommodation in a recently refurbished historic building. Two computers, located in the lobby, are wired with high-speed Internet. Ideal for dispatching emails back home.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Madison Avenue.
+• Shopping Mall.
+• Fitness Center.
+• Morningside Park.
+• Columbia University.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check In Time - 3 p.m.
+Check Out Time - 12 p.m.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>From La Guardia Airport: Take I-278 (Grand Central Pkwy) west. Continue past the toll booths and Triborough Bridge. Bear right onto the ramp toward Harlem River Dr and 125th St.Continue west on Martin Luther King Blvd. Turn left onto Frederick Douglass Blvd.Continue south as street changes to Centra l Park West. Hotel is on the right, across from the park.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>PetsAllowed</Code>
+    <Text>Pets allowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeShop</Code>
+    <Text>Coffee shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2051929</Id>
+  <Name>Rumor Boutique Resort</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>455 EAST HARMON AVENUE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas (NV)</City>
+    <State />
+    <Zip>89169</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 702 369 5400</Tel>
+    <Fax>+1 702 369 1150</Fax>
+    <Email>mtoricelli@siegelcompanies.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>150</CountRooms>
+    <Latitude>36.107386</Latitude>
+    <Longitude>-115.154112</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/26/72/2/26722_1.jpg</Url>
+    <Width>300</Width>
+    <Height>187</Height>
+    <Bytes>9841</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/26/72/2/26722_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>112</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2350</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>RUMOR is Las Vegas' newest all-suite boutique hotel. Enjoy a cocktail at the bar or tapas at Addiction Restaurant. Stroll out to the pool and unwind in a palm-covered hammock or simply relax in your brand new suite. This modern chic boutique hotel is located across the street from the Hard Rock Hotel and Casino, and whether your Las Vegas trip is for business or pleasure you'll enjoy exceptional accommodations close to the Las Vegas Strip action, McCarran International Airport, and the Las Vegas Convention Center.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Centrally located 2 miles from McCarran International Airport, opposite the Hard Rock Hotel, 2 miles south of the Las Vegas Convention Center, and three blocks east of the famous Las Vegas Strip.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Our boutique suites have clean, modern design details with a choice of cool amenities like private balconies and elevated, in-room soaking tubs*.Choose a poolside suite and open the floor-to-ceiling glass terrace doors and you're steps away from the pool and cabana scene. Or choose an upper level balcony and kick back with a drink from the RUMOR bar or tapas from Addiction Restaurant while you enjoy the pool view discreetly from above!</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Modern</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Addiction Restaurant at RUMOR: it is a truly unique Las Vegas restaurant. Helmed by notorious chef Vic Vegas this sleek modern venue serves classic dishes with a twist for breakfast, lunch, and dinner.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Modern design with a hip vibe directly connected to the hotel bar and restaurant.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9016065</Id>
+  <Name>Rixos The Palm Dubai</Name>
+  <Region>
+    <Id>9043419</Id>
+    <Name>Jumeirah / Marina / Palm</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Resorts</Type>
+  <Address>
+    <Address1>The Palm Jumeirah, East Crescent</Address1>
+    <Address2>Palm Jumeirah</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>P.O.Box 18652</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-4575555</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>261</CountRooms>
+    <CountFloors>7</CountFloors>
+    <CheckInTime>15:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/71/50/85/715085-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6106</Bytes>
+    <Caption>715085-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/71/50/85/715085-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1536</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/71/50/85/715085-img2-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7230</Bytes>
+    <Caption>715085-img2-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/71/50/85/715085-img2-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1769</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/71/50/85/715085-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8042</Bytes>
+    <Caption>715085-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/71/50/85/715085-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1914</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/71/50/85/715085-img4-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7948</Bytes>
+    <Caption>715085-img4-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/71/50/85/715085-img4-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1870</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/71/50/85/715085-img5-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6515</Bytes>
+    <Caption>715085-img5-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/71/50/85/715085-img5-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1639</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The RIXOS THE PALM DUBAI is a Tourist, Family Style, Leisure, Beach Resort, Resort, Honeymoon, Full Service, Child Friendly hotel. Located in Palm Jumeirah area. Shopping is accessible by bus/taxi and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Rixos The Palm Dubai is a five star resort located on the East of the famous Palm Island, Jumeirah. The resort features 233 spacious and comfortable rooms and suites, and 28 residential apartments offering panoramic views of the Dubai shoreline. Rooms feature 40-inch plasma screen TV, marble bathroom and balcony with sea, garden or pool view. Free WiFi is available throughout the resort. The resort features a variety of sophisticated dining options, including Turkish, Mediterranean and International cuisine. Private dining rooms can be reserved for up to 12 people. Refreshments are served across the resort's many bars and nightclub. The resort offers a full-service spa and extensive gymnasium facilities, as well as yoga and pilates, fitness classes, beach volleyball, soccer, tennis and a variety of watersports. Dubai International Airport is 40 minutes away.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Babysitter</Code>
+    <Text>Babysitter</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ChildrensClub</Code>
+    <Text>Childrens Club</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WaterSports</Code>
+    <Text>WaterSports</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OnSiteBeach</Code>
+    <Text>On-Site Beach</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ATMMachine</Code>
+    <Text>ATM Machine</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

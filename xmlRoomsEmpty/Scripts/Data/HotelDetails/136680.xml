@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>136680</Id>
+  <Name>Bayswater Apartments</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>17 Inverness Terrace</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W2 3JL</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>18663652226</Tel>
+    <Fax>442071171500</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>11</CountRooms>
+    <Latitude>51.5114524</Latitude>
+    <Longitude>-0.1862803</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039565-Bayswater-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039565-Bayswater-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2660</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039565-Bayswater-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039565-Bayswater-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2302</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039565-Bayswater-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10567</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039565-Bayswater-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1889</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039565-Bayswater-Room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7056</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039565-Bayswater-Room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1617</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Info:Set in the heart of Royal London, next-door to Hyde Park and Kensington Palace, this superb and uniquely styled apartment is a real gem. This completely newly refurbished property offers the benefits of space, comfort and independence in one of the world’s most vibrant cities.Location:We are between Paddington and Hyde Park. Bayswater is close to the West end.Area:London’s most beloved open spaces: Kensington Gardens, Hyde Park, and Holland Park are all within a few minutes walk and provide the perfect opportunity to escape from the city’s bustling streets.  Recreation:Queensway provides an eclectic selection of restaurants, chic bars, trendy shops, and the well-known Whiteley’s Shopping Centre.Rooms:All standard amenities include CD/DVD player, dishwasher, fully fitted kitchens, iron/ironing boards, microwave, shower, TV and washing machine.Policies:**Notice to guests: When you arrive you will need to call toll free 0800 066 4697. The automatic message will connect you to someone who will give you a code to enter the hotel and all the information needed to get to your room.**</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Set in the heart of Royal London, next-door to Hyde Park and Kensington Palacae this superb and uniquely styled apartment is a real gem.  A completely new refurbished property offers the benefits of space, comfort and independence.</Text>
+  </Description>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>416558</Id>
+  <Name>One Aldwych</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1 ALDWYCH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>WC2B 4RH</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>+44 207 300 1000</Tel>
+    <Fax>+44 207 300 0500</Fax>
+    <Email>reservations@onealdwych.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>105</CountRooms>
+    <CountFloors>6</CountFloors>
+    <Latitude>51.5125785</Latitude>
+    <Longitude>-0.11868</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/A3Afront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/A3Athumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1704</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/A3Abed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/A3Athumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1445</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/A3Amap.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/A3Athumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2063</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>One Aldwych is a luxury 5-star hotel offering elegant accommodation and excellent facilities in the heart of London. Highlights include a health club, indoor swimming pool and an excellent location just off the Strand. The West End is a thriving entertainment district where many of London's major tourist attractions, shops, theatres and music venues are located. Nearby places of interest include Leicester Square, Covent Garden, Chinatown and Theatreland. Temple tube station is located in the vicinity, providing fast and easy access to other popular London destinations. The hotel is housed in a traditional Edwardian mid-rise property featuring decorative stonework, a mansard roof and copper dome. Facilities include a health club comprising an indoor swimming pool, 24-hour gym, sauna, steam room and treatment rooms where guests can enjoy a range of massage and wellness treatments. Free Wi-Fi is available throughout the premises. Indigo restaurant offers modern European dishes in a charming and informal setting, while the lobby bar serves creative cocktails, delicious snacks and afternoon tea. A buffet breakfast is provided every morning and there are also plenty of dining opportunities in the vicinity. Aldwych rooms are 24-27sqm and showcase a contemporary elegant decor with plush furniture and original artworks. Amenities include air-conditioning, free wired internet, a work desk, mini-bar, iPod dock and flat-screen satellite TV with on-demand content. The en-suite bathrooms feature a bathtub with integrated shower, flat-screen TV and complimentary toiletries. The hotel provides 24-hour reception and room service. Chargeable parking is possible onsite.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>271628</Id>
+  <Name>Travelodge Tower Bridge</Name>
+  <Region>
+    <Id>52928</Id>
+    <Name>Westminster &amp; Victoria </Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1 Goodmans Yard</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>E1 8AT</Zip>
+    <Country>England</Country>
+    <Tel>0044 0870 191 1700</Tel>
+    <Fax>00441844358519</Fax>
+    <Email>travel.trade@travelodge.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5112218</Latitude>
+    <Longitude>-0.0733267</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Travelodge Tower Bridge is situated at the heart of London`s business district, yet is within walking distance of such attractions as The Tower of London and St. Paul`s Cathedral. One of the new wave of modern purpose built Travelodges, the rooms are en suite with king size bed, desk, seating area, TV and tea and coffee making facilities. The hotels bright contemporary bar is the perfect place to unwind at the end of the day and an informal, relaxed restaurant offers a freshly cooked buffet breakfast and daily specials for dinner. A contemporary property offers excellent value, especially for families. Please note that the twin room consists of double and sofa bed.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

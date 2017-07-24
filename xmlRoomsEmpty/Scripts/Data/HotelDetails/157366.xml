@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>157366</Id>
+  <Name>THE RE London Hotel</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>419-437 Hackney Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>E2 8PP</Zip>
+    <Country>England</Country>
+    <Tel>0 207 6136500</Tel>
+    <Fax>0 207 6136501</Fax>
+    <Email>reservations@hotelshoreditch.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5319465</Latitude>
+    <Longitude>-0.0614017</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-DAY3hotel_Exterior_1.jpg</Url>
+    <Width>357</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-DAY3hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-DAY3hotel_Bedroom_1.jpg</Url>
+    <Width>357</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-DAY3hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-DAY3hotel_Bathroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bathroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-DAY3hotel_Bathroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is an excellent modern hotel, ideally located for any trip into London. Shoreditch, apart from being the new art scene favourite district of London, has many trendy bars and restaurants, and is in the close vicinity of the financial district just 5 minutes away from Old Street and 10 minutes from Liverpool Street, and is also very close to the incredibly vibrant and interesting London markets, such as Spitalfields with its arts and crafts, international cuisine displays, clothes, boutique shops, Bricklane market with its asian influence, Petticoat market and Colombia road flower market. Also very popular are the Jack the Ripper guided tours in Spitalfields. The hotel comes highly recommended. (12/07 LP)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located right in the heart of London, within very easy reach of the financial district and right on the main artery into the west end. Shoreditch today is one of the most vibrant and trendy areas of central London, with some of the best evening entertainment of the Capital.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms are designed in a modern and contemporary style, creating a relaxing atmosphere while mantaining all the facilities of a top end hotel. All are fully equipped with air conditioning, flat screen televisions, tea/ coffee making facilities, direct dial telephones with personal voicemail, wireless and wired high speed internet access, and all bathrooms with bathtubs.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a modern purpose built building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Breakfast is served in the modern and very pleasant restaurant, which also features a contemporary a-la-carte menu for the evening, whilst a bar-snack menu is also available 24 hours per day. The 24 hour modern Bar offers a great selection of alcoholic and non-alcoholic beverages.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The Lobby is fairly large in size and incorporates the reception area with a comfortable seating area, the restaurant and bar, all designed in contemporary style, with the added bonus of large glass windows making the space very luminous and airy.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1296048</Id>
+  <Name>Travelodge Heathrow T5</Name>
+  <Region>
+    <Id>52878</Id>
+    <Name>Heathrow</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>CALDER WAY, HORTON ROAD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SL3 0AT</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>08719846353</Tel>
+    <Fax>00441844358519</Fax>
+    <Email>travel.trade@travelodge.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4696907</Latitude>
+    <Longitude>-0.5130757</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/12/99/13/129913-GEN-1.jpg</Url>
+    <Width>214</Width>
+    <Height>320</Height>
+    <Bytes>13784</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/12/99/13/129913-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1561</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Travelodge hotels are renowned for great value and their simple, spacious and comfortable bedrooms. This Travelodge hotel is ideally located for terminal five and has direct connections both shuttle bus and public bus connections to Terminals 1, 2 and 3. Travelodge Heathrow Terminal 5 offers a hassle free comfortable hotel stay... There is a cafe and a hotel bar. Hotel is a perfect place to rest before an early flight or the long drive home adjacent to Heathrow`s brand new state of the art Terminal 5. Great value for money!</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

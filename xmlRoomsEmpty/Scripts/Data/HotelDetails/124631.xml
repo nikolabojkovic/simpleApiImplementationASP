@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>124631</Id>
+  <Name>Fiesta Henderson</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>777 West Lake Mead Parkway</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Henderson</City>
+    <State />
+    <Zip>89015</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 558 7000</Tel>
+    <Fax>+1 702 367 6138</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>36.0345376</Latitude>
+    <Longitude>-115.0057512</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/F9Wfront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/F9Wthumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1902</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/F9Wbed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/F9Wthumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1838</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/F9Wmap.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/F9Wthumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1720</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Fiesta Henderson Hotel &amp; Casino is a friendly 4-star property promising cosy accommodation and great facilities, just outside Las Vegas. Highlights include a swimming pool and choice of restaurants. Located in Henderson, roughly 20km from the centre of Las Vegas, the hotel is a fantastic base from which to explore the surrounding area. In Las Vegas, guests can experience some of the most famous casinos, along with the Smith Center for the Performing Arts and the Fremont Street Experience. There are also plenty of shopping opportunities at the Fashion Show Mall. The hotel occupies a large complex set amongst 46 acres of desert. Facilities include an outdoor swimming pool, Jacuzzi, cinema and casino. Chargeable Wi-Fi is available throughout the premises. The Amigo's restaurant offers delicious Mexican cuisine in a fun and lively atmosphere. Fuego is a steakhouse offering some of the finest cuts in town. The bar serves a range of hot and cold beverages. Deluxe rooms are spacious and tastefully designed, featuring a bright modern decor and neutral colour scheme. Amenities include pay-per-view movies, an ironing board and en-suite bathroom with shower. Free parking is possible onsite. ***Please note that there is a mandatory resort fee payable directly to the hotel upon arrival at the rate of 9.99 USD plus tax per room, per night. The fee covers wired and wireless high-speed internet, unlimited local and 800 calls, unlimited long distance domestic calls at no additional charge, a daily local newspaper, gift shop discount, copy and fax services and special daily offers and discounts.***</Text>
+  </Description>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

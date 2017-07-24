@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>720297</Id>
+  <Name>Holiday Inn Henderson</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1553 NORTH BOULDER HIGHWAY</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas (NV)</City>
+    <State />
+    <Zip>89011</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 702 564 9200</Tel>
+    <Fax>+1 702 564 9799</Fax>
+    <Email>erica.holidayinn@gmail.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>115</CountRooms>
+    <CountFloors>3</CountFloors>
+    <Latitude>36.0595432</Latitude>
+    <Longitude>-115.0049584</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/20/79/7/20797_1.jpg</Url>
+    <Width>276</Width>
+    <Height>300</Height>
+    <Bytes>20662</Bytes>
+    <Caption>Outside view of hotel</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20/79/7/20797_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>64</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1756</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/20/79/7/20797_2.jpg</Url>
+    <Width>300</Width>
+    <Height>283</Height>
+    <Bytes>13937</Bytes>
+    <Caption>Hotel lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20/79/7/20797_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>74</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1802</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/20/79/7/20797_3.jpg</Url>
+    <Width>278</Width>
+    <Height>300</Height>
+    <Bytes>13263</Bytes>
+    <Caption>Standard room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20/79/7/20797_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>64</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1395</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/20/79/7/20797_4.jpg</Url>
+    <Width>283</Width>
+    <Height>300</Height>
+    <Bytes>19199</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/20/79/7/20797_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2064</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This family and pet friendly hotel with its courteous staff boasts a casual sophistication and great customer service. The beautifully decorated rooms are equipped with modern amenities including microwave and refrigerator. The spacious and luxurious suites featuring a contemporary yet casual design come with a whirlpool tub and granite vanity. The hotel's on-site restaurant serves American cuisine for breakfast and dinner.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is conveniently located near Sam Boyd Stadium, Henderson Convention Center, Galleria at Sunset Mall and just minutes away from McCarran Airport. Some major area attractions include Nellis Air Force Base, Black Mountain Golf Course, Lake Mead Recreation Center and Arroyo Grande Sports Complex.</Text>
+  </Description>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

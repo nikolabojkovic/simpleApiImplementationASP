@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>318693</Id>
+  <Name>Admiral Premier</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>138 Soi 23 Sukhumvit Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2 120 8000</Tel>
+    <Fax>+66 2 120 8080</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.739297</Latitude>
+    <Longitude>100.564309</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/10/26/22/102622-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>210</Height>
+    <Bytes>12062</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/10/26/22/102622-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>106</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2725</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/10/26/22/102622-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>212</Height>
+    <Bytes>12477</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/10/26/22/102622-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2610</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/10/26/22/102622-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>210</Height>
+    <Bytes>12618</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/10/26/22/102622-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>106</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2714</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/10/26/22/102622-HAB-4.jpg</Url>
+    <Width>212</Width>
+    <Height>320</Height>
+    <Bytes>11497</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/10/26/22/102622-HAB-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1533</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Suvarnabhumi International Airport and Don Muang Domestic Airport can both be reached in 30-40 minutes by car. A chauffeur driven limousine is available on request, as well as taxi and airport bus services. This is especially convenient for medical tourists, as they are located within easy reach of both Bumrungrad and Samitivej hospitals.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Newly opened in 2008, this luxurious but affordable Bangkok address provides an oasis of calm and relaxation with perfect privacy and peace of mind, ideal for the discerning long or short stay visitor. The hotel's friendly staff is waiting to welcome guests with legendary Thai hospitality and to make their stay as smooth and enjoyable as possible. The air-conditioned 112-room hotel has a lobby area with 24-hour reception and check-out service, as well as a safe, lift access, newspaper stand, restaurant and WLAN Internet access. Room and laundry services are provided and guests arriving by car can leave their vehicles in the nearby car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

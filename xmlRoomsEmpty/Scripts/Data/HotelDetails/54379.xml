@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>54379</Id>
+  <Name>Crowne Plaza London -The City</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>19 NEW BRIDGE STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>EC4V 6DB</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-871-9429190</Tel>
+    <Fax>44-20-74388080</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5125538</Latitude>
+    <Longitude>-0.1041739</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22745</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2415</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>24435</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2685</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21451</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2422</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20351</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2257</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21631</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2471</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22397</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2221</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18044</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2175</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>19323</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2229</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>286</Height>
+    <Bytes>21045</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2584</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>20588</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2483</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23595</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2567</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22875</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2497</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>23819</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2516</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19639</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2336</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>20306</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2224</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>265</Height>
+    <Bytes>16713</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1821</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>25709</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2699</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>14887</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1921</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19790</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2380</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>19987</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2209</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Restaurant_5.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>22077</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2472</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21500</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2768</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Restaurant_6.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>21791</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Restaurant_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2351</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_8.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>12671</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1921</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_9.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>21441</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2305</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Bar_Lounge_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22579</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2432</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Meeting_Room_10.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20282</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Meeting_Room_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2336</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-CRO3hotel_Restaurant_7.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>24575</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-CRO3hotel_Restaurant_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2699</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel also features the Spirit workout and sauna. This is a private gym, available for resident's use only. Overall this is a great hotel for those looking for easy access to both the West End and the city. (1211/AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located close to St Paul's Cathedral, Blackfriars Underground and Train Station is just across the road with the Circle and District Lines available and most importantly the station is directly linked to Gatwick and Luton Airports.The hotel is literally positioned right between the City of London (Financial District) and the West End also the Thames is only a stone's throw away. Close to Blackfriars Bridge, the hotel also offers easy access to the South Bank and Waterloo. Nearby attractions include OXO Tower Restaurant, St Paul's Cathedral, Cleopatra's Needle, Shakespeare's Globe Theatre, Southwark Cathedral, HMS Belfast, London Dungeon, London Eye and the Tate Modern. The hotel is also approximately 15 minutes walk to the Theatre district, Covent Garden and Somerset House.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All the medium-sized rooms are furnished to a very high standard and feature a state of the art Genesis in-room TV entertainment system offering high-speed Internet access and pay movies. A range of CDs are also available. All rooms are also equipped with double glazing, air conditioning, laptop safe and WIFI modem connection. Guest floors are only accessible with guest room key.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a sympathetically restored historic building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Refettorio   Location: Upper Ground Floor   Serves: Lunch ,  Dinner   To enjoy a superb, freshly cooked meal, look no further than Refettorio. Directed by Michelin-starred Chef, Giorgio Locatelli, Refettorio is a showcase for traditional, regional foods made from the highest quality ingredients bringing the best and freshest style in Italian dining to the City.   Chinese Cricket Club   Location: Upper Ground Floor   Serves: Lunch ,  Dinner   Enjoy mouth-watering ranges of Sichuan and Dim Sum specialities served with a contemporary twist. Signature dishes, complemented by traditional Chinese favourites.  Lobby Lounge   Location: Lobby Lounge   Serves: Breakfast ,  Lunch ,  Dinner   Enjoy a wide variety from the finest Roast Beef to the traditional Club Sandwich. Whether you require an area to dine or an informal setting to converse, the Lobby Lounge has it all, including complimentary wireless internet.     Hotel Bars /Lounges   NineteenBelow   Our professional bartenders are passionate about cocktails and have created a sensory adventure, come with us and explore the full range of champagnes, malt whiskeys, smart martini's and a contemporary take on classic cocktails created just for you</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is bright and modern with comfortable seating.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

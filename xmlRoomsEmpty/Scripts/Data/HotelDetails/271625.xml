@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>271625</Id>
+  <Name>Travelodge Southwark</Name>
+  <Region>
+    <Id>52923</Id>
+    <Name>Southbank</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>202-206 Union Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SE1 0LH</Zip>
+    <Country>England</Country>
+    <Tel>0044 871984 6352</Tel>
+    <Fax>0044 184435 8519</Fax>
+    <Email>travel.trade@travelodge.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5036992</Latitude>
+    <Longitude>-0.1003782</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located just 300 yards from the banks of the River Thames, the brand new Travelodge Southwark is close to the thriving Borough market and Tate Modern art gallery and is served by Southwark tube station as well as the Waterloo overland train station.  One of the new wave of modern purpose built Travelodges, the rooms are all en suite with king size beds, desk, seating area, TV and tea and coffee making facilities. Onsite is a Bar Café ensuring breakfast, dinner, snacks and drinks are on offer within the premises with wi-fi internet access.  A bright contemporary property offering excellent value, especially for families.  &lt;br&gt;Please note that the twin rooms consists of double and sofa bed. Early Check-in and Late Check-out service available - charged on arrival at the hotel!</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

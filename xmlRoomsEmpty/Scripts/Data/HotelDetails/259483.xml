@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>259483</Id>
+  <Name>Lord Jim</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>PENYWERN ROAD 23-25</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW5 9TT</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>02073706071</Tel>
+    <Fax>02073738919</Fax>
+    <Email>lordjimhotel@thelordsgroup.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4908781</Latitude>
+    <Longitude>-0.1930362</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/10/52/94/105294-COM-3.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>13190</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1057/10/52/94/105294-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2475</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/10/52/94/105294-GEN-6.jpg</Url>
+    <Width>213</Width>
+    <Height>320</Height>
+    <Bytes>15002</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/10/52/94/105294-GEN-6thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1524</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/10/52/94/105294-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>10576</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/10/52/94/105294-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2229</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/10/52/94/105294-HAB-2.jpg</Url>
+    <Width>213</Width>
+    <Height>320</Height>
+    <Bytes>10926</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/10/52/94/105294-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1395</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From the M4: Continue at the end of the motorway onto the A4. At the Hogarth roundabout take the 2nd exit onto Great Western Road, A4. Continue forward on the Great Western Road entering Hammersmith. Keep in the right-hand lanes then cross the Hammersmith Flyover-A4 (signposted Central London). Continue forward onto Talgarth Road-A4 entering Kensington. Take the right-hand lane, and then at the next traffic signals turn right onto Earls Court Road-A3220 (signposted Central London, Westminster). Continue forward onto Earls Court Road-A3220 entering Earls Court. Turn right onto Penywern Road, where the hotel is located.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>This hotel is completely non-smoking.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This 46-room hotel lies in a picturesque and cheerful neighbourhood, with a cosmopolitan atmosphere. Guests are welcomed into a lobby with 24-hour reception and check-out service, a hotel safe and currency exchange facilities. Free wireless Internet access is available in the public areas and a lift is on hand to provide easy access to all floors. Guests can relax in the TV lounge, dine in the restaurant and enjoy a laundry service.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVRoom</Code>
+    <Text>TV Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

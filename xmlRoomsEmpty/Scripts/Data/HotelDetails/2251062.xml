@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2251062</Id>
+  <Name>Ratchada Resort and Spa</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>544</Address1>
+    <Address2>Soi Ratchadapisek</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 0 2245 9868-76</Tel>
+    <Fax>(66) 2245 9868-76</Fax>
+    <Email>info@ratchadaresortandspahotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.763062</Latitude>
+    <Longitude>100.564706</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/04/04/04/54/ratchada_resort_and_spa-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10877</Bytes>
+    <Caption>ratchada_resort_and_spa-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/04/04/04/54/ratchada_resort_and_spa-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2621</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

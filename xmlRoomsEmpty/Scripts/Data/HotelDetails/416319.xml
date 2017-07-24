@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>416319</Id>
+  <Name>Draycott</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>26 CADOGAN GARDENS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW3 2RP</Zip>
+    <Country>Great Britain</Country>
+    <Tel>44 2077306466</Tel>
+    <Fax>44 2077300236</Fax>
+    <Email>reservations@draycotthotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>35</CountRooms>
+    <CountFloors>0</CountFloors>
+    <Latitude>51.4939551</Latitude>
+    <Longitude>-0.1595299</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/82/11/8211_1.jpg</Url>
+    <Width>379</Width>
+    <Height>480</Height>
+    <Bytes>43884</Bytes>
+    <Caption>Outside view</Caption>
+    <ThumbnailUrl>/RXLImages/1026/82/11/8211_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>55</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1792</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/82/11/8211_2.jpg</Url>
+    <Width>480</Width>
+    <Height>384</Height>
+    <Bytes>39566</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/82/11/8211_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>87</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2095</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/82/11/8211_3.jpg</Url>
+    <Width>469</Width>
+    <Height>480</Height>
+    <Bytes>45205</Bytes>
+    <Caption>Standard Room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/82/11/8211_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>68</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1845</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/82/11/8211_4.jpg</Url>
+    <Width>250</Width>
+    <Height>200</Height>
+    <Bytes>12193</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/82/11/8211_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>87</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2437</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>If you`re in search of a small elegant five star hotel in London that`s replete with luxurious finishes, grand interiors and staff on hand to satisfy your every whim, look no further than the Draycott, a luxury London Hotel situated between Chelsea and Knightsbridge. With understated elegance and authentic English grandness, the Draycott Hotel is more than just a 5 star town house hotel in London. It occupies three red-brick Edwardian homes just around the corner from Chelsea`s Sloane Square and Kensington. Staying in this elegant town house will evoke a sense of old world romantic charm and elegance for which the city of London is so famous with the feeling of an English Country home. As a guest at the Draycott Hotel, you`ll enjoy rest and respite in luxurious London accommodations tastefully decorated boutique rooms. Most of the spacious rooms also have their own cosy fireplace and some have a bay window that overlooks the peaceful and private garden below. As with any 5 star hotel, London`s Draycott provides impeccable and efficient friendly service. A home from home.</Text>
+  </Description>
+  <Amenity>
+    <Code>SmokingRoom</Code>
+    <Text>Smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InRoomMovies</Code>
+    <Text>In-room movies</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Tours</Code>
+    <Text>Tours</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>*FB plus</Code>
+    <Text>*FB plus</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomSlippers</Code>
+    <Text>Room Slippers</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

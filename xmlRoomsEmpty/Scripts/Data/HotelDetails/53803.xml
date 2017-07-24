@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53803</Id>
+  <Name>Savoy</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Strand</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London WC2R OEU</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-78364343</Tel>
+    <Fax>44-20-79505482</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5116028</Latitude>
+    <Longitude>-0.1183185</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Exterior_1.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>26994</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2379</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Guest_Room_1.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>29586</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2875</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>16122</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2056</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>29191</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2672</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>25594</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2412</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Restaurant_1.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>39321</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2849</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>28123</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2550</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>277</Height>
+    <Bytes>24215</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2446</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>29991</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2653</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>244</Height>
+    <Bytes>24224</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2622</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Exterior_2.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>32711</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2771</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>307</Height>
+    <Bytes>32345</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2477</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>28193</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2597</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SAVhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>25334</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SAVhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2283</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Hotel continues to live up to its reputation as a bastion of English exclusivity. (11/10 VM)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is situated just off the Strand five minutes from Charing Cross mainline and underground station and in the heart of London's bustling West End, Theatreland, Trafalgar Square, Covent Garden and some of London's best shopping areas are all nearby. The rear of the hotel overlooks the Thames.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>On average the rooms are large and all are in exceptional condition, as are the Bathrooms. The rooms are decorated in pale colours, they are light and airy, with sixty rooms commanding magnificent views over the river thames. The marble bathrooms are in exeptional condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is an imposing cream coloured building with a very grand entrance set back from the Strand.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant is extremely elegant with a high ceiling and attractive decor dominated by pinks and greens, with great views over the river. The grill room has recently been refurbished and is now under the gifted management of the famous michellin star chef Gordon Ramsay.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is very large and is elegantly furnished and decorated with the use of  elegant marbles and dark wood. A large and comfortable seating area lies in front of the large reception desk. An elegant staircase leads on to the bar area where clients can enjoy a snack and a great english afternoon tea.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

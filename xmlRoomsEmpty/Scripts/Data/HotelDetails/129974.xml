@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129974</Id>
+  <Name>Park South Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>122 E 28th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10016</Zip>
+    <Country>USA</Country>
+    <Tel>+1 212 448 0888</Tel>
+    <Fax>+1 212 448 0811</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7428852</Latitude>
+    <Longitude>-73.9830359</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>17927</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2650</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>22669</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2955</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>30997</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3031</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>16069</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2280</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>29985</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3092</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>238</Height>
+    <Bytes>21621</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2697</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Exterior_2.jpg</Url>
+    <Width>200</Width>
+    <Height>306</Height>
+    <Bytes>14058</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2662</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>23439</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2695</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>21951</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2625</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Exterior_3.jpg</Url>
+    <Width>241</Width>
+    <Height>360</Height>
+    <Bytes>28414</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3120</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>18601</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2410</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Business_centre_2.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>19515</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Business_centre_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2501</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>36140</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3462</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>27330</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2931</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Exterior_4.jpg</Url>
+    <Width>241</Width>
+    <Height>360</Height>
+    <Bytes>27589</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Exterior_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3061</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR7hotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>21028</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR7hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2653</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Park South Hotel is a boutique hotel in midtown Manhattan with superior amenities that appeal to the most discerning of travelers ? from a sumptuous complimentary breakfast to complimentary Wifi throughout the building.  The comfortable and fully-appointed guestrooms and suite accommodations feature tasteful furnishings and luxurious pillow-top beds outfitted with high-quality linens.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Ideally located in Manhattan's Murray Hill neighborhood on 28th Street between Park Avenue South and Lexington Avenue.  The hotel is just minutes away from midtown businesses and an array of cultural and sightseeing attractions. The hotel offers an ideal location in Manhattan, allowing easy access to the entirety of the island.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The 141-room hotel features refined, relaxing common areas and stylishly furnished guestrooms, ranging from standard to superior, each outfitted with state-of-the-art technology.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The beautifully restored 1906 building lies between the stylish Gramercy Park and Murray Hill neighborhoods.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Enjoy Pan Atlantic bistro cuisine and fine dining at The Black Duck Restaurant, a beautifully restored New York City brownstone adjacent to the Park South Hotel in the exclusive neighborhood of Murray Hill.  The restaurant serves breakfast and dinner, and is open seven days a week. A live jazz band entertains on weekends.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Simply furnished lobby.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>55723</Id>
+  <Name>Sheraton Park Tower</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>101 KNIGHTSBRIDGE LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>SW1X 7RN</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-72358050</Tel>
+    <Fax>44-20-72907582</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5017578</Latitude>
+    <Longitude>-0.1588472</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHE1hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHE1hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A member of Starwood's Luxury Collection, an assembly of Starwood's renowned hotels and resorts, at The Sheraton Park Tower a truly magnificent experience awaits, where refined beauty is combined with modern technology and extraordinary attentive service. Additional facilities include a 24-hour business centre &amp; internet access throughout the hotel, fitness centre, gift shops and 24 hour secure car parking.  (02/08 LP)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in the heart of Knightsbridge, The Sheraton Park Tower is just moments from Hyde Park and some of the finest shops in the world such as Harrods and Harvey Nichols, with the designer shops of Sloane Street only a few minutes walk away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The hotel offers beautifully appointed bedrooms with large bay windows offering stunning views of Knightsbridge, curved walls, contemporary décor, luxurious furnishings and bathrooms in Italian marble, complete with spacious walk-in showers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a modern cylindrical tower which gives it a striking appearance, especially as it is in an older part of London surrounded by traditional buildings.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Visitors can relax in one of Knightsbridge's most popular meeting places, The Piano Bar, a traditional bar which serves a wide range of cocktails, fine wines and spirits. The elegant Knightsbridge Lounge, located in the heart of the hotel boasts an impressive 18 foot chandelier and original artwork and is a perfect meeting place for tea and coffee. Savour the delights of the critically acclaimed and recently refurbished One-O-One Restaurant.  Voted "London's Best Fish Restaurant" by Hardens for the last six years and recently voted one of London's top 20 "coolest" restaurants by Harper's Bazaar, One-O-One is an alluring mix of food and fashion.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is medium sized, warm and welcoming with rich red carpets, cream marble and light wood used in the modern decor. There are sizeable seating areas adjacent to it with red leather sofas.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

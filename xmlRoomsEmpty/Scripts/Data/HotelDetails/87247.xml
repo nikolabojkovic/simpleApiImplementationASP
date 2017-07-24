@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>87247</Id>
+  <Name>Orient Guest House</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>BASTAKIYA AREA, AL FAHIDI STREET P.O.BOX 46500, DUBAI</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED ARAB EMIRATES</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-3519111</Tel>
+    <Fax>971-4-3517744</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>25.263598</Latitude>
+    <Longitude>55.300112</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ORI4hotel_Exterior_1.jpg</Url>
+    <Width>359</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/DXB-ORI4hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ORI4hotel_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>263</Height>
+    <Bytes>0</Bytes>
+    <Caption>Lounge</Caption>
+    <ThumbnailUrl>/RXLImages/7/DXB-ORI4hotel_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ORI4hotel_Bedroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>261</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/DXB-ORI4hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ORI4hotel_Outdoor_dining_1.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>0</Bytes>
+    <Caption>Outdoor dining</Caption>
+    <ThumbnailUrl>/RXLImages/7/DXB-ORI4hotel_Outdoor_dining_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Orient Guest House has access to the health and recreational facilities as well as the varied dining options at the Arabian Courtyard Bur Dubai, which is only a short walk away. The stone alleys, wind towers, art galleries, street cafes, Dubai Museum, Dubai Creek and Meena Bazar (Souk Al Kabeer) are all in within a casual stroll away making this place an ideal retreat for the cultural traveller. (MK 12/06)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in the heart of Batakiya Heritage area of Bur Dubai, the Orient Guest House offers a taste of Dubai's cultural past. The property is in close proximity of major shopping centres, souks and cultural attractions - including Dubai Museum - and the city's creek side markets. Dubai International Airport is 7 kms from the hotel, the nearest beach is 15 kms and Dubai's World Trade Centre is 4 kms drive.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The old villa is restored to it's former glory and each Arabian-decorated room offers a window of its past. All rooms are elegant and comfortably furnished to compliment the character of the property. The Mumtaz room is larger than the Heritage room and facilities include air-conditioning, en suite with bathtub, satellite television, in room safe and IDD telephone for guests who want to stay in touch with the present.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The traditional villa is built within a compound that has been restored, yet still carries the character of it's past.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The villa does not have any outlets however the outdoor courtyard host guests to a full English breakfast each morning. Room service is available to guests 24 hours a day and there are many authentic restaurants within walking distance.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A small reception is available to arriving guests and the friendly staff are on hand to meet guest needs.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>318674</Id>
+  <Name>Grand Lucky Hotel</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>6/2 Sukhumvit Road Soi 3/1 (Nana Nue)</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2655 2461</Tel>
+    <Fax>+66 2655 2466</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>50</CountRooms>
+    <Latitude>13.743069</Latitude>
+    <Longitude>100.553511</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212528-exterior1_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2745</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212528-exterior1_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2738</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212528-exterior1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14441</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212528-exterior1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2328</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212528-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9143</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212528-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2166</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212528-lobby2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8591</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212528-lobby2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1891</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212528-lobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8075</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212528-lobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1777</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212528-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6961</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212528-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1856</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212528-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6862</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212528-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1990</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212528-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6149</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212528-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1721</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The reception is open 24 hours a day.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This brand new hotel was built with the intent of providing luxury accommodation and an efficient service. The hotel offers 50 rooms in total and welcomes guests into a lobby with 24-hour reception and check-out service and a hotel safe. Guests may also make use of the room and laundry services and the private limousine service.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

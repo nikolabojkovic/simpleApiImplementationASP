@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>6820437</Id>
+  <Name>Grosvenor House Apartments By Jumeirah</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>86 PARK LANE BUILDING B</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-75184444</Tel>
+    <Fax>44-20-75184445</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.509742</Latitude>
+    <Longitude>-0.155551</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GROChotel_Guest_Room_1.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>18228</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-GROChotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2643</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GROChotel_Guest_Room_2.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>17791</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-GROChotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2414</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GROChotel_Guest_Room_3.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>20279</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-GROChotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2640</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GROChotel_Guest_Room_4.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>20521</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-GROChotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2462</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GROChotel_Guest_Room_5.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>20738</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-GROChotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2813</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GROChotel_Guest_Room_6.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>17590</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-GROChotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2324</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-GROChotel_Guest_Room_7.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>16524</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-GROChotel_Guest_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2413</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Combining the services of a five-star hotel with the discretion, comfort and security of a private Mayfair residence, Grosvenor House Apartments by Jumeirah Living offer a highly personalised service with luxurious 'accommodation and amenities to make Residents feel instantly at home.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Situated on London's sophisticated Park Lane, overlooking Hyde Park, the apartments offer an exclusive address with excellent transport links to all of London, including major companies, transport hubs and tourist attractions, suitable for both leisure and business visitors.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Grosvenor House Apartments by Jumeirah Living are the largest luxury hotel apartments in London, comprising 133 apartments</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Restaurant - All day food and beverages offered.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

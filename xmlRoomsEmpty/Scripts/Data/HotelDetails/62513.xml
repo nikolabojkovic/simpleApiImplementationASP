@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>62513</Id>
+  <Name>Hilton Times Square</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>234 WEST 42ND STREET NEW YORK, NY 10036</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED STATES</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-8408222</Tel>
+    <Fax>1-212-8405516</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.756392</Latitude>
+    <Longitude>-73.988307</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>17825</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2175</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20773</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2378</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26746</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2685</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>231</Height>
+    <Bytes>26533</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2688</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23985</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2571</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>244</Height>
+    <Bytes>22936</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2634</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25528</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2622</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26298</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2552</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>255</Height>
+    <Bytes>23862</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2989</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>232</Height>
+    <Bytes>23463</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2886</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>29552</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2671</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Exterior_1.jpg</Url>
+    <Width>242</Width>
+    <Height>360</Height>
+    <Bytes>26390</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2711</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>221</Height>
+    <Bytes>19860</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2068</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19410</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2232</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Restaurant_3.jpg</Url>
+    <Width>251</Width>
+    <Height>360</Height>
+    <Bytes>25361</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3067</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Restaurant_4.jpg</Url>
+    <Width>298</Width>
+    <Height>360</Height>
+    <Bytes>30097</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3024</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>163</Height>
+    <Bytes>22893</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2741</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HIL3hotel_Restaurant_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>29477</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HIL3hotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2851</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Soaring 44 stories, the Hilton Times Square offers a sleek and sumptuous oasis filled with sweeping vistas of New York City's famous skyline and the Hudson River. The hotel is perfectly located in the heart of Times Square, and is surrounded by Broadway theaters, the great American fashion houses, lively nightlife, shopping, fine restaurants, and magnificent office towers.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Empire State Building
+• Statue Of Liberty
+• Apollo Theater
+• Battery Park
+• Carnegie Hall
+• South Street Seaport
+• St. Patrick's Cathedral
+• Times Square
+• Trinity Church
+• Union Square Park
+• United Nations
+• Washington Square Park</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel was built in 2000 and is an all new landmark building with an intriguing Modernistic façade inspired by famed artist Piet Mondrian. 444 oversized guest rooms including 15 deluxe suites - all featuring tremendous views of Times Square and nightly turn down service.Accommodating groups from 10 – 150 people, the hotel's versatile meeting space and award winning service guarantees a successful reception, conference, or special event.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• American fashion houses.
+• Nightlife.
+• Shops.
+• Restaurants.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check-in: 3:00PM
+Check-out: 12:00PM</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

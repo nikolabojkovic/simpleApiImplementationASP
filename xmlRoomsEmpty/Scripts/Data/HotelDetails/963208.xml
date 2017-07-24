@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>963208</Id>
+  <Name>Blakely</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>136 West 55th Street</Address1>
+    <Address2>New York, New York</Address2>
+    <Address3 />
+    <City>New York-Ny</City>
+    <State />
+    <Zip>10019</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 212 245 1800</Tel>
+    <Fax>+1 212 582 8332</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7635096</Latitude>
+    <Longitude>-73.9798441</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/963208_4.jpg</Url>
+    <Width>424</Width>
+    <Height>304</Height>
+    <Bytes>44635</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/963208_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2835</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/963208_5.jpg</Url>
+    <Width>424</Width>
+    <Height>304</Height>
+    <Bytes>40750</Bytes>
+    <Caption>Penthouse Suite</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/963208_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2603</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/963208_1.jpg</Url>
+    <Width>350</Width>
+    <Height>293</Height>
+    <Bytes>28659</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/963208_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>83</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2254</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/963208_6.jpg</Url>
+    <Width>424</Width>
+    <Height>304</Height>
+    <Bytes>31618</Bytes>
+    <Caption>Penthouse Boardroom</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/963208_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2395</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Opened in 2004,The Upscale Blakely New York located in heart of Midtown Manhattan WEST ON 55TH STREET off of 6th Avenue -Avenue of the Americas- and 7th Avenue -Broadway/Times Square-. Steps away from high end shopping of 5th Avenue and Central Park offers guests the traditional stylings of an English club, as well as modern amenities discerning travelers have come to expect.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Carnegie Hall - 0.2 km / 0.1 mi
+• Ed Sullivan Theater - 0.3 km / 0.2 mi
+• American Folk Art Museum - 0.3 km / 0.2 mi
+• Museum of Television and Radio - 0.4 km / 0.2 mi
+• Gershwin Theater - 0.4 km / 0.3 mi
+• Rockefeller Plaza - 0.5 km / 0.3 mi
+• Broadway - 0.8 km / 0.5 mi
+• Times Square - 1 km / 0.6 mi
+• Grand Central Terminal - 1.2 km / 0.8 mi
+• Chrysler Building - 1.3 km / 0.8 mi
+• Empire State Building - 1.7 km / 1.1 mi
+• Central Park - 2.5 km / 1.6 mi
+• Brooklyn Bridge - 6.8 km / 4.2 mi
+• Ellis Island - 8.8 km / 5.5 mi
+• Statue of Liberty - 9.9 km / 6.2 mi</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Amenities featured in guestrooms include DVD players, air conditioning, and coffee/tea makers. In addition, amenities available on request include hypo allergenic bedding and wake up calls. Additional amenities offered include minibars and clock radios. 22 inch televisions with premium TV channels and pay movies are available in guestrooms. Business friendly amenities include multi line phones, desks, and voice mail. All guestrooms provide microwaves and refrigerators. Bathrooms feature shower/tub combinations, bathroom phones, and bathrobes. Guestroom services include in room massage and housekeeping.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Aerobics
+• Helicopter/airplane sightseeing
+• Hiking/biking trails
+• Horse riding/rental
+• Ice skating
+• Pilates classes/instruction
+• Playground
+• Racquetball/squash
+• Rowing or canoeing
+• Running track/path
+• Swimming
+• Tennis
+• Yoga classes/instruction
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check-in time is 3 PM
+Check-out time is Noon</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Abboccato - Upscale Italian restaurant. European decor. Lunch and dinner daily.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

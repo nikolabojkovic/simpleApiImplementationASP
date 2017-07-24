@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4983298</Id>
+  <Name>Chelsea Gardens Hotel Apt</Name>
+  <Region>
+    <Id>9043418</Id>
+    <Name>Sheikh Zayed Road / Downtown</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>DISCOVERY GARDENS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>044377377</Tel>
+    <Fax>044377378</Fax>
+    <Email>RESERVATION@CHELSEAGARDENSDUBAI.COM</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>25.0390117</Latitude>
+    <Longitude>55.1444815</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

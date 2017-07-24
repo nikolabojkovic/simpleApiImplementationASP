@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250906</Id>
+  <Name>Golden Palace</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>15 Soi Ruenrudee</Address1>
+    <Address2>Sukhumvit Soi 1 Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2252 - 5115 - 6</Tel>
+    <Fax>(66) 2254 - 1538</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.744877</Latitude>
+    <Longitude>100.550968</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10535</Bytes>
+    <Caption>golden_palace-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2691</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7701</Bytes>
+    <Caption>golden_palace-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2160</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-general2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7075</Bytes>
+    <Caption>golden_palace-general2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-general2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2146</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>14114</Bytes>
+    <Caption>golden_palace-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2767</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>3792</Bytes>
+    <Caption>golden_palace-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2024</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7229</Bytes>
+    <Caption>golden_palace-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2150</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6000</Bytes>
+    <Caption>golden_palace-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1889</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-room3.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6161</Bytes>
+    <Caption>golden_palace-room3</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/01/94/golden_palace-room3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1918</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Golden Palace Hotel provides these comfortable and convenient facilities to Bangkok visitors : Single, twin and triple rooms with air-conditioning, cable TV, and mini bar at a reasonable rate 19 - 22 $.  Large swimming pool surrounded by a pleasant tropical garden.  The Garden Restaurant offering delicious Thai and international dishes in a cozy atmosphere, Room service is also available.  24 HR safety and security system.  Accept Master and Visa card</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>58919</Id>
+  <Name>Eastgate Tower</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>222 EAST 39TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK. NY 10016</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-6878000</Tel>
+    <Fax>1-212-4902634</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.748311</Latitude>
+    <Longitude>-73.9748755</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Exterior_1.jpg</Url>
+    <Width>298</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>283</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Guest_Room_1.jpg</Url>
+    <Width>233</Width>
+    <Height>288</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>289</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>279</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>228</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-EAShotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-EAShotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Built in the 1970s as an apartment house, Eastgate Tower Suite Hotel remains a quiet retreat for UN personnel and leisure travelers. A small lobby with plasma television also contains a computer with printer providing high-speed Internet access (surcharge). Wireless Internet access (surcharge) is available throughout the hotel. An independent, fine-dining, lunch and dinner restaurant/bar serves Italian cuisine such as seabass in sea-salt crust and pan-seared langostine, and features patio seating in warm weather.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Park Avenue - 3 blocks
+• Chrysler Building - 5 blocks
+• Bryant Park/New York Public Library - 5 blocks
+• Grand Central Terminal - 6 blocks
+• United Nations Headquarters - 6 blocks
+• Times Square - 8 blocks
+• Broadway theaters - 8 blocks
+• Empire State Building - 10 blocks
+• Rockefeller Center - 0.75 mile
+• Museum of Modern Art - 0.75 mile
+• Madison Square Garden/Penn Station - 1 mile
+• Greenwich Village - 1 mile
+• Carnegie Hall - 1.25 miles
+• Central Park - 1.25 miles
+• Central Park Zoo - 1.5 miles
+• Jacob K. Javits Convention Center - 1.5 miles
+• Little Italy - 1.75 miles
+• Soho district - 1.75 miles
+• Columbus Circle (Time Warner Center, CNN tour, shopping/dining) - 1.75 miles
+• Chelsea Piers (sports, entertainment) - 2 miles
+• Lincoln Center for the Performing Arts - 2 miles
+• Chinatown - 2 miles
+• Metropolitan Museum of Art - 2.25 miles
+• American Museum of Natural History - 2.5 miles
+• Tribeca district - 2.5 miles
+• Financial District - 3 miles
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Eastgate Tower Suite Hotel offers 187 guest suites with light woods and fabrics in a 25-story building. Fully equipped kitchens include four-burner ranges, microwave ovens, and refrigerators. Other amenities include wired and wireless Internet access (surcharges) and two-line speakerphones. Televisions offer pay movies, video games, and Internet access via wireless keyboards. Bathrooms contain shower/tub combinations. Complimentary DVD players and VCRs are available on request.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This fully air-conditioned hotel, appointed in contemporary style, comprises a total of 188 studios and 8 suites set over 28 floors. The modern city hotel greets its guests in an elegant lobby, which features a 24-hour reception, a cloakroom, and several lifts.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• Driving directions from La Guardia: Take Grand Central Pkwy west to I-278 (Brooklyn-Queens Expy) west. Take I-495 (Long Island Expy) west, then take the Queens Midtown tunnel and exit to 37th St/38th-40th Sts. Bear right onto Tunnel Exit St and follow it to E 39th St.
+• Driving directions from JFK: Take I-678 (Van Wyck Expy) north to I-495 (Long Island Expy) west. Take the Queens Midtown tunnel and exit to 37th St/38th-40th Sts. Bear right onto Tunnel Exit St and follow it to E 39th St.
+• Driving directions from Newark: Follow signs to take US 1/US 9 north to I-95 (New Jersey Tpke) north (toll road). Take I-495 to the Lincoln Tunnel and exit to West Side Hwy/40th St. Turn left on W 34th St, then turn left on 1st Ave. Turn left on E 37th St, then take the first right onto Tunnel Exit St and follow it to E 39th St.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Room-service breakfast is available from the adjacent Frontier Diner without a delivery charge.
+The hotel does not have its own restaurant, but there are several dining options within the surrounding area.
+Nearby restaurants:
+• Café Trend
+• Docks Oyster Bar
+• Seafood Grill
+</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

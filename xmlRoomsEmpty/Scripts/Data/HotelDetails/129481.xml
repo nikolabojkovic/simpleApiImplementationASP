@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129481</Id>
+  <Name>La Quinta Inn &amp; Suites Las Vegas Summerlin</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>7101 Cascade Valley Court</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89128</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 360 1200</Tel>
+    <Fax>+1 702 360 1222</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>36.211312</Latitude>
+    <Longitude>-115.246974</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-exteriorIS_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3132</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-exteriorIS_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1773</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-recreation2IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10282</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-recreation2IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2367</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-room2Is.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6917</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-room2Is.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1588</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-recreationIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14566</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-recreationIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2689</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-meetingIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9353</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-meetingIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2145</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-recreation3IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13733</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-recreation3IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2548</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-roomIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8318</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-roomIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1825</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-exteriorIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7619</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-exteriorIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1727</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-poolIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9282</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-poolIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2119</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-courtyard.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12892</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-courtyard.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2273</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel4472-lobbyIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8848</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel4472-lobbyIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1917</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nAccessible to many local attractions\nAffordable accommodations\nClose proximity to business district\nClose proximity to major attractions\nLocation\nConveniently located in Summerlin Area\nShopping area is just minutes away\nLocal Attractions\nBetty Wilson Soccer Complex - .50 miles\nTPC Summerlin Golf Course - 4 miles\nMeadows Mall - 7 miles\nLas Vegas Strip - 12 miles\nFashion Show Mall - 15 miles\nLas Vegas Motor Speedway - 15 miles\nRecreation\nBeautiful golf course nearby\nOutdoor swimming pool\nFully equipped fitness center\nRestaurants &amp; Lounges\nNearby restaurant\nServices\nBusiness services available at front desk\nElevators\nMeeting Facilities\nSmall conference room available\nFully equipped business center\nEvent facilities\nAccommodations\n128 guestrooms\nClassic guest rooms</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>With accommodations that are both comfortable and affordable; La Quinta Inn &amp; Suites Las Vegas Sumerlin Tech is a great choice for  business or pleasure on a budget</Text>
+  </Description>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

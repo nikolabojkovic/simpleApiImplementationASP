@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1942902</Id>
+  <Name>Courtyard Convention Center</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3275 Paradise Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1 702 791 3600</Tel>
+    <Fax>+ 1 702 796 7981</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>149</CountRooms>
+    <Latitude>36.129981</Latitude>
+    <Longitude>-115.155087</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2603</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2596</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-business.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8649</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-business.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2136</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-fitness.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8669</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-fitness.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2040</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7721</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1867</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-market.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12488</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-market.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2594</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11822</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2413</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9274</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2063</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12364</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2210</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11296</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2244</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10894</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2132</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214238-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6788</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214238-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1743</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description: 3 star accommodations  Affordable accommodations  Close proximity to major attractions  Designed for the corporate traveler Location: Centrally located minutes from Las Vegas Strip  Easy access to  convention center Local Attractions: Las Vegas Convention Center - 4 minutes  Flyaway Indoor Skydiving - 2 blocks  Star Trek The Experience - 2 blocks  The Strip - 3 blocks Recreation: Fully equipped fitness center  Outdoor swimming pool Restaurants &amp; Lounges: Casual restaurant Services: 24 hr front desk service  Elevators  Shuttle service is available  Meeting Facilities:  Event facilities  Accommodation: 137 guestrooms Parking: On site parking available</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A perfect choice for those traveling on business the Courtyard Convention Center is a well-known vacation oasis</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

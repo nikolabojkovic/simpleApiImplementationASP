@@ -1,0 +1,18 @@
+﻿body {
+}
+
+table tr td 
+{
+    text-align: center;
+}
+
+.required
+{
+    color: red;
+}
+
+.noData
+{
+    width: 100%;
+    text-align:center;
+}

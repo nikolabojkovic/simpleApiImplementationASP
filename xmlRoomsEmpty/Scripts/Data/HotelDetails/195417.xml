@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>195417</Id>
+  <Name>Baron Hotel Apartments</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>Street 316; Al Barsha</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>104609</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+ 971 43232 777</Tel>
+    <Fax>+ 971 4 3232 776</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>64</CountRooms>
+    <Latitude>25.118088</Latitude>
+    <Longitude>55.205408</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212057-hotel_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2965</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212057-hotel_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2939</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212057-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9660</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212057-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2229</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212057-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7325</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212057-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1776</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212057-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8289</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212057-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1907</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212057-hotel.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15129</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212057-hotel.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2592</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1212057-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5996</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1212057-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1658</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description  Accessible to many local attractions   Beautiful  views and exceptional service   Close proximity to business district     Location  Conveniently located in Al Barsha    Shopping area is just minutes away   Major attractions are nearby     Local Attractions  City entertainment in close proximity   Mall of the Emirates - 0.1 kilometers   Internet City - 1 kilometers     Recreation  Fully equipped fitness center   Outdoor swimming pool     Restaurants &amp; Lounges  Nearby restaurant     Services  Valet dry cleaning and laundry services   Shuttle service is available    Room service   Business services available at front desk     Accommodation  64 guestrooms   Apartment accommodations   Contemporary guest rooms    Scenic views</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Baron Hotel Apartments is well known for family fun; terrific amenities and beautiful accommodations</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

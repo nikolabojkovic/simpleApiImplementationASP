@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>68701</Id>
+  <Name>Novotel World Trade Centre</Name>
+  <Region>
+    <Id>9043418</Id>
+    <Name>Sheikh Zayed Road / Downtown</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>P.O.BOX 9622 ZABEEL ROAD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai City DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-3320000</Tel>
+    <Fax>971-4-3187100</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>25.1868259</Latitude>
+    <Longitude>55.2797699</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Restaurant_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>43751</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3009</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Meeting_Room_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>29748</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2713</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Recreational_Facilities_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>41707</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3213</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Recreational_Facilities_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>21268</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Recreational_Facilities_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2348</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Lobby_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>39358</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3185</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Restaurant_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>37275</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3041</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Recreational_Facilities_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>28913</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Recreational_Facilities_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2581</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Exterior_1.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>33970</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2474</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Lobby_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>22607</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2328</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Exterior_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>15902</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1963</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Restaurant_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>40263</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2761</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Exterior_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>28218</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2418</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Meeting_Room_2.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>31237</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2780</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Exterior_4.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>25207</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Exterior_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2194</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Lobby_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>23560</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2324</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Restaurant_4.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>29921</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2506</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-NOV6hotel_Meeting_Room_3.jpg</Url>
+    <Width>346</Width>
+    <Height>260</Height>
+    <Bytes>29661</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-NOV6hotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2964</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Beach transfers are available from the hotel upon request, subject to availability. A well-located and very well-appointed international standard 4-star hotel. This is sure to become an extremely popular hotel in a key business area of the city.  (TM07.08)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This hotel is located to the back side of the World Trade Centre and Sheikh Zayed Road. The hotel is attached to the convention halls.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are all medium in size and in exceptional condition. The hotel offers
+a very limited number of twins; however, they are equipped with a double bed   
+and a sofa bed with converts into a queen-sized bed. The bathrooms are small   
+but very pleasant and in exceptional condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a square modern building, not visible from Sheikh Zayed Road due to the huge World Trade Centre building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Entre-Nous open-kitchen restaurant serves international cuisine in a very comfortable, warm and lively atmosphere. The open-plan kitchen is the main feature of the dining area, with the guests seated around this focal point.  There is also a cafe and a bar.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is and extremely modern, with a large reception desk and the lifts in the centre. There are seating areas to the right, featuring comfortable sofas.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>39</Rank>
+</HotelElement>

@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>393862</Id>
+  <Name>Luxx</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>6/11 DECHO ROAD</Address1>
+    <Address2>BANGRAK</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10500</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 26358800</Tel>
+    <Fax>+66 26358088</Fax>
+    <Email>reservations@staywithluxx.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>13</CountRooms>
+    <CountFloors>5</CountFloors>
+    <Latitude>13.7269513</Latitude>
+    <Longitude>100.5251573</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/12/03/7/12037_1.jpg</Url>
+    <Width>480</Width>
+    <Height>269</Height>
+    <Bytes>20114</Bytes>
+    <Caption>Outside view</Caption>
+    <ThumbnailUrl>/RXLImages/1026/12/03/7/12037_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>124</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2623</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/12/03/7/12037_2.jpg</Url>
+    <Width>480</Width>
+    <Height>269</Height>
+    <Bytes>15270</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/12/03/7/12037_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>124</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2355</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/12/03/7/12037_3.jpg</Url>
+    <Width>480</Width>
+    <Height>304</Height>
+    <Bytes>17207</Bytes>
+    <Caption>Standard Room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/12/03/7/12037_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>110</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2158</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel welcomes its guests with a great selection of facilities. Staff at the hotel is courteous and willing to meet your needs. Spend a relaxing vacation at the hotel with well equipped room amenities.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in the posh Descho Road. It is only few steps from the Silom intersection, nighlife, dining and shopping in Bangkok.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SmokingRoom</Code>
+    <Text>Smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InRoomMovies</Code>
+    <Text>In-room movies</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Tours</Code>
+    <Text>Tours</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessProgramme</Code>
+    <Text>Fitness Programme</Text>
+  </Amenity>
+  <Amenity>
+    <Code>*FB plus</Code>
+    <Text>*FB plus</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

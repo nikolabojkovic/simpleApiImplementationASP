@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>717073</Id>
+  <Name>Anantara Baan Rajprasong</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>3 SOI MAHARDLEKLUANG 3</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10330</Zip>
+    <Country>THAILAND</Country>
+    <Tel>++66 2646464</Tel>
+    <Fax>++66 22646465</Fax>
+    <Email>inforajprasong@anantara.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>97</CountRooms>
+    <Latitude>13.738749</Latitude>
+    <Longitude>100.541328</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-main_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2540</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2528</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12207</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2367</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-dining1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13444</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-dining1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2294</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-dining2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12339</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-dining2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2122</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-exterior001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8908</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-exterior001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2034</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9410</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2160</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6096</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1643</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8535</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2017</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-lounge1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13139</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-lounge1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2273</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14086</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2358</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-pool1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13651</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-pool1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2428</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-pool2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13996</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-pool2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2190</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12604</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2259</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-room01.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6589</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-room01.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-room03.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7201</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-room03.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1762</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-room04.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7685</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-room04.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1845</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-room05.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8291</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-room05.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1942</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8479</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1963</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1224213-room5.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8767</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1224213-room5.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2012</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Guests can reach the hotel via the BTS Skytrain and stop at the Rajdamri Station, the nearest station, situated just 100 meters from the hotel located.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This hotel offers short and long-term sophisticated stays in spacious 1 and 2-bedroom suites.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomSlippers</Code>
+    <Text>Room Slippers</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

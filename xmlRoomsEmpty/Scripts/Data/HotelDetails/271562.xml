@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>271562</Id>
+  <Name>41 Hotel</Name>
+  <Region>
+    <Id>52928</Id>
+    <Name>Westminster &amp; Victoria </Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>41 Buckingham Palace Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW1W 0PS</Zip>
+    <Country>England</Country>
+    <Tel>020 7300 0041</Tel>
+    <Fax>02073000141</Fax>
+    <Email>book41@rchmail.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.498255</Latitude>
+    <Longitude>-0.1435776</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231801-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2606</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231801-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2601</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231801-dinng.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7439</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231801-dinng.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1869</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231801-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13474</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231801-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2411</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231801-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13380</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231801-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2328</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231801-lounge1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12883</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231801-lounge1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2130</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231801-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12260</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231801-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2133</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231801-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13295</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231801-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2231</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231801-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10133</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231801-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2069</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Unforgettable luxury and one of a kind character go hand in hand at 41. This is the boutique hotel that feels more like a traditional London club than a hotel. The atmosphere is warm and inviting, the look is distinguished and quietly reassuring. You will instantly feel at home in the cosy wood panelled lounge with its roaring fire. In this hidden gem of a hotel, you can eat and drink at your own pace. Everything about 41, from the caring staff to the chic black and white decor, from the state of the art technology to the thoughtful finishing touches tells you that this elegant hideaway is in a league of its own.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

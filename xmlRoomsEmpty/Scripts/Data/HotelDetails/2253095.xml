@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2253095</Id>
+  <Name>True Siam Boutique Hotel, Bangkok</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>45 Soi Sriayuttaya 12</Address1>
+    <Address2>Phayathai Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>+66 (0) 2 6426932-4</Tel>
+    <Fax>+66 (0)2 2466083</Fax>
+    <Email>rsvn@truesiamhotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.758175</Latitude>
+    <Longitude>100.536103</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/14/18/39/141839-COM-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>16007</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/18/39/141839-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2390</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/18/39/141839-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9195</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/18/39/141839-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1940</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/18/39/141839-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9989</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/18/39/141839-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1943</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/18/39/141839-RES-4.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>17495</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/18/39/141839-RES-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2587</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Renovated in 2010, this 65-room business hotel features a beer garden, which is a chic setting ideal for drinks and entertainment. In addition to a lobby area with 24-hour reception and check-out services, further facilities available to guests at this air-conditioned establishment include a hotel safe and currency exchange service, as well as a café, bar and a restaurant. Guests can take advantage of room and laundry services, and those arriving by car may leave their vehicles in the hotel car park.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

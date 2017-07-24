@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>69237</Id>
+  <Name>Anantara Riverside</Name>
+  <Region>
+    <Id>2297624</Id>
+    <Name>Riverside</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>257 CHAROEN NAKORN ROAD, BOOKALO, THONBURI, BANGKOK 10600</Address1>
+    <Address2 />
+    <Address3 />
+    <City>THAILAND</City>
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>66-2-4760021</Tel>
+    <Fax>66-2-4761120</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>13.704448</Latitude>
+    <Longitude>100.492458</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-MAR1hotel_Exterior_1.jpg</Url>
+    <Width>247</Width>
+    <Height>356</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-MAR1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel is  located along the river with an excellent resort atmosphere.Perfect for all types of travellers who are looking for a nice and peaceful place away from home, yet with easy access to the city. A shuttle boat service runs every half hour. This hotel would be suitable for business or leisure travellers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located on the west side of the Chao Phraya River, close to the  
+Krung Thep Bridge on Charoen Nakorn Road, offering another side of the        
+fascinating city of Bangkok. Easy access by Skytrain station Sapan Taksin and 
+free shuttle boat at pier.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Deluxe Riverview rooms are large, comfortable and well equipped with wooden floors and river views.        
+Decoration in Traditional Thai Style all rooms feature balconies.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The exterior is a series of modern low-rise buildings constructed of brick and tile with Thai architectural accents, set in lovely gardens with a gorgeous swimming pool.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurants provide a wide and varied dinning experience, including Chinese cuisine, French, Polynesian and a Japanese-American restaurant. The hotel also has a taditional Thai dance show.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is large with plenty of seating area in classic Thai style.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

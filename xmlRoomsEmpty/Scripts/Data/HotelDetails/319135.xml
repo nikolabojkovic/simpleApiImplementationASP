@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>319135</Id>
+  <Name>Nojoum Hotel Apartments</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>Abu Baker AlSiddiqui Road; Next to Hamarain Shopping Centre; Deira</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>184104</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 2658888</Tel>
+    <Fax>+971 4 2658881</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <CountRooms>77</CountRooms>
+    <Latitude>25.266111</Latitude>
+    <Longitude>55.330088</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/11/33/77/113377-COM-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>11813</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1047/11/33/77/113377-COM-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2370</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/11/33/77/113377-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9192</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/11/33/77/113377-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1919</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/11/33/77/113377-HAB-4.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>10399</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/11/33/77/113377-HAB-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2120</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/11/33/77/113377-PIS-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>10641</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1047/11/33/77/113377-PIS-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1955</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel features a range of spacious and luxurious self-catering apartments in a convenient location. Offering friendly service and comfort for guests, the hotel is a perfect choice for long-staying business guests or families requiring extra space. The 77-room hotel is air-conditioned and features a café, hairdressing salon, newspaper stand, restaurant and conference facilities. A lobby, 24-hour reception and check-out service, cloakroom, lift access and car park are also housed in the building. A hotel safe and currency exchange facilities are provided in the hotel. WLAN Internet access and room and laundry service are also available to guests.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

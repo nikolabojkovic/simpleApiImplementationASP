@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>125333</Id>
+  <Name>Coast Anabelle Hotel</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2011 West Olive Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Burbank</City>
+    <State>California</State>
+    <Zip>91506</Zip>
+    <Country>USA</Country>
+    <Tel>+1 818 845 7800</Tel>
+    <Fax>+1 818 845 0054</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>34.1649539</Latitude>
+    <Longitude>-118.3257463</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3187-coastanabelle-entrance_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4186</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3187-coastanabelle-entrance_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2216</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3187-coastanabelle-entrance.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13466</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3187-coastanabelle-entrance.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2060</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3187-coastanabelle-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10595</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3187-coastanabelle-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1988</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3187-coastanabelle-fitness.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12046</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3187-coastanabelle-fitness.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2049</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3187-coastanabelle-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10312</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3187-coastanabelle-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1801</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3187-coastanabelle-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12325</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3187-coastanabelle-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2142</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Coast Anabelle is a friendly 3-star superior hotel offering stylish accommodation in the heart of Burbank. Highlights include a swimming pool and free Wi-Fi. Burbank is north of downtown Los Angeles populated by mountains and flatlands. Nearby places of interest include Warner Brothers Studios and Lasky Ranch. Downtown Burbank Metrolink train station is located in the vicinity, providing fast and easy access to other popular Los Angeles destinations. The hotel occupies a modern mid-rise property. Facilities include an outdoor swimming pool and gym. Free Wi-Fi is available throughout the premises. Standard rooms are spacious and decorated in a bright modern style. Amenities include a flat-screen satellite TV, fridge, safe, work desk and en-suite bathroom. Olive's Bistro &amp; Lounge offers delicious regional and international dishes in a relaxed and intimate setting. Guests can enjoy a range of drinks at the hotel bar. Free parking is possible onsite. The hotel provides 24-hour reception and room service and offers a complimentary airport shuttle service.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

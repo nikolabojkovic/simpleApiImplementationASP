@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>392913</Id>
+  <Name>Savoy Park Hotel Apartments</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>KUWAIT STREET</Address1>
+    <Address2>P.O BOX 111204</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>111204</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 3550303</Tel>
+    <Fax>+971 4 2247848</Fax>
+    <Email>kobra@desertadventures.ae</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <CountRooms>126</CountRooms>
+    <CountFloors>8</CountFloors>
+    <Latitude>25.252925</Latitude>
+    <Longitude>55.296153</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229867-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4818</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229867-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2566</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229867-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9369</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229867-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2245</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229867-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12657</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229867-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2485</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229867-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8497</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229867-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2006</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229867-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8203</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229867-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1761</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229867-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5995</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229867-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1682</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229867-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6447</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229867-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1685</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229867-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6362</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229867-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1740</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This air-conditioned city hotel offers the combination of a great location and wonderful accommodation that irresistibly draws travellers from all over the world. It features 126 luxurious studio suites, several with private balconies of their own. Staying in the hotel will leave one with a pleasant impression of Dubai. Facilities at the hotel include a lobby, conference facilities, room service and a car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>*FB plus</Code>
+    <Text>*FB plus</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

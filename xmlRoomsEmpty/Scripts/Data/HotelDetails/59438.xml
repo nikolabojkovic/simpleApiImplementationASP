@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59438</Id>
+  <Name>Venetian</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3355 Las Vegas Blvd South</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas 89109</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-702-4141000</Tel>
+    <Fax>1-702-4142122</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>36.1214517</Latitude>
+    <Longitude>-115.1696112</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>19827</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2415</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>13787</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2106</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>18804</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2256</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Lobby_1.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>30614</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2472</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20525</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2132</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>229</Height>
+    <Bytes>26289</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3076</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Exterior_1.jpg</Url>
+    <Width>300</Width>
+    <Height>300</Height>
+    <Bytes>24069</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2231</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>21833</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2356</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>19823</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2312</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>277</Height>
+    <Bytes>24057</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2349</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>20339</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2382</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VENhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>277</Height>
+    <Bytes>20086</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VENhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2212</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This luxurious hotel offers elegance with European style, for a truly unforgettable Las Vegas experience. The hotel has 120,000 square feet of gaming space. Stroll through the shops at the 500,000-square-foot Grand Canal Shoppes, with cobbled walkways, and a reproduction of Venice's Grand Canal, complete with serenading gondoliers and a replica of St. Mark's Square. There is a five-acre pool deck, modeled after a Venetian-style garden. Unique features of this property are the Guggenheim Hermitage Museum, Madame Tussaud's Wax Museum and the Blue Man Group show. Three lounges feature different atmospheres, from live entertainment to a more relaxed setting. World-class spa facilities are available on the premises. (0408/AS)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in the center of the Strip, across from the Mirage and Treasure Island.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All beautifully appointed Italian-style suites with a king bed consist of a marble foyer entrance, crown molding, plush canopy-draped bedchambers, and a sunken living room. This room type has one king-size bed and one pull-out sofabed.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a striking 36-storey tower, recreating Renaissance Venice. Approaching the hotel, you see graceful arched bridges, flowing canals and vibrant piazzas, the famous Campanile Tower, gondolas and gondoliers welcoming you.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There are 17 acclaimed restaurants at this property, ranging from restaurants featuring world-renowned chefs such as Wolfgang Puck, Emeril Lagasse and Thomas Keller, to the casual dining of cafes.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is medium in size and includes an elegant gold and marble fountain and Italian marble floors and pillars. An antique wall painting of Venice hangs behind the front desk, along with a galleria of Italian art.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>204</Rank>
+</HotelElement>

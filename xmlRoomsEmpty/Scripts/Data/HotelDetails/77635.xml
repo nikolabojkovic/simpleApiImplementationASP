@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>77635</Id>
+  <Name>Le Meridien Fairway</Name>
+  <Region>
+    <Id>9043420</Id>
+    <Name>Creek / Festival City</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>AL GARHOUD ROAD PO BOX 36400 DUBAI</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED ARAB EMIRATES</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-6085000</Tel>
+    <Fax>971-4-2833030</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>25.247743</Latitude>
+    <Longitude>55.338414</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-LEMGhotel_Exterior_1.jpg</Url>
+    <Width>359</Width>
+    <Height>270</Height>
+    <Bytes>17536</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-LEMGhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1784</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-LEMGhotel_Lobby_1.jpg</Url>
+    <Width>352</Width>
+    <Height>270</Height>
+    <Bytes>19037</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-LEMGhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2406</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-LEMGhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>28754</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-LEMGhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3094</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-LEMGhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>32005</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-LEMGhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3335</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>For those looking for 5 star levels of comfort and service, Le Meridien Fairway offers excellent value for money.  The local department of tourism classifies it  as a four star since it does not have a 3 restaurants and a 24 hour laundry service. (TM07.08)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in Deira, overlooking the Dubai Creek Gold Club and 5 minutes drive from Deira City Centre Shopping Mall and Dubai Airport. The hotel has easy accessibility for Sheikh Zayed Road and is approximately 15 kms from Jumeirah.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Each of the rooms are large in size and decorated in different colours of blue, red, purple etc depending on the floor.  Every room is appointed to a very high standard and although the hotel is officially classified as a four star the rooms are superior to many five star hotel rooms in the city.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The building has a modern glass facade.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has ornate Indian restaurant where breakfast is served and a large coffee shop on the ground floor.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby has a two story atrium with a large marble staircase in the middle and the coffee shop on the left hand side where there is also a small seating area.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

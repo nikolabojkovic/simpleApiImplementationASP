@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>6124642</Id>
+  <Name>Sloane Square Hotel</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Sloane Square</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW1W 8EG</Zip>
+    <Country>England</Country>
+    <Tel>020 7896 9988</Tel>
+    <Fax>02078969934</Fax>
+    <Email>reservations@sloanesquarehotel.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.49288</Latitude>
+    <Longitude>-0.15707</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This traditional hotel is located just minutes away from Knightsbridge and Kings Road. All bedrooms have the same décor and furnishing and are rather compact. Each room has a private bathroom, TV, hairdryer, safe, trouser press and tea/coffee making facilities. The public areas are very pleasant. All 5 floors are covered by 2 separate lifts. There is a wine bar, a traditional pub and an attractive restaurant in classic style, all designed to offer the guest a relaxing evening after the rigours of the day.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

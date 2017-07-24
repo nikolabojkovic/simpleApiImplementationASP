@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>161163</Id>
+  <Name>The Soho Loft</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>199 LAFAYETTE ST - 3RD FL</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10012</Zip>
+    <Country>USA</Country>
+    <Tel>6467368231</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.7250632</Latitude>
+    <Longitude>-73.9976946</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL286900_0.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>91096</Bytes>
+    <Caption>Exterior view</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL286900_0thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>18592</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL286900_1.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>15182</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL286900_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>18996</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL286900_2.jpg</Url>
+    <Width>385</Width>
+    <Height>321</Height>
+    <Bytes>24253</Bytes>
+    <Caption>Breakfast room</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL286900_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>83</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>17790</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 1 star hotel is located in the city centre of New York. It is a short drive away from the Central Park.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

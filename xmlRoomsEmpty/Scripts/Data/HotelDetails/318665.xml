@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>318665</Id>
+  <Name>Trang Hotel Bangkok</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>99/1 Wisutkasart Road; Bangkhunprom</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Pra Nakorn</City>
+    <State />
+    <Zip>10200</Zip>
+    <Country>Thailand</Country>
+    <Tel>+ 662 282 2141 4</Tel>
+    <Fax>+682 280 3610</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>181</CountRooms>
+    <Latitude>13.764896</Latitude>
+    <Longitude>100.503649</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1209854-photo-not-available-small.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>727</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1209854-photo-not-available-small.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>727</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1209854-pool%5B2%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11730</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1209854-pool%5B2%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2415</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1209854-lobby1%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9388</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1209854-lobby1%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2000</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1209854-dine1%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12391</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1209854-dine1%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2489</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1209854-room1%5B2%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7384</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1209854-room1%5B2%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1885</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description:  3 star accommodations  Accessible to many local attractions  Beautiful  views and exceptional service  Classic accommodations Location:  Perfectly located in beautiful Bangkok  Shopping area is just minutes away  Major attractions are nearby Local Attractions:  City entertainment in close proximity Recreation:  Outdoor swimming pool Restaurants &amp; Lounges:  Full service bar/lounge  Onsite restaurant Services:  Limited room service  Business services available at front desk Accommodation:  181 guestrooms  3 star accommodations  Scenic views</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>With its amazing views; great location; and affordable rates; the  Trang Hotel Bangkok is perfect for any traveler on any occasion</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

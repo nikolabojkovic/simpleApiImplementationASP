@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1942201</Id>
+  <Name>The James New York</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>27 Grand Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10013</Zip>
+    <Country>USA</Country>
+    <Tel>12124652000</Tel>
+    <Fax>12122019117</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.722682</Latitude>
+    <Longitude>-74.004809</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>2759</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1598</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6535</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1544</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8207</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1782</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-lounge1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11965</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-lounge1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2121</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-roofpool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8476</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-roofpool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1974</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9174</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1994</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8305</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1988</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7261</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1869</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231585-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6406</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231585-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1714</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>&lt;em&gt;&lt;strong&gt;Named one of Conde Nast Travellers'UK hot hotels for 2011!!!&lt;/strong&gt;&lt;/em&gt;
+The James, synonymous with the seamless blend of modern, residentially styled, state-of-the-art technology and guest-centric service found at its Chicago location, will bring those same attributes to its new property in New York City. The James New York, a newly built hotel anchoring the southwest corner of SoHo at Grand and Thompson Streets, features 114 guestrooms and suites bathed in natural light and unobstructed views of Manhattan.
+
+Facility Includes :
+- Located 12 miles from Newark International Airport
+- Complimentary Wireless Internet
+- Eco-friendly pillow selections by Keetsa
+- Twice daily housekeeping with turndown
+- Daily newspaper delivery 
+- 24-hour Room Service 
+- Coffee service
+- Complimentary Hospitality in the James Club Sky Lobby
+- Coffee and pastries 6am-11am
+- Fruit and water (still and sparkling) 11am-5pm
+- Wine and cheese 5pm-9pm 
+- Cookies 9pm-11pm 
+- In-room movie
+- Standing showers
+- Laundry &amp; dry cleaning
+- Shoe shine services 
+- Custom James robes and slippers
+- 24-hour Concierge Services
+- Rooftop pool and bar with river-to-river views of Lower Manhattan
+- Poolside spa services 
+- Fitness Center
+- Restaurant and bar
+- Business Networking Lounge
+- Indoor/outdoor meeting/event space
+- Lushly designed James Urban Garden</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- No Triple or Quad occupancy available. 
+- If the guest should decide to depart earlier then scheduled; the hotel will charge for the full stay.
+- Guest must provide a credit card or nightly cash deposit for incidental charges upon check-in. 
+- No name changes will be accepted 7 days or less prior to arrival. 
+- No more than 2 rooms under the same name will be held.</Text>
+  </Description>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

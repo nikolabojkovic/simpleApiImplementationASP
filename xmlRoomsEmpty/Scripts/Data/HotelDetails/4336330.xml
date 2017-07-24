@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4336330</Id>
+  <Name>The Hotel At Times Square</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>59 West 46th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10036</Zip>
+    <Country>United States</Country>
+    <Tel>+1 2127192300</Tel>
+    <Fax />
+    <Email>info@applecorehotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.757134</Latitude>
+    <Longitude>-73.981301</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1261426-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4356</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1261426-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2251</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1261426-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9133</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1261426-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2093</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1261426-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9756</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1261426-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2371</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1261426-lounge1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9164</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1261426-lounge1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2189</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1261426-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11854</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1261426-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2136</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1261426-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7678</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1261426-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1809</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1261426-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8385</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1261426-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1941</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nAccessible to many local attractions\nAffordable accommodations\nCity views and exceptional service\nClose proximity to major attractions\nGreat combination for business and pleasure\nPrime location\nLocation\nLocated in the heart of Manhattan\nLocal Attractions\nClose to local attractions such as Rockefeller Center\nFamily friendly attractions such as Times Square\nRecreation\nFully equipped fitness center\nServices\nBusiness services available at front desk\nConcierge services\nFree wireless internet\nAccommodations\nHigh-speed internet access\nFlat Screen TV\nCable/satellite channels\nSafety deposit box\nAir conditioning\nCoffee/tea maker\n213 guestrooms</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Affordable; charming with plenty of amenities; the The Hotel @ Times Square is sure to make you feel right at home</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>14</Rank>
+</HotelElement>

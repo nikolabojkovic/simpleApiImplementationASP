@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53527</Id>
+  <Name>Park Plaza Sherlock Holmes</Name>
+  <Region>
+    <Id>52890</Id>
+    <Name>Kings Cross &amp; Camden</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>108 BAKER STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London W1U 6LJ</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-74866161</Tel>
+    <Fax>44-20-79585195</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5208864</Latitude>
+    <Longitude>-0.1569562</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>230</Height>
+    <Bytes>21397</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2588</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>18645</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2401</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>16587</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2080</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>199</Height>
+    <Bytes>17222</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2448</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>198</Height>
+    <Bytes>12530</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2034</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Exterior_1.jpg</Url>
+    <Width>295</Width>
+    <Height>360</Height>
+    <Bytes>44239</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3593</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>20857</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2403</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>13992</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1972</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>196</Height>
+    <Bytes>15905</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2236</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>219</Height>
+    <Bytes>23781</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2808</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>233</Height>
+    <Bytes>18932</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2310</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>219</Height>
+    <Bytes>14139</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2106</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>215</Height>
+    <Bytes>22471</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2749</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>246</Height>
+    <Bytes>22188</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2401</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>199</Height>
+    <Bytes>15610</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2241</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>228</Height>
+    <Bytes>16018</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2093</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>197</Height>
+    <Bytes>16286</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2349</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>17860</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2146</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Guest_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>249</Height>
+    <Bytes>14275</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1929</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>208</Height>
+    <Bytes>16915</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2538</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SHEhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>233</Height>
+    <Bytes>13284</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SHEhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2071</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is a great hotel, offering relaxed and sophisticated accommodation in a central location.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is centrally located on Baker Street, the great detective fictional home, within walking distance of Marble Arch, Oxford Street and some of  London's best shopping. The nearest underground station is Baker Street, which offers easy access throughout London and is just five minutes away on foot. The hotel is also close to the famous wax-works museum,Madame Tussaud's.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms, medium in size on average, are in excellent condition, all decorated in a contemporary style, as are the bathrooms.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel's exterior is traditional brick with a modern entrance and French doors that look onto Baker Street.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The main hotel restaurant is to the back of the lobby and offers a great range of British and international dishes in sophisticated surroundings.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The main lobby is to the back of the hotel, reached via the bar, which is a focal meeting point for many locals. Smart and functional.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

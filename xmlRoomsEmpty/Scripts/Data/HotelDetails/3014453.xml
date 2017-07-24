@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3014453</Id>
+  <Name>Comfort Inn &amp; Suites JFK Airport</Name>
+  <Region>
+    <Id>21685</Id>
+    <Name>John. F. Kennedy Int'l Airport (JFK)</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>137-30 REDDING STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Ozone Park</City>
+    <State />
+    <Zip>11417</Zip>
+    <Country>USA</Country>
+    <Tel>8774246423</Tel>
+    <Fax />
+    <Email>ihelp@choicehotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.6715542</Latitude>
+    <Longitude>-73.8441183</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/14/44/76/144476-GEN-1.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>14266</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/44/76/144476-GEN-1thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2121</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/44/76/144476-GEN-3.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>13386</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/44/76/144476-GEN-3thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2173</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/44/76/144476-GEN-4.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>22151</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/44/76/144476-GEN-4thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2594</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/44/76/144476-HAB-2.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>11690</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/44/76/144476-HAB-2thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2069</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

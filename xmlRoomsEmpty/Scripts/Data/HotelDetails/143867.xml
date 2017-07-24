@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>143867</Id>
+  <Name>Savoy Crest</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>Behind Bank Street, Bur Dubai</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>49519</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 3554488</Tel>
+    <Fax>+971 4 3512343</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>98</CountRooms>
+    <Latitude>25.253361</Latitude>
+    <Longitude>55.296523</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039534-SavoyCrestDubai_ext.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11472</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039534-SavoyCrestDubai_ext_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2687</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039534-SavoyCrestDubai_ext.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11472</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039534-SavoyCrestDubai_ext.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2321</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039534-SavoyCrestDubai_guest2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6732</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039534-SavoyCrestDubai_guest2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1776</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039534-SavoyCrestDubai_guest.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7892</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039534-SavoyCrestDubai_guest.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1883</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Situated just off of Bank Street, Savoy Crest hotel apartments is 15 minutes away from Dubai International Airport and is within walking distance of the prestigious BurJuman Shopping Centre with its upscale Designer Shops. Guests will appreciate its close proximity to many business and leisure spots in the area.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This city apartment hotel combines a central Dubai location with warm hospitality and comfortable accommodation at an affordable price. It comprises a total of 98 studios, and 1 and 2-bedroom furnished apartments. There is also a contemporary cafe on site and further facilities on offer to guests at this air-conditioned establishment include a lobby area with a 24-hour reception and check-out service and lift access.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeShop</Code>
+    <Text>Coffee shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

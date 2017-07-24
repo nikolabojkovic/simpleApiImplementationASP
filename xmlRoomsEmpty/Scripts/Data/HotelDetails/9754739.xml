@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9754739</Id>
+  <Name>Skyy Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>88/8 Sukhumvit Soi 1</Address1>
+    <Address2>Sukhumvit Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel />
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Skyy is a self rate 4 Star boutique hotel that offers a blend of comfort and modernity at affordable rates amidst the vibrant and exciting city of Bangkok. Abstract and unconventional architecture inspired by the cosmic explosion originating the beginning of the universe fused with contemporary living, this hotel is set to become the preferred destination of business, leisure and medical tourists.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1750613</Id>
+  <Name>Lotus Hotel Apartments Marina</Name>
+  <Region>
+    <Id>9043419</Id>
+    <Name>Jumeirah / Marina / Palm</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>P.O. Box 376332</Address1>
+    <Address2>Marina Waterfront</Address2>
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971 4 440 2888</Tel>
+    <Fax>971 4 447 4388</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>25.068807</Latitude>
+    <Longitude>55.131669</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/13/56/42/135642-GEN-1.jpg</Url>
+    <Width>228</Width>
+    <Height>320</Height>
+    <Bytes>14217</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/56/42/135642-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>49</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1515</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Designed as an intimate, luxurious apartment complex with exceptional levels of attention to detail, this property is a celebration of comfort and style. Facilities on offer to guests at this air-conditioned establishment include a lobby area with a 24-hour reception, lift access and a restaurant. Guests can also take advantage of the room and laundry services.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

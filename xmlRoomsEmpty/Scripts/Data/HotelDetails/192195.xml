@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>192195</Id>
+  <Name>Stay on Main Hotel</Name>
+  <Region>
+    <Id>21624</Id>
+    <Name>Downtown</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hostel</Type>
+  <Address>
+    <Address1>636 South Main Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles</City>
+    <State />
+    <Zip>CA 90014</Zip>
+    <Country>United States</Country>
+    <Tel>00 1 213 213 7829</Tel>
+    <Fax />
+    <Email>Frontdesk@stayhotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>34.044399</Latitude>
+    <Longitude>-118.2506685</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Exterior_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>15960</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2174</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>296</Height>
+    <Bytes>23990</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2340</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2021</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19449</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2337</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>233</Height>
+    <Bytes>18483</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2304</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>23389</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2314</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Exterior_2.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>24792</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2398</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18667</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2320</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>320</Height>
+    <Bytes>34859</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2641</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>12622</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1720</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>320</Height>
+    <Bytes>24180</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2278</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-STAhotel_Business_centre_1.jpg</Url>
+    <Width>231</Width>
+    <Height>360</Height>
+    <Bytes>14890</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-STAhotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2278</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>All rates include a daily complimentary continental breakfast and the following amenities: flat screen TV, cable, alarm clock, and iPod docking station; housekeeping services; access to laundry and kitchen facilities; internet access and complimentary computers for use in the lobby; free Wi-Fi in the lobby and community lounge areas; X-box and games available; access to group meeting rooms and study areas; nightly security; and on-site coffee shop.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in downtown Los Angeles, the very first "Stay" brand hotel situated near the Los Angeles Convention Center, The Staples Center, LA Live, the fabric district, the jewelry district, the flower mart, The Fashion Institute of Design and Merchandising, Little Tokyo, Chinatown, and the new Broadway theater district.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Guestroom with one queen bed (or two twin beds) with sink only and shared bath for a maximum of 2 guests.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a boutique hotel hostel hybrid created for the savvy, modern traveler.  3-Story modern building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Marty - onsite coffee shop offers coffee, pastries, grab and go sandwiches, and drinks.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is small in size and decorated with modern furniture.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

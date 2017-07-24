@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3373671</Id>
+  <Name>60 Thompson</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>60 Thompson Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10012</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 212 431 0400</Tel>
+    <Fax>+1 212 431 0200</Fax>
+    <Email>EXECSIXTY@ThompsonHotels.Com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>97</CountRooms>
+    <CountFloors>13</CountFloors>
+    <Latitude>40.7240203</Latitude>
+    <Longitude>-74.0032345</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/27/75/2/27752_2.jpg</Url>
+    <Width>300</Width>
+    <Height>145</Height>
+    <Bytes>8298</Bytes>
+    <Caption>Hotel lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/27/75/2/27752_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>144</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2698</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/27/75/2/27752_3.jpg</Url>
+    <Width>300</Width>
+    <Height>145</Height>
+    <Bytes>6683</Bytes>
+    <Caption>Standard room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/27/75/2/27752_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>144</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2482</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/27/75/2/27752_4.jpg</Url>
+    <Width>300</Width>
+    <Height>145</Height>
+    <Bytes>12239</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/27/75/2/27752_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>144</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3628</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/27/75/2/27752_1.jpeg</Url>
+    <Width>300</Width>
+    <Height>205</Height>
+    <Bytes>13589</Bytes>
+    <Caption>Outside view of hotel</Caption>
+    <ThumbnailUrl>/RXLImages/1026/27/75/2/27752_1thumb.jpeg</ThumbnailUrl>
+    <ThumbnailWidth>102</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2752</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Since its opening, this hotel has been a downtown base for in-the-know-visitors, celebrities, and elite travelers. Where bohemian chic meets modern sophistication, for an effect that is both innately cool and comfortably warm. From its rooftop bar, featuring stunning city views, to the internationally renowned restaurant, this hotel is Downtown Manhattan's premier spot for the ultimate New York experience.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in the fashionable Soho District convenient to Midtown and the Financial District. Nestled on Thompson Street between Spring and Broome Streets, this hotel offers the best location from which to conduct business or to enjoy.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

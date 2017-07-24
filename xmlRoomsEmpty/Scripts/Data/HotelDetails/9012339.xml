@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012339</Id>
+  <Name>Citrus Sukhumvit 13 Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>22 SUKHUMVIT SOI 13</Address1>
+    <Address2>Chuvit Park</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 02-6183999</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>79</CountRooms>
+    <CountFloors>8</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/91/17/95/911795-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8278</Bytes>
+    <Caption>911795-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/17/95/911795-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2173</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/17/95/911795-img2-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7608</Bytes>
+    <Caption>911795-img2-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/17/95/911795-img2-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1950</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/17/95/911795-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7106</Bytes>
+    <Caption>911795-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/17/95/911795-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1941</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/17/95/911795-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>10232</Bytes>
+    <Caption>911795-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/17/95/911795-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2332</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/17/95/911795-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8108</Bytes>
+    <Caption>911795-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/17/95/911795-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2019</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Citrus Sukhumvit 13 Bangkok is a Tourist, City hotel hotel. Located in City Centre area. Shopping is within walking distance and the nightlife/restaurants are right next to the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Citrus 13 Bangkok the brand new modern and hip Bangkok property with 79 rooms ranging from the intimate Superior Room, to the more spacious Citrus Suite. Located on a quiet side street off the bustling Sukhumvit Road, Citrus Sukhumvite 13 Bangkok holds an enviable location at the heart of one of Bangkok’s most vibrant area. The property offers guest facilities and services such as a Citrus cafe’, rooftop swimming pool and wireless Internet hub with HDMI port to utilize cutting edge 40” LED wide-screen TV, touch screen panel light and air-conditioning control system, shower cubicle with rain shower and high pressure water.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

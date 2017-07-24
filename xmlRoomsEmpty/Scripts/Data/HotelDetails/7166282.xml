@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7166282</Id>
+  <Name>Tune Hotel King Cross</Name>
+  <Region>
+    <Id>52890</Id>
+    <Name>Kings Cross &amp; Camden</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>324 Gray's Inn Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>WC1X 8BU</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+207 713 2050</Tel>
+    <Fax>+207 258 3149</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>51.5288588</Latitude>
+    <Longitude>-0.1196721</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296797-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3546</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296797-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1954</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296797-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9402</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296797-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1854</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296797-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5706</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296797-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1694</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296797-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6762</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296797-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1832</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nA leading global city.\nAccessible to many local attractions\nClose proximity to shopping district\nGreat combination for business and pleasure\nOne of the most visited cities in the world.\nSite of the 2012 Summer Olympics.\nLocation\nLocated in the heart of London\nLocal Attractions\nClose to local attractions such as Camden Market\nPiccadilly - 10 minutes\nOxford Street - 10 minutes\nHistoric attractions such as British Museum\nRestaurants &amp; Lounges\nCoffee Shop on property\nServices\n24 hr front desk service\n24-hour security service\nElevators\nAccommodations\n218 guestrooms\nAir conditioning\nInternet access (surcharge)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>With its central location and impeccable service; the Tune Hotel King Cross is the ideal choice for your stay</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

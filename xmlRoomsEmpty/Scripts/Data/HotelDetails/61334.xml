@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>61334</Id>
+  <Name>Harrah's Las Vegas</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3475 LAS VEGAS BLVD S.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State>NV</State>
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>(800) 214-9110</Tel>
+    <Fax>1-702-3695008</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>36.11949</Latitude>
+    <Longitude>-115.169667</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>184</Height>
+    <Bytes>19492</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2345</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>29450</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2619</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>27122</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2490</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>207</Height>
+    <Bytes>27823</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3001</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>288</Height>
+    <Bytes>22947</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2372</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>23651</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2739</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>323</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>278</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Other_1.jpg</Url>
+    <Width>285</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>29450</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2619</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HAR1hotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HAR1hotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>For those Guests that choose the hotels Room and Breakfast Package, the hotel?s Continental Breakfast is for a maximum of two breakfast's per room (single occupancy rooms will receive one breakfast only) and operates as follows: Guests staying at Harrah?s can enjoy breakfast at any of the 3 Starbucks locations at Harrah?s.  Locations at Harrah?s include the Carnaval Court Location, First Floor Lobby Location, and Second Floor Promenade Location.  Breakfast includes guest?s choice of coffee or tea, piece of fruit, and a muffin or bagel.  If they would prefer a different breakfast option at Starbucks, they?ll receive a $9.00 credit to order what they please.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Situated at the center of the strip, opposite Caesar’s Palace and the Mirage, Harrah's Las Vegas is located within minutes of McCarran International Airport.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Rooms are well appointed and equipped with a television with Pay-per-View movies, Nintendo, mini-bar, Internet access, iron and ironing board and hair dryer.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Harrah’s is housed in a modern high-rise building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Range Steakhouse presents grilled-to-order steaks, prime rib, seafood and poultry entrees in an intimate setting with a spectacular view of the famed Las Vegas Strip. I Love This Bar and Grill, named after Toby Keith's hit single “I Love This Bar”, is an exciting venue that has it all: a restaurant and bar, music videos, recording studio and live bands in a real down-home atmosphere. The very finest in Asian cuisine is served at Ming's Table, whilst the liveliest outdoor restaurant on the Strip is the Carnaval Court Bar and Grill. Carnaval Court, which boasts live music and some of the world's top flair bartenders, was voted one of the best flair bars in the country. Flavors, a buffet-style restaurant,is a great place to satisfy any appetite and features continuous live cooking stations. Sip cocktails and dine on seafood favorites, such as high-quality fresh steamers, shrimp, lobster, crab, clam chowder and calamari at the Oyster Bar at Penazzi.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is large.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>59</Rank>
+</HotelElement>

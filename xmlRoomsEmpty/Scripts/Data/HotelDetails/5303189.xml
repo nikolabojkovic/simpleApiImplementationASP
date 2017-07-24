@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>5303189</Id>
+  <Name>Nolitan New York</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>30 Kenmare St.</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip>10012</Zip>
+    <Country>USA</Country>
+    <Tel>(212) 925-2555</Tel>
+    <Fax>(212) 925-2556</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>40.7206365</Latitude>
+    <Longitude>-73.9950903</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This 55 room luxury boutique hotel will provide the perfect home in Nolita - impeccable, attentive, stylish and all about you. They'll be your entree into a real New York neighborhood that is creative, cool, international and historic.Renowned restaurateur and chef Jimmy Bradley, who brought The Red Cate and The Harrison to New York, will create a unique dining experience at The Nolitan. The restaurant will serve breakfast, lunch and dinner and will provide hotel lobby lounge service and 24 hour in-room dining.
+Linger. Enjoy. Imagine. Ruminate. Make friends. Experience life like a Nolitan.
+
+Facility Includes :
+- Valet parking $60/24hrs (fees subject to change)
+- Custom Bath and Body Products by Red Flower
+- 37" HD Flat Screen 
+- Premium Entertainment and Gaming Systems
+- Complimentary Continental Breakfast
+- Complimentary Wi-Fi Internet Access
+- Complimentary Local and Toll-Free Phone
+- Complimentary daily newspaper
+- Evening turndown service
+- Private terrace
+- Luxury robes
+- iPod Stereo Systems by Vers
+- Complimentary Fitness Center
+- 24-hour concierge
+- 24-hour room service
+- Restaurant
+- Rooftop Lounge</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- No triple or quad occupancy.
+- Unless notified prior to, or at check-in, a one night penalty will apply to departures that occur earlier than the date specified on the original reservation.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

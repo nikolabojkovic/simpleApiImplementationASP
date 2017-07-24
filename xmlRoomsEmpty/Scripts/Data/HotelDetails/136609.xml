@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>136609</Id>
+  <Name>Royal Court Apartments</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>51 Gloucester Terrace</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W2 3DQ</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>4.42E+11</Tel>
+    <Fax>4.42E+11</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>78</CountRooms>
+    <Latitude>51.5132233</Latitude>
+    <Longitude>-0.1777894</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9202-Front_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4457</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9202-Front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2215</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9202-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12763</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9202-Front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2073</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9202-Room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7740</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9202-Room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1823</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9202-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10894</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9202-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2141</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9202-RoyalCourtRm2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13110</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9202-RoyalCourtRm2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1718</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9202-RoyalCourtRm5.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>16775</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9202-RoyalCourtRm5.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2028</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9202-HydePark.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14193</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9202-HydePark.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2163</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nAccessible to many local attractions\nAffordable accommodations\nClassic accommodations\nLocation\nLocated in central London\nCentrally located minutes from Hyde Park\nLocal Attractions\nHyde Park - 500 meters\nHarrods - 1.5 kilometers\nKnightsbridge - 1.5 kilometers\nPortobello Road Market - 1.5 kilometers\nVictoria &amp; Albert Museum - 1.5 kilometers\nBuckingham Palace - 3 kilometers\nMadame Tussauds - 1.5 kilometers\nTrafalgar Square - 3 Kilometer\nRestaurants &amp; Lounges\nFull service bar/lounge\nNearby restaurant\nServices\n24 hr front desk service\nBusiness services available at front desk\nPublic transportation available from property\nAccommodations\n19 guestrooms\nApartment accommodations\nParking\nOff-site parking - contact hotel for details</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>With its amazing views; great location; and affordable rates; the  Royal Court Apartments is perfect for any traveler on any occasion</Text>
+  </Description>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

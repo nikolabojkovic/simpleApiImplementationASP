@@ -1,0 +1,434 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>124127</Id>
+  <Name>L'Ermitage Beverly Hills</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>9291 BURTON WAY</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BEVERLY HILLS</City>
+    <State />
+    <Zip>90210</Zip>
+    <Country>USA</Country>
+    <Tel>3102783344</Tel>
+    <Fax>7027969007</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>34.0724425</Latitude>
+    <Longitude>-118.3953888</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25429</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2710</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>27242</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2535</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>19362</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1795</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>16085</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1939</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Lobby_1.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>16815</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2107</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Swimming_Pool_1.jpg</Url>
+    <Width>350</Width>
+    <Height>232</Height>
+    <Bytes>13965</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1841</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Swimming_Pool_2.jpg</Url>
+    <Width>360</Width>
+    <Height>237</Height>
+    <Bytes>14224</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1915</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>173</Height>
+    <Bytes>10531</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1896</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>259</Height>
+    <Bytes>18211</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2108</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Suite_2.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>17719</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2157</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>19148</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2123</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Suite_3.jpg</Url>
+    <Width>350</Width>
+    <Height>355</Height>
+    <Bytes>22626</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1800</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Restaurant_4.jpg</Url>
+    <Width>233</Width>
+    <Height>350</Height>
+    <Bytes>30512</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2523</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Other_1.jpg</Url>
+    <Width>287</Width>
+    <Height>288</Height>
+    <Bytes>20169</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2253</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Restaurant_5.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>20204</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2208</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>238</Height>
+    <Bytes>21360</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2263</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Suite_4.jpg</Url>
+    <Width>350</Width>
+    <Height>226</Height>
+    <Bytes>17565</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2042</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Suite_5.jpg</Url>
+    <Width>360</Width>
+    <Height>254</Height>
+    <Bytes>19429</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Suite_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2109</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Restaurant_6.jpg</Url>
+    <Width>360</Width>
+    <Height>292</Height>
+    <Bytes>26402</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Restaurant_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2476</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Restaurant_7.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>15887</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Restaurant_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1990</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>24320</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2483</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>14640</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1839</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-LERhotel_Restaurant_8.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>28109</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-LERhotel_Restaurant_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2583</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>L'Ermitage Beverly Hills stands among the finest of Beverly Hills California luxury hotels, a stately property embodying the spirit of a sophisticated private club and a gracious urban residence. Guests enjoy quick access to the city's cultural attractions, prime entertainment centers, shopping destinations and celebrated beach towns. Acclaimed dining and lounge choices, private dining and meeting spaces, a stunning rooftop pool retreat, an intimate spa, and spacious, sumptuously outfitted guestrooms complete the best-in-class experience visitors have come to expect from this luxury Beverly Hills California hotel. For the past ten years, L'Ermitage Beverly Hills has earned the rare dual designation of the Forbes 5 Star and AAA Five Diamonds awards.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Peacefully situated on a tree-lined residential street, yet a short stroll from the bustle of Rodeo Drive, this boutique Beverly Hills hotel is renowned for its legendary elegance and unquestioned privacy , drawing discriminating clients from the world over.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Enter a private sanctuary where luxury and serenity reign. Where balconies offer magnificent views of the surrounding city and hills. And where pampering amenities and up-to-the-moment technologies combine to assure an inspired, restful stay. Featuring a sophisticated California aesthetic with accents of the Far East, each of the hotel's guestrooms and suites reflects the property's laid-back sensibility and cosmopolitan decor. Smart, stylish, secluded: accommodations at this luxury Beverly Hills hotel immerse guests in the true spirit of repose , and take delight to another level.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>NumberOfPool</Code>
+    <Text>Number Of Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HeatedPool</Code>
+    <Text>Heated Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>421218</Id>
+  <Name>Best Western Plus Royal Palace Inn and Suites</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2528 S Sepulveda Boulevard</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles (CA)</City>
+    <State />
+    <Zip>90064</Zip>
+    <Country>United States</Country>
+    <Tel>+1 3104779066</Tel>
+    <Fax>+1 .</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>55</CountRooms>
+    <CountFloors>2</CountFloors>
+    <Latitude>34.0342748</Latitude>
+    <Longitude>-118.4334279</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25621</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2473</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Swimming_Pool_1.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>23700</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2423</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Meeting_Room_1.jpg</Url>
+    <Width>350</Width>
+    <Height>306</Height>
+    <Bytes>27649</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2709</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Recreational_Facilities_1.jpg</Url>
+    <Width>350</Width>
+    <Height>237</Height>
+    <Bytes>24429</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2745</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Swimming_Pool_2.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>28515</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2660</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21081</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2380</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Lobby_1.jpg</Url>
+    <Width>350</Width>
+    <Height>239</Height>
+    <Bytes>32170</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3109</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Spa_1.jpg</Url>
+    <Width>350</Width>
+    <Height>263</Height>
+    <Bytes>21777</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2164</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19818</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2432</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Recreational_Facilities_2.jpg</Url>
+    <Width>350</Width>
+    <Height>243</Height>
+    <Bytes>30101</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Recreational_Facilities_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3062</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-BESChotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18581</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-BESChotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2372</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Visit this ideally located Los Angeles, California hotel for your vacation or business headquarters. Choose a suite with a private Jacuzzi  or a guest room complete with microwave, refrigerator, cable satellite television, and hairdryers. Other hotel amenities include pool, hot tub, steam room, exercise facility and billiards room. Guests traveling for business will appreciate the theatre style meeting facility which holds up to 35 people. The hotel also offers a complimentary deluxe continental breakfast.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Best Western Royal Palace Inn &amp; Suites is conveniently located just 2 miles from the University of California-Los Angeles and near Beverly Hills, Santa Monica and Venice Beach. Hotel guests will find upscale shopping along Rodeo Drive and easy access to many local attractions such as the Getty Museum, Century City and Fox Studios. 
+The Best Western Royal Palace Inn &amp; Suites is 100% non-smoking, and is near all of the Hollywood attractions, the Los Angeles Zoo, and several museums. Guests will also enjoy being only minutes away from the Santa Monica Film Festival, and be delighted to discover fishing, tennis, and golf nearby.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InRoomMovies</Code>
+    <Text>In-room movies</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessProgramme</Code>
+    <Text>Fitness Programme</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

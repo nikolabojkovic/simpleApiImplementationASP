@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1230241</Id>
+  <Name>Rodeway Inn</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1228 N. DURFEE AVENUE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>South El Monte</City>
+    <State />
+    <Zip>91733</Zip>
+    <Country>USA</Country>
+    <Tel>8774246423</Tel>
+    <Fax />
+    <Email>ihelp@choicehotels.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>34.0362013</Latitude>
+    <Longitude>-118.0374367</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/72/82/4/72824-GEN-1.JPG</Url>
+    <Width>288</Width>
+    <Height>216</Height>
+    <Bytes>12977</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/72/82/4/72824-GEN-1thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2071</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/72/82/4/72824-GEN-3.JPG</Url>
+    <Width>288</Width>
+    <Height>216</Height>
+    <Bytes>11899</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/72/82/4/72824-GEN-3thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1912</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/72/82/4/72824-HAB-2.JPG</Url>
+    <Width>288</Width>
+    <Height>216</Height>
+    <Bytes>14946</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/72/82/4/72824-HAB-2thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2136</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Pets are welcome (for a charge of USD 10 per pet/per night, limited to 2 pets per room of 20lbs or less).</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This hotel comprises a total of 63 spacious guest rooms. They come equipped with a fridge, a hairdryer, a desk and cable TV and disability-friendly rooms and rooms for non-smokers are on offer. Guests may take advantage of the on-site hotel safe for storing their valuables. The property offers laundry facilities and ample parking is available for trucks, cars and tour buses. Guests can enjoy many amenities at the hotel including a free continental breakfast, free high-speed Internet access and free local calls.</Text>
+  </Description>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

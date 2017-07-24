@@ -1,0 +1,428 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59174</Id>
+  <Name>Renaissance</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3400 PARADISE ROAD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas 89169</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-702-7845700</Tel>
+    <Fax>1-702-7353130</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>36.127476</Latitude>
+    <Longitude>-115.154507</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>27563</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2672</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>26142</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2691</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>28603</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3010</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>22564</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2366</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Exterior_1.jpg</Url>
+    <Width>315</Width>
+    <Height>360</Height>
+    <Bytes>27100</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2616</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Lobby_2.jpg</Url>
+    <Width>315</Width>
+    <Height>360</Height>
+    <Bytes>24089</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2645</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>23122</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2655</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>27419</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2459</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>23149</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2359</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>22698</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2591</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>22644</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2397</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>29118</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2569</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>28685</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2718</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>27788</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2783</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>20641</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2129</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>25426</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2484</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>29579</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2852</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>23054</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2397</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>20669</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2454</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>30249</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2521</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24700</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2378</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24455</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2565</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>20682</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2157</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>26115</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2431</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>25571</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2825</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>315</Width>
+    <Height>360</Height>
+    <Bytes>39734</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3052</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Restaurant_5.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>38084</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3034</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Business_centre_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>28407</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Business_centre_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3003</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-REN1hotel_Recreational_Facilities_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>27270</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-REN1hotel_Recreational_Facilities_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2693</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is a city known for its world-class entertainment, excitement, glitz, and glamour. Enjoy effortless access to it all - without staying in the middle of the non-stop uproar - at the Renaissance Las Vegas. As the largest non-casino hotel in Nevada, we're easily accessible to all of the world-famous Las Vegas attractions, events, and activities, including the University of Nevada, Las Vegas. With the Convention Center Monorail Station just steps away, it's almost too easy. (10/10 IH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This all-new Renaissance hotel is the largest non-gaming establishment in Nevada. With the monorail to the world-famous Strip at your feet, our luxurious accommodations provide a stylish, upscale atmosphere away from the distractions of the gambling scene - yet convenient to all of its pleasures. Discover a truly unique destination, featuring exquisite first-class comfort in a stylish setting: Ideally located on Paradise Road in Las Vegas, Nevada; Home of ENVY Steak house and Lounge, a Richard Chamberlain creation; Steps from the adjacent Las Vegas Convention Center; Easy walking distance from the Convention Center Monorail Station; Just two blocks from the legendary Las Vegas Strip; and 2 1/2 miles north of McCarran International Airport.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The Renaissance Las Vegas Hotel promises to set an entirely new standard for Las Vegas accommodations - blending cool, confident style with imaginative services in an exclusive club-like atmosphere. Introduce yourself to the unique delights of Renaissance, a convenient and classy location for exhibitors looking to entertain clients after a show , as well as leisure guests, exhausted from being entertained.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Sophisticated and convenient, the dining options at the Renaissance Las Vegas offer superior cuisine in an upscale atmosphere - perfect for quiet bites, exquisite meals, and cocktails alike. Discover delectable entrees at one of the best Las Vegas statehouse restaurants, or unwind in our e-Go Cafe. Planning to hit the famous Strip in the evenings? Indulge yourself with extraordinary fine dining at ENVY, The Steak house, our signature Las Vegas steak restaurant before you hit the town.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Medium with modern atmosphere.</Text>
+  </Description>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

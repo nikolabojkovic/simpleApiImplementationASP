@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>168913</Id>
+  <Name>Grand Tower Inn Sukumvit 55</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SUKHUMVIT 55, WATTANA 22/1</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>006627142001</Tel>
+    <Fax>006623811030-1</Fax>
+    <Email>rsvn.sukhumvit@grandtowerinn.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.726652</Latitude>
+    <Longitude>100.5801624</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/85/06/1/85061-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>233</Height>
+    <Bytes>12828</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/85/06/1/85061-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>96</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2040</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/85/06/1/85061-HAB-7.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>13723</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/85/06/1/85061-HAB-7thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2091</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/85/06/1/85061-HAB-8.jpg</Url>
+    <Width>320</Width>
+    <Height>214</Height>
+    <Bytes>9828</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/85/06/1/85061-HAB-8thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2205</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/85/06/1/85061-HAB-9.jpg</Url>
+    <Width>320</Width>
+    <Height>218</Height>
+    <Bytes>12094</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/85/06/1/85061-HAB-9thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>102</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2650</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Guests can reach the hotel on public transport. Take the BTS (Bangkok Transport System) to Thorlor Station and from here take a taxi or other form of transport to Thorlor Soi 53. The hotel is about 1.5 km or 20 minutes from the BTS.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel is set in a convenient location and offers a wide-range of modern amenities. The hotel offers unbeatable comfort at affordable prices. With over 400 clean, spacious and well-appointed rooms and one to three-bedroom suites, it offers not only a wide selection of accommodation, but also a choice of daily, weekly or monthly rates, all at surprisingly good value. Facilities on offer include a lobby, a bar, a restaurant, conference facilities, room and laundry services and parking for those arriving by car.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MobilePhoneNetwork</Code>
+    <Text>Mobile Phone Network</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

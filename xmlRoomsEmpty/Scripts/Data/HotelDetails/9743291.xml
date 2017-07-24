@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9743291</Id>
+  <Name>Citypoint Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>6/22 Ratchadapisek Road</Address1>
+    <Address2>Opposite Soi 16, Sukhumvit</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel />
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10308</Bytes>
+    <Caption>citypoint_bangkok-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2416</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8873</Bytes>
+    <Caption>citypoint_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2171</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9062</Bytes>
+    <Caption>citypoint_bangkok-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2177</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>2181</Bytes>
+    <Caption>citypoint_bangkok-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1624</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7577</Bytes>
+    <Caption>citypoint_bangkok-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2227</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7426</Bytes>
+    <Caption>citypoint_bangkok-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/11/12/00/65/citypoint_bangkok-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2089</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>City Point Hotel is a uniquely non smoking, moderately priced hotel in the centre of Bangkok. The hotel is eco-friendly, economical and is situated like an oasis on a quiet street in the heart of Bangkok. City Point is 30 smoke free rooms are designed with a contemporary flair, clean lines and relaxing colors.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

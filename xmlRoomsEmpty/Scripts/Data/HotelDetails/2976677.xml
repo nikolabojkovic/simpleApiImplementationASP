@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2976677</Id>
+  <Name>Normandie</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>96 SUSEX GARDENS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>W2 1UH</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00442072244405</Tel>
+    <Fax>00442072244002</Fax>
+    <Email>reservation@hotelsolutionsdirect.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.516461</Latitude>
+    <Longitude>-0.171031</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/13/35/28/133528-BAR-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>11525</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/35/28/133528-BAR-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1969</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/13/35/28/133528-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>13270</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/35/28/133528-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2106</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Heathrow Airport: take the Heathrow Express train to Paddington train station. The hotel is within walking distance from the station. Alternatively, take the Piccadilly Line to Earl's Court, change to the District Line towards Edgware Road and get off at Paddington station. The hotel is within walking distance.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Family-run since May 1970, this hotel is renowned for its blend of warm and friendly hospitality. It features 14 guest rooms, a 24-hour reception, lift access, a breakfast room and a car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

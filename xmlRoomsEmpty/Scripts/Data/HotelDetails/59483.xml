@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59483</Id>
+  <Name>Soho Grand</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>310 WEST BROADWAY</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK, NY 10013</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-9653000</Tel>
+    <Fax>1-212-5196734</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.722039</Latitude>
+    <Longitude>-74.004142</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SOHhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SOHhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SOHhotel_Exterior_1.jpg</Url>
+    <Width>350</Width>
+    <Height>263</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SOHhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SOHhotel_Exterior_2.jpg</Url>
+    <Width>263</Width>
+    <Height>350</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SOHhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SOHhotel_Exterior_3.jpg</Url>
+    <Width>350</Width>
+    <Height>263</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SOHhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-SOHhotel_Exterior_4.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-SOHhotel_Exterior_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Soho Grand Hotel, located in New York City’s most stylish and sophisticated downtown,The Soho Grand Hotel offers the finest New York City hotel accommodations with all excitement of Manhattan. Built in 1996 as the first New York hotel in SoHo, the Soho Grand Hotel was designed by William Sofield as a luxury hotel and boutique hotel that is perfect for a romantic getaway or weekend getaway in NYC.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Empire State Building
+• Statue Of Liberty
+• Apollo Theater
+• Carnegie Hall
+• Central Park
+• Times Square
+• Union Square Park
+• United Nations
+• Washington Square Park</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>When the Soho Grand was built in 1996, it was the first hotel to arrive in SoHo in more than a century.The Harbor Room and the Yard are two newly constructed areas offer 5,000 square feet of combined indoor and outdoor event space.363 guest rooms, including Penthouse Loft Suites with private outdoor terraces.
+
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>Soho Grand Hotel is located on West Broadway between Grand and Canal Streets, in close proximity to SoHo’s art galleries, boutiques and restaurants as well as TriBeCa, Greenwich Village, Chinatown, Wall Street and New York University.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Grand Bar &amp; Lounge:-
+More than just food and cocktails, the comfortable and glamorous Grand Bar &amp; Lounge has become known as “SoHo’s Living Room.
+• Restaurants as upscale as Nobu or as casual as a French café are all within footsteps from the hotel doors.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

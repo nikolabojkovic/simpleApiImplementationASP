@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250866</Id>
+  <Name>Aurum The River Place</Name>
+  <Region>
+    <Id>2297624</Id>
+    <Name>Riverside</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>394/27-29 Soi Pansook</Address1>
+    <Address2>Maharaj Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2622 - 2248</Tel>
+    <Fax>(66) 2622 - 0260</Fax>
+    <Email>rsvn@aurum-bangkok.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.743715</Latitude>
+    <Longitude>100.492169</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/14/00/80/140080-COM-4.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>12335</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/00/80/140080-COM-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2267</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/00/80/140080-GEN-2.jpg</Url>
+    <Width>240</Width>
+    <Height>320</Height>
+    <Bytes>13550</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/00/80/140080-GEN-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1603</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/00/80/140080-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>10057</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/00/80/140080-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2033</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/00/80/140080-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>10778</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/00/80/140080-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2001</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>A credit card is required to guarantee a room booking.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel is situated in a 4-storey European-style edifice, stylishly crafted as a modern, yet classic, luxurious hotel with only 12 rooms. It has all the conveniences and comforts guests can expect. At Vivi The Coffee Place, guests enjoy the stunning views to the opposite side of the river, the Temple of Dawn (Wat Arun) and the neighbouring temple. This is a non-smoking hotel that strives to minimise negative environmental impacts and wastage. Guests are welcomed into a lobby with 24-hour reception and check-out service. Air conditioning also features.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

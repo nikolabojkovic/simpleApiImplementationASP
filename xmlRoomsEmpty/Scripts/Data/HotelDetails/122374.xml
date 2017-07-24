@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>122374</Id>
+  <Name>Lucerne Hotel</Name>
+  <Region>
+    <Id>64381</Id>
+    <Name>Upper West Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>201 WEST 79TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10024</Zip>
+    <Country>USA</Country>
+    <Tel>212-875-1000</Tel>
+    <Fax>212 721 1179</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>184</CountRooms>
+    <CountFloors>12</CountFloors>
+    <Latitude>40.783336</Latitude>
+    <Longitude>-73.97849</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/38/70/1/38701-COM-2.jpg</Url>
+    <Width>320</Width>
+    <Height>273</Height>
+    <Bytes>14583</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1058/38/70/1/38701-COM-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>82</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1904</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/38/70/1/38701-GEN-1.jpg</Url>
+    <Width>265</Width>
+    <Height>320</Height>
+    <Bytes>23391</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/38/70/1/38701-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>57</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1946</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/38/70/1/38701-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>252</Height>
+    <Bytes>16130</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/38/70/1/38701-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>88</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1961</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Lucerne Hotel, located in the heart of the Upper West Side of New York City, is a mark of distinction in New York City hospitality. This New York hotel is conveniently located between Central Park, The American Museum of Natural History, Lincoln Center, the Theatre District, Columbia University, and the many cafes, fine restaurants, and upscale shops on the charming and ever popular Upper West Side of Manhattan.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Beacon Theater .
+• Columbus Avenue.
+• Time Square.
+• Carnegie Hall.
+• Rockefeller Center.
+• Guggenheim Museum .
+• Fifth Avenue Shopping.
+• Metropolitan Museum Of Art.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Lucerne Hotel was Hotel Built in 1904 and Last Renovated - 1993 ,The Lucerne Hotel beautifully restored and recently recognized landmark building is one of the most elegantly appointed boutique hotels in all of Manhattan.The Lucerne Hotel has its own charm and sophistication, upscale boutique property famous for its hotel service, comfortable accommodations, and affordability, it is ideal for business and leisure travelers.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Swimming Pool.
+• Golf &amp; Spa.
+• Shops Nearby.
+• Restaurant / Bar.
+• Fitness Center.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• All major credit cards are accepted.
+• Check In Time - 4:00 Pm
+• Check Out Time - 12:00 Pm
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• From LaGuardia Airport - 10 Miles
+Take the Grand Central Parkway/Triboro BridgeTake the Triboro Bridge to Manhattan to the FDR Drive South, exit at 96th Street. Take 97th Street Westbound through Central Park to Columbus Avenue &amp; make a left onto Columbus Avenue Take Columbus Avenue to 79th Street &amp; make a right, go 1 block to Amsterdam Avenue cross the intersection, The Lucerne Hotel is on the right.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Restaurant:-
+Mediterranean Style Restaurant, featuring French cuisine with an Italian flavor.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

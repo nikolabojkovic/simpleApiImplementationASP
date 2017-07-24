@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120613</Id>
+  <Name>Radisson Edwardian Mercer Street</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>MONMOUTH STREET SEVEN DIALS, COVENT GARDEN 20</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>WC2H 9HD</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>02078364300</Tel>
+    <Fax>02072403540</Fax>
+    <Email>resmoun@radisson.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5142232</Latitude>
+    <Longitude>-0.1271563</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/88/98/8898-BAR-3.jpg</Url>
+    <Width>318</Width>
+    <Height>320</Height>
+    <Bytes>17088</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/1057/88/98/8898-BAR-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>69</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2095</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/88/98/8898-COM-2.jpg</Url>
+    <Width>254</Width>
+    <Height>320</Height>
+    <Bytes>15121</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1057/88/98/8898-COM-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>55</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1631</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/88/98/8898-GEN-1.jpg</Url>
+    <Width>214</Width>
+    <Height>320</Height>
+    <Bytes>16583</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/88/98/8898-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1514</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/88/98/8898-HAB-5.jpg</Url>
+    <Width>320</Width>
+    <Height>318</Height>
+    <Bytes>20822</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/88/98/8898-HAB-5thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2063</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Radisson Edwardian Mercer Street hotel is situated in Covent Garden, in the heart of Theatreland and within minutes of Soho, Trafalgar Square, Oxford Street and Leicester Square . All the air conditioned bedrooms bring comfort and style together beautifully. Calming, muted shades, tactile fabrics and original art both soothe and stimulate,while interactive, all-in-one guest technology brings your iPod, iPad, iPhone and DVDs seamlessly to your TV screen. The heart of the hotel, Dial is about shared experience - from the bar`s delectable small plates to the comfort and conviviality of the restaurant. Here, modern European dishes of impeccable provenance are prepared with market-fresh British produce, while the fragrant spices of the bar`s meze menu hint at the old Covent Garden market`s more exotic wares. A hub at the heart of Seven Dials, this is a chic urban eatery without an ounce of pretension The quintessential Covent Garden rendezvous, the newly transformed Radisson Edwardian Mercer Street effortlessly blends with the boutique appeal of its neighbourhood. A landmark in Seven Dials village, this is a chic retreat on the doorstep of London`s most celebrated theatres, its beautifully designed rooms equipped with next-generation technology. Hip as the streets that surround it, with a bar and restaurant alive with locals, this place feels real, relaxed and rooted in its community</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MobilePhoneNetwork</Code>
+    <Text>Mobile Phone Network</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Balcony</Code>
+    <Text>Balcony</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>321311</Id>
+  <Name>Ramada Inn</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>7272 East Gage Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Commerce</City>
+    <State>California</State>
+    <Zip>90040</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1 562 806 4777</Tel>
+    <Fax>+ 1 562 928 2907</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>33.974391</Latitude>
+    <Longitude>-118.126048</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/COME-RAMhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>258</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/COME-RAMhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/COME-RAMhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>266</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/COME-RAMhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/COME-RAMhotel_Guest_Room_1.jpg</Url>
+    <Width>359</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/COME-RAMhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/COME-RAMhotel_Meeting_Room_1.jpg</Url>
+    <Width>359</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/COME-RAMhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This Hotel is Triple A Approved. The Ramada Commerce is conveniently located between Orange and Los Angeles Counties. The four-story, 156-room facility boasts easy access to all of Los Angeles with the comforts of a suburban location, a secure environment and ample, free parking! Just 23 miles east of LAX Airport, this Ramada features Free High Speed Wireless Internet, In-room coffee makers, FREE Movie Channels, plus on site guest laundry facilities. A Weight room, sundeck and heated outdoor pool are available, at no charge to hotel guests. Denny's Restaurant, adjacent to the property, is open 24 hours for eat-in or take-out; and will also provide in-room delivery. Corporate and group rates are available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This property is a first-class hotel located in the middle of greater Los Angeles metropolitan area, just off of I-5. The hotel is located 25 miles from Los Angeles International Airport and is also accessible to the Burbank and Long Beach airports. Most of Los Angeles and Orange County's attractions can be easily accessed from this hotel.
+
+Nearby attractions: Disneyland, Knott's Berry Farm, Anaheim Convention Center, Angels Stadium, Arrowhead Pond, Los Angeles Convention Center, STAPLES Center, Dodger Stadium, Universal Studios and Hollywood.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The guest rooms at the hotel are spacious, clean and well furnished with the necessary amenities to make your stay enjoyable.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Dennys ON PROP.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is medium size.</Text>
+  </Description>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

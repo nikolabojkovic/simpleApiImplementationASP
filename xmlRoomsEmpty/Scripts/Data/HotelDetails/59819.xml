@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>59819</Id>
+  <Name>Courtyard By Marriott</Name>
+  <Region>
+    <Id>21686</Id>
+    <Name>La Guardia Airport Area</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>90-10 GRAND CENTRAL PKY.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>EAST ELMHURST, NY 11369</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-718-4464800</Tel>
+    <Fax>1-718-4465733</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.769194</Latitude>
+    <Longitude>-73.8793139</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59819_1.jpg</Url>
+    <Width>247</Width>
+    <Height>356</Height>
+    <Bytes>32527</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59819_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>48</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1557</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59819_2.jpg</Url>
+    <Width>356</Width>
+    <Height>247</Height>
+    <Bytes>29286</Bytes>
+    <Caption>Hotel Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59819_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>100</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2367</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59819_3.jpg</Url>
+    <Width>356</Width>
+    <Height>247</Height>
+    <Bytes>22811</Bytes>
+    <Caption>King Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59819_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>100</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2497</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/59819_4.jpg</Url>
+    <Width>356</Width>
+    <Height>247</Height>
+    <Bytes>39240</Bytes>
+    <Caption>Courtyard Ballroom</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/59819_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>100</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2800</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The 32-story hotel offers 244 modern rooms and suites, meeting rooms, dining facilities, and a fitness center. We provide a full range of the features and services you value most to let you get down to business.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Empire State Building
+• Statue Of Liberty
+• Apollo Theater
+• Battery Park
+• Carnegie Hall
+• Central Park
+• Chrysler Building
+• City Hall
+• Madison Square Garden
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Hotel Built - 1990 ,&amp; Last Renovated - 1999 , This 30-Story Member Of The Marriott Family Of Hotels Welcomes Guests Into A Lobby Of Polished Marble Floors And A Grand Chandelier. Guests With An Appetite For New American Cuisine With A Seafood Focus Can Dine At The On-site Salmon River Restaurant &amp; Bar, Which Is Open Throughout The Day.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Hotel Built - 1990 ,&amp; Last Renovated - 1999 , This 30-Story Member Of The Marriott Family Of Hotels Welcomes Guests Into A Lobby Of Polished Marble Floors And A Grand Chandelier. Guests With An Appetite For New American Cuisine With A Seafood Focus Can Dine At The On-site Salmon River Restaurant &amp; Bar, Which Is Open Throughout The Day.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>One restaurant located in the hotel with others located nearby.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Express Check-in and Check-out available.
+• Check-in: 3:00 PM; Check-out: 12:00 PM.
+• Pets are permitted.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>One restaurant located in the hotel with others located nearby.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Housekeeping</Code>
+    <Text>Housekeeping</Text>
+  </Amenity>
+  <Amenity>
+    <Code>24HourFrontDesk</Code>
+    <Text>24 Hour Front Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ATMMachine</Code>
+    <Text>ATM Machine</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

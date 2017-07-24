@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1942908</Id>
+  <Name>Las Vegas Marriott Suites</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>325 Convention Center Drive</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1 702 650 2000</Tel>
+    <Fax>+ 1 702 650 9466</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>278</CountRooms>
+    <Latitude>36.131896</Latitude>
+    <Longitude>-115.157168</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-front_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2682</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2658</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10302</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2130</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-fitness.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11497</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-fitness.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2196</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9034</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2056</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11726</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2427</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10290</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2167</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12855</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2289</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-newroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8102</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-newroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1915</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7843</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1942</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-newboardroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8321</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-newboardroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1929</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214242-newfunction.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9427</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214242-newfunction.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2111</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nClose proximity to major attractions\nLocation\nCentrally located minutes from Las Vegas Strip\nLocal Attractions\nLas Vegas Convention Center - 5 minutes\nFlyaway Indoor Skydiving - 2 blocks\nLas Vegas Monorail Station - 2 blocks\nLas Vegas Strip - 3 blocks\nRecreation\nOutdoor swimming pool\nRelaxing spa/hot tub\nNearby casino entertainment\nFully equipped fitness center\nRestaurants &amp; Lounges\nCasual restaurant\nFull service bar/lounge\nServices\n24 hr front desk service\nConcierge services\nElevators\nPublic transportation available from property\nMeeting Facilities\nEvent facilities\nAccommodations\n278 guestrooms\nParking\nOn site parking available\nPolicies\nThis is a smoke free property</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Business during the day and city excitement at night awaits your arrival</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

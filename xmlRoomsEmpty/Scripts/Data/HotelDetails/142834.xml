@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>142834</Id>
+  <Name>Windsor Suites Hotel</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>8 -10 Sukhumvit Soi 18-20; Sukhumvit Road; Klongtoey</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2262 1234</Tel>
+    <Fax>+66 2258 1522</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.733398</Latitude>
+    <Longitude>100.563279</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1209282-front_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4071</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1209282-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2095</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Windsor Suites hotel is situated downtown Bangkok in Sukhumvit, close to Benjasiri park, the shopping complex and 5 minute drive to Queen Sirikit National Convention Center. All rooms and suites have been remarkably furnished with meticulous attention to detail. The Grand Deluxe rooms are located in the Garden Wing. They are 30 sqm in size and available with twin beds or one single bed. The Counselor Suites are located in the Suites Wing. They are 45 sqm in size and have a living room separated from the bedroom. All bathrooms are with bathtubs and adjustable massage showers. The hotels luxurious spa features the Clark Hatch gym with professional trainers and a beauty salon. The pool deck is a wonderful place to swim, sunbathe and relax with a fine view of Bangkok's skyline. Enjoy international cuisine at The Windsor Suites Cafe. For more exotic taste, indulge in the Gourmet Chinese cuisine at the Golden Palace or experience the true essence of Japan at our Youzen Japanese Restaurant.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

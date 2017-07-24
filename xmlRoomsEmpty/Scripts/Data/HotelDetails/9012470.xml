@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012470</Id>
+  <Name>Glow Pratunam</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>919 PETCHBURI ROAD, KWANG THANON PHAYATHAI, RAJDHEVI, BANGKOK 10400, THAILAND</Address1>
+    <Address2>Pratunam</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10400</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 02-2573999</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>169</CountRooms>
+    <CountFloors>20</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/89/22/65/892265-img2-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>4709</Bytes>
+    <Caption>892265-img2-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/22/65/892265-img2-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1347</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/89/22/65/892265-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7649</Bytes>
+    <Caption>892265-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/22/65/892265-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1783</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/89/22/65/892265-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6496</Bytes>
+    <Caption>892265-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/22/65/892265-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1803</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/89/22/65/892265-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5510</Bytes>
+    <Caption>892265-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/22/65/892265-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1715</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The GLOW Pratunam is a City hotel hotel. Located in City Centre - Pratunam area. Shopping is accessible by bus/taxi and the nightlife/restaurants are easily accessible by taxi or bus from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>GLOW PratunamLocated in the middle of the shopping paradise of Pratunam district, this newly opened and modern designed hotel is situated on top of the exciting and trendy Shibuya 19 Fashion Mall. GLOW Pratunam offers easy access to BTS skytrain system, the international airport link station and Central World, the leading lifestyle living mall of Thailand. The hotel features 169 stylish guest rooms, a restaurant that serves a satisfying breakfast as well as a range of buffet and a la carte options throughout the day, 2 bars and an outdoor swimming pool. A private function room with the latest in audiovisual equipment accommodates up to 200 persons for business or party functions. Computer station and free WiFi service are also available.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>61412</Id>
+  <Name>Paramount</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>235 W. 46TH STREET NEW YORK NY 10036</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED STATES</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-7645500</Tel>
+    <Fax>1-212-3545237</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.7594216</Latitude>
+    <Longitude>-73.9869079</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>255</Height>
+    <Bytes>26031</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2606</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>17577</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2171</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>255</Height>
+    <Bytes>15945</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1988</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>296</Height>
+    <Bytes>27306</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2277</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>26749</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2563</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>255</Height>
+    <Bytes>18082</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2216</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>255</Height>
+    <Bytes>23213</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2367</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>255</Height>
+    <Bytes>17019</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2009</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Other_2.jpg</Url>
+    <Width>255</Width>
+    <Height>360</Height>
+    <Bytes>21390</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2227</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Guest_Room_3.jpg</Url>
+    <Width>282</Width>
+    <Height>360</Height>
+    <Bytes>13665</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1976</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>259</Height>
+    <Bytes>13390</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1920</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Guest_Room_5.jpg</Url>
+    <Width>283</Width>
+    <Height>360</Height>
+    <Bytes>13447</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>255</Height>
+    <Bytes>18776</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2175</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-PAR2hotel_Other_3.jpg</Url>
+    <Width>231</Width>
+    <Height>360</Height>
+    <Bytes>15771</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-PAR2hotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2163</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Paramount is in the heart of the Theater District and Restaurant Row, this Ian Schrager hotel is modern and trendy. Guestrooms are spacious and each features unique lighting and room design. Located one-half-block from Broadway and Times Square, the Paramount Hotel, in New York, N.Y., is within walking distance of Fifth Avenue shopping and Rockefeller Center. The midtown Manhattan location is less than 18 miles from JFK International Airport and just 10 miles from LaGuardia Airport.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Times Square - 0.5 block
+• Rockefeller Center - 5 blocks
+• Central Park - 0.5 mile
+• Columbus Circle - 0.5 mile
+• Museum of Modern Art - 0.5 mile
+• United Nations - 1 mile
+• Chelsea - 1.5 miles
+• Lower East Side - 3 miles
+• Wall Street - 3.5 miles</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The hotel has 567 small guestrooms on smoking and nonsmoking floors. White predominates in the decor with black-and-grey checkered carpeting and designer lamps. Beds are dressed with high-thread-count linens, down comforters, and pillows. Bathrooms have showers and conical stainless-steel sinks. Wireless Internet access (surcharge) is available.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Two cocktail lounges, a restaurant, and a coffee bar-delicatessen keep the premises of this New York hotel lively. The lobby has a concierge desk and a newsstand. The fitness center, stocked with bottled water and apples, provides free weights and machines, as well as a changing room with shower. Guests have access to a room with two computer stations and a data port for laptops, and wireless Internet access is offered for a fee.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>The Intrepid Sea-Air-Space Museum, on the Hudson River at 46th Street, about 4.5 blocks from the Paramount, is a must-see place. It includes the USS Intrepid, a WWII-era aircraft carrier, the USS Growler, a missile-launching submarine, and a Concorde supersonic airliner. Exhibitions focus on sea and space exploration.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Pets are accepted (surcharge).
+Check In Time - 3 p.m.
+Check Out Time - 12 p.m.
+All Major credit cards are accepted.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>• Mezzanine Restaurant - This comfortable dining room is attractive and intimate. Open from early morning for breakfast, the restaurant also serves lunch and dinner with an Italian accent. The adjacent Library Bar is likewise low-key.
+• The Paramount Bar - This lounge, with street access and graffiti-covered walls, opens evenings and draws guests and locals for drinks and light dinners.
+• Dean &amp; DeLuca - This independent delicatessen-coffee bar on site is ideal for quick stops for light fare from morning until late evening.</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

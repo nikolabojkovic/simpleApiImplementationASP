@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1270449</Id>
+  <Name>Four Points by Sheraton Midtown Times Square</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>326 West 40th  Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>MANHATTAN</City>
+    <State />
+    <Zip>10018</Zip>
+    <Country>USA</Country>
+    <Tel>2129678585</Tel>
+    <Fax>9173514988</Fax>
+    <Email>manager@fourpointsmidtowntimessquare.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.75639</Latitude>
+    <Longitude>-73.992368</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/12/78/86/127886-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>215</Height>
+    <Bytes>14489</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/12/78/86/127886-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2818</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/12/78/86/127886-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>210</Height>
+    <Bytes>9981</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/12/78/86/127886-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>106</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2237</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/12/78/86/127886-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>206</Height>
+    <Bytes>8416</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/12/78/86/127886-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>108</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1982</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/12/78/86/127886-HAB-4.jpg</Url>
+    <Width>320</Width>
+    <Height>230</Height>
+    <Bytes>10747</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/12/78/86/127886-HAB-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1988</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Location is everything. Stay close to the action in one of New York City's hippest neighborhoods. Where the heart of the action is always just steps away, you won't need to go far to find a popular restaurant, theater, or gallery.
+In addition to ideal surroundings, Four Points by Sheraton Midtown - Times Square offers simple, uncluttered design in each of the 244 guest rooms - plus every room in the house is non-smoking, to keep the air a little clearer. Behind the hotels' sleek design is the same casual comfort and service you've come to expect from a Four Points by Sheraton hotel.
+Little things in life make a big difference. Like the Simple Pleasures(SM). Get a great night's sleep in the Four Points by Sheraton Four Comfort Bed, refresh with free bottled water daily and keep in touch with free High Speed Internet Access. Kick back with a beer from our collection of the world's Best Brews(SM) or catch up on some reading over a hot &amp; fresh cup of Seattle's Best Coffee. The best comforts in life aren't complicated.
+
+Facility Includes :
+- Complimentary internet access
+- Complimentary water replenished daily
+- LCD Flat Panel Television
+- Radio/Alarm Clock
+- Free National Newspaper on Weekdays
+- Coffee Maker with Starbucks Coffee
+- In-Room Electronic Safe
+- Hypoallergenic Pillows
+- Room Service
+- Ergonomic Desk Chair
+- Individual Climate Control
+- Complimentary 24-Hour Fitness Facility
+- 24-Hour Business Center
+- Rooftop Bar 
+- Gotham Bistro</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- This Property is 100% Non-Smoking.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Garage</Code>
+    <Text>Garage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

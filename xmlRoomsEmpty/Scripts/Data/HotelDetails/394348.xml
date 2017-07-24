@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>394348</Id>
+  <Name>The Tivoli</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>71/2-3 SOI SRI BUMPHEN</Address1>
+    <Address2>YEN-ARKARD ROAD, SATHORN</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10120</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 22495858</Tel>
+    <Fax>+66 22495818</Fax>
+    <Email>rsvn@thetivolihotelbangkok.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>133</CountRooms>
+    <CountFloors>0</CountFloors>
+    <Latitude>13.7205736</Latitude>
+    <Longitude>100.5473727</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/11/40/36/114036-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>162</Height>
+    <Bytes>8905</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/11/40/36/114036-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>138</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2902</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/11/40/36/114036-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>162</Height>
+    <Bytes>8678</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/11/40/36/114036-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>138</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2840</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/11/40/36/114036-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>162</Height>
+    <Bytes>9306</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/11/40/36/114036-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>138</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2942</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/11/40/36/114036-HAB-4.jpg</Url>
+    <Width>320</Width>
+    <Height>162</Height>
+    <Bytes>7180</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/11/40/36/114036-HAB-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>138</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2374</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The spa at the hotel has the Thai massage and foot massage room for the guests. The hotel amenities and services at The Tivoli Hotel Bangkok includes daily house keeping, 24 hour room service, internet access (in public area), laundry, swimming pool, fitness room, baby sitting, travel desk, etc.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The excellent location and attentive service provided by this boutique hotel make for a comfortable and enjoyable stay. The hotel comprises a total of 133 well equipped rooms. Facilities on offer at the establishment include daily house keeping, 24-hour room service, Internet access (in public areas), a laundry service, a babysitting service and a travel desk. There is a lobby with 24-hour reception, as well as a hotel safe, a restaurant and parking for those arriving by car.</Text>
+  </Description>
+  <Amenity>
+    <Code>InRoomMovies</Code>
+    <Text>In-room movies</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomPrivateBathroom</Code>
+    <Text>Private bathrooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Tours</Code>
+    <Text>Tours</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessProgramme</Code>
+    <Text>Fitness Programme</Text>
+  </Amenity>
+  <Amenity>
+    <Code>*FB plus</Code>
+    <Text>*FB plus</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

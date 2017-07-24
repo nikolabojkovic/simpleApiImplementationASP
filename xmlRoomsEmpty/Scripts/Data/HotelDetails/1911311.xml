@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1911311</Id>
+  <Name>HI Residence</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>649-649/1-176 Asoke-Din Dang Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10400</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 02 641 7999</Tel>
+    <Fax>+66 02 641 7401</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>83</CountRooms>
+    <Latitude>13.751395</Latitude>
+    <Longitude>100.5638916</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2652</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2645</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8430</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2001</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8580</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2103</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6514</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1711</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12779</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2344</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-spa.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6189</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-spa.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1777</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12399</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2344</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6099</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1701</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7659</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1999</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1220770-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7198</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1220770-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1899</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From the airport, travel on Rama 9 Road towards Din Daeng, use flyovers of the motorway - Hi Residence is 200 metres after Rama 9 Intersection. By metro, exit at Rama 9 station and walk towards Din Daeng along Rama 9 Road for 200 metres.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The contemporary design and open-design rooms complement the hotel's lifestyle concept. Business guests will be satisfied during their short- or long-term stay with facilities that include conference rooms, private meeting rooms, secretarial services and a business centre. The technology includes superior wireless Internet access, HD flat-screen TV, news channels and complimentary meeting equipment as may be required. This city hotel was built in 2009 and consists of a total of 143 rooms and suites. Guests are welcomed in a lobby with 24-hour reception and check-out service. Further facilities include air conditioning, a hotel safe, currency exchange, lift access, room service and a car park. Guests can also wine and dine in the café or restaurant.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

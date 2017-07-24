@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1734498</Id>
+  <Name>Intercontinental New York Times Square</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>300 WEST 44TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State>NY</State>
+    <Zip>10036</Zip>
+    <Country>USA</Country>
+    <Tel>1-212-8034500</Tel>
+    <Fax>1-212-8034501</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.75857</Latitude>
+    <Longitude>-73.989723</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>228</Height>
+    <Bytes>15699</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2028</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>31283</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2773</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>227</Height>
+    <Bytes>23889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2654</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Exterior_1.jpg</Url>
+    <Width>207</Width>
+    <Height>360</Height>
+    <Bytes>18737</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2364</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20490</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2586</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>29765</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2819</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>231</Height>
+    <Bytes>18749</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2363</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>227</Height>
+    <Bytes>18419</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2261</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22458</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2515</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Lobby_4.jpg</Url>
+    <Width>360</Width>
+    <Height>229</Height>
+    <Bytes>21715</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Lobby_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2581</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Lobby_5.jpg</Url>
+    <Width>360</Width>
+    <Height>234</Height>
+    <Bytes>15171</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Lobby_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1978</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>235</Height>
+    <Bytes>22639</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2303</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21687</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2594</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>230</Height>
+    <Bytes>16782</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2189</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>229</Height>
+    <Bytes>21611</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2397</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>21705</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2275</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>243</Height>
+    <Bytes>24240</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2448</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Exterior_2.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>13233</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1682</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Lobby_6.jpg</Url>
+    <Width>360</Width>
+    <Height>215</Height>
+    <Bytes>28315</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Lobby_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3208</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Lobby_7.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>18865</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Lobby_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2614</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>164</Height>
+    <Bytes>17396</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2344</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>28346</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2614</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Ballroom_3.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Ballroom_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-INT4hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19045</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-INT4hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2107</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel is located on Eighth Avenue, the hotel is close to Restaurant Row and the Broadway theatre district. The area is home to the best of both worlds from the razzle-dazzle of Times Square to the down-home hip of the Clinton District, historically known as ?Hell?s Kitchen.? Time Warner Center, Hearst Tower, and a world-class transportation network are all right here.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located at the corner of 44th Street and 8th Avenue on the right hand side.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>350 square feet king bedded designed with the feel of a chic Manhattan residence. Large spa inspired bathroom with walk-in rain shower. 42 inch HDTV with wired &amp; wireless Internet, iHome and touch screen PC to enhance your stay. A perfect setting for business or leisure guests.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a modern building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Breakfast, Lunch and Dinner are available at this property.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The hotel has a large lobby.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

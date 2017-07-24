@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4729050</Id>
+  <Name>Stansted Airport Lodge</Name>
+  <Region>
+    <Id>52924</Id>
+    <Name>Stansted</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>THE STREET TAKELEY</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BISHOP STORTFORD</City>
+    <State />
+    <Zip>CM22 6QR</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00441279817821</Tel>
+    <Fax>00441279816984</Fax>
+    <Email>rjm@desalishotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.887511</Latitude>
+    <Longitude>0.254059</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/13/38/43/133843-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>11094</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/38/43/133843-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1973</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/13/38/43/133843-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9426</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/38/43/133843-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1916</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From M11 exit junction 8, signposted Bishop Stortford, take exit B1256 towards Takeley, Dirve for about 3 km we are on the left.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

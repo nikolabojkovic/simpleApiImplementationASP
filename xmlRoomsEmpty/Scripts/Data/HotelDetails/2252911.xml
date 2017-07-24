@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252911</Id>
+  <Name>Tango Bangkok</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>11 Soi Wattanawong</Address1>
+    <Address2>Makasan</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>02-6517070</Tel>
+    <Fax>02-6507071</Fax>
+    <Email>tango@tangobkk.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.753965</Latitude>
+    <Longitude>100.542723</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9339</Bytes>
+    <Caption>tango_bangkok-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2398</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11683</Bytes>
+    <Caption>tango_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2751</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>1907</Bytes>
+    <Caption>tango_bangkok-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1683</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8929</Bytes>
+    <Caption>tango_bangkok-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2252</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8655</Bytes>
+    <Caption>tango_bangkok-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2423</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-room3.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9271</Bytes>
+    <Caption>tango_bangkok-room3</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/08/08/14/74/tango_bangkok-room3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2374</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Adding a splash of colour to Bangkoks Rachaprarob Road,  Tango Serviced Apartments offers 70 stylish rooms in modern and contemporary dcor for businesspersons and visitors  seeking short and long-term stays in the citys vibrant main shopping centre.        24-hour security is provided at all access areas, room doors can only be opened using a secure key card, while CCTV monitors the public areas. The building has its own car park, a reception and information desk, plus an Internet Caf on the ground floor.     Tango provides its guests with daily housekeeping and cleaning services in all rooms.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

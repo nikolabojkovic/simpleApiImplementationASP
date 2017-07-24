@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>202447</Id>
+  <Name>The Standard Downtown</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>550 SOUTH FLOWER STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LOS ANGELES</City>
+    <State>CALIFORNIA</State>
+    <Zip>90071</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>12138928080</Tel>
+    <Fax>12138928686</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>207</CountRooms>
+    <CountFloors>12</CountFloors>
+    <CheckInTime>12:00</CheckInTime>
+    <CheckOutTime>23:30</CheckOutTime>
+    <Latitude>34.0498494</Latitude>
+    <Longitude>-118.2569482</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-sgpool_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3521</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-sgpool_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2027</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5932</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1389</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-SGROOM.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5856</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-SGROOM.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1716</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-Pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6790</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-Pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1746</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-sggym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9145</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-sggym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2000</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-SGROOM1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6014</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-SGROOM1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1529</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6700</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1756</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-lobby2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8622</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-lobby2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2105</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8837</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1995</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-sgpool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8465</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-sgpool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1993</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1205789-sgbar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9112</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1205789-sgbar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2185</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Designed as a place for the "cool" businessperson, the hotel occupies a 1952 12-story tower clad in Carrara marble. This is, as the hotel likes to say, an "Oil Company's Decadent Headquarters". The 1950ish corporate look has been retained, with its 15-time-zone clock and polished aluminum accents. Nothing is standard about the decor, which has theatrical and exhibitionistic qualities that bode well with the clientele. The original columns are sheathed in mirrored glass, and the lobby lounge's 125-ft-long pink sofa has raised sections for guests who want to put themselves on display. Guests here can play billiards or relax and enjoy the nightly DJ.
+The newest addition here is the quirky glass-fronted Rudy's Barber Shop that stares onto the reception area. Here, hip-hop hair stylists trim bangs while chart-toppers get their room keys. The 24-hour restaurant looks like the inside of an egg carton, with yolk yellow floors and egg-shaped pendant lighting. Guests have a free pass to the rooftop bar and pool, bypassing the crowd of outsiders gathered at the entrance, pleading to be admitted to the party on the top floor.
+
+Facility Includes :
+- In-room safe
+- Minibar
+- 24-hr room service
+- Bathrobes
+- MP3 docking stations
+- Complimentary daily newspapers
+- Complimentary wireless Internet
+- Valet parking
+- 24/7 restaurant, rooftop bar and lobby lounge 
+- Billiards 
+- Business center
+- Barber shop</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- No triple or quad occupancy available in the Large guestroom.
+- Registered guests must be at least 21 years of age.
+- To guarantee incidental charges, a credit card will be authorized based on $150 per day at the time of check in.</Text>
+  </Description>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HiFiStereoSystem</Code>
+    <Text>HiFiStereoSystem</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

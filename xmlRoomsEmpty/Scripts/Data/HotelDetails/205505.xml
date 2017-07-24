@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>205505</Id>
+  <Name>Churchill Residence Suites 1br</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>HERALD TOWERS 50 WEST 34TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State>NEW YORK</State>
+    <Zip>10001</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>12126978970</Tel>
+    <Fax>12126869272</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <CountFloors>0</CountFloors>
+    <CheckInTime>12:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>40.7527913</Latitude>
+    <Longitude>-73.9948877</Longitude>
+  </GeneralInfo>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

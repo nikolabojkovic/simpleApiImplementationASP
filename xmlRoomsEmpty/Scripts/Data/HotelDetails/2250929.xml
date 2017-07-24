@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250929</Id>
+  <Name>Luxx XL</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>82/8 Luangsaun</Address1>
+    <Address2>Lumphini</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2684 - 1111</Tel>
+    <Fax>(66) 2684 - 1115</Fax>
+    <Email>reservationsxl@staywithluxx.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.735498</Latitude>
+    <Longitude>100.541929</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8062</Bytes>
+    <Caption>luxx_xl-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2184</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7166</Bytes>
+    <Caption>luxx_xl-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1957</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-general2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>12229</Bytes>
+    <Caption>luxx_xl-general2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-general2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2613</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10850</Bytes>
+    <Caption>luxx_xl-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2719</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>2283</Bytes>
+    <Caption>luxx_xl-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1737</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8024</Bytes>
+    <Caption>luxx_xl-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/05/00/00/29/luxx_xl-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2229</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located along the posh and stylish Langsuan road, Langsuan translate to behind the park and as the name of the street suggest, Luxx XL is just a few minutes away from the Lumphini park, the central park of Bangkok.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>205048</Id>
+  <Name>The Beauchamp</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>24-27 BEDFORD PLACE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State>ENGLAND</State>
+    <Zip>WC1B 5JH</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00442072337888</Tel>
+    <Fax>00442075804167</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>47</CountRooms>
+    <CountFloors>0</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>11:00</CheckOutTime>
+    <Latitude>51.5204181</Latitude>
+    <Longitude>-0.124469</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/14/33/90/143390-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>220</Height>
+    <Bytes>14538</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/14/33/90/143390-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>101</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2594</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The nearest underground station is Russell Square. Come out of the station and turn left and walk towards Russell Square. After crossing the road, turn left and walk alongside Russell Square Gardens before turning right into Russell Square. The first left is Bedford Place and the hotel is on the right.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Renovated in 2010, the 47-room business hotel combines traditional elegance with contemporary style and modern décor, all complemented by a range of business and leisure services and facilities to meet today's most discerning guests. In addition to a lobby area with 24-hour reception service, a hotel safe and lift access to the upper floors, facilities available to guests at this air-conditioned establishment include a restaurant and room service.</Text>
+  </Description>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

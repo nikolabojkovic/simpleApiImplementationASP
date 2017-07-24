@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>695931</Id>
+  <Name>Miyako Hotel</Name>
+  <Region>
+    <Id>21624</Id>
+    <Name>Downtown</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>328 East 1st Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles</City>
+    <State />
+    <Zip>CA 90012</Zip>
+    <Country>United States</Country>
+    <Tel>00 1 213 617 2000</Tel>
+    <Fax>0012136172700</Fax>
+    <Email>edmond@miyakola.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>34.049688</Latitude>
+    <Longitude>-118.240143</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2221</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2217</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8518</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1940</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8272</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1796</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-meetings.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9851</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-meetings.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2211</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-spa.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6676</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-spa.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1759</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9142</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1961</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-guestroom001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7032</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-guestroom001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1781</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-guestroom002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5967</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-guestroom002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1567</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-guestroom003.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7094</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-guestroom003.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1785</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227936-guestroom004.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6157</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227936-guestroom004.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1625</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Enjoy the flavor of Japanese hospitality and lodging accommodations in the heart of downtown Los Angeles California. The Miyako Hotel offers excellent service and a host of amenities. The hotel is conveniently located near major business centers and entertainment attractions.
+The Miyako Hotel is the right choice for business or pleasure. The hotel's downtown Los Angeles hotel accommodations and lodging features spacious guest rooms, a Japanese Restaurant, a Karaoke bar/lounge, a health Spa and banquet facilities.
+
+Facility Includes :
+- Hairdryer
+- Iron and ironing board
+- Bidet/Japanese Washlet
+- Complimentary internet access
+- Work desk
+- In-room Voicemail
+- Electronic safety box
+- Coffee maker
+- Rooftop Bar &amp; Lounge
+- Health Spa
+- Meeting room
+- Business center
+- Cafe, &lt;em&gt;Take 5&lt;/em&gt;</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

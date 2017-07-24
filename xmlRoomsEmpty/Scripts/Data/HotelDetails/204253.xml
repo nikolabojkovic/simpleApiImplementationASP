@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>204253</Id>
+  <Name>Tower Inn</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>533 SILOM RD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State>--</State>
+    <Zip>10500</Zip>
+    <Country>THAILAND</Country>
+    <Tel>66223783004</Tel>
+    <Fax>006622378286</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <CountFloors>0</CountFloors>
+    <CheckInTime>12:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>13.724679</Latitude>
+    <Longitude>100.525385</Longitude>
+  </GeneralInfo>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

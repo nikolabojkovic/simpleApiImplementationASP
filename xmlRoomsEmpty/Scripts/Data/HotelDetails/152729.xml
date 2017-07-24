@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>152729</Id>
+  <Name>London Marriott County Hall</Name>
+  <Region>
+    <Id>52923</Id>
+    <Name>Southbank</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>London County Hall,</Address1>
+    <Address2>Westminster Bridge Road</Address2>
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SE1 7PB</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-207-928 5200</Tel>
+    <Fax>44-207-928 5300</Fax>
+    <Email>corkwholesalerdesk@marriott.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.4991472</Latitude>
+    <Longitude>-0.113014</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>25851</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2712</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>18594</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2093</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>21031</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2432</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>22357</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2481</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>22245</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2426</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_2.jpg</Url>
+    <Width>315</Width>
+    <Height>360</Height>
+    <Bytes>29098</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2601</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Spa_2.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>20871</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Spa_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2461</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24910</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2590</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_3.jpg</Url>
+    <Width>315</Width>
+    <Height>360</Height>
+    <Bytes>38756</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3232</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>21754</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2682</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>20826</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2428</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>17940</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2239</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_8.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>26881</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2854</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_9.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>25143</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2723</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_10.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>25906</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2958</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>22267</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2401</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>29426</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2866</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_11.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>22625</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_11_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2381</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>20597</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2281</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_5.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>23724</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2512</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_12.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>21490</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_12_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2485</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_13.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>21344</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_13_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2305</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Guest_Room_14.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>20008</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Guest_Room_14_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2358</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Spa_3.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>19848</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Spa_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2401</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_6.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24755</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2567</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_7.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>22894</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2471</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_8.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>26157</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2682</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_9.jpg</Url>
+    <Width>315</Width>
+    <Height>360</Height>
+    <Bytes>34869</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3248</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-MAROhotel_Restaurant_10.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>27708</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-MAROhotel_Restaurant_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2929</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Centrally located on London's South Bank, the luxury 5 * London Marriott Hotel, County Hall is traditionally elegant. Breathtaking views overlooking Big Ben &amp; the River Thames await you. Ideally located with close proximity to Westminster and Waterloo Underground Station and 1 hour away from London Heathrow Airport. Local attractions include the London Eye, London Aquarium, Westminster Abbey and Covent Garden.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The air-conditioned guest rooms feature a dedicated work area, Internet access, luxury bedding and many offer river views.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Opened by King George V and Queen Mary in 1922, County Hall is the former seat of London?s government; a building designed for the country?s leaders and for running the Capital until 1986. Today, it?s been restored to the highest standards- retaining its period features and its original charm but also offering the latest modern technologies, contemporary comforts and attentive, dedicated service.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The dining facilities offer modern European cuisine with the County Hall Restaurant opened for breakfast, lunch and dinner. The Rotunda Lounge offering light snacks, traditional afternoon tea and has a cocktail bar.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Originally used as a seat of government, the Marriott has been restored yet has kept its beautiful architecture - from the towering bronze doors to the polished marbled floors.</Text>
+  </Description>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingRooms</Code>
+    <Text>Meeting rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

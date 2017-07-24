@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>528977</Id>
+  <Name>Hatta Fort</Name>
+  <Region>
+    <Id>9043435</Id>
+    <Name>Others</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Resorts</Type>
+  <Address>
+    <Address1>Hatta Oman Road Hatta Fort Hotel, P O Box 9277, Hatta - Dubai</Address1>
+    <Address2>Heritage Village</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-8099333</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>50</CountRooms>
+    <CountFloors>2</CountFloors>
+    <Latitude>24.820373</Latitude>
+    <Longitude>56.134257</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/12/98/14/129814-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>235</Height>
+    <Bytes>10570</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/98/14/129814-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>95</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1713</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/98/14/129814-GEN-4.jpg</Url>
+    <Width>314</Width>
+    <Height>320</Height>
+    <Bytes>18147</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/98/14/129814-GEN-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>68</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1842</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/98/14/129814-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>303</Height>
+    <Bytes>17407</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/98/14/129814-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>73</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1930</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/98/14/129814-PIS-3.jpg</Url>
+    <Width>320</Width>
+    <Height>260</Height>
+    <Bytes>11025</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/98/14/129814-PIS-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>86</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1723</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Important reminder for guests who are booked on the All inclusive package at Jebel Ali Golf Resort &amp; Spa: In line with legal requirements during Ramadan, please note that there will not be any live entertainment and alcohol will not be served during daytime hours from sunrise until sunset (approximately 7.30pm). All other benefits within the All Inclusive package remain the same and we wish your clients a most enjoyable stay at the resort.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The club resort is an exclusive mountain retreat offering the ultimate in relaxation and seclusion from the city's hustle and bustle. Set in 80 acres of manicured gardens, surrounded by the majestic Hajar Mountain range and wild nature, this spa hotel in Dubai is the ideal destination for leisure, business and incentive stays. In addition to breathtaking surroundings, the spa hotel caters to all needs with world class dining, entertainment and a host of sport and leisure activities. There are 51 guest rooms at this air-conditioned establishment. Guests are welcomed into a lobby with 24-hour reception and check-out services. Facilities at the resort include a hotel safe, currency exchange facilities, a cloakroom and lift access. There is a games room and a children's playground, as well as a kids' club for younger guests to let off steam. There is a café, bar and restaurant on the premises. Conference facilities are available to business travellers and Internet access is also provided. Guests can take advantage of the resort's room and laundry services. Guests arriving by car may park their vehicles in the car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kidspool</Code>
+    <Text>Kids Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Babysitter</Code>
+    <Text>Babysitter</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>JoggingTrack</Code>
+    <Text>Jogging Track</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>58377</Id>
+  <Name>President</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>RUSSELL SQUARE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>WC1N 1DB</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-20-78378844</Tel>
+    <Fax>44-20-78374653</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5177614</Latitude>
+    <Longitude>-0.1255078</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-PREhotel_Exterior_1.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>18921</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-PREhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2529</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-PREhotel_Lobby_1.jpg</Url>
+    <Width>290</Width>
+    <Height>200</Height>
+    <Bytes>12729</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-PREhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2255</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-PREhotel_Guest_Room_1.jpg</Url>
+    <Width>301</Width>
+    <Height>200</Height>
+    <Bytes>12846</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-PREhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2143</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Please note that triple rooms are  twin rooms plus one extra bed.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in Russell Square with the nearest underground station being Russell Square, which provides easy access throughout London. Also close by are Euston, King's Cross and St. Pancras railway stations. The British Museum, Covent Garden and many of London's theatres are within walking distance of the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The rooms are small, however, all rooms have been refurbished and are in good condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a modern, concrete building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant is on the ground floor and is nicely decorated also in reds and creams with separate areas for continental and English breakfast.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is medium-sized and simply decorated in classical reds and creams. Full length glass windows ensure it is pleasantly light.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

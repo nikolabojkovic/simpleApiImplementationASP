@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2251238</Id>
+  <Name>New Trocadero</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>343 Surawongse Road</Address1>
+    <Address2>Bangrak</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2234 - 8920 - 9</Tel>
+    <Fax>(66) 2234 - 5969</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.725336</Latitude>
+    <Longitude>100.517156</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10078</Bytes>
+    <Caption>new_trocadero-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2468</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9784</Bytes>
+    <Caption>new_trocadero-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2581</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9459</Bytes>
+    <Caption>new_trocadero-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2513</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>2700</Bytes>
+    <Caption>new_trocadero-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1407</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6787</Bytes>
+    <Caption>new_trocadero-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/91/new_trocadero-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2025</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>350 tastefully furnished guest-rooms, including 120 superior appointed rooms located in the new wing. Room Facilities:</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>195477</Id>
+  <Name>Convenient Park Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>No. 12 Soi Sukhumvit 62/3 Bangchak Phrakhanong</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10260</Zip>
+    <Country>Thailand</Country>
+    <Tel>0066 (0)27416710-7</Tel>
+    <Fax>0066 (0)23115104</Fax>
+    <Email>info@convenientpark.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.688792</Latitude>
+    <Longitude>100.607922</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211138-outside.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9476</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211138-outside.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2248</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211138-outside.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9476</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211138-outside.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2248</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211138-restau.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12563</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211138-restau.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2400</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211138-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6767</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211138-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1864</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211138-outside_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2529</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211138-outside_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2526</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Convenient Park Bangkok is situated in the suburbs of Bangkok, 8 Km form the city centre. The hotel offers an internet and e-mail service and 160 tastefully-furnished rooms. The hotel is well suited for travellers wanting an economical base to explore Bangkok.</Text>
+  </Description>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingRooms</Code>
+    <Text>Meeting rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>87</Rank>
+</HotelElement>

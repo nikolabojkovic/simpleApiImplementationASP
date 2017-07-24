@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>202090</Id>
+  <Name>Beverly Hills</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>9641 SUNSET BLVD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LOS ANGELES</City>
+    <State>CALIFORNIA</State>
+    <Zip>90210</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>3102762251</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <CountFloors>0</CountFloors>
+    <CheckInTime>15:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>34.0812241</Latitude>
+    <Longitude>-118.4141153</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-main_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2534</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2525</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8420</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2033</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14182</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2298</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9565</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2065</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9011</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2057</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9593</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2038</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-pool1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13125</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-pool1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2268</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-spa.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9004</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-spa.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2066</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12637</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2170</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8224</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1849</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8391</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1936</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201867-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8244</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201867-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1818</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description  5 star accommodations   Perfect for weekend getaway   Rich in history.   Prime location   Elegant design and décor     Location  Located in the heart of Beverly Hills     Local Attractions  City entertainment in close proximity     Recreation  Outdoor swimming pool   Relaxing full service spa   Fully equipped fitness center     Restaurants &amp; Lounges  Beverly Hill's famed Polo Lounge on property   Coffee Shop on property   Onsite restaurant   Full service bar/lounge     Services  24 hr Concierge to meet all your needs   24 hour room service   Business services available at front desk   Valet dry cleaning and laundry services   car rental services available     Meeting Facilities:  Banquet facilities    Event facilities    Small conference room available   Wedding venue available   Multiple conference/meeting rooms   Fully equipped business center    Custom event planning available     Accommodation  210 guestrooms   Luxury guest rooms   Elegant accommodations</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Prime location; phenomenal customer service and luxury accommodations    make the  Beverly Hills Hotel and Bungalows  the perfect choice</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>58604</Id>
+  <Name>Excelsior</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>45 WEST 81ST. STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK, NY 10024</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-3629200</Tel>
+    <Fax>1-212-5803972</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.782849</Latitude>
+    <Longitude>-73.973619</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/58604_1.jpg</Url>
+    <Width>200</Width>
+    <Height>262</Height>
+    <Bytes>18002</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/58604_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>53</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2020</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/58604_3.jpg</Url>
+    <Width>312</Width>
+    <Height>235</Height>
+    <Bytes>15344</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/58604_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>92</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2282</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/58604_4.jpg</Url>
+    <Width>312</Width>
+    <Height>235</Height>
+    <Bytes>26680</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/58604_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>92</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3166</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/58604_2.jpg</Url>
+    <Width>350</Width>
+    <Height>263</Height>
+    <Bytes>24196</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/58604_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2650</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The respected 16-story Excelsior Hotel is located on Manhattan's Upper West Side, near the Museum of Natural History and Central Park. The Excelsior Hotel is within walking distance of many cultural and recreational venues, including the Hayden Planetarium, the Beacon Theatre and Lincoln Center.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Central Park 1 Block.
+• Hayden Planetarium 1 Block.
+• Museum of Natural History 1 Block.
+• Lincoln Center 2 Kms.
+• Union Square 6 Kms.
+• Times Square 3 Kms.
+• Rockefeller Center 3 Kms.
+• Greenwich Village 6 Kms.
+• Empire State Building 5 Kms.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Excelsior Hotel features an entertainment area, with a library and a well-equipped fitness facility. The Excelsior's 199 guestrooms are furnished in a comfortable yet traditional, French-influenced décor. The one-bedroom suites have a pleasant sitting area with a sofa bed and French doors separating the bedroom.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Shopping Mall.
+• Fitness Center.
+• Spa.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Check In Time - 3:00 PM
+• Check Out Time - 12:00 PM
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• From JFK International Airport:
+Follow signs to I-678 North to SR-25 West. Cross Queensboro Bridge to 2nd Ave S Exit.Exit 60th Street, turn right on Park Ave. Turn left on E 79th St, becomes W 81st St.The hotel is located on the right hand side.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Library</Code>
+    <Text>Library</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WiFi</Code>
+    <Text>Wi-Fi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>24HourFrontDesk</Code>
+    <Text>24 Hour Front Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

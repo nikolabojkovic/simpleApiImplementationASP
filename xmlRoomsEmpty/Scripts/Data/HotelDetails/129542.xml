@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129542</Id>
+  <Name>Texas Station Hotel</Name>
+  <Region>
+    <Id>21610</Id>
+    <Name>Fremont Street/Downtown</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2101 Texas Star Lane</Address1>
+    <Address2 />
+    <Address3 />
+    <City>North Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89032</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 631 1000</Tel>
+    <Fax>+1 702 367 6138</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>200</CountRooms>
+    <Latitude>36.197376</Latitude>
+    <Longitude>-115.191377</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Front_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2214</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2206</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10384</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1948</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Front2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11590</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Front2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2048</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11163</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2033</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14024</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2572</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Dining2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14131</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Dining2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2331</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13375</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2225</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9514</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1778</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10396</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1805</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11862</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2248</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15031</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2471</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Bar2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13099</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Bar2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2450</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Bowling.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11126</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Bowling.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2160</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203489-Casino.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14258</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203489-Casino.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2562</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Texas Station Gambling Hall &amp; Hotel is a 3-star property promising cosy accommodation and great facilities, north of the centre. Highlights include a swimming pool and cinema. Located in North Las Vegas, the hotel is a fantastic base from which to explore the city. Guests can experience some of the more famous casinos, along with the Smith Center for the Performing Arts and the Fremont Street Experience. There are also plenty of shopping opportunities at the nearby Fashion Show Mall. The hotel occupies a modern property with a Texan-inspired interior. Facilities include an indoor swimming pool, fitness centre, cinema, bowling alley, arcade and kids play area. The casino boasts slots, table games and video poker. Free Wi-Fi is available throughout the premises. Austins Steakhouse offers USDA prime steaks in a signature marinade and is cooked over mesquite charcoal. The Texas Star Oyster Bar offers delicious seafood such as shucked oysters and authentic New Orleans gumbo. The bar serves a range of hot and cold beverages. Deluxe rooms are 33sqm and tastefully designed, featuring a bright and cheery decor. Amenities include pay-per-view movies, air conditioning and an en-suite bathroom with shower. Free parking is possible onsite. The hotel provides 24-hour room service. ***Please note that there is a mandatory resort fee payable directly to the hotel upon arrival at the rate of 12.99 USD excluding tax per room, per night. The fee covers wired and wireless internet use, the availability of several activities and access to many of the hotel's facilities.***</Text>
+  </Description>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>121584</Id>
+  <Name>Riviera Hotel and Casino</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2901 LAS VEGAS BLVD SOUTH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State />
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>7027345110</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>36.135258</Latitude>
+    <Longitude>-115.159705</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-Exterior2IS_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3471</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-Exterior2IS_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1936</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-room0004.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8206</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-room0004.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1927</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-ShowIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11263</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-ShowIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2255</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-InteriorIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8761</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-InteriorIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2007</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-room00006.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7943</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-room00006.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1916</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-show3IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10940</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-show3IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2347</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-restaurantIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11983</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-restaurantIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2079</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-room00003.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6358</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-room00003.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1773</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-RoomIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7539</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-RoomIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1838</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-room00002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9050</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-room00002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2072</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-room00008.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8060</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-room00008.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1938</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-checkinIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9760</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-checkinIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2199</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-room00001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8551</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-room00001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1898</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-room00007.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8105</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-room00007.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1981</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-swimmingpoolIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10931</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-swimmingpoolIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2197</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-ExteriorIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12949</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-ExteriorIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2311</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-room0005.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6205</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-room0005.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1730</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-SHow2IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11102</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-SHow2IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2146</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214633-Exterior2IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8672</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214633-Exterior2IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1864</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Riviera Hotel &amp; Casino is a 3-star property offering spacious accommodation on the prestigious Las Vegas Strip. Highlights include a casino, a swimming pool, a pool hall, multiple dining options and several theatres. The hotel sits in the heart of the city on Las Vegas Boulevard South. Its prime location offers easy access to the lights, attractions and casinos of the city. The Las Vegas Convention Centre is nearby, plus the main airport is just a short distance south. The hotel occupies a 23-story tower, distinctive in the colourful strip by its glass reflective panels and the collage like decorations on its facade. The hotel has a popular casino onsite, offering over 9,000sqm of table games and slot machines. There is also an outdoor swimming pool, a pool hall, a beauty salon and a gym. The hotel offers a wide array of affordable dining options to cater for all tastes, ranging from a food court and poolside cafe to a steakhouse. Late night dining is offered in the 24-hour pub and a varied buffet option is served in The Riv Buffet. The hotel also boasts an impressive line-up of evening entertainment shows, including live concerts and comedy shows. Classic rooms are a spacious 40sqm and decorated in a contemporary style. Amenities include a 32-inch flat-screen TV, a security safe, a radio, ironing amenities and a hairdryer. Other onsite services include a florist, a tattoo studio and a wedding chapel.
+***Please note that there is a mandatory resort fee payable directly to the hotel upon arrival at the rate of 11 USD inclusive of tax per room per night. The resort fee includes free Wi-Fi, free access to the Achilles Fitness Centre, free unlimited local and 800 calls, free access to the Riviera Tennis Courts and pool, free parking, free towel service at the Oasis Pool Complex, free Le Bistro late night entertainment, 50% off drinks at Le Bistro Bar valid on first round of drinks, free enrollment in Club Rivera Players Club and a special 2 for 1 offer for the Confession of a Rock Star by Pat DiNizio and Comedy Club Tickets.***</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hairdresser</Code>
+    <Text>Hairdresser</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Theatre</Code>
+    <Text>Theatre</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Casino</Code>
+    <Text>Casino</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Garage</Code>
+    <Text>Garage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FreshWaterPool</Code>
+    <Text>Fresh Water Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HeatedPool</Code>
+    <Text>Heated Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SunLounge</Code>
+    <Text>SunLounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>53</Rank>
+</HotelElement>

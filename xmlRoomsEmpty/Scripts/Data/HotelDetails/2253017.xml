@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2253017</Id>
+  <Name>My Hotel CMYK at Ratchada</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>225/4 Pracharajbumpen Soi. 5</Address1>
+    <Address2>Ratchadapisek Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>+66(0)2 692 8899</Tel>
+    <Fax>+66(0)2 692 8898</Fax>
+    <Email>gso@my.co.th</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.779042</Latitude>
+    <Longitude>100.575859</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-facility1.jpg</Url>
+    <Width>200</Width>
+    <Height>120</Height>
+    <Bytes>7295</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>116</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3009</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-general1.jpg</Url>
+    <Width>200</Width>
+    <Height>120</Height>
+    <Bytes>6052</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>116</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2668</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-general2.jpg</Url>
+    <Width>338</Width>
+    <Height>200</Height>
+    <Bytes>18533</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-general2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-general2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>118</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2935</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-logo.gif</Url>
+    <Width>210</Width>
+    <Height>112</Height>
+    <Bytes>3321</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>131</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2347</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>120</Height>
+    <Bytes>5459</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>116</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2495</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>120</Height>
+    <Bytes>5301</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>116</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2483</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>120</Height>
+    <Bytes>4927</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-room3</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>116</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2408</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>120</Height>
+    <Bytes>5079</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-room4</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>116</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2395</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room5.jpg</Url>
+    <Width>200</Width>
+    <Height>120</Height>
+    <Bytes>4396</Bytes>
+    <Caption>my_hotel_cmyk_at_ratchada-room5</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/11/11/00/62/my_hotel_cmyk_at_ratchada-room5thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>116</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2209</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

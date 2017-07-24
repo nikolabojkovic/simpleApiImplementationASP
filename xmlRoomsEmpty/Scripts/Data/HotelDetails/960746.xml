@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>960746</Id>
+  <Name>Radisson Whittier</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>7320 Greenleaf Avenue</Address1>
+    <Address2>Whittier, California</Address2>
+    <Address3 />
+    <City>Whittier-Ca</City>
+    <State />
+    <Zip>90602</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 562 945 8511</Tel>
+    <Fax>+1 562 945 6018</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>33.9747554</Latitude>
+    <Longitude>-118.0371468</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 3 star hotel is located in the city centre of Whittier-Ca.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>202349</Id>
+  <Name>New Otani</Name>
+  <Region>
+    <Id>21624</Id>
+    <Name>Downtown</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>NEW OTANI</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LOS ANGELES</City>
+    <State>CALIFORNIA</State>
+    <Zip>90012</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>12136291200</Tel>
+    <Fax>12136220980</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <CountFloors>0</CountFloors>
+    <CheckInTime>12:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>34.051123</Latitude>
+    <Longitude>-118.2425738</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/8/27047-map.gif</Url>
+    <Width>239</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/27047thumb-map.gif</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2720</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

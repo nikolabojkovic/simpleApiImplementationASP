@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4729991</Id>
+  <Name>Bookers</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hostel</Type>
+  <Address>
+    <Address1>HIGH HOLBORN 52-54</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>WC1V6RL</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>2074061803</Tel>
+    <Fax>2074061801</Fax>
+    <Email>GROUPS@HOSTELBOOKERS.COM</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>51.5182629</Latitude>
+    <Longitude>-0.1150064</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

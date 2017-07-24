@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>184008</Id>
+  <Name>Holiday Inn Express Kennedy Airport</Name>
+  <Region>
+    <Id>21685</Id>
+    <Name>John. F. Kennedy Int'l Airport (JFK)</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>153-70 South Conduit Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Jamaica (NY) 11434</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-718-9773100</Tel>
+    <Fax>1-718-9776100</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.6660632</Latitude>
+    <Longitude>-73.784509</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/184008_939550.jpg</Url>
+    <Width>500</Width>
+    <Height>354</Height>
+    <Bytes>33042</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/184008_939550_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2276</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/184008_1260755.jpg</Url>
+    <Width>500</Width>
+    <Height>333</Height>
+    <Bytes>31479</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/184008_1260755_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2456</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/184008_1260760.jpg</Url>
+    <Width>500</Width>
+    <Height>333</Height>
+    <Bytes>28602</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/184008_1260760_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2437</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/184008_1260769.jpg</Url>
+    <Width>500</Width>
+    <Height>309</Height>
+    <Bytes>32493</Bytes>
+    <Caption>Business Center</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/184008_1260769_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>113</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2762</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Holiday Inn Express Kennedy Airport completed renovations in Jan 2008 and is situated approximately 12 miles from New York City, eight miles from LaGuardia Airport, and less than a half-mile from John F. Kennedy International Airport, with a complimentary shuttle available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• MANHATTAN/NYC
+• YANKERR STADIUM
+• Long Island
+• Brooklyn
+• Local Restaurants
+• JAMAICA STATION SUPTHIN BLVD E TRAIN
+• JAMAICA STATION SUPTHIN BLVD E TRAIN
+• FLUSHING QUEENS NY
+• Jacob Javits Convention Center
+• NYC/Manhattan
+• GREEN ACRES MALL
+• Aqueduct Raceway
+• BELMONT PARK
+• Citi Field Shea Stadium</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Holiday Inn Express JFK Airport hotel offers 129 guest rooms. Guestrooms feature complimentary wireless Internet access and flat-panel TVs with premium channels. Beds have signature Holiday Inn bedding. Phones come with voice mail. All rooms have coffee/tea makers. A complimentary newspaper is delivered to guestrooms weekday mornings.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>Starting From:John F. Kennedy
+Shuttles depart from the hotel to JFK at the top of every hour. Shuttles depart from JFK Airport to the hotel every 15 minutes from Station C - Federal Circle stop on the Air Train.
+Starting From:JAMAICA STATION SUPTHIN BLVD E TRAIN
+Free shuttle to the Air Train Station at Kennedy Airport from the hotel every hour on the hour. Then take the Air Train ($5) to the subway ($2) to Manhattan and other areas.
+Starting From:JAMAICA STATION SUPTHIN BLVD E TRAIN
+Cost of subway $2 into Manhattan. Long Island Railroad only 3 miles/$9 into Manhattan. Rates vary to Long Island.
+Starting From:Laguardia
+Van Wyck Expwy to S. Belt Parkway exit 20. Stay on service road, hotel on right 1/2 mile.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Local resturant and in room delivery menu</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>24HourFrontDesk</Code>
+    <Text>24 Hour Front Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

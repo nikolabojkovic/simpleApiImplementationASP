@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>122275</Id>
+  <Name>Swissotel The Drake</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>440 PARK AVENUE &amp; 56TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10022</Zip>
+    <Country>USA</Country>
+    <Tel>212 421 0900</Tel>
+    <Fax>212 371 4190</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>387</CountRooms>
+    <CountFloors>21</CountFloors>
+    <CountSuites>198</CountSuites>
+    <Latitude>40.7609137</Latitude>
+    <Longitude>-73.9711761</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1001/13056room1.jpg</Url>
+    <Width>258</Width>
+    <Height>320</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/13056room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>56</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1736</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1001/13056hotel1.jpg</Url>
+    <Width>231</Width>
+    <Height>320</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/13056hotel1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>50</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1871</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This hotel is located in the city centre of New York.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

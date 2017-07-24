@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7166278</Id>
+  <Name>Tune Hotel Paddington</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>41-47 Praed Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W2 1NR</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+207 258 3140</Tel>
+    <Fax>+207 258 3149</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>51.5183052</Latitude>
+    <Longitude>-0.1707135</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296791-main00001_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3684</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296791-main00001_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2043</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296791-main00001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9087</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296791-main00001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1958</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296791-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6709</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296791-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1825</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296791-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5639</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296791-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1659</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1296791-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6429</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1296791-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1842</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nA leading global city.\nClose proximity to major attractions\nPrime location\nSite of the 2012 Summer Olympics.\nLocation\nLocated in the heart of London\nLocal Attractions\nClose to local attractions such as Hyde Park\nFamily friendly attractions such as London Zoo\nHistoric attractions such as Natural History Museum\nServices\n24 hr front desk service\n24-hour security service\nElevators\nAccommodations\nAir conditioning\n137 guestrooms\nInternet access (surcharge)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Prime location and superior treatment await you at  Tune Hotel Paddington</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

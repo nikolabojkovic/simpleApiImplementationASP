@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>121737</Id>
+  <Name>Marriott Residence Inn Lax - Manhattan Beach</Name>
+  <Region>
+    <Id>21625</Id>
+    <Name>Santa Monica - Beach Cities</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>1700 NORTH SEPULVEDA BLVD.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>MANHATTAN BEACH</City>
+    <State />
+    <Zip>90266</Zip>
+    <Country>USA</Country>
+    <Tel>310 421 3100</Tel>
+    <Fax>310 421 3102</Fax>
+    <Email>balcala@sunstonehotels.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>33.890321</Latitude>
+    <Longitude>-118.395852</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-pool2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8262</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-pool2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1875</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-cafe2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9633</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-cafe2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2201</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13057</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2252</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6912</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1703</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-studiosuite.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8502</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-studiosuite.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1861</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7108</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1880</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-meeting2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8781</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-meeting2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2089</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12456</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2246</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-frontdesk.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7109</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-frontdesk.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1762</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9011</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1818</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1039017-front_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2080</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1039017-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2073</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>This is a non-smoking hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>A cosy townhouse-style hotel convenient for access to the beach, airport and all L.A. attractions. Facilities include a 24-hour check-out service, lift access and a newspaper kiosk. There is also a breakfast room and Internet access along with laundry services for an added fee. Complimentary parking is available for those arriving by car.</Text>
+  </Description>
+  <Amenity>
+    <Code>Whirlpool</Code>
+    <Text>Whirlpool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kitchen</Code>
+    <Text>Kitchen</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HeatedPool</Code>
+    <Text>Heated Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

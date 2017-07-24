@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9748797</Id>
+  <Name>GM Serviced Apartment</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>47 Sukhumvit Road, Sukhumvit 20</Address1>
+    <Address2>Klongtoey</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>66 (02) 262 2400</Tel>
+    <Fax>66 (02) 261 2018</Fax>
+    <Email>info@gm-servicedapartment.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9041</Bytes>
+    <Caption>gm_serviced_apartment-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2346</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8304</Bytes>
+    <Caption>gm_serviced_apartment-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2130</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6845</Bytes>
+    <Caption>gm_serviced_apartment-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1963</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-overview1.jpg</Url>
+    <Width>195</Width>
+    <Height>300</Height>
+    <Bytes>13307</Bytes>
+    <Caption>gm_serviced_apartment-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>45</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1537</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-logo.jpg</Url>
+    <Width>277</Width>
+    <Height>92</Height>
+    <Bytes>4928</Bytes>
+    <Caption>gm_serviced_apartment-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-logothumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>210</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3338</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6880</Bytes>
+    <Caption>gm_serviced_apartment-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1114/WS/MA/12/10/10/01/39/gm_serviced_apartment-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2062</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A unique blend of contemporary design, GM Serviced Apartment is located at Sukhumvit Soi 20, the GM Serviced Apartment Buildingcitys busiest commercial, shopping and business hub also a short walking distance from Asoke BTS and Metro train stations.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

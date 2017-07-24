@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7284615</Id>
+  <Name>Sivatel Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>53 Wittayu Road Lumpini</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10330</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2 309 5000</Tel>
+    <Fax>+66 2 309 5050</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.744617</Latitude>
+    <Longitude>100.548152</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3830</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2105</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11692</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2188</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9398</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2104</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-dining1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13601</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-dining1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2344</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-dining3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9530</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-dining3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2150</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8811</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2085</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9027</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1963</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9833</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1999</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7343</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1839</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11745</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2062</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-pool1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13451</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-pool1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2352</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6191</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1688</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8435</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2066</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8011</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1954</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6417</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1763</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-spa1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11777</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-spa1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2088</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-spa2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8770</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-spa2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2011</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1264172-spa3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10035</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1264172-spa3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1843</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n4.5 star accommodations\nGreat combination for business and pleasure\nPrime location\nLocation\nLocated in the heart of Downtown\nRecreation\nFully equipped fitness center\nOutdoor swimming pool\nRelaxing full service spa\nRestaurants &amp; Lounges\nOnsite restaurant\nOnsite cocktail bar\nServices\n24 hour room service\nMeeting Facilities\nFully equipped business center\nMultiple conference/meeting rooms\nAccommodations\nWireless internet access\nFlat Screen TV\nCable/satellite channels\nAir conditioning\n75 guestrooms\nCoffee/tea maker\nMinibar\nPolicies\nPlease be advised there is a fee for late departures.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Prime location and phenomenal service are combined at the Sivatel Bangkok making it your perfect home away from home</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

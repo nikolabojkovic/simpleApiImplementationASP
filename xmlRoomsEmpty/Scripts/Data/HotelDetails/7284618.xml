@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7284618</Id>
+  <Name>Narry Nana Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>155/22 Sukhumvit Road; Soi 11/1</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10500</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2 254 9184</Tel>
+    <Fax>+66 2 250 4525</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>13.740873</Latitude>
+    <Longitude>100.556796</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1277154-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4296</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1277154-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2333</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1277154-lounge1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9254</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1277154-lounge1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2179</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1277154-lounge2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13287</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1277154-lounge2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2298</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1277154-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11714</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1277154-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2243</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1277154-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11987</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1277154-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2229</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nA shoppers' paradise.\nA unique culture experience\nClose proximity to shopping district\nLocation\nLocated in the heart of Bangkok\nLocal Attractions\nClose to local attractions such as Floating Market\nFamily friendly attractions such as Chinatown\nHistoric attractions such as Wat Pho\nRestaurants &amp; Lounges\nOnsite restaurant\nOnsite cocktail bar\nServices\nFree Wifi\nRoom service\nElevators\nMeeting Facilities\nMultiple conference/meeting rooms\nAccommodations\n52 guestrooms\nBalcony/Terrace\nFlat Screen TV\nElectronic Safe\nCoffee/tea maker\nMinibar</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A great place to launch your fabulous vacation; the Narry Nana Bangkok provides guests with the ultimate experience</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

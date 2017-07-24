@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>79453</Id>
+  <Name>Hyatt Regency</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>DEIRA,  P.O. BOX 5588</Address1>
+    <Address2 />
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-2091234</Tel>
+    <Fax>971-4-2091235</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>25.279141</Latitude>
+    <Longitude>55.304081</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Suite_1.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>16093</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2097</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Restaurant_1.jpg</Url>
+    <Width>282</Width>
+    <Height>360</Height>
+    <Bytes>26762</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2406</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>270</Width>
+    <Height>271</Height>
+    <Bytes>17357</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2578</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Meeting_Room_1.jpg</Url>
+    <Width>270</Width>
+    <Height>338</Height>
+    <Bytes>23807</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2479</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Spa_1.jpg</Url>
+    <Width>338</Width>
+    <Height>259</Height>
+    <Bytes>24524</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2650</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Swimming_Pool_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>13448</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1563</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Exterior_1.jpg</Url>
+    <Width>357</Width>
+    <Height>270</Height>
+    <Bytes>23404</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2289</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>15557</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2006</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>19117</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2433</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>162</Height>
+    <Bytes>14840</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2328</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Restaurant_3.jpg</Url>
+    <Width>270</Width>
+    <Height>342</Height>
+    <Bytes>25311</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2673</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>276</Height>
+    <Bytes>27416</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2384</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23800</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2521</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>11056</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1620</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Guest_Room_2.jpg</Url>
+    <Width>300</Width>
+    <Height>270</Height>
+    <Bytes>12190</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>19352</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2303</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>273</Height>
+    <Bytes>24709</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2747</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>21214</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2283</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Exterior_2.jpg</Url>
+    <Width>254</Width>
+    <Height>360</Height>
+    <Bytes>33035</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2521</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Bar_Lounge_1.jpg</Url>
+    <Width>270</Width>
+    <Height>360</Height>
+    <Bytes>19787</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2286</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Suite_4.jpg</Url>
+    <Width>360</Width>
+    <Height>296</Height>
+    <Bytes>19907</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2100</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-HYAhotel_Exterior_3.jpg</Url>
+    <Width>235</Width>
+    <Height>360</Height>
+    <Bytes>20489</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-HYAhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2126</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel has a fitness centre and spa with sauna, steam bath, Jacuzzi, and plunge pool, an outdoor swimming pool, squash courts, tennis courts and a jogging track. In addition, the hotel has an ice rink, a 9-hole golf course and a cinema complex. The hotel has good night life and offers a karaoke lounge, a bar with live music and a discotheque, which is one of Dubai's hottest nightspot. This hotel is very well known in Dubai and a popular choice for all. (TM07.08)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Dubais newly refurbished deluxe hotel is situated in Deira, only a few minutes drive away from Dubais famous Gold Souk.  Dubai International Airport is 7 km by car, and the hotel location ensures that guests have easy access to Dubai Creek, with its range of shops, hotels and restaurants, and Jumeirah via the tunnel underneath the creek.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Hotel have 124 total connecting Gulf View Rooms (62 sets) and 9 sets for Regency Club Rooms</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is an extremely large, modern building finished light grey stone. There is a large car park to the front of the impressive entrance.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has several restaurant outlets, including Dubai's only revolving restaurant, which offers classic international dining. The hotel also offers five other dining outlets, as well as numerous outlets in the Galleria Shopping Centre attached to the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is large and able to accommodate group check-ins. Natural daylight streams in from two sides, creating a warm and welcoming first impression of the hotel. There is a seating area serving refreshments, and the design is a mixture of contemporary and modern.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>42</Rank>
+</HotelElement>

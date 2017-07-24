@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>720315</Id>
+  <Name>Vdara Hotel &amp; Spa</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2600 West Harmon Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89158</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1702 590 2111</Tel>
+    <Fax>+ 1866 745 7767</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>36.1092406</Latitude>
+    <Longitude>-115.1784884</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>15660</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1967</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>210</Height>
+    <Bytes>21274</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2430</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>224</Height>
+    <Bytes>18426</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2229</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>195</Height>
+    <Bytes>14147</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2038</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>13888</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1981</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>221</Height>
+    <Bytes>15819</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2074</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>17694</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2183</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>128</Height>
+    <Bytes>11379</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2405</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>15817</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1888</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>201</Height>
+    <Bytes>13793</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1985</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Spa_2.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>12704</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Spa_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1866</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Other_1.jpg</Url>
+    <Width>276</Width>
+    <Height>360</Height>
+    <Bytes>15747</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2032</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Exterior_1.jpg</Url>
+    <Width>266</Width>
+    <Height>360</Height>
+    <Bytes>25626</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1999</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>199</Height>
+    <Bytes>15418</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2203</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>246</Height>
+    <Bytes>21044</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2167</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-VDA2hotel_Other_2.png</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>4771</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-VDA2hotel_Other_2_thumb.png</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>946</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Vdara is a chic hotel with a sophisticated international flair that appeals to guests who love the energy and excitement of Las Vegas, but choose to enjoy it from an exclusive, non-gaming environment. Vdara offers contemporary interior spaces with the very latest modern amenities and services, a rooftop pool and lounge and a wellness spa, all in a sophisticated atmosphere. Hotel amenities include a 24-hour concierge service, state-of-the-art conference and meeting facilities for groups up to 400, in room dining, a Gourmet Grocer, housekeeping and valet parking. Vdara will present its guests with services and amenities that foster warmth, intimacy and a sense of familiar pleasures. Characterized by open floor plans and horizontal windows, the sumptuous rooms and suites deliver expansive views of the city and mountains. Accommodations are luxurious and intricately designed with one of three opulent and neutral color schemes. Vdara allows you to balance the energy of Las Vegas with an exclusive non-gaming environment like no other on earth.
+The luxury Vdara Hotel &amp; Spa offers a menu that focuses on holistic health, providing skincare services, body treatments, and traditional and specialty massages such as the Naturopathica French Lavender Soothing Massage.Treatments involve the use of natural ingredients derived from herbs, flowers, fruits, vegetables, and oils. Couples services are available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in the City Center right in the middle of the strip and connected to the Bellagio Hotel and Casino. The hotel is half a mile from the iconic roller coaster at New York New York and one mile from the Forum Shops.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Fashioned by some of the industry's top interior designers, the suites at Vdara are a well-appointed blend of modern sophistication and elegant styling surrounded by the latest high-tech amenities. Every comfort has been provided; plush pillows, luxury linens, spacious bathrooms, gourmet kitchens, expansive views of the surrounding mountains, CityCenter or The Strip. For the most discerning guest, our seductive boutique hotel is as comfortable as it is stylish. Rates include In-suite internet access, Two (2) bottles of water per room per day, Local and 800 number phone calls, Access to the Vdara Fitness Center, Daily newspaper available at the Front Desk and Nightly Turn-Down Service upon request.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>At 57 stories high, Vdara's bold silhouette makes it the tallest residence at CityCenter, as well as one of the most striking features of the Las Vegas skyline. A truly original structure, this unparalleled environment will be ideal for those who want to fine-tune their Las Vegas experience, achieving the ideal balance of access and escape</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Bar Vdara, this glowing jewel box, in the center of Vdara, radiates sophistication and surprise. Inspired by nature, this is the perfect setting for light-fare or a late-night cocktail. Whimsical touches, like outdoor swings, light-enhancing sculptural screens and a curved reflecting pool add to the inviting, luxurious and playful nature of the space. Guests and visitors alike are bound to find new and interesting surprises inside and out.
+Market Cafe Vdara - A "grab-and-go" food and beverage outlet with freshly made food or groceries. Open for breakfast and lunch.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

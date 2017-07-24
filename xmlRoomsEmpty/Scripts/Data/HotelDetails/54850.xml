@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>54850</Id>
+  <Name>Premier Inn Tower Hill Hotel (Formerly Purple)</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>22 TO 24 PRESCOT STREET LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>ENGLAND E1 8BB</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-870-4236498</Tel>
+    <Fax>44-870-4236499</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5114318</Latitude>
+    <Longitude>-0.0717285</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SLE1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>265</Height>
+    <Bytes>25152</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SLE1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2134</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SLE1hotel_Entrance_1.jpg</Url>
+    <Width>357</Width>
+    <Height>270</Height>
+    <Bytes>20964</Bytes>
+    <Caption>Entrance</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SLE1hotel_Entrance_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2228</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SLE1hotel_Reception_1.jpg</Url>
+    <Width>360</Width>
+    <Height>258</Height>
+    <Bytes>19884</Bytes>
+    <Caption>Reception</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SLE1hotel_Reception_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2165</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SLE1hotel_Bedroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>250</Height>
+    <Bytes>24108</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SLE1hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1962</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SLE1hotel_Bedroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>256</Height>
+    <Bytes>21646</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SLE1hotel_Bedroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2009</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SLE1hotel_Breakfast_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>247</Height>
+    <Bytes>22994</Bytes>
+    <Caption>Breakfast Room</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-SLE1hotel_Breakfast_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2503</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is an excellent new brand for choice hotels, of very good standard throughout and in a great location. Recommended. (04/07 LP)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>It is located in popular tower hill, where historical attractions such as tower bridge and the tower of London, 4 minutes walk from the tube station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms are large in size and in excellent conditions. All have been designed in a modern and very functional way, with warm pastel colour schemes and very comfortable beds. All the bathrooms are medium in size and in excellent condition, with the vast majority being shower only.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a modern converted building which used to be an office block. It is pleasant and in keeping with the surrounding area.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel offers a breakfast rooms in the basement floor, designed also in a very modern and comfortable style. On the ground floor a nice coffee bar offers the very best Italian cappuccinos and coffees together with sandwiches and all day snacks.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is large in size and is very modern and pleasant. a very comfortable seating area has been designed on one side of the lobby while on the other the modern coffee bar takes central position with chairs and tables to enjoy a drink or a snack.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

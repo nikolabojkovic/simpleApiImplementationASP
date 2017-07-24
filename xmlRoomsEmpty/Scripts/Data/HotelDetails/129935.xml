@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129935</Id>
+  <Name>Fitzpatrick Grand Central</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>141 East 44th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10017</Zip>
+    <Country>USA</Country>
+    <Tel>+1 212 351 6800</Tel>
+    <Fax>+1 212 818 1747</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>155</CountRooms>
+    <Latitude>40.7524926</Latitude>
+    <Longitude>-73.9744938</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Grand-Central-Front-1[1]_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>5261</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Grand-Central-Front-1[1]_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2553</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Grand-Central-Lounge-1%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11329</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Grand-Central-Lounge-1%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2184</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Ksuite2-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5958</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Ksuite2-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1606</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Lobby2-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7618</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Lobby2-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1854</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Meeting-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8071</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Meeting-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1900</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Exterior-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10702</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Exterior-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2232</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Ksuite1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7493</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Ksuite1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1796</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Bath-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8401</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Bath-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1910</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Suite1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5790</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Suite1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1557</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Bedroom3-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5795</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Bedroom3-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1513</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Meeting1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8605</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Meeting1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2059</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Bar-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9835</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Bar-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2135</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Bedroom1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7063</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Bedroom1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1752</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Bedroom4-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6040</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Bedroom4-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1549</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Bedroom-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6533</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Bedroom-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1699</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Grand-Central-Front-2%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13066</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Grand-Central-Front-2%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2257</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Lobby-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8949</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Lobby-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1876</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Grand-Central-Front-1%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14906</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Grand-Central-Front-1%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2423</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Grand-Central-Room-1%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10673</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Grand-Central-Room-1%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1837</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Grand-Central-Room-4%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11960</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Grand-Central-Room-4%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2203</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Ksuite-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7274</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Ksuite-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1716</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Lobby1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11439</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Lobby1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2322</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Suite-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7814</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Suite-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1714</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Bar1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10126</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Bar1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2071</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel7631-Bedroom2-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6382</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel7631-Bedroom2-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1701</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located at 141 East 44th Street in Manhattan, the Fitzpatrick Grand Central is a perfect base to explore the sights and attractions of the city that never sleeps. A centerpiece of the Fitzpatrick Grand Central Hotel is the Wheeltapper Pub, a quaint old-world Irish pub with a railroad theme.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Empire State Building.
+• Statue Of Liberty.
+• Apollo Theater.
+• Battery Park.
+• Carnegie Hall.
+• Madison Square Garden.
+• New York Public Library.
+• New York Stock Exchange.
+• NY Vietnam Veterans Memorial.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The elegant Fitzpatrick Grand Central Hotel offers deluxe accommodations and a full array of amenities and services for business and leisure travelers, in the heart of midtown Manhattan, just around the corner from the world's most famous station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Shopping Mall.
+• Restaurant.
+• Fitness Center.
+• pub.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>All Major credit cards are accepted.
+Check-In: 3:00 Pm.
+Checkout: 12:00 Pm.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

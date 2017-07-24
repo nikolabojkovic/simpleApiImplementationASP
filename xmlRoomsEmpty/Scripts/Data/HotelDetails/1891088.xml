@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1891088</Id>
+  <Name>Maranton House Hotel</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>14 Barkston Gardens</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW5 0EN</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 207 2244405</Tel>
+    <Fax>+44 20 7224 4002</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>15</CountRooms>
+    <Latitude>51.4925303</Latitude>
+    <Longitude>-0.1907701</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel17475-marantonhouse-front_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>3139</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel17475-marantonhouse-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3125</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel17475-marantonhouse-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15662</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel17475-marantonhouse-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2560</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From Heathrow Airport: take the Piccadilly Line to Earl's Court Station. The hotel is within walking distance of this station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This family-run boutique hotel is situated in a lovely garden square and offers a total of 16 beautifully designed rooms. The city hotel was built around 1900 in the traditional London terrace style, and retains much of its original charm. The hotel has a breakfast room.</Text>
+  </Description>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

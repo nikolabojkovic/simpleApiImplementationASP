@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250884</Id>
+  <Name>JL Bangkok</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>5 Soi Ramkhamhaeng 23</Address1>
+    <Address2>Ramkhamhaeng Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2369 - 2407 - 9</Tel>
+    <Fax>(66) 2369 - 2410</Fax>
+    <Email>sales@jlbangkok.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.754475</Latitude>
+    <Longitude>100.61142</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8357</Bytes>
+    <Caption>jl_bangkok-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2272</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11501</Bytes>
+    <Caption>jl_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2758</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-overview1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7152</Bytes>
+    <Caption>jl_bangkok-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2125</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>4925</Bytes>
+    <Caption>jl_bangkok-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2042</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6334</Bytes>
+    <Caption>jl_bangkok-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1942</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7622</Bytes>
+    <Caption>jl_bangkok-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/10/10/07/51/jl_bangkok-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2001</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>JL Bangkok is located in the vibrant area of Ramkhamhaeng Road where you will find convenient access to Sukhumvit, Rama 9, and Suvannabhumi Airport. We offer 52 rooms in two styles</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

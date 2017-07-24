@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1920830</Id>
+  <Name>World Trade Centre Residence</Name>
+  <Region>
+    <Id>9043418</Id>
+    <Name>Sheikh Zayed Road / Downtown</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>P O Box 116555</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip />
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 511 0000</Tel>
+    <Fax>+971 4 511 1000</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>25.227499</Latitude>
+    <Longitude>55.288407</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231622-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3493</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231622-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2057</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Luxury accommodations and superior service welcome you at the World Trade Centre Residence</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

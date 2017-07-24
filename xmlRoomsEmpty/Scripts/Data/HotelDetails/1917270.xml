@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1917270</Id>
+  <Name>Farmers Daughter Hotel</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>115 S Fairfax Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles</City>
+    <State>California</State>
+    <Zip>90036</Zip>
+    <Country>USA</Country>
+    <Tel>+ 323 937 3930</Tel>
+    <Fax>+ 323 932 1608</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>66</CountRooms>
+    <Latitude>34.0737433</Latitude>
+    <Longitude>-118.3614142</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1222359-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2365</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1222359-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2350</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1222359-dinign.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12940</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1222359-dinign.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2272</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1222359-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8733</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1222359-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2128</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1222359-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6113</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1222359-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1570</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1222359-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6341</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1222359-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1617</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1222359-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7934</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1222359-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1897</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nBoutique hotel accommodations\nClose proximity to art district\nClose proximity to business district\nClose proximity to shopping district\nClose proximity to major attractions\nLocation\nCentrally located across from the Farmers Market, the Grove &amp; CBS Studios\nLocal Attractions\nHollywood Walk of Fame - 2.8 miles\nUniversal Studios - 4.4 miles\nRecreation\nOutdoor swimming pool\nRestaurants &amp; Lounges\nNearby restaurant\nServices\n24 hr Concierge to meet all your needs\n24 hr front desk service\nBusiness services available at front desk\nElevators\nAccess to offsite fitness facility\nMeeting Facilities\nFully equipped business center\nBanquet facilities\nAccommodations\n3 floors\n66 guestrooms\nModern guest rooms\nComfortable rooms\nParking\nValet parking\nParking fee: $18.70/Day</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Close to major attractions and city excitement; we invite you to be our guest</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Icemachine</Code>
+    <Text>Ice Machine</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Tours</Code>
+    <Text>Tours</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

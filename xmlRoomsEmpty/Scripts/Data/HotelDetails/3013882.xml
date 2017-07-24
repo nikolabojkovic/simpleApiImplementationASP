@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3013882</Id>
+  <Name>Rodeway Inn &amp; Suites</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3327 N. DEL MAR AVE.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Rosemead</City>
+    <State />
+    <Zip>91770</Zip>
+    <Country>USA</Country>
+    <Tel>8774246423</Tel>
+    <Fax />
+    <Email>ihelp@choicehotels.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>34.0688157</Latitude>
+    <Longitude>-118.0997134</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/14/44/40/144440-GEN-1.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>15358</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/44/40/144440-GEN-1thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2377</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/44/40/144440-GEN-3.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>12377</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/44/40/144440-GEN-3thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2077</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/44/40/144440-HAB-2.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>15806</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/44/40/144440-HAB-2thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2330</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

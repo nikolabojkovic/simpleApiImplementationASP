@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>58970</Id>
+  <Name>Manhattan Club Suites</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>200 WEST 56TH STREET NEW YORK</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NY 10019</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-212-4538855</Tel>
+    <Fax>1-212-4538005</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>40.764624</Latitude>
+    <Longitude>-73.981426</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>39435</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2682</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>31406</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2713</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>35269</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2793</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>27640</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2505</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>29279</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2581</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>38329</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3017</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>27339</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2485</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>25748</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2502</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>26807</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2388</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-MAN2hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>43074</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-MAN2hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3092</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Manhattan Club offers spacious accommodations in the core of New York, N.Y. Only blocks from Carnegie Hall, Central Park and the lights of Broadway, Manhattan's iconic attractions and subway access are just beyond the hotel's side entrance bringing the entirety of New York City to the doorstep.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Carnegie Hall – 0.5 block
+• Broadway Theater District – 1 block
+• Central Park – 2 blocks
+• Rockefeller Center – 8 blocks
+• Madison Square Garden – 8 blocks</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>There are 265 guest suites at this 13-story high-rise, all are accessible via interior corridors and elevators. Accommodations at The Manhattan Club offer premium cable channels, multi-line phones, and kitchenettes with microwaves, refrigerators, and coffee/tea makers. Bathrooms contain bathrobes, hair dryers, and a scale. Courtyard and city views are available.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Manhattan Club's beautifully restored neoclassical limestone façade boldly fronts 56th street, as the hotel's 25 stories tower above. Valet and bellhop services tend to the belongings of arriving guests. Inside, the elegant lobby features rich wood-paneling and gleaming marble.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Restaurant / Bar.
+• Fitness Center.
+• Beauty Saloon.
+• Video Games.
+• Shops Nearby.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• Pets not allowed
+• Cash not accepted
+• Check-in time is 4 PM
+• Check-out time is Noon
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>• From LaGuardia International Airport:-
+Take Grand Central Parkway through Midtown Tunnel.Get off on 34th Street and follow to 8th Avenue. Turn right on 8th Avenue and go down to 56th Street. Turn right on 56th Street and continue two blocks.Manhattan Club is located on the right.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Restaurants :-
+• Red Eye Grille.
+• Maristella.
+• Gallagher.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

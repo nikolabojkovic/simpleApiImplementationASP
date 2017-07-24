@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>62234</Id>
+  <Name>Westin Lake</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>101 MONTELAGO BLVD Henderson</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas 89011</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-702-5671234</Tel>
+    <Fax>1-702-5676067</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>36.113933</Latitude>
+    <Longitude>-114.923133</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-HYAhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>259</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-HYAhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The European-style casino features two-story windows opening to an outdoor terrace offering sweeping views of the lake and surrounding mountains. The resort offers premier championship golf. A fitness center is also available and is fully equipped. State of the art spa facilities are available on-site. There are a variety of supervised daytime and evening camp activities for children ages 3 to 12. There is a shuttle that runs to/from the Strip four times daily. The ride takes approximately 45 minutes. (0606/CH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is situated on the shores of Lake Las Vegas, 17 miles (a thirty minute drive)  from the famed Las Vegas Strip.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All guest rooms are Mediterranean-themed and have hand-painted armoires and headboards imported from Morocco. Spacious 390-sq.-ft. rooms offering a choice of one king or two double beds, separate work area, wireless Internet access, refrigerator and Portico bath products. Some rooms with Juliet balconies.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This destination resort is designed in the open-air style of the Mediterranean. There are multiple courtyards, a Moroccan-style palace garden, lavish pool decks and an open-air pavilion and lawn area.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>A cafe serves breakfast, lunch and dinner in a relaxed setting, both indoors and out. One restaurant overlooks the lake and offers fine dining with an Asian flair. Other eateries include a coffee bar, a bar and grill located poolside,  a lobby lounge, and a private dining room. 24 hour room service is also available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is medium-sized with windows that accent the Jack Nicklaus-designed golf course and lake. Adjoining to the lobby is the Arabesquere Lounge which has outside access to the spectacular views.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

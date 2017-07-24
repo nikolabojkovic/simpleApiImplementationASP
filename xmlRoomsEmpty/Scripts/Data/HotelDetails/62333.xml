@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>62333</Id>
+  <Name>The Mirage Hotel and Casino</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3400 SOUTH LAS VEGAS BLVD.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State>NV</State>
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>1-702-7917111</Tel>
+    <Fax>1-702-7917414</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>36.121681</Latitude>
+    <Longitude>-115.175721</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Lobby_1.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>15006</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2071</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20422</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2303</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>19294</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2246</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>17718</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1917</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>17146</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2177</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22961</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2592</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>27519</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2301</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26937</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2782</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>259</Height>
+    <Bytes>20202</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1937</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MIRhotel_Swimming_Pool_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>27417</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MIRhotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2497</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Mirage is a South Seas oasis, offering the serenity of the tropics and the excitement of Las Vegas. A fiery volcano welcomes you to this AAA Four Diamond resort.
+Elegant surroundings, attention to detail and dedicated employees create a memorable experience whether your stay is for business or pleasure, or a little of both. Fine dining, legendary entertainment and the unique jungle sanctuary for rare exotic animals complement the amenities of a luxurious Spa and Salon, dramatic lagoon pool, full service business center, and eclectic array of designer shops.
+The volcano has been a Las Vegas signature attraction for many years mesmerizing spectators with its thunderous fiery display. The iconic Strip-front feature has undergone a redesign. The new volcano dazzles with a water explosion shooting three times higher than the previous effect, while rivers of fiery lava work their way down the mountain's cracks and the volcano comes to life with a series of spectacular dancing flames.
+This complete resort offers a unique blend of luxurious accommodations, gaming and entertainment. The property has more than 100,000 square feet of gaming area, an outdoor tropical pool environment that includes two pools, three spas surrounded by waterfalls, lush foliage, private cabanas and an outdoor cafe. 
+Entertainment by day or night will leave any guest with great memories. Several pools are surrounded in lush tropical environs; including the adult alternative Bare Pool with exclusive access and VIP service. Cirque du Soleil's "LOVE" production is a jaw-dropping re-creation of classic Beatles songs in a multi-million dollar custom theater. America's Got Talent Winner Terry Fator, the hotel's resident mpressionist/comedian/singer/ventriloquist, is one man with spot-on impersonations.
+On-site is Siegfried &amp; Roy's extraordinary Secret Garden &amp; Dolphin Habitat, a climate-controlled "mini-zoo" for many of the famed duo's beloved animals.
+The Mirage offers a spa and the saloon with new amenities, enhanced services, and a large retail presence</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This legendary hotel stands in the heart of the Las Vegas Strip, with tropical surroundings.The newly renovated Mirage Hotel and Casino boasts an indoor rainforest, a dolphin habitat, and one of the most famous spectacles in Las Vegas-an erupting volcano.The entrance of the hotel is home to a lagoon with waterfalls and a 54-foot high volcano that spews smoke and fire 100 feet above the water once an hour nightly.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The Mirage's guest rooms feature rich hues and imported fabrics in a refined atmosphere of sophisticated comfort. Many are available with breathtaking views of the tropical pool, majestic mountains or Las Vegas Strip.
+These smartly redesigned rooms feature stylish comfort complemented with ultra-modern amenities and chic upgrades. Each room has been revamped to provide the perfect retreat for relaxation. Simple lines with an ergonomic design are detailed to give it a high-touch feel, providing you with a comfortable space to make yourself at home. Warm woods lining each room are accentuated with a boldly modern color scheme and well appointed fabrics.For superior sleep comfort, Sealy  Posturepedic pillow-top beds are a standard feature in each of our remixed rooms, accompanied by 42" LCD TVs, and iHome  MP3 player docks to enjoy your own favorite playlist. A cordless phone is standard for your convenience, along with many more amenities that are reflective of today's lifestyle. It's your own private oasis at The Mirage.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This Polynesian-themed hotel consists of three 30-storey wings clad in gold-coated glass, set in tropical surroundings, with a lagoon-style pool, a coconut-grove garden, grottos, waterfalls and a 54-foot erupting volcano in front. The volcano has been Las Vegas's signature attraction ever since the resort opened in 1989.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel offers a selection of the finest cuisine from around the world. There are several fine dining restaurants, as well as casual dining, including a pizza kitchen, Hong Kong,style Chinese cuisine, a buffet restaurant, a few cafes serving sandwiches and snacks and a New York,style deli.
+Japonais - Fine-dining restaurant serving contemporary Japanese cuisine. Dinner only. 
+Stack - Contemporary American restaurant designed to resemble a canyon. "Stacked" wood sides and black ceiling with theatrical lights. Dinner only. 
+Fin - Contemporary Chinese dishes tempered with an eclectic blend of international cuisinesLunch and dinner.
+Kokomo's - Prime steaks and chops, fresh seafood and giant lobster tails are some of the delights awaiting you at kokomo's. Enjoy dining in a tropical rainforest, surrounded by waterfalls and a sparkling interior lagoon.Dinner only. 
+Samba Brazilian Steakhouse - Brazilian-style service of unlimited portions of marinated meats, poultry, and seafood, as well as a la carte items. Dinner only. 
+Onda Ristorante &amp; Wine Lounge - Classic Italian cuisine with contemporary refinements. Dinner only.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The hotel features a breathtaking front desk area with a 20,000-gallon saltwater aquarium that houses 90 species of tropical fish, including leopard, white and black tip sharks, puffer fish and surgeon fish.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>61</Rank>
+</HotelElement>

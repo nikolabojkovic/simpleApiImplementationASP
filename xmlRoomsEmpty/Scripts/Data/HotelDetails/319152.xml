@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>319152</Id>
+  <Name>Coral Al Khoory Hotel Apartments</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>Al Barsha; Sheikh Zayed Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>6237</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 323777</Tel>
+    <Fax>+971 4 3237000</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <CountRooms>144</CountRooms>
+    <Latitude>25.112648</Latitude>
+    <Longitude>55.193285</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214580-photo-not-available-small.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>727</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214580-photo-not-available-small.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>727</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This fantastic apartment hotel offers a range of spacious serviced apartments. It has 144 units in total, spread across 6 floors. Amenities include air conditioning, a lobby, 24-hour reception service, hotel safe, currency exchange facilities and lift access. A restaurant, conference facilities and room and laundry services also feature. The trendy lobby lounges and coffee shops are favourites amongst guests and locals alike. A car park is provided for guests arriving by car. There is also a nightclub on site.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

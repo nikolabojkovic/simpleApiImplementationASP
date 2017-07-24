@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>61598</Id>
+  <Name>Doubletree By Hilton Downtown Los Angeles</Name>
+  <Region>
+    <Id>21624</Id>
+    <Name>Downtown</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>120 SOUTH LOS ANGELES ST</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Los Angeles 90012</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-213-6291200</Tel>
+    <Fax>1-213-6220980</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>34.050357</Latitude>
+    <Longitude>-118.242931</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>221</Height>
+    <Bytes>15048</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2267</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Guest_Room_2.jpg</Url>
+    <Width>243</Width>
+    <Height>360</Height>
+    <Bytes>13832</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2095</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>223</Height>
+    <Bytes>15735</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2154</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Meeting_Room_1.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>30331</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2654</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>44686</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3116</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>262</Height>
+    <Bytes>23309</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2333</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Lobby_1.jpg</Url>
+    <Width>219</Width>
+    <Height>360</Height>
+    <Bytes>15913</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2027</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22975</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2410</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>25295</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2490</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>33489</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2681</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>26763</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2127</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>27229</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2675</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Other_4.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>30690</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Other_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2547</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Other_5.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>16301</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Other_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1624</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>35876</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2762</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>20878</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2175</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>27088</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3133</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20880</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2746</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Guest_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>221</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Guest_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAX-NEWhotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>229</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAX-NEWhotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel is ideally located in the heart of downtown Los Angeles, ideal for  business or leisure travellers. There is a business centre, fitness centre and a health spa. Enjoy shopping and casual dining at the adjacent Weller Court Shopping Centre. NOTE; NON SMOKING PROPERTY. (0507/CH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in downtown Los Angeles close to museums, Little Tokyo,  Chinatown, the financial district and City Hall.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Each of the guestrooms and suites are appointed with distinctive touches of Japan in paintings and decorations. Each guestroom is equipped with a colour television with premium movie channels, wireless high-speed Internet connection, coffee maker, iron, ironing board, hair dryer, voicemail, alarm clock/radio, temperature thermostat and two telephones, and as well as smoke alarm, sprinkler, and emergency speaker for added safety.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a 21-storey high-rise executive hotel in a Japanese style.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>There are three restaurants offering California-American cuisine, Japanese cuisine and Teppanyaki grills and seafood. Two bars are located on-site.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is large, with an abundance of fresh flowers and greenery, slate floor and trellis greenery to bring the outdoor garden inside. This theme continues to the Japanese rooftop garden.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

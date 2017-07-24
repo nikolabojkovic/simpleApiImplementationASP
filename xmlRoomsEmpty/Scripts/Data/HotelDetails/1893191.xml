@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1893191</Id>
+  <Name>Staunton Hotel</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>13-15 Gower St</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>WC1 6HE</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 207 2244405</Tel>
+    <Fax>+44 20 7224 4002</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>20</CountRooms>
+    <Latitude>51.5201752</Latitude>
+    <Longitude>-0.1303004</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230438-photo-not-available-small.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>1454</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230438-photo-not-available-small.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1454</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230438-ExteriorSH1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7662</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230438-ExteriorSH1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2093</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230438-ExteriorSH2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12345</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230438-ExteriorSH2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2269</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230438-ExteriorSH3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9922</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230438-ExteriorSH3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2198</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230438-LobbySH1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6942</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230438-LobbySH1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1746</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230438-LoungeSH1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6944</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230438-LoungeSH1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1762</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230438-GuestroomSH1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7723</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230438-GuestroomSH1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1797</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230438-GuestroomSH2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6653</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230438-GuestroomSH2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1716</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This beautiful Grade II listed Georgian town house, with 17 en suite guest rooms, boasts an atmosphere more reminiscent of a welcoming club. The luxurious decor and warm atmosphere provide a haven of tranquillity and a 'home away from home' in historic Bloomsbury. Facilities include a 24-hour reception, breakfast room, conference facilities, and room and laundry services.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

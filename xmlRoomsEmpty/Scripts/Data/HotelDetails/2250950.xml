@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250950</Id>
+  <Name>Praya Palazzo</Name>
+  <Region>
+    <Id>2297624</Id>
+    <Name>Riverside</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>757/1 Somdej Prapinklao Soi 2</Address1>
+    <Address2>Bangyeekan</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2883 - 2998</Tel>
+    <Fax>(66) 2883 - 1855</Fax>
+    <Email>info@prayapalazzo.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.766105</Latitude>
+    <Longitude>100.493671</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/14/37/13/143713-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>13669</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/37/13/143713-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2049</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/37/13/143713-GEN-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>15550</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/37/13/143713-GEN-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2157</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/37/13/143713-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>12043</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/37/13/143713-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2233</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/37/13/143713-HAB-4.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>12928</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/37/13/143713-HAB-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2224</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The hotel provides 24-Hour front desk.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This is a stylish 17-room mansion with a rich historical background to offer a unique experience for discerning travellers. The breathtaking Palladio riverside mansion brings back the sense and lifestyle of the King Rama V period, conveying authentic Thai culture through vision, taste, scent, rhyme and touch. Individual travellers will experience outstanding service, great personalised care and an eye for fine details. In addition to a lobby area with 24-hour reception and check-out services and a hotel safe, facilities available to guests at this renovated air-conditioned design hotel include a restaurant, conference facilities, wired and wireless Internet access and room service. Guests can take advantage of the hotel laundry service for a fee.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

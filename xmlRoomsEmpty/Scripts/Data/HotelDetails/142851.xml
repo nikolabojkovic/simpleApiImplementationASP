@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>142851</Id>
+  <Name>Sathorn Villa</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>481 South Sathorn Road, Sathorn</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10120</Zip>
+    <Country>Thailand</Country>
+    <Tel />
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>96</CountRooms>
+    <Latitude>13.717988</Latitude>
+    <Longitude>100.515461</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18774-sathornfront.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2519</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18774-sathornfront_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2504</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18774-sathornfront.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12648</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18774-sathornfront.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2189</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18774-sathornpool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15443</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18774-sathornpool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2271</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18774-sathornroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15969</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18774-sathornroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1767</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Sathorn Villa is large enough to provide excellent facilities and small enough to enjoy a relaxed, private atmosphere. In total there are 96 tastefully furnished and fully serviced apartments, and one and two bedroom suites are available. Accommodation is</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Sathorn Villa is large enough to provide excellent facilities and small enough to enjoy a relaxed, private atmosphere. In total there are 96 tastefully furnished and fully serviced apartments, and one and two bedroom suites are available</Text>
+  </Description>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2079611</Id>
+  <Name>Covent Garden London</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>10 Monmouth Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>WC2H 9HB</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>20-78061000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountFloors>1</CountFloors>
+    <Latitude>51.5143992</Latitude>
+    <Longitude>-0.1270274</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/75/31/4/75314-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8160</Bytes>
+    <Caption>75314-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/31/4/75314-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1941</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/75/31/4/75314-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7558</Bytes>
+    <Caption>75314-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/31/4/75314-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1748</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/75/31/4/75314-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7734</Bytes>
+    <Caption>75314-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/31/4/75314-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1747</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/75/31/4/75314-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6368</Bytes>
+    <Caption>75314-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/31/4/75314-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1596</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/75/31/4/75314-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>9826</Bytes>
+    <Caption>75314-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/75/31/4/75314-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2161</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Covent Garden London is a Tourist hotel. Located in City Centre - Covent Garden area. and the nightlife/restaurants are easily accessible by taxi or bus from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Covent Garden Hotel is directly in the center of Londons theater district, only a short walk to Soho and the Royal Opera house. Given its proximity to the entertainment and media community, accommodating features have been added to the hotel. The recent addition of a 54-seat state-of-the-art screening room is available for film companies and advertising agencies to impress clients while seated in Italian leather chairs. There are even future plans for a film club to view pre-releases and cult classics.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

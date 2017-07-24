@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250610</Id>
+  <Name>New Fuji</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>299 - 301 Surawongse Road</Address1>
+    <Address2>Bangkok</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2234 - 5364 - 6</Tel>
+    <Fax>(66) 2233 - 8274</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.725784</Latitude>
+    <Longitude>100.518444</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/90/new_fuji-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10232</Bytes>
+    <Caption>new_fuji-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/90/new_fuji-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2713</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/90/new_fuji-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>3453</Bytes>
+    <Caption>new_fuji-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/90/new_fuji-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1626</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/90/new_fuji-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7585</Bytes>
+    <Caption>new_fuji-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/90/new_fuji-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2110</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/05/11/00/02/90/new_fuji-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7025</Bytes>
+    <Caption>new_fuji-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/05/11/00/02/90/new_fuji-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1981</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>A small friendly superb value hotel with 70 rooms fully furnished offering comforts of a home and convenience of a hotel. Ideal for short and long stay arrangements.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

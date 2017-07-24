@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>122350</Id>
+  <Name>Hilton Garden Inn Times Square</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>790 8TH AVENUE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10019</Zip>
+    <Country>USA</Country>
+    <Tel>2125817000</Tel>
+    <Fax>212 29740291</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>367</CountRooms>
+    <CountFloors>15</CountFloors>
+    <Latitude>40.7612755</Latitude>
+    <Longitude>-73.9866077</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HILChotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HILChotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HILChotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HILChotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HILChotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HILChotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HILChotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HILChotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-HILChotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>220</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-HILChotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>We are consistently ranked in the Top 20 hotels in New York City on Trip Advisor's popularity index and has larger guestrooms than any other Hilton Garden Inn in Manhattan over 300 square feet per guest room. With the best Times Square location and offering an abundance of complimentary amenities Hilton Garden Inn Times Square hotel is perfectly designed for business or leisure guests and will ensure your stay in the Big Apple is affordable fun and hassle-free. Spacious newly appointed guestrooms with 32-inch LCD flat panel televisions refrigerator microwave safe coffee maker and large work desks with adjustable lighting and ergonomic chairs. Complimentary high-speed wired and wireless Internet access is available in each guestroom featuring secure remote printing directly to our hotel's business center. Complimentary 24-hour Fitness Center complimentary 24-hour Business Center and complimentary wireless Internet access in the lobby. Complimentary morning coffee tea and USA Today. Pigalle Brasserie a 1950's Paris style cafe offers breakfast lunch dinner and evening room service. Pavilion Pantry convenience mart is stocked with snacks drinks and more. Nearby Big Apple Attractions - Other Things to Do In New York City In the heart of Times Square steps from Broadway theaters Central Park Carnegie Hall Radio City Music Hall - Rockefeller Center. Best Big Apple attractions are at your door. Explore all that Manhattan has to offer with our NYC Sightseeing Package or enjoy family fun at Build-A-Bear Workshop. New York City's best shopping including Fifth - Madison Avenue Saks Fifth Avenue Macy*s and Bloomingdales - all within walking distance. Minutes from famous museums.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Hilton Garden Inn Times Square hotel is perfectly located in the heart of bustling Midtown and is within walking distance to New York's best attractions including Broadway theatres Times Square Central Park Carnegie Hall Lincoln Center lively nightlife Rockefeller Center and a multitude of museums.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Tea - Coffee Service - Complimentary morning coffee - tea available daily. Pigalle Restaurant - Pigalle Restaurant is an authentic 1950's Paris Cafe in the heart of New York's Theater District. You'll be seduced by the elegant charm and quiet ambience that invokes Paris and all its delights. You'll enjoy French/American cuisine that promises to in. Pigalle Bar - Pigalle's bar/lounge is the perfect spot to wind down after a long day or get your evening started. In-Room Dining - In room dining 500pm to 900pm daily. Room service only available for these evening hours. Highbar - A chic rooftop lounge with sweeping views of sunsets over the Hudson River.</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

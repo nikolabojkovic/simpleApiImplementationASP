@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>143893</Id>
+  <Name>Rolla Residence</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>Al Rolla Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>126</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+97143760999 / 3592000</Tel>
+    <Fax>+97143592111</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>25.257049</Latitude>
+    <Longitude>55.29287</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041212-Rolla-Residence-Front_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3478</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041212-Rolla-Residence-Front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1995</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041212-Rolla-Residence-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8562</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041212-Rolla-Residence-Front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1920</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041212-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6525</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041212-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1795</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041212-fcoffee%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7158</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041212-fcoffee%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1823</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1041212-fitness.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7002</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1041212-fitness.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1985</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nAccessible to many local attractions\nAffordable accommodations\nBeautiful views and exceptional service\nLocation\nShopping area is just minutes away\nConveniently located in Dubai\nLocal Attractions\nCity entertainment in close proximity\nRecreation\nFully equipped fitness center\nOutdoor swimming pool\nRestaurants &amp; Lounges\nFull service bar/lounge\nOnsite restaurant\nServices\n24 hour room service\nBusiness services available at front desk\nConcierge services\nShuttle service is available\ncar rental services available\nElevators\nAccommodations\n126 guestrooms\nClassic accommodations\n</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Those seeking home away from home accommodations  with every comfort provided  need look no further Walk to major attractions and shopping venues as a guest of Rolla Residence</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeShop</Code>
+    <Text>Coffee shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

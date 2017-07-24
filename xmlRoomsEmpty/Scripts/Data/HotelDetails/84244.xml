@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>84244</Id>
+  <Name>Dar Al Masyaf</Name>
+  <Region>
+    <Id>9043419</Id>
+    <Name>Jumeirah / Marina / Palm</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Resorts</Type>
+  <Address>
+    <Address1>MADINAT JUMEIRAH PO BOX 75157</Address1>
+    <Address2 />
+    <Address3 />
+    <City>JUMEIRAH DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-3668888</Tel>
+    <Fax>971-4-3666629</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>25.131347</Latitude>
+    <Longitude>55.183339</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-DAR2hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>17962</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/JUME-DAR2hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2054</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-DAR2hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>263</Height>
+    <Bytes>15220</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/7/JUME-DAR2hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2310</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-DAR2hotel_Gym_1.jpg</Url>
+    <Width>345</Width>
+    <Height>270</Height>
+    <Bytes>16834</Bytes>
+    <Caption>Gym</Caption>
+    <ThumbnailUrl>/RXLImages/7/JUME-DAR2hotel_Gym_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2501</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-DAR2hotel_Conference_facilities_1.jpg</Url>
+    <Width>357</Width>
+    <Height>270</Height>
+    <Bytes>15090</Bytes>
+    <Caption>Conference facilities</Caption>
+    <ThumbnailUrl>/RXLImages/7/JUME-DAR2hotel_Conference_facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2402</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Madinat Jumeirah is unique as being the only multi purpose resort in Dubai and being the newest hotel in Jumeriah means that it is among the most fashionable.  Madinat is split into thress areas, however even though the resort is large, each one of the hotels leaves the guest with a feeling of relaxation and tranquility in the most luxurious of surroudings.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Situated in the heart of Jumeirah beside the Jumeirah Beach Hotel and Burj Al Arab hotel.  The new Emirates Mall is a short drive away and Dubai city centre is approximately 30 kms drive. Unlike other hotels in Jumeirah, the Madinat is not close any construction work that may be taking place.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>In keeping the striking architecture of the Madinat Resort each of the rooms offers a romantic Arabic decor with beautiful wooden furniture.  Each of the rooms  is luxuriously appointed with the latest modern amenities and being a new hotel all the rooms are in immaculate condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Madinat Jumeirah is unique in Dubai as it is a Arabain resort with striking Arabian architecture.  Dar Al Masyaf offers traditional Arabic styled villas dotted along the canals whilst Al Qasr and Mina A'Salem are like royal palaces with their grand facades.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>With over 20 restaurants to choose from the guests may literally dine around the world with the cusines on offer.  The service and standard of the cuisines reflect the five star image of the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Since it is a villa, there is a small reception with a seating area servicing only a couple of rooms. Whilst it is a Gulf Villa all the rooms overlook the resort and not the ocean.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

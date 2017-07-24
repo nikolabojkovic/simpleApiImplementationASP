@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9016162</Id>
+  <Name>Jw Marriott Marquis</Name>
+  <Region>
+    <Id>9043418</Id>
+    <Name>Sheikh Zayed Road / Downtown</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>SHEIKH ZAYED ROAD, BUSINESS BAY</Address1>
+    <Address2>Burj Khalifa</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>121000</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 9714-4140000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>804</CountRooms>
+    <CountFloors>72</CountFloors>
+    <CheckInTime>15:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/91/11/15/911115-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6633</Bytes>
+    <Caption>911115-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/11/15/911115-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1537</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/11/15/911115-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8245</Bytes>
+    <Caption>911115-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/11/15/911115-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1980</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/11/15/911115-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7236</Bytes>
+    <Caption>911115-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/11/15/911115-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2021</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/11/15/911115-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7893</Bytes>
+    <Caption>911115-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/11/15/911115-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1913</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/11/15/911115-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>9369</Bytes>
+    <Caption>911115-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/11/15/911115-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2155</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The JW MARRIOTT MARQUIS is a Tourist hotel. Located in Sheikh Zayed Road area. Shopping is accessible by bus/taxi and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>A landmark in the making. Dubai is a city of awe-inspiring ambition and unsurpassed luxury, home to the world's tallest building, the largest shopping mall, the iconic Palm and now the JW Marriott Marquis Hotel Dubai. It is a place where dreams come true. Opening in Q4 2012, this landmark hotel is set to become one of the region's most desirable destinations, offering a spectrum of business facilities for the most discerning of travellers. It is a brand synonymous with intuitive service and refined taste, a title given only to the finest properties in the Marriott portfolio. Elevated above Dubai's business district, on Sheikh Zayed Road, the JW Marriott Marquis Dubai resides in the Business Bay area. Spread across two iconic towers, the hotel features exceptional event and business facilities, an enticing array of bars and restaurants and the sublime Saray Spa and Health Club.</Text>
+  </Description>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

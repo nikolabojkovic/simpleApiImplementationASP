@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1655546</Id>
+  <Name>Quality Maitrise Maida Vale</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>53-59 Kilburn High Road, Maida Vale</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>NW6 5SB</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-207-6258532</Tel>
+    <Fax>44-207-6258536</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5364183</Latitude>
+    <Longitude>-0.1920263</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-QUABhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>257</Height>
+    <Bytes>23960</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-QUABhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2380</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-QUABhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>257</Height>
+    <Bytes>17712</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-QUABhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2090</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-QUABhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>257</Height>
+    <Bytes>12581</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-QUABhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1759</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-QUABhotel_Meeting_Room_1.jpg</Url>
+    <Width>257</Width>
+    <Height>360</Height>
+    <Bytes>17184</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-QUABhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1795</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Its position makes it ideal for business users and travellers who want to visit the capital. And it's only minutes away from the London underground, giving you access to anywhere in and around London. This 4-star hotel combines beautiful contemporary architecture with stylish comforts, including free Wi-Fi and elegant rooms. (0210AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>hotel is conveniently situated close an underground station, and only a short taxi ride from mainline central London train stations. It is well serviced by buses travelling to and from central London. Kilburn Park Underground Station (Bakerloo Line) is a 2-minute walk away, 7 minutes away by underground from Paddington, 12 minutes from Oxford Circus and Notting Hill, 10 minutes away from Wembley Stadium.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms are modern, comfortable and stylish with air-conditioning; featuring flat-screen LCD TV, iPod docking station, Minibar and a safe with enough space for a laptop. Our bathroom have designer rain shower and designer fittings. In all the rooms which have been creatively furnished with the very best in designer materials you will find the extra following amenities and services: Free Wi-Fi internet access, TV with pay per view channels, Tea and coffee making facilities, Hairdryer, Egyptian cotton bed sheets, Oxford pillow cases, Orthopaedic mattress, Hypo-allergenic duvet and pillows, Designer power shower, Heated towel rail, Quality Elsyl toiletries, Steam free bathroom mirror, Luggage rack and storage and a Full length dressing mirror.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>London Town House Building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Rafkins Restaurant and Bar serves sumptuous Asian and British classic cuisine, the perfect place to seat back and relax with our specially created cocktails.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A small lobby with a seating area which leads you onto the Bar and Restaurant.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

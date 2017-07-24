@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129516</Id>
+  <Name>Desert Rose Resort</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>5051 Duke Ellington Way</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89119</Zip>
+    <Country>USA</Country>
+    <Tel>17027397000</Tel>
+    <Fax>17027399350</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>278</CountRooms>
+    <Latitude>36.097955</Latitude>
+    <Longitude>-115.167425</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Front2.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2466</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Front2_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2461</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Front2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11366</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Front2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2161</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Breakfast-Atrium.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11878</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Breakfast-Atrium.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2156</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Concierge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9532</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Concierge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2002</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10577</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2179</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9788</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2023</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Poolside.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11419</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Poolside.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2165</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-HotTub.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10033</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-HotTub.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2072</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-LivingRoom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7858</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-LivingRoom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1815</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Kitchen.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8761</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Kitchen.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1973</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7313</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1732</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10462-Room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8224</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10462-Room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1854</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Information:The Desert Rose Resort is the ideal place to relax between visits to the Las Vegas Strip or after a long day of business meetings. Convenient to McCarran Airport, the Las Vegas Strip and both the Sand's and Las Vegas Convention Center-the Desert Rose Resort offers spacious one and two bedroom suite accomodations with the amenities you expect from your own home. Value, Hospitality and Location-we offer it all!Location:Nestled between the Tropicana Resort and Hooter's Hotel and Casino on Duke Ellington Way-the Desert Rose Resort is close enough to the action but far from the congestion!Area:Desert Rose Resort has easy access to all the shows, shops, restaurants, casinos, clubs and the excitement that Las Vegas has to offer. Recreation:Our lovely outdoor swimming pool and jacuzzi welcome families, weekenders and business traveler's alike; making the Desert Rose a perfect choice no matter the reason for your Las Vegas trip. Upgraded Continental BreakfastMonday - Friday 6AM-9AMSaturday - Sunday 7AM-10AMFeatures upgraded assorted fresh pastries delivered daily, assorted breads, yogurt, cereal, juices and coffee and tea.Manager's ReceptionMonday - Thursday 5PM-7PMFeatures beer, wine and assorted snacksRooms:The Desert Rose Resort’s 278 one and two bedroom suites offer a wide variety of amenities including satellite TV, personal safe deposit box,international direct phone, individual climate control and hair dryer. Seperate living and sleeping areas with Sofa Sleeper in all suites and fully stocked kitchen area-perfect for family dinners or after hour entertaining.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Begin your day with a complimentary continental breakfast &amp; end your evening Monday through Thursday with a Manager's Reception offering free wine, beer and snacks-the Desert Rose Resort provides warmth and hospitality just steps from the Las Vegas Strip.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

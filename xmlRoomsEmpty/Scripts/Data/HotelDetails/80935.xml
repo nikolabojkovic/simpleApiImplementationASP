@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>80935</Id>
+  <Name>Al Jawhara Gardens Hotel</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>DEIRA CITY CENTER AREA P O BOX 121711</Address1>
+    <Address2 />
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971 4 2107777</Tel>
+    <Fax>971 4 2944557</Fax>
+    <Email>sales@aljawharahotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>25.214032</Latitude>
+    <Longitude>55.371339</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ALJhotel_Exterior_1.gif</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>14583</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-ALJhotel_Exterior_1_thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1745</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ALJhotel_Lobby_1.gif</Url>
+    <Width>360</Width>
+    <Height>234</Height>
+    <Bytes>19043</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-ALJhotel_Lobby_1_thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2204</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ALJhotel_Restaurant_1.gif</Url>
+    <Width>360</Width>
+    <Height>242</Height>
+    <Bytes>21991</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-ALJhotel_Restaurant_1_thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2266</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is a good hotel, with a city-based location very near to the airport. The hotel is suited to cater for both business and leisure guests, and has proven popular with guests travelling as a family. Additional features include a female beauty salon, a business center, laundry and dry-cleaning services, and a swimming pool with two health clubs, two saunas and a steam room. As this is a family-focused hotel, no alcohol is served in the hotel, and guests are not allowed to bring their own alcohol into their rooms. At the same time, the hotel does not allow unregistered visitors in the room at any time. (SD 04.08)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Al Jawhara Gardens hotel is located in Deira, very close to Dubai's entertainment and business districts. Dubai International Airport is less than 1 kilometer drive away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The medium-sized rooms are spacious and elegantly appointed, with modern furniture and fittings. All expected amenities can be found in the rooms, as the extra step has been taken to assure a comfortable stay. Bathrooms are average in size and well-maintained.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The building is modern.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel has two restaurants, one 24-hour restaurant offering international cuisine and the other an Emirates fine dining restaurant. Room service is available to guests 24 hours a day.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The medium-sized lobby is bright and elegantly decorated, with marble flooring and traditional furniture. The reception is found on the right of the entrance and adequate seating is available to arriving guests.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

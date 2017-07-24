@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>960728</Id>
+  <Name>London West Hollywood</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1020 North San Vicente Blvd</Address1>
+    <Address2>West Hollywood, California</Address2>
+    <Address3 />
+    <City>West Hollywood-Ca</City>
+    <State />
+    <Zip>90069</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 310 854 1111</Tel>
+    <Fax>+1 310 358 7712</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>34.089808</Latitude>
+    <Longitude>-118.385367</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/14/02/85/140285-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>158</Height>
+    <Bytes>7995</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/02/85/140285-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>141</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2621</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/02/85/140285-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>188</Height>
+    <Bytes>9617</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/02/85/140285-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>119</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2334</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/02/85/140285-HAB-3.jpg</Url>
+    <Width>320</Width>
+    <Height>238</Height>
+    <Bytes>13310</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/02/85/140285-HAB-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>94</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2297</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/02/85/140285-PIS-4.jpg</Url>
+    <Width>320</Width>
+    <Height>272</Height>
+    <Bytes>20215</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/02/85/140285-PIS-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>82</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2364</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Iconic Hollywood glamour mixes with modern sophistication and intuitive service with the transformation of the Bel Age hotel into The London West Hollywood. This famed location on the legendary Sunset Strip has undergone a complete re-articulation by the bold team of international tastemakers responsible for a stylish sister, The London NYC. Distinctively imagined for LA, interiors are by the renowned David Collins Studio, dining by chef Gordon Ramsay, and bath environments by posh purveyor Waterworks.
+Timeless style, attuned service, open floor plan suites for business and pleasure, smashing food and drink, a rooftop pool with panoramic views and all the personal amenities one could desire, The London's sunny sophisticated style offers an eclectic and personal lifestyle experience. The London West Hollywood will be both your 'all-access' threshold to the LA social and entertainment scene as well as your soothing haven from the pulse.
+
+Facility Includes :
+- Valet parking only: $32/night (fee subject to change)
+- Daily access to The Breakfast Table, a complimentary selection of morning delicacies and coffees 
+- Private terrace 
+- Signature luxe bathrobes 
+- Complimentary in-suite high-speed Internet access, including wireless 
+- Keurig coffeemaker and select coffee blends 
+- iHome docking stations for iPods 
+- Two multi-line speaker phones and voice mail (with complimentary phone calls to London, England) 
+- Iron with ironing board and also a hair dryer 
+- Flat-screen LCD televisions 
+- In-suite safe 
+- Pets allowed: Small dogs up to 20 lbs; $100 cleaning fee (fee subject to change)
+- Rooftop Pool
+- Fitness facilities, both indoor and outdoor
+- Alex Roldan Salon 
+- Boxwood Cafe
+- Gordon Ramsay at the London
+- Business Center
+- Concierge</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- No triple or quad occupancy available.
+- Unless notified prior to, or at check-in, a one-night penalty will apply to departures that occur earlier than the date specified on the original reservation.
+- Rates are inclusive of resort fee.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

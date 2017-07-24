@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53632</Id>
+  <Name>Kensington House</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>15-16 PRINCE OF WALES TERRACE LONDON W8 5PQ</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-79372345</Tel>
+    <Fax>44-20-73686700</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5012164</Latitude>
+    <Longitude>-0.1864318</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-KENEhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>260</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-KENEhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-KENEhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>265</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-KENEhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel opened in early 2000 and has gained an excellent reputation for both service and quality. (01/09 VM)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located just off Kensington High Street in a quiet residential street. Kensington Palace, the Albert Memorial and the Albert Hall are all within easy walking distance of the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The bedrooms vary in size from small to medium and are bright and airy, with large windows. All of the furniture and soft furnishings are of an excellent standard. Rooms are equipped with flat screen Tvs with the choice of 37 channels tto choose from.  The bathrooms vary greatly in size and shape. Some are shower only.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The building consists of two converted 19th century town houses with a white stucco facade kept in excellent condition.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The 'Tiger Bar' offers a limited range of modern cuisine in informal surroundings. During the evening, the bar becomes more lively and is open to non residents.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The small lobby is to the right of the main entrance and is furnished in a contemporary style, with limited casual seating available. Further seating is available in the 'Tiger Bar' to the left of reception.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

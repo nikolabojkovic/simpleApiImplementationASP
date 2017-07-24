@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>60011</Id>
+  <Name>New York New York</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3790 LAS VEGAS BLVD SOUTH LAS VEGAS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NV 89109</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-702.740.6969</Tel>
+    <Fax>1-702-7406700</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>36.1017046</Latitude>
+    <Longitude>-115.1738354</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>31238</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2862</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>287</Height>
+    <Bytes>31658</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2922</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>18077</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2087</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Bar_Lounge_1.jpg</Url>
+    <Width>233</Width>
+    <Height>360</Height>
+    <Bytes>33706</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3130</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Bar_Lounge_2.jpg</Url>
+    <Width>242</Width>
+    <Height>360</Height>
+    <Bytes>28767</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2865</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Recreational_Facilities_1.jpg</Url>
+    <Width>360</Width>
+    <Height>287</Height>
+    <Bytes>57613</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Recreational_Facilities_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>4653</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>37013</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3622</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Exterior_2.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>33780</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2862</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Swimming_Pool_1.jpg</Url>
+    <Width>259</Width>
+    <Height>360</Height>
+    <Bytes>45575</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3399</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>288</Height>
+    <Bytes>24313</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2568</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Bar_Lounge_4.jpg</Url>
+    <Width>360</Width>
+    <Height>305</Height>
+    <Bytes>42823</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3395</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Recreational_Facilities_2.jpg</Url>
+    <Width>246</Width>
+    <Height>360</Height>
+    <Bytes>40628</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Recreational_Facilities_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3479</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>260</Height>
+    <Bytes>32561</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2869</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-NEWhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>279</Height>
+    <Bytes>30097</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-NEWhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2888</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The facade at New York-New York is based on Manhattan's skyline. Twelve renowned skyscrapers have been emulated at about one-third of their actual size. They house the resort's 2,024 comfortable rooms and suites. This means you can choose to stay in the Empire State Building, the Chrysler Building or whatever other super tower you adore.
+New York City is known for its entertainment scene -- and New York-New York has followed suit. Although far from Broadway, the Cirque du Soleil production of "Zumanity" is a powerful and provocative theatrical display. Unlike the troupe's typical avant-garde circus performances, this one will take you into an adults-only world where you'll have to leave your inhibitions behind.
+Rounding out the amenities is a spacious casino, a well-equipped fitness center and a pool with cabanas and hot tubs. The Spa at New York-New York offers some quirky yet soothing treatments, such as the Environmental Escape (a super-charged skin cocktail) and the Traffic Stopper (a facial infused with vitamins and oxygen).
+Rooms are housed in different towers, each with a New York-inspired name. The place is so massive and mazelike that finding your way to your room can take a while. There are 64 different layouts for the rooms, which have moved them ever farther from the original Deco-inspired decor to something bland, albeit comfortable, and though the bathrooms are small, they are pleasantly decorated.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>New York New York Hotel &amp; Casino has an excellent location in Las Vegas, right on the famous Las Vegas Strip. Its distinctive facade emulates the New York skyline and the rest of the hotel emulates the excitement of NYNY. The casino at the New York New York Hotel has a rewarding players club and all the table games and slot games you love.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>New York New York Hotel &amp; Casino offers 2,023 guestrooms and suites in 12 New York-style skyscrapers ranging from 30 to 46 stories. Amenities include high-speed Internet access (surcharge), in-room safes, and premium channels.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The facade of this hotel and casino complex recreates the classic Manhattan skyline (in one-third scale), with 12 New York City-styled skyscrapers. A replica of the Empire State Building stands at 529 feet, 47 stories. Other icons include a 150-foot replica of the Statue of Liberty, a Coney Island-style roller coaster called the Manhattan Express #174, a 300-foot replica of the Brooklyn Bridge and a replica of the Soldiers and Sailors Monument.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>New York-New York Hotel and Casino excels with an array of restaurants offering culinary delights that will satisfy even the most discriminating New Yorkers. Themed menus and atmospheres at each restaurant blend the favored elements of New York City with affordable Las Vegas dining.
+Gallagher's Steakhouse - Replica of New York City original dating from 1927. Prime, dry-aged beef and seafood. Independently operated. Open for dinner only. 
+Nine Fine Irishmen - Refined pub serving Irish specialties. Two levels of patio seating with views of the Strip. Irish band and storytelling nightly. Open for lunch and dinner.
+The Sporting House Bar &amp; Grill - Serves a menu of bar food and beers. 130 high-definition televisions broadcast live sporting events. Interactive games.
+America - Casual restaurant serving regional American fare. A map of the U.S. measures 90 x 20 feet. Open 24 hours. 
+Gonzalez y Gonzalez - Mexican restaurant and tequila bar. Outdoor courtyard with lanterns and pi atas. Independently operated. Open for lunch and dinner.
+Chin Chin Cafe &amp; Sushi Bar-offers traditional Chinese food, sushi and pan-Asian specialties in a bright and colorful setting. From within its exhibition kitchens, Chin Chin Cafe &amp; Sushi Bar's chefs can be found preparing exotic dishes.
+Il Fornaio - Branch of chain serving Northern Italian specialties, including wood-fired rotisserie chicken. Independently operated. Open for breakfast, lunch, and dinner.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is large and decorated in an art deco style.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

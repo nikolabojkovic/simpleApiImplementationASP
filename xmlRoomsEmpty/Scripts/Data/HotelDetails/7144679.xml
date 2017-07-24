@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7144679</Id>
+  <Name>Polo Towers Suites</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3745 Las Vegas Boulevard South</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>17022611000</Tel>
+    <Fax>17022611020</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>36.106941</Latitude>
+    <Longitude>-115.172806</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4300</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2200</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13652</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2604</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8596</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1978</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12405</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2116</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7771</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1803</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6092</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1778</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6756</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1707</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8395</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1871</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8260</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1940</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1244113-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8481</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1244113-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1927</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Location\nLocated in the heart of the Las Vegas Strip, this hotel provides guests with a choice of luxurious accommodation units, resort-style amenities and easy access to world-class casinos, spas, shopping, entertainment and attractions. Adventure Dome is 4.1 km from the hotel, Freemont Street is around 11 km away and Sunset Mall is roughly 16 km away.\nFacilities\nAn oasis in the heart of Las Vegas Valley, this family-friendly city hotel is the perfect vantage point for local sightseeing and adventure. The air-conditioned casino resort offers 829 rooms in total and facilities include a lobby with 24-hour reception and check-out services, a hotel safe, games room, wireless Internet access and room service (fees apply). Guests arriving at the club resort by car may leave their vehicle in the car park.\nRooms\nThe Suite Studio features a mini kitchenette (no cooking), a queen-size Murphy bed, and an alarm clock and stereo with iPod docking stations. These accommodation units do not include a dining area. Guest rooms are smoke-free and offer balconies, and DVD and CD players. Kitchen facilities include fridges, microwaves, tea and coffee making facilities and all dining utensils. An en suite bathroom with shower and hairdryer, a direct dial telephone, satellite TV, Internet access, an in-room safe, ironing set and individually regulated air conditioning and heating also feature in all rooms as standard.\nSports/Entertainment\nThe gym is complimentary for owners and exchange guests. There is a heated outdoor swimming pool with children's swimming area, poolside snack bar and sun loungers. Guests may also relax in the hot tub or with a massage (fees apply). The hotel puts on entertainment programmes for children. Bali Hali golf course is just 4 minutes' drive from the hotel, and the course in Henderson is around a 20-minute drive.\nMeals\nA breakfast buffet is served each morning, and guests may select their lunch and dinner from set menus. An in-room food service is available.\nPayment\nMajor credit cards and debit cards with an American Express, MasterCard or VISA symbol are accepted. No cash is accepted.\nMisc.\nThe person checking into the hotel must be at least 18 years of age or older. The same age restrictions apply to use of the gym. This is a non-smoking resort, though smoking is allowed on the balconies of the rooms located on floors six, nine and twelve. Smoking in a non-smoking room will result in a penalty fee as determined by the resort management. The hotel offers daily towel exchange and a mid-week clean is provided for guests staying five or more nights. The front desk requires a deposit for incidentals/credit to be established upon check-in.\nHow to get there\nExit the airport on Swenson Boulevard. Turn left on Tropicana Avenue and take it to Koval Lane. Turn right onto Koval Lane. Go 2 blocks and turn left on Harmon Avenue to the second set of lights. Turn left onto Planet Hollywood Drive then follow around to the hotel. The distance to the resort from here is 5 km.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>LocationLocated in the heart of the Las Vegas Strip; this hotel provides guests with a choice of luxurious accommodation units; resort-style amenities and easy access to world-class casinos; spas; shopping; entertainment and attractions. Adventure Dome is 4.1 km from the hotel; Freemont Street is around 11 km away and Sunset Mall is roughly 16 km away.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

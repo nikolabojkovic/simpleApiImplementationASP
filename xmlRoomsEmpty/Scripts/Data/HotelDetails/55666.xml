@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>55666</Id>
+  <Name>Premier Travel Inn Kings Cross</Name>
+  <Region>
+    <Id>52890</Id>
+    <Name>Kings Cross &amp; Camden</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>26-30 YORK WAY KINGS CROSS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON N1 9AA</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-870-9906414</Tel>
+    <Fax>44-870-9906415</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.53064</Latitude>
+    <Longitude>-0.122781</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-PRE3hotel_Bedroom_1.jpg</Url>
+    <Width>342</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LON-PRE3hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This very modern hotel opened in the middle of 2004 and offers a good standard of accommodation in a very convenient location with easy access to all areas of the city. (0905/MJ)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is conveniently located a minutes walk from Kings Cross mainline and underground (Circle, Hammersmith &amp; City, Metropolitan, Victoria and Piccadilly lines) station. St Pancras mainline is just a few minutes walk away. Islington and lively Upper Street are a fifteen minute walk or five minute drive.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The medium to large sized rooms are of an excellent standard for this category with all the usual Premier Travel Inn facilities, including comfortable duvets and pillows, tea and coffee making facilities and desk area. The en-suite bathroom includes both bath and shower.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a modern block.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The main restaurant is bright and airy, serving a limited range of cuisine.  There is also a lively pub attached to the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The large lobby is designed in an atrium style with a small coffee shop to the rear.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

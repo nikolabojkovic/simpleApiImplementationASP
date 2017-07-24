@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012622</Id>
+  <Name>Suphanlake Hometel</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>106/999 SOI 31-5 KEHAROMKLAO,ROMKLAO ROAD, LADKRABANG</Address1>
+    <Address2>Queen Sirikit Park</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10520</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 02-5439440</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>36</CountRooms>
+    <CountFloors>3</CountFloors>
+    <CheckInTime>12:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/90/43/65/904365-img1-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>9607</Bytes>
+    <Caption>904365-img1-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/43/65/904365-img1-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2070</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/43/65/904365-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7047</Bytes>
+    <Caption>904365-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/43/65/904365-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1870</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/43/65/904365-img3-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7473</Bytes>
+    <Caption>904365-img3-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/43/65/904365-img3-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1889</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/43/65/904365-img4-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7312</Bytes>
+    <Caption>904365-img4-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/43/65/904365-img4-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1925</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/43/65/904365-img5-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6077</Bytes>
+    <Caption>904365-img5-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/43/65/904365-img5-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1782</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Suphanlake Hometel is a Tourist, Modern, Leisure, Boutique, Airport Hotel hotel. Located in Airport - Suvarnabhumi Airport area. Shopping is accessible by bus/taxi and the nightlife/restaurants are Restaurant Local Cuisine the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Hotel near bangkok international airport suvarnabhumi, suphan lake hometel offers the perfect stop over location. over looking a beautiful park with lakeview restaurant, easy access to bangkok city using the new sky train service</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Playground</Code>
+    <Text>Playground</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ATMMachine</Code>
+    <Text>ATM Machine</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

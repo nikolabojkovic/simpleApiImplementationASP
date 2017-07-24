@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53176</Id>
+  <Name>Thistle Marble Arch</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>BRYANSTON STREET MARBLE ARCH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON W1H 7EH</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-871-3769027</Tel>
+    <Fax>44-871-3769127</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5133094</Latitude>
+    <Longitude>-0.1593922</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>230</Height>
+    <Bytes>26278</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2625</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>31485</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2849</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Bar_Lounge_2.jpg</Url>
+    <Width>292</Width>
+    <Height>360</Height>
+    <Bytes>25993</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2468</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>23306</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2153</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Restaurant_1.jpg</Url>
+    <Width>235</Width>
+    <Height>360</Height>
+    <Bytes>20129</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1990</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>30868</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3184</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>27385</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2264</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Exterior_1.jpg</Url>
+    <Width>180</Width>
+    <Height>160</Height>
+    <Bytes>18312</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1789</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>20554</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2221</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_2.jpg</Url>
+    <Width>286</Width>
+    <Height>360</Height>
+    <Bytes>27134</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2591</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>19144</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2096</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Ballroom_2.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>22315</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3049</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Business_centre_1.jpg</Url>
+    <Width>329</Width>
+    <Height>360</Height>
+    <Bytes>33287</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2435</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>28968</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2793</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>28088</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2752</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>234</Height>
+    <Bytes>23595</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2508</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>211</Height>
+    <Bytes>19788</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2653</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_6.jpg</Url>
+    <Width>360</Width>
+    <Height>227</Height>
+    <Bytes>29054</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2623</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_7.jpg</Url>
+    <Width>360</Width>
+    <Height>182</Height>
+    <Bytes>23673</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2978</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_8.jpg</Url>
+    <Width>360</Width>
+    <Height>223</Height>
+    <Bytes>25087</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2723</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>248</Height>
+    <Bytes>30668</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2634</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_9.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>32314</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_9_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2804</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-THIJhotel_Meeting_Room_10.jpg</Url>
+    <Width>360</Width>
+    <Height>224</Height>
+    <Bytes>25901</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-THIJhotel_Meeting_Room_10_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2699</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel's central location makes it an ideal base from which to explore London, and is excellent for all travellers. (1009AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Situated in the heart of London in Marble Arch, around the corner from Oxford Street's shopping paradise and the famous department store Selfridges and across the road from the elegant area of Mayfair. Nearest Underground Station is Marble Arch (Central Line).</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Deluxe rooms have all been refurbished and elegantly decorated in blues and greens; they are large in size, all with modern facilities which include LCD flat screen TV with satellite channels and iron and iron board, trouser press, WiFi access (Chargeable), Air Conditioning, hair dryer, in room safe and a working desk. The bathrooms are in excellent condition all with bath and power showers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a traditional 1930s-style building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The restaurant has been completely refurbished with a marbled buffet area and it also offers an a la carte menu. The bar features jazz three times a week and offers bar snacks.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby has been recently refurbished and is light and airy, modern in design with a large wooden panelled reception desk and an unusual glass 1930s-style tiled ceiling and tiled marble flooring.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>34</Rank>
+</HotelElement>

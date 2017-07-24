@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>122203</Id>
+  <Name>Holiday Inn Downtown Soho</Name>
+  <Region>
+    <Id>64377</Id>
+    <Name>Soho - Chelsea</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>138 LAFAYETTE ST</Address1>
+    <Address2 />
+    <Address3 />
+    <City>NEW YORK</City>
+    <State />
+    <Zip>10013</Zip>
+    <Country>USA</Country>
+    <Tel>2129668898</Tel>
+    <Fax>2129415832</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.7190901</Latitude>
+    <Longitude>-74.0001211</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/122203_4.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>36462</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/122203_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3752</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/122203_53.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>21879</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/122203_53_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2570</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/122203_3.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>28271</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/122203_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3013</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/122203_6.jpg</Url>
+    <Width>350</Width>
+    <Height>233</Height>
+    <Bytes>26757</Bytes>
+    <Caption>Meeting Place</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/122203_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2797</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Stay in the heart of New York City at the newly relaunched Holiday Inn SoHo Downtown Manhattan Hotel. Stylish and elegant, this recently renovated Downtown Manhattan hotel is moments away from some of NYC’s most popular attractions including Canal Street, the Statue of Liberty and Ground Zero. Just one block from Chinatown, Little Italy, and the charm of Greenwich Village, the Holiday Inn SoHo NY hotel is surrounded by world-famous New York City dining and shopping. Nearby Subway lines await to whisk you uptown, downtown, or across the East River.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Times Square
+• Central Park
+• Ground Zero
+• Madison Square Garden
+• Statue of Liberty/ Ellis Island
+• Rock and Roll Hall of Fame
+• NYC Museums
+• Broadway
+• Bronx Zoo</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Spacious guest rooms with brand new features await you in the Holiday Inn SoHo Downtown Manhattan hotel. Enjoy all new bedding with crisp white linens, as well as a selection of pillows that are marked as soft or firm to fit your preference for true comfort. This hotel in Manhattan also features new TVs and enhanced features in the bathrooms that include new showerheads with superior water pressure, a curved shower rod and a new shower curtain for a spacious, fresh feel. The Holiday Inn SoHo Hotel in Manhattan is ideal for business travelers, offering free wireless internet access in all guest rooms and a complimentary morning newspaper delivered daily.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel in SoHo NY has amenities will make guest feel relaxed and right at home in the middle of fast-paced New York City. The new features of this relaunched Holiday Inn SoHo hotel include unsurpassed individualized service from our staff that works tirelessly to surpass guests’ expectations through an array of services and amenities.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check-in time is 3 PM
+Check-out time is Noon
+Pets not allowed
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Lafayette Grill -
+This hotel restaurant, located near the second floor lobby, features fresh-cooked American specialties. Room service is available.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

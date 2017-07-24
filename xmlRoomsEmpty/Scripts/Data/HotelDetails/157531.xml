@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>157531</Id>
+  <Name>St George Hotel</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>49 Gloucester Place</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W1U 8JE</Zip>
+    <Country>England</Country>
+    <Tel>020 7486 8586</Tel>
+    <Fax>02074866567</Fax>
+    <Email>reservations@stgeorge-hotel.net</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5180579</Latitude>
+    <Longitude>-0.1579837</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2601</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2597</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8035</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1853</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11888</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2127</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-lobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9502</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-lobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1965</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8674</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12050</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2260</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7560</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1909</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5786</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1530</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9487</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1983</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1230405-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7718</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1230405-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1744</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The St.George is a beautiful grade II listed town-house style hotel, located in the heart of London`s West End, a short walk from Oxford Street and Baker Street, and close to Marylebone High Street, with its intimate village atmosphere. An extensive refurbishment has recently been carried out, so all rooms and the public areas boast excellent comfort. Being a  privately owned hotel, the owners take pride in their staff, whose aim is simply to ensure that visitors will want to return to the St.George Hotel.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

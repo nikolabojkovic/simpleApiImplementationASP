@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1270488</Id>
+  <Name>Comfort Inn &amp; Suites Airport</Name>
+  <Region>
+    <Id>21686</Id>
+    <Name>La Guardia Airport Area</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>60-30 Maurice Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Maspeth</City>
+    <State />
+    <Zip>11378</Zip>
+    <Country>USA</Country>
+    <Tel>8774246423</Tel>
+    <Fax />
+    <Email>ihelp@choicehotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.7291114</Latitude>
+    <Longitude>-73.9049623</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/73/06/2/73062-GEN-1.JPG</Url>
+    <Width>288</Width>
+    <Height>153</Height>
+    <Bytes>10850</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/73/06/2/73062-GEN-1thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>131</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3045</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/73/06/2/73062-GEN-3.JPG</Url>
+    <Width>288</Width>
+    <Height>170</Height>
+    <Bytes>10409</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/73/06/2/73062-GEN-3thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>118</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2875</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/73/06/2/73062-HAB-2.JPG</Url>
+    <Width>288</Width>
+    <Height>194</Height>
+    <Bytes>12948</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/73/06/2/73062-HAB-2thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>103</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2735</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Hotel amenities and services include free continental breakfast, free wireless high-speed Internet access, a free weekday newspaper, free local calls and free coffee. Business travellers of this hotel will appreciate conveniences like computer hook-ups, spacious work desks, access to a copy machine and the on-site business centre. Laundry facilities and a public microwave are available for guest convenience. Whether travelling for business or pleasure, the hotel is the perfect place to stay when visiting the Maspeth and New York City areas. The hotel is dedicated to accommodating all guests' travel needs. Free airport transportation from 6 am to 9 pm is available.</Text>
+  </Description>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

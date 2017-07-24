@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4972055</Id>
+  <Name>Inland Hotel</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>RATCHADAPISEK ROAD, DIN DAENG 99/36-37</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10400</Zip>
+    <Country>THAILAND</Country>
+    <Tel>6626422588</Tel>
+    <Fax>6626422599</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.7990191</Latitude>
+    <Longitude>100.5745332</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

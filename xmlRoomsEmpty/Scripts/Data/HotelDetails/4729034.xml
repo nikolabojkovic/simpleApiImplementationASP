@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4729034</Id>
+  <Name>Stansted Skyline Hotel</Name>
+  <Region>
+    <Id>52924</Id>
+    <Name>Stansted</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>CHELMSFORD ROAD BARNSTON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>GREAT DUMOW, STANSTED</City>
+    <State />
+    <Zip>CM6 1LP</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>00441279817821</Tel>
+    <Fax>00441279816984</Fax>
+    <Email>rjm@salishotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.855224</Latitude>
+    <Longitude>0.384403</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/13/38/42/133842-COM-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>8934</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/38/42/133842-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1885</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/13/38/42/133842-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>12357</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/38/42/133842-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2280</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/13/38/42/133842-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9849</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/13/38/42/133842-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1836</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From Junction 8 of M11, follow A120 east, bypassing Stansted Airport and exit Dunmow South B184 then follow the sign B1008. At the first roundabout under the bypass, turn right and at the next roundabout you can only turn left. We are located on the left at the top of the hill.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

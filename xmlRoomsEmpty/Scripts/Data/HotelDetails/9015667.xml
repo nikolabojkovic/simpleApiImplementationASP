@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9015667</Id>
+  <Name>Ramada Deira</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>DEIRA, SALAHUDDIN ROAD</Address1>
+    <Address2>Salahuddin Metro Station</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>42222</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 9714-2596000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>173</CountRooms>
+    <CountFloors>7</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/91/57/85/915785-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5468</Bytes>
+    <Caption>915785-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/57/85/915785-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1572</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/57/85/915785-img2-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6000</Bytes>
+    <Caption>915785-img2-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/57/85/915785-img2-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1765</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/57/85/915785-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6496</Bytes>
+    <Caption>915785-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/57/85/915785-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1797</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/57/85/915785-img4-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8641</Bytes>
+    <Caption>915785-img4-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/57/85/915785-img4-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2031</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/57/85/915785-img5-4.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5592</Bytes>
+    <Caption>915785-img5-4</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/57/85/915785-img5-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1629</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The RAMADA DEIRA is a Tourist, Business, City hotel, Eco Friendly hotel. Located in Deira area. Shopping is right next door and the nightlife/restaurants are within walking distance from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Within walking distance of Salahuddin Metro Station, Ramada Deira LLC features an outdoor swimming pool, a gym and a restaurant that serves breakfast buffet. Dubai International Airport is a 15 minute drive away.All accommodations at Ramada feature modern decor and carpet floors. Each room comes with a flat-screen TV, a wardrobe and a minibar. The suite includes a living room with sofa.After a workout, guests can enjoy relaxing at the hotel’s sauna. The 24-hour front desk offers ironing and laundry services. Car rentals can also be arranged.Guests can shop at Reef Mall which is a 2 minute walk from Ramada LLC. In addition, Dubai Creek is 10 minutes away by car. Valet parking is available on site.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

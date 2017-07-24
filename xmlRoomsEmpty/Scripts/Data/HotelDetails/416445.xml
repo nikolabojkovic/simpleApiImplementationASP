@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>416445</Id>
+  <Name>London Lodge</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>134/136 LEXHAM GARDENS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>W8 6JE</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>+44 207 244 8444</Tel>
+    <Fax>+44 207 373 6661</Fax>
+    <Email>info@londonlodgehotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>28</CountRooms>
+    <Latitude>51.4957182</Latitude>
+    <Longitude>-0.1950433</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3615</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2092</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8389</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1918</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8600</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1927</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8902</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2112</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-restaurant1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9342</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-restaurant1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2182</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6514</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1639</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8496</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1959</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-lobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13351</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-lobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2446</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8934</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2001</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8056</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1832</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1215085-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8879</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1215085-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2034</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The London Lodge is a beautifully furnished Victorian town house hotel, located in the heart of Kensington, one of the finest areas of London and is just minutes away from Earls Court and Knightbridge. This hotel offers easy access to all exclusive shopping areas of High Street Kensington, Knightsbridge and Kings Road, comprising both boutiques and the internationally famous department store, Harrods. From the hotel it is possible to head out on foot to some of the most beautiful parks in Europe, including Hyde Park, and Kensington Gardens. There is also an abundance of public transport available enabling everyone to explore those iconic London sights, while music lovers shouldnât miss a chance to visit the Royal Albert Hall, also in Kensington, for world class classical music, opera and performances. The hotelâs expert staff is attentive to every guest need and offers a wide range of services, providing unparalleled travel experience. Open daily for residents and non-residents, Stephanieâs restaurant and bar is a great place to meet over a coffee or a glass of wine. The restaurant features a simple yet delicious menu, served throughout the evening and invites guests to relax and unwind after a busy day. All rooms in this town hotel are en-suite and offer all the luxury facilities one would expect from a quality hotel, including individually controlled air conditioning, satellite television and direct telephone. This hotelâs fine attention to detail and pesonalised service gives visitors plenty of opportunities to combine pleasure with relaxation and cultural vocation in London.</Text>
+  </Description>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

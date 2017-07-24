@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>136606</Id>
+  <Name>London Guards Hotel</Name>
+  <Region>
+    <Id>52917</Id>
+    <Name>Paddington &amp; Bayswater</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>36/37 Lancaster Gate</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W2 3NA</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>442074021101</Tel>
+    <Fax>442072622551</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>40</CountRooms>
+    <Latitude>51.5120575</Latitude>
+    <Longitude>-0.1809573</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9200-LondonGuardsFront.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2440</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9200-LondonGuardsFront_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2438</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9200-LondonGuardsFront.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15685</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9200-LondonGuardsFront.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2049</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9200-LondonGuardsLobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12308</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9200-LondonGuardsLobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1761</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9200-LondonGuardsRm.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12266</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9200-LondonGuardsRm.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1622</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9200-LondonGuardsRm1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14143</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9200-LondonGuardsRm1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1786</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Info:Not only are we your hosts in London, we are your tour guides. We will help you capitalize on your time in our vibrant city. Sometimes a travel guide can be an inaccurate way to discover a city. Let us help you plan your stay. It is our pleasure!A home away from home. Relax...... let us take care of you. The staff is here for you.Location:London Guards Hotel is situated in a quiet square of Lancaster Gate, overlooking the magnificent Hyde Park and extremely close to the famous shopping area of Oxford Street. Area:Across the park are Kensington, Knightsbridge (Harrods), Buckingham Palace and the Royal Albert Hall, to name a few famous landmarks. Also, at the London Guards you are also within walking distance of Notting Hill Gate and Portobello Rd (market).  The nearest underground stations are Lancaster Gate (few minutes walk from the station) and Paddington (now direct link to Airport Heathrow via Heathrow Express).Recreation:All kinds of facilities are available here Maid Service, Laundry/Dry Cleaning, Travel, 24 Reception, Security Boxes, fax services, Meeting Room.Rooms:Rooms are complete with air-conditioning, central heating and: private facilities, satellite TV, hairdryer, mini safe, fridge, IDD telephone in bedroom and bathroom and Tea/coffee making facilities.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Not only are we your hosts in London, we are your tour guides. We will help you capitalize on your time in our vibrant city. Sometimes a travel guide can be an inaccurate way to discover a city. Let us help you plan your stay. It is our pleasure!</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

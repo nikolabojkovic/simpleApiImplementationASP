@@ -1,0 +1,283 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1891302</Id>
+  <Name>Grange St Paul's</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>10 Godliman Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>EC4V 5AJ</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 20 7074 1000</Tel>
+    <Fax>+44 20 7074 1100</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>430</CountRooms>
+    <Latitude>51.5126401</Latitude>
+    <Longitude>-0.0992145</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2612</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2607</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12423</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2283</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14365</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2407</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10676</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2192</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13353</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2515</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Restaurant1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9490</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Restaurant1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2040</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10719</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2286</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Gym1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12713</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Gym1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2548</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Guestroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7865</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Guestroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1994</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Guestroom1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9550</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Guestroom1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2210</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-MeetingRoom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13798</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-MeetingRoom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2382</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-MeetingRoom1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13708</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-MeetingRoom1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2419</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-MeetingRoom2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8864</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-MeetingRoom2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2010</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Spa.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8718</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Spa.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2060</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10758</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2212</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229216-Lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13531</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229216-Lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2319</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Mansion House is the nearest underground station until works are complete at Blackfriars tube station. Exit Mansion House via the Queen Victoria Street exit and turn left. Walk straight down Queen Victoria Street and cross over the road after about 5 minutes, Godliman Street is the 3rd left turn. Walk straight down this road and Grange St. Paul's will be on your right.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>This air-conditioned hotel is gay friendly.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel, which was renovated in 2010, offers a total of 430 rooms across 10 floors. It includes a bar, lobby with 24-hour front desk and 24-hour check-out service, rooms and facilities for disabled guests, lift access to the upper floors, a hotel safe, cloakroom and luggage storage. It also offers a children's playground, bar, disco and restaurant, as well as meeting/ banquet facilities. Room service, laundry service and a tour desk are available.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3013822</Id>
+  <Name>Comfort Suites</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>9488 VALLEY BOULEVARD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Rosemead</City>
+    <State />
+    <Zip>91770</Zip>
+    <Country>USA</Country>
+    <Tel>8774246423</Tel>
+    <Fax />
+    <Email>ihelp@choicehotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>34.0810396</Latitude>
+    <Longitude>-118.0625193</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/14/43/02/144302-GEN-1.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>14263</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/43/02/144302-GEN-1thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2136</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/43/02/144302-GEN-3.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>13083</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/43/02/144302-GEN-3thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2172</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/43/02/144302-GEN-4.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>10989</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/43/02/144302-GEN-4thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2064</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/14/43/02/144302-HAB-2.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>13924</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/14/43/02/144302-HAB-2thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2130</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This is a new property, opened February 2007.</Text>
+  </Description>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

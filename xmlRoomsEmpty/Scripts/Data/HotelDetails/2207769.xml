@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2207769</Id>
+  <Name>Hampton Inn Los Angeles-west Covina</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3145 E. Garvey Ave. N.</Address1>
+    <Address2>...</Address2>
+    <Address3 />
+    <City>WEST COVINA</City>
+    <State />
+    <Zip>91791</Zip>
+    <Country>U S A</Country>
+    <Tel>626-9675800</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountFloors>1</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>34.072849</Latitude>
+    <Longitude>-117.87691</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/16/26/76/162676-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6882</Bytes>
+    <Caption>162676-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/16/26/76/162676-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1788</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/16/26/76/162676-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7345</Bytes>
+    <Caption>162676-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/16/26/76/162676-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1860</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/16/26/76/162676-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5750</Bytes>
+    <Caption>162676-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/16/26/76/162676-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1652</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/16/26/76/162676-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8858</Bytes>
+    <Caption>162676-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/16/26/76/162676-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2043</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/16/26/76/162676-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7946</Bytes>
+    <Caption>162676-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/16/26/76/162676-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1918</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Hampton Inn Los Angeles-West Covina is a Tourist hotel. Located in City Centre area. and the nightlife/restaurants are located in the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Birthplace of Hall of Fame quarterback Troy Aikman, West Covina is the fastest growing city in the San Gabriel Valley. Over the years, the city has attracted many popular restaurant chains, big name retailers and auto dealers. Guests at our West Covina hotel may enjoy shopping at any of our two large shopping malls.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>24HourFrontDesk</Code>
+    <Text>24 Hour Front Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Treadmills</Code>
+    <Text>Treadmills</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

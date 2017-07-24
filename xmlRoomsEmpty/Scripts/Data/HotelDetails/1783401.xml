@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1783401</Id>
+  <Name>Hotel 99</Name>
+  <Region>
+    <Id>64381</Id>
+    <Name>Upper West Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hostel</Type>
+  <Address>
+    <Address1>244 West 99th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>NY 10025</Zip>
+    <Country>USA</Country>
+    <Tel>001 2122223799</Tel>
+    <Fax>001 2126784445</Fax>
+    <Email>info@hotel99.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.7967128</Latitude>
+    <Longitude>-73.9708017</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/6NHfront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/6NHthumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2237</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/6NHbed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/6NHthumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1868</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/6NHmap.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/6NHthumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1809</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located on Manhattan�s vibrant Upper West Side, the Hotel 99 is just a short walk to Central Park West, Museum of Natural History, night spots, bars and restaurants. Additionally, the city�s superb public transport links provide easy access to a multitude of attractions, shopping areas and entertainment venues. The hotel caters for the budget-minded traveler, offering modest yet comfortable accommodation equipped with basic contemporary amenities. A 24-hour reception desk and friendly, multilingual staff with extensive knowledge of the city are on hand to assist guests with queries and requests. Standard rooms feature hardwood floors, a complimentary wireless internet connection, an iPod docking station and a 32-inch flat-screen television with satellite channels. Additionally, fresh towels and Kewl and Shalet bathroom amenities are provided on a daily basis. The pristine bathrooms are each shared between six guestrooms.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditionedRooms</Code>
+    <Text>Air-conditioned rooms</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

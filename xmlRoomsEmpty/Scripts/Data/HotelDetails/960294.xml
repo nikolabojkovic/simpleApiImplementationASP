@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>960294</Id>
+  <Name>Residence Inn Las Vegas Convention Ctr</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3225 Paradise Road</Address1>
+    <Address2>Las Vegas, Nevada</Address2>
+    <Address3 />
+    <City>Las Vegas-Nv</City>
+    <State />
+    <Zip>89109</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 702 796 9300</Tel>
+    <Fax>+1 702 796 9562</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>192</CountRooms>
+    <Latitude>36.130743</Latitude>
+    <Longitude>-115.155054</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-front2_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2424</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-front2_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2419</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9557</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2062</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10793</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2021</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-pool2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10819</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-pool2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2055</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-reception.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7267</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-reception.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1715</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13928</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2209</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9864</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1896</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-front2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10698</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-front2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2073</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10588</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2036</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8983</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1958</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214243-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6215</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214243-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1862</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description: 3 star accommodations  Close proximity to major attractions  Contemporary accommodations  Great combination for business and pleasure Location: Easy access to  convention center  Centrally located minutes from Vegas Strip Local Attractions: Las Vegas Convention Center - 5 minutes  Las Vegas Strip - 4 blocks  Adventure Dome - 7 blocks Recreation: Heated swimming pool  Outdoor activities  Relaxing spa/hot tub  Nearby casino entertainment  Fully equipped fitness center Restaurants &amp; Lounges: Nearby restaurant  Breakfast Room Services: 24 hr front desk service  Concierge services  Public transportation available from property Meeting Facilities:  Event facilities  Accommodation: 192 guestrooms Parking: On site parking available Policies: This is a smoke free property</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Perfect for any occasion; the Residence Inn Convention Center  provides amazing service and an ideal location; all at a great price</Text>
+  </Description>
+  <Amenity>
+    <Code>PetsAllowed</Code>
+    <Text>Pets allowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3022528</Id>
+  <Name>Lub D</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>BRAND TOWER OFFICE, SILOM RD, SURIYAWONG, BANGRAK 222</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10500</Zip>
+    <Country>THAILAND</Country>
+    <Tel>6626272345</Tel>
+    <Fax>6626272346</Fax>
+    <Email>RSVN@LUBD.COM</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.727045</Latitude>
+    <Longitude>100.52494</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/12/10/91/121091-BAR-3.jpg</Url>
+    <Width>320</Width>
+    <Height>229</Height>
+    <Bytes>12709</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/10/91/121091-BAR-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2330</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/10/91/121091-BAR-4.jpg</Url>
+    <Width>320</Width>
+    <Height>213</Height>
+    <Bytes>13680</Bytes>
+    <Caption>Bar</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/10/91/121091-BAR-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2672</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/10/91/121091-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9527</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/10/91/121091-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2006</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/12/10/91/121091-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>214</Height>
+    <Bytes>7867</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/12/10/91/121091-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2028</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Airport Express Bus provides air-conditioned bus service between Suvarnabhumi Airport and hotels in the centre of Bangkok. For more information, guests should contact the Airport Express Bus counter on level 1 near entrance number 8. Take the AE 1 bus to Sofitel Silom Hotel and walk to Decho Road. The hostel can be reached within 5 minutes.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The fare from the airport to the hostel with the Airport Express Bus is THB 150.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This establishment is the perfect answer for travellers who have an explorative travelling style but require quality in their accommodation. The hostel is not merely a premium budget accommodation; it is friendly, fun and hip - the perfect place to meet other travellers with similar interests. The facility is new and was built to a very high standard, but without the frills that many travellers do not need. Guests are welcomed to the air-conditioned establishment in a lobby with 24-hour reception and check-out service and safe. An auditorium, TV lounge, restaurant, café and bar are also provided.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Theatre</Code>
+    <Text>Theatre</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVRoom</Code>
+    <Text>TV Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

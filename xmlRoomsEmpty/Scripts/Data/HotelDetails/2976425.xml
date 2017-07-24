@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2976425</Id>
+  <Name>Clink 261</Name>
+  <Region>
+    <Id>52890</Id>
+    <Name>Kings Cross &amp; Camden</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hostel</Type>
+  <Address>
+    <Address1>GRAYS INN ROAD 261</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>WC1X8QT</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>02078339400</Tel>
+    <Fax>02078339677</Fax>
+    <Email>KRISTINE@CLINKHOSTELS.COM</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>51.529166</Latitude>
+    <Longitude>-0.1199116</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/14/74/14/147414-COM-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>16056</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1057/14/74/14/147414-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2315</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/14/74/14/147414-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>20687</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/14/74/14/147414-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2663</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/14/74/14/147414-RES-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>13841</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1057/14/74/14/147414-RES-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2279</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Refurbished in 2010, this 25-room hostel provides inexpensive yet stylish accommodation in London. Guests will have a bed in a dormitory room and access to a number of facilities. Facilities on offer to guests include a lobby area with a 24-hour reception and check-out service, a hotel safe, lift access and a TV lounge. There is a breakfast/dining room and wireless Internet access as well as a place to store luggage.</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVRoom</Code>
+    <Text>TV Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DiningRoom</Code>
+    <Text>Dining Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

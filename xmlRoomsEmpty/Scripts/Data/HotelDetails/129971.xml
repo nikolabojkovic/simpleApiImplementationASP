@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129971</Id>
+  <Name>On the Avenue New York</Name>
+  <Region>
+    <Id>64381</Id>
+    <Name>Upper West Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2178 Broadway; at 77th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10024</Zip>
+    <Country>USA</Country>
+    <Tel>+212 362 1100</Tel>
+    <Fax>+917 441 0295</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>250</CountRooms>
+    <Latitude>40.782459</Latitude>
+    <Longitude>-73.980705</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/129971_3.jpg</Url>
+    <Width>285</Width>
+    <Height>285</Height>
+    <Bytes>21688</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/129971_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1992</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/129971_2.jpg</Url>
+    <Width>285</Width>
+    <Height>285</Height>
+    <Bytes>13897</Bytes>
+    <Caption>Standard Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/129971_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1697</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/129971_4.jpg</Url>
+    <Width>285</Width>
+    <Height>285</Height>
+    <Bytes>12390</Bytes>
+    <Caption>Suite Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/129971_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1770</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/129971_5.jpg</Url>
+    <Width>285</Width>
+    <Height>285</Height>
+    <Bytes>17398</Bytes>
+    <Caption>Suite Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/129971_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2103</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This smart 16-story hotel on the Upper West Side is two blocks from the Museum of Natural History and Central Park. Midtown is easily accessible via nearby subway lines. This hotel opens onto a marble lobby with ample seating, and offers complimentary coffee and newspapers, an on-site ATM, same-day dry cleaning, and 24-hour room service.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Central Park - 2.0 blocks
+• Riverside Park - 2.0 blocks
+• Lincoln Center - 14.0 blocks
+• Beacon Theater - 3.0 blocks
+• Children's Museum - 6.0 blocks
+• Hayden Planetarium - 2.0 blocks
+• American Museum of Natural History - 2.0 blocks</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Upgraded in 2002, This hotel has 251 guestrooms with large windows offering city views. The decor is simple and contemporary, with wood panels and abstract black-and-white drawings providing accents to white walls. Beds feature down duvets and premium linens. High-speed Internet access is available, as well as digital movies on demand. Rooms have dual-line phones with voice mail, and CD players.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Upgraded in 2002, This hotel has 251 guestrooms with large windows offering city views. The decor is simple and contemporary, with wood panels and abstract black-and-white drawings providing accents to white walls. Beds feature down duvets and premium linens. High-speed Internet access is available, as well as digital movies on demand. Rooms have dual-line phones with voice mail, and CD players.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Giant food emporiums.
+• Zabar's and Fairway.
+• Popular rock and pop Entertainers.
+• Shopping Mall.
+• Fitness Center.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check In Time - 3 p.m.
+Check Out Time - 12 p.m.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DrivingDirections</Type>
+    <Text>From LaGuardia International Airport:
+Take Grand Central Pkwy West to I-278 West.Exit SR-25A and bear right onto Queens Plaza N. Continue on Queensboro Bridge to 2nd Ave S Exit.Continue off exit onto 60th St, Go right on W 59th St to Columbus Circle roundabout.Exit onto Broadway and continue on Amsterdam Ave.Turn left on W 77th St, the hotel is on the left.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

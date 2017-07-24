@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9314709</Id>
+  <Name>Deluxe Place</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3390 New Petchaburi Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel />
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/02/01/15/82/12/deluxe_place-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9643</Bytes>
+    <Caption>deluxe_place-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/02/01/15/82/12/deluxe_place-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2292</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/02/01/15/82/12/deluxe_place-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>3416</Bytes>
+    <Caption>deluxe_place-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/02/01/15/82/12/deluxe_place-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2649</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Welcome to The Deluxe Place Hotel, bangkok enjoy a wonderful place and attraction when you relax from your business day , you will get satisfaction of living as we take care of your every need and desire. On New Petchburi Road , in the center of city communications, hospitlas, business center, transportation and a variety of entertainments. It is close to an expressway which connects with the main streets.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

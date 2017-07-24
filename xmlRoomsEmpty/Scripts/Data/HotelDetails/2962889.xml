@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2962889</Id>
+  <Name>Guest House Hotel Norwalk</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>12500 Firestone Boulevard</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Norwalk</City>
+    <State>California</State>
+    <Zip>90650</Zip>
+    <Country>USA</Country>
+    <Tel>+1 562 868 0991</Tel>
+    <Fax>+1 562 868 0883</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>33.9037528</Latitude>
+    <Longitude>-118.0656853</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgfront1_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3772</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgfront1_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2169</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgcourt.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9242</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgcourt.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2033</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sglounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8467</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sglounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2033</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgpool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8999</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgpool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2025</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgrest.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8571</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgrest.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2041</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgpool1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8892</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgpool1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1980</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgpoolnight.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8752</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgpoolnight.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1952</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sglobby12.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8109</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sglobby12.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1858</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgroom1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6668</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgroom1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1583</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgwedding.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8541</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgwedding.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1981</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgbar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8636</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgbar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1947</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgdbl.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9558</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgdbl.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2111</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sglobby1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5561</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sglobby1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1667</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgfront1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9065</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgfront1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2120</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgbar1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8411</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgbar1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2023</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel8978-sgfrontdesk.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7308</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel8978-sgfrontdesk.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1881</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nFull service hotel\nGreat combination for business and pleasure\nLocated near major attractions\nLocation\nPerfectly located in beautiful Anaheim\nShopping area is just minutes away\nRecreation\nOutdoor swimming pool\nRelaxing spa/hot tub\nRestaurants &amp; Lounges\nNearby restaurant\nServices\nElevators\nMeeting Facilities\nFully equipped business center\nAccommodations\nClassic accommodations\nClassic guest rooms\nParking\nOn site parking available\n</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Great value and world-class quality reside here at the  Guest House ; which will exceed all your expectations</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

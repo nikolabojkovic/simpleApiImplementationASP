@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252742</Id>
+  <Name>Promenade Bangkok</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>18 Sukhumvit Soi 8, Sukhumvit Rd</Address1>
+    <Address2 />
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(662) 253-2876</Tel>
+    <Fax>(662) 254 - 7707</Fax>
+    <Email>promenade@psi-promenade.com</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.73728</Latitude>
+    <Longitude>100.55622</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/44/promenade_bangkok-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7774</Bytes>
+    <Caption>promenade_bangkok-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/44/promenade_bangkok-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2137</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/44/promenade_bangkok-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>11682</Bytes>
+    <Caption>promenade_bangkok-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/44/promenade_bangkok-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2885</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/44/promenade_bangkok-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9269</Bytes>
+    <Caption>promenade_bangkok-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/44/promenade_bangkok-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2535</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/12/12/08/44/promenade_bangkok-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>3062</Bytes>
+    <Caption>promenade_bangkok-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/12/12/08/44/promenade_bangkok-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2310</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Conveniently located in the golden mile of Sukhumvit - the heart of Bangkok , just a few meters off the main road in Soi 8 where the BTS Nana station is located and within easy reach of Sukhumvit expressway entrance. The Promenade Hotel allows speedy access to Bangkoks business and commercial areas including Queen Sirikit National Convention Centre , shopping centres , department stores , and Bangkok International Airport.</Text>
+  </Description>
+  <Rank>1</Rank>
+</HotelElement>

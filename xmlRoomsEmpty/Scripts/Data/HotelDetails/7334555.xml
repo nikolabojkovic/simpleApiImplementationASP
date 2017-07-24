@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7334555</Id>
+  <Name>Jumeirah Creekside Hotel</Name>
+  <Region>
+    <Id>9043420</Id>
+    <Name>Creek / Festival City</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Al Garhoud; P.O box 78377</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>1</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+ 971 4 230 8555</Tel>
+    <Fax>+ 971 4 230 8556</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>25.24268878</Latitude>
+    <Longitude>55.34034071</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1299226-Exterior_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3576</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1299226-Exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2049</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1299226-Exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8473</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1299226-Exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2002</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1299226-Guestroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7223</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1299226-Guestroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1960</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1299226-MeetingRoom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7811</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1299226-MeetingRoom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1851</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1299226-Restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8741</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1299226-Restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1972</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Jumeirah Creekside Hotel is a modern 5-star property offering luxury accommodation near the heart of Dubai. Highlights include fine dining, multiple pools, a contemporary spa, several tennis courts and a great location overlooking Dubai Creek Golf &amp; Yacht Club. Dubai Creek is located in the heart of the city, a pleasant body of water separating Deira from Bur Dubai. Nearby places of interest include the Port Saeed district, the Dubai Creek Golf &amp; Yacht Club and Deira City Centre shopping mall. GGICO metro station is located in the vicinity, providing fast and easy access to other popular Dubai destinations. The hotel occupies a modern mid-rise complex featuring a sleek, angular, glass facade. Facilities include two outdoor swimming pools, multiple tennis courts, two squash courts, modern fitness centres, a beach volleyball court, Jacuzzis, saunas, steam rooms and a chic spa complex offering a range of massages and wellness treatments. Free Wi-Fi is available throughout the premises. Superior rooms are 42-49sqm and elegantly decorated in a modern style with rich colours and contemporary furniture design. Amenities include air-conditioning, a flat-screen TV, iPod dock, mini-bar (non-alcoholic drinks included), work desk and safe. The en-suite bathrooms feature a bathtub, separate walk-in shower and complimentary toiletries. Nomad serves fine Asian cuisine in a chic, contemporary space, its attached deli facilitating 24-hour dining. Elsewhere, fine seafood and steak specialities are available at Blue Flame, and stunning views, expertly-crafted cocktails, tapas, light meals and cigars can be enjoyed at the rooftop Cu-ba. Free parking is possible onsite. The hotel provides 24-hour reception and room service and offers a complimentary beach and shopping mall shuttle service.</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

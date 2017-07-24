@@ -1,0 +1,609 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7144698</Id>
+  <Name>Elara a Hilton Grand Vacations Hotel-Center Strip</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>80 East Harmon Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>1-702-669-6700</Tel>
+    <Fax>1-702-669-6948</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>36.108104</Latitude>
+    <Longitude>-115.169214</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-456945365175663_Thumb.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>2891</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-456945365175663_Thumb.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1865</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569268401310961.jpg</Url>
+    <Width>185</Width>
+    <Height>200</Height>
+    <Bytes>4840</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569268401310961.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>64</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1348</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569269-1064396335_Thumb.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>1886</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569269-1064396335_Thumb.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1380</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-445692721689942433.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>11181</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-445692721689942433.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2364</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569276-1362513911.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>12008</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569276-1362513911.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2455</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-445692801733480037.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>7413</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-445692801733480037.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1751</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569284-643639811.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>9796</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569284-643639811.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2133</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569292-336636067.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>10376</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569292-336636067.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2313</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569300-1789490583.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>11255</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569300-1789490583.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2455</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569304128356865.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>11217</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569304128356865.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2379</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569308600305993.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>10438</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569308600305993.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2236</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569312-1184955431.jpg</Url>
+    <Width>150</Width>
+    <Height>200</Height>
+    <Bytes>5278</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569312-1184955431.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1510</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569316732892017.jpg</Url>
+    <Width>150</Width>
+    <Height>200</Height>
+    <Bytes>5198</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569316732892017.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1422</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569320-1024428067.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>11376</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569320-1024428067.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2465</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-445693281365368509.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>11291</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-445693281365368509.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2483</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-445693321033683941.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>10193</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-445693321033683941.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2307</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569336-1343435907.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>10269</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569336-1343435907.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2263</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44569340-587775871.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>10292</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44569340-587775871.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2236</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-4568662071725474.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>10404</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-4568662071725474.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2335</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-45686629-1132256216.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>11066</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-45686629-1132256216.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2535</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-45686637361914834.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>11780</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-45686637361914834.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2534</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-46677354-957950893.jpg</Url>
+    <Width>133</Width>
+    <Height>200</Height>
+    <Bytes>6011</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-46677354-957950893.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1410</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-46677355-992584157_Thumb.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>2581</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-46677355-992584157_Thumb.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1731</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-46677358189638067.jpg</Url>
+    <Width>133</Width>
+    <Height>200</Height>
+    <Bytes>5846</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-46677358189638067.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1463</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-46716018-2135597003.jpg</Url>
+    <Width>298</Width>
+    <Height>200</Height>
+    <Bytes>11466</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-46716018-2135597003.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2415</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-467160421830445061.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>10625</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-467160421830445061.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2479</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-46716062-2044121711.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>9886</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-46716062-2044121711.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2176</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-471032391089433074.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>16046</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-471032391089433074.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2964</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-47103240-393158624_Thumb.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3472</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-47103240-393158624_Thumb.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2119</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-46625822122076385_Thumb.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>2164</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-46625822122076385_Thumb.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1448</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-46625823122077410.jpg</Url>
+    <Width>395</Width>
+    <Height>200</Height>
+    <Bytes>12884</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-46625823122077410.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>138</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2428</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-420427601359595570.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>15833</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-420427601359595570.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2940</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-428143611550846569.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>12894</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-428143611550846569.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2585</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-428144241226530911.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>8201</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-428144241226530911.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2023</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-428144601550807503.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>7939</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-428144601550807503.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1947</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-428144691550806742.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>7291</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-428144691550806742.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-42814478-1936307268.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>7026</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-42814478-1936307268.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1994</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-428144871712953470.jpg</Url>
+    <Width>149</Width>
+    <Height>200</Height>
+    <Bytes>5600</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-428144871712953470.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1547</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-428145141872217325.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>6687</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-428145141872217325.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1789</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-428145861712920670.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>8896</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-428145861712920670.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2102</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-441458021115857527.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>13143</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-441458021115857527.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2653</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-441458111923710937.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>15625</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-441458111923710937.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2836</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44145820953710783.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>15443</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44145820953710783.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3026</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44145829953717942.jpg</Url>
+    <Width>300</Width>
+    <Height>200</Height>
+    <Bytes>15679</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44145829953717942.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3058</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44251246-216969830.jpg</Url>
+    <Width>298</Width>
+    <Height>200</Height>
+    <Bytes>9773</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44251246-216969830.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2130</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-44251255-572595962.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>11990</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-44251255-572595962.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2529</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1267487-45694534-923975624.jpg</Url>
+    <Width>266</Width>
+    <Height>200</Height>
+    <Bytes>11325</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1267487-45694534-923975624.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2335</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Elara, A Hilton Grand Vacations Hotel - Center Strip is a well-presented 3-star property offering excellent accommodation and facilities, just steps away from the Las Vegas Strip. Highlights include an outdoor swimming pool, gym and a restaurant. The strip provides a variety of entertainment in the form of its designer and boutique shops, bars, clubs, restaurants and nightly dance and theatre entertainment shows. The hotel is close to the Bellagio fountain and the Miracle Mile of shops. Bally's &amp; Paris Las Vegas monorail station is in the vicinity, providing fast and easy access to other popular Las Vegas destinations. The hotel is housed in a sleek high-rise contemporary building with a blue facade. Facilities include a gym with cardio and weights equipment and an outdoor swimming pool. Chargeable Wi-Fi is available throughout the premises. The Oasis Bar &amp; Grill offers American cuisine, which guests can enjoy in the alfresco seating area or in private cabanas. The stylish lobby bar serves a wide variety of beverages, including cocktails. Studios have a modern decor and boast an impressive view of the strip. They incorporate a bed, sitting are with a red leather sofa and a kitchenette. Amenities include air-conditioning, a DVD player and a 42inch flat-screen satellite/cable TV. The en-suite bathrooms feature a bathtub with integrated shower. Free covered parking is possible onsite.</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

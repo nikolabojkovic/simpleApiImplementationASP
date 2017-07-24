@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>143491</Id>
+  <Name>Savoy Suites Hotel Apartments</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>Mankool street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>1</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 355 3000</Tel>
+    <Fax>+971 4 355 1330</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>126</CountRooms>
+    <Latitude>25.2450172</Latitude>
+    <Longitude>55.2840596</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201948-SavoySuites-Front.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2563</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201948-SavoySuites-Front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2556</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201948-SavoySuites-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11772</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201948-SavoySuites-Front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2246</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201948-SavoySuites-Pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11369</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201948-SavoySuites-Pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2240</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201948-SavoySuites-Restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13409</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201948-SavoySuites-Restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2314</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1201948-SavoySuites-Room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11257</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1201948-SavoySuites-Room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1988</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This city hotel offers a business centre, small banquetting facilities, conference/meeting rooms and express check-out as well as a coffee shop.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

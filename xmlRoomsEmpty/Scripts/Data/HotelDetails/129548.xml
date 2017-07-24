@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129548</Id>
+  <Name>Boulder Station</Name>
+  <Region>
+    <Id>21610</Id>
+    <Name>Fremont Street/Downtown</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4111 Boulder Highway</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89121</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 432 7777</Tel>
+    <Fax>+1 702 367 6138</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>36.1329478</Latitude>
+    <Longitude>-115.08485</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/10/24/02/102402-GEN-1.jpg</Url>
+    <Width>320</Width>
+    <Height>256</Height>
+    <Bytes>13539</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/10/24/02/102402-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>87</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2019</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/10/24/02/102402-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>193</Height>
+    <Bytes>10092</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/10/24/02/102402-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>116</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2485</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/10/24/02/102402-HAB-8.jpg</Url>
+    <Width>320</Width>
+    <Height>198</Height>
+    <Bytes>9484</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/10/24/02/102402-HAB-8thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>113</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2423</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/10/24/02/102402-HAB-9.jpg</Url>
+    <Width>320</Width>
+    <Height>189</Height>
+    <Bytes>9875</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/10/24/02/102402-HAB-9thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>118</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2491</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Transport yourself to our newly renovated, stylish rooms and suites. Our rooms sport a "boutique feel" with modern and hip décor, 40-inch plasma TVs and a spacious sitting area.Catch some Zzzz`s by resting on the soft, comfy pillow-top mattresses or just relax by enjoying room service delivered directly to you for breakfast, lunch, or dinner. Amenities include high-speed Wi-Fi, computer desks (especially convenient for our business travelers), use of our fitness room and pool. Most outstanding is our friendly service! Boulder Station located only 7 miles from the Las Vegas McCarran Airport offers the ultimate guest experience beginning with our Traditional Victorian atmosphere of hardwood walkways and beautiful stained glass. 
+It is non-stop action here at Boulder Station with Live Entertainment, Award Winning Restaurants, 11 Movie Theatres and so much more!  &lt;br&gt;&lt;b&gt; Guests should note that a resort fee is payable direct to the hotel upon arrival. Resort fees are subject to change and guests are advised to check the hotel`s website for current charges.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

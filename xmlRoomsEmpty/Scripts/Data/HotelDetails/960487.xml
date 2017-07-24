@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>960487</Id>
+  <Name>Comfort Inn &amp;amp; Suites Hollywood</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2010 N.highland Av., Hollywood</Address1>
+    <Address2>Los Angeles, California</Address2>
+    <Address3 />
+    <City>Los Angeles-Ca</City>
+    <State />
+    <Zip>90068</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 323 874 4300</Tel>
+    <Fax>+1 323 874 2290</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>105</CountRooms>
+    <Latitude>34.1070047</Latitude>
+    <Longitude>-118.3372771</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1058/12/30/44/123044-GEN-1.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>17636</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/12/30/44/123044-GEN-1thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2410</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/12/30/44/123044-GEN-4.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>11475</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1058/12/30/44/123044-GEN-4thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2062</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/12/30/44/123044-HAB-2.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>12530</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1058/12/30/44/123044-HAB-2thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2143</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1058/12/30/44/123044-PIS-3.JPG</Url>
+    <Width>320</Width>
+    <Height>228</Height>
+    <Bytes>14137</Bytes>
+    <Caption>Pool</Caption>
+    <ThumbnailUrl>/RXLImages/1058/12/30/44/123044-PIS-3thumb.JPG</ThumbnailUrl>
+    <ThumbnailWidth>98</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2126</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SwimmingPool</Code>
+    <Text>Swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

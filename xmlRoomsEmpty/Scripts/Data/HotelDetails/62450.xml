@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>62450</Id>
+  <Name>The New Tropicana</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3801 LAS VEGAS BLVD SOUTH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas 89109</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-702-7392222</Tel>
+    <Fax>1-702-7393648</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>36.099777</Latitude>
+    <Longitude>-115.1725943</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>209</Height>
+    <Bytes>20468</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2571</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>246</Height>
+    <Bytes>30309</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2902</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>220</Height>
+    <Bytes>24889</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2797</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>211</Height>
+    <Bytes>19556</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2650</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Suite_4.jpg</Url>
+    <Width>360</Width>
+    <Height>206</Height>
+    <Bytes>24026</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2928</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>223</Height>
+    <Bytes>24046</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2594</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>321</Height>
+    <Bytes>17984</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1857</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>198</Height>
+    <Bytes>26981</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3039</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>184</Height>
+    <Bytes>17999</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2641</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>190</Height>
+    <Bytes>17819</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2550</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>201</Height>
+    <Bytes>33490</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3464</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Suite_5.jpg</Url>
+    <Width>360</Width>
+    <Height>184</Height>
+    <Bytes>15065</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Suite_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2353</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Suite_6.jpg</Url>
+    <Width>360</Width>
+    <Height>252</Height>
+    <Bytes>24165</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Suite_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2520</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>203</Height>
+    <Bytes>24362</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2958</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Suite_7.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>27363</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Suite_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2739</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Suite_8.jpg</Url>
+    <Width>360</Width>
+    <Height>206</Height>
+    <Bytes>16598</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Suite_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2127</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-TROhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>20981</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-TROhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2287</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This South Beach inspired hotel offers the best-in-class hotel rooms and suites, a large bright casno, 60,000 square feet of flexible meeting, catering and exhibit hall space, more than four acres of tropical pool area, a variety of appetizing bars and restaurants, a Poker Room and a state-of-the-art Race and Sports Book.  Exceptional entertainment includes the hotel's own Comedy Club with acts performing nightly and the Las Vegas Mob Experience museum of authentic organized crime memorabilia.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located on one of the most glamorous corners on the Las Vegas Strip, the hotel  boasts 1,876 guest rooms and suites, along with a 60,000 square foot casino,    award-winning dining establishments, world class entertainment, and one of the  most desirable pools in Las Vegas. Its a special corner of the world - welcome to it.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Each all new, best-in-class room is styled in a sunset palette of warm shades and appointed custom designed furnishing, plantation shutters, a sleek chaise or workspace desk, a king or queen size ultra-plush Euro Top Serta Perfect Sleeper mattresses and 300-thread count linens. In-room entertainment is also transformed with a 42 inch flat panel plasma TV, an iHome clock radio with a universal docking station and wireless internet. The hotel's Paradise Tower is located near the casino floor and designed for the leisure traveler who wants to be in the heart of Tropican's hot, new vibe. The 806-room Club Tower accommodations are a perfect option for business travelers throughout the week with quick easy access to the meeting space and for the club scene clientele on the weekends.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel has a tropical theme, with palm trees surrounding the property. The all white 22-storey Paradise Tower and a 21-storey Island Tower rise up in teh middle of the property. The tropical gardens feature a large inviting pool complete with a swim-up bar and swim-up gaming tables.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Get ready to dine in paradise, where there something for everyone.  Dining options include a classic steakhouse with innovative island flair, featuring premium cuts of steak and top-grade fish, prepared and presented with a fresh new twist. Guests will also enjoy the hotels authentic Italian restuarant with where recipes focus on fresh and high quality ingredients. For more casual dining, the hotel's cafe features a variety of vibrant and international flavors.  Guests will also love the quick to go options at the South Beach Marketplace including a yogurt and gelato shop, a full service Starbucks, and a fun and quick Pizza parlor.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby and registration desk are within steps of the entrance, which is a  convenience not often presented at Las Vegas properties.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

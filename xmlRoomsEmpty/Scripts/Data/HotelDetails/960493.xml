@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>960493</Id>
+  <Name>Elan</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>8435 Beverly Boulevard</Address1>
+    <Address2>Los Angeles, California</Address2>
+    <Address3 />
+    <City>Los Angeles-Ca</City>
+    <State />
+    <Zip>90048</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 323 658 6663</Tel>
+    <Fax>+1 323 658 6640</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>49</CountRooms>
+    <Latitude>34.0760257</Latitude>
+    <Longitude>-118.3744009</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL166900_0.jpg</Url>
+    <Width>401</Width>
+    <Height>300</Height>
+    <Bytes>20401</Bytes>
+    <Caption>Exterior view</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL166900_0thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>17336</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL166900_1.jpg</Url>
+    <Width>401</Width>
+    <Height>300</Height>
+    <Bytes>23817</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL166900_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>20522</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL166900_2.jpg</Url>
+    <Width>401</Width>
+    <Height>300</Height>
+    <Bytes>23803</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL166900_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>20143</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL166900_3.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>17799</Bytes>
+    <Caption>Bathroom</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL166900_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>18550</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL166900_4.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>28961</Bytes>
+    <Caption>Gym</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL166900_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>20694</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1030/CAL166900_5.jpg</Url>
+    <Width>400</Width>
+    <Height>300</Height>
+    <Bytes>23882</Bytes>
+    <Caption>Breakfast room</Caption>
+    <ThumbnailUrl>/RXLImages/1030/CAL166900_5thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>18699</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This 3 star hotel is located in the city centre of Los Angeles. It is close to the the grove and farmer market. The Hotel has a fitness centre/gym. All 49 rooms are equipped with minibar, hairdryer, ironing set and air conditioning.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 3 star hotel is located in the city centre of Los Angeles. It is close to the the grove and farmer market.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

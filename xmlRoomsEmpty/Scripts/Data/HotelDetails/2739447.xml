@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2739447</Id>
+  <Name>The Redbury At Hollywood &amp; Vine</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1717 VINE STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Hollywood (CA)</City>
+    <State />
+    <Zip>90028</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 323 962 1717</Tel>
+    <Fax>+1 323 962 1710</Fax>
+    <Email>karaf@theredbury.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>57</CountRooms>
+    <Latitude>34.1023799</Latitude>
+    <Longitude>-118.327151</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/27/01/8/27018_1.jpg</Url>
+    <Width>300</Width>
+    <Height>202</Height>
+    <Bytes>11421</Bytes>
+    <Caption>Outside view of hotel</Caption>
+    <ThumbnailUrl>/RXLImages/1026/27/01/8/27018_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>103</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2392</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/27/01/8/27018_2.jpg</Url>
+    <Width>300</Width>
+    <Height>194</Height>
+    <Bytes>13103</Bytes>
+    <Caption>Hotel lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/27/01/8/27018_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>108</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2685</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/27/01/8/27018_3.jpg</Url>
+    <Width>200</Width>
+    <Height>300</Height>
+    <Bytes>12376</Bytes>
+    <Caption>Standard room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/27/01/8/27018_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1535</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/27/01/8/27018_4.jpg</Url>
+    <Width>300</Width>
+    <Height>194</Height>
+    <Bytes>12441</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/27/01/8/27018_4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>108</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2505</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Situated at the iconic convergence of Hollywood and Vine, The Redbury's guest suites, amenities and services provide an unpretentious and engaging hospitality experience, appealing to a community that is passionately connected to the arts, music, fashion, and entertainment. Complementing The Redbury's inviting livability are its signature restaurant Cleo, welcoming public spaces, outdoor courtyard and guest library.
+
+Facility Includes :
+- 22 miles from Los Angeles International Airport (LAX); 8 miles Bob Hope Airport (BUR)
+- Valet Parking ($30 plus tax; fee is subject to change)
+- 57 suites and 5 floors
+- Wireless internet access ($10/day; fee is subject to change)
+- Fully stocked bar
+- HD LCD television with DVD
+- Vinyl collection and record player
+- Business services 
+- In-flat dining service 
+- Pressing, dry cleaning and alteration services 
+- Concierge service 
+- In-flat yoga or Pilates 
+- Social catering</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- No triple or quad occupancy
+- maximum occupancy is 2 pax
+- Hotel is 100% non-smoking</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

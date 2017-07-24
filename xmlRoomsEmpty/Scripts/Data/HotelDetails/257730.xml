@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>257730</Id>
+  <Name>Blue Moon Gay Resort</Name>
+  <Region>
+    <Id>21612</Id>
+    <Name>Off the Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2651 WESTWOOD DRIVE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas (NV)</City>
+    <State />
+    <Zip>89109</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 702 361 9099</Tel>
+    <Fax>+1 702 361 9110</Fax>
+    <Email>res@bluemonnlv.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>45</CountRooms>
+    <CountFloors>3</CountFloors>
+    <Latitude>36.141907</Latitude>
+    <Longitude>-115.172026</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1001/12988room1.jpg</Url>
+    <Width>320</Width>
+    <Height>232</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/12988room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>96</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2058</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1001/12988room2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/12988room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2179</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel is tropically themed with lush surroundings. The guestrooms are designed with a simple, uncluttered, masculine feel and comfort for the notoriously particular gay.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is situated off the Las Vegas Strip. It is close to city's shopping areas and nightlife. McCarran International Airport (LAS) is the nearest major airport.</Text>
+  </Description>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

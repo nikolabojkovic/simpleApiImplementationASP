@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>191589</Id>
+  <Name>Abc Arabian Suites</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>P.O Box: 113770 DUBAI</Address1>
+    <Address2 />
+    <Address3 />
+    <City>UNITED ARAB EMIRATES</City>
+    <State />
+    <Zip />
+    <Country>UAE</Country>
+    <Tel>971-4-3984304</Tel>
+    <Fax>971-4-3984305</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>25.250402</Latitude>
+    <Longitude>55.285918</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ZAG1hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>268</Height>
+    <Bytes>31239</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-ZAG1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1845</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ZAG1hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>17112</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-ZAG1hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2408</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ZAG1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>30793</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-ZAG1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1721</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ZAG1hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>23384</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-ZAG1hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2671</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-ZAG1hotel_Health_Club_2.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>20580</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-ZAG1hotel_Health_Club_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2385</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Offering 2 complete state of the art gyms and recreation centres, including weights, cardiovascular equipment, 2 terrace pools - offering light snacks throughout the day, for  those wishing to release the days events a Sauna and Steam room is also available.  RD 02.09</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Centrally located in Bur Dubai, close to Dubai's Business District and the famous Bank Street. Ideally located for those visiting the Dubai World Trade Centre and Exhibitions Halls, Sheikh Zayed Road and Business Bay, a mere 5 minutes drive away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All suites are furnished with fully equipped kitchens, LCD TV's, IDD Telephone with voicemail facilities, allowing the guests comfort when they rest and all the amenities to hand whilst working.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>A modern low storey building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>24 hour room service is available for those guests wishing to relax in privacy, alternatively guest may dine in the relaxed restaurant offering Breakfast, Lunch and Dinner daily.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A medium size reception area, contemporary in design offering limited seating.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

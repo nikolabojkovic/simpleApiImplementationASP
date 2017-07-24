@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>720306</Id>
+  <Name>Mandarin Oriental</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3752 LAS VEGAS BOULEVARD SOUTH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State />
+    <Zip>89158</Zip>
+    <Country>United States</Country>
+    <Tel>+1 702 590 8888</Tel>
+    <Fax>+1 702 590 8880</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>392</CountRooms>
+    <CountFloors>47</CountFloors>
+    <Latitude>36.1062236</Latitude>
+    <Longitude>-115.1745805</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>22916</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2385</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>18317</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2036</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>16220</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2069</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Lobby_1.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>23304</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2641</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>18537</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2248</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>21018</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2486</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>25392</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2418</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Lobby_3.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>28608</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2972</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Exterior_2.jpg</Url>
+    <Width>263</Width>
+    <Height>360</Height>
+    <Bytes>24475</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2169</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-MAN4hotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23946</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-MAN4hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2474</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Mandarin Oriental, Las Vegas will be a sophisticated sanctuary of modern elegance amidst the energetic lights of Las Vegas.Guests at the Mandarin Oriental Las Vegas check in at the resort's 23rd floor Sky Lobby. With an interior designed by Adam D. Tihany and spectacular views of the Las Vegas Strip, the lobby provides an amazing welcome to Vegas. 
+A skybridge connects hotel directly to Crystals at CityCenter, a world-class retail, dining and entertainment district. We are in the heart of a USD 40 million fine art program and world famous casinos are within steps of our hotel. Just a 25 minute drive away, you can be hiking through remote desert scenery or at beautiful Lake Mead.
+The Spa at Mandarin Oriental, Las Vegas, offers a deeply therapeutic experience, in surroundings that reflect the exotic luxury of 1930s Shanghai. Our philosophy is to deliver all aspects of wellness, physical and emotional, and provide inspiration for lifestyle change. Offering an array of spa therapies, seven private couple's suites, multiple relaxation experiences, an expansive Fitness Center and dedicated yoga studio, The Spa provides a completely holistic experience based on the union of modern techniques and Eastern traditional therapies.In studios with spectacular city views, we offer specialist guidance in well-being, which includes yoga classes, fitness programs and long term regimens for a healthier lifestyle.Las Vegas is home to more than 60 well-recognized golf courses. Just off The Strip is the Bali High Golf Club, an extraordinary scene with 7,002 yards of green beneath the Las Vegas skyline. We will be delighted to make your reservations for a round of golf.
+The Salon at Mandarin Oriental, Las Vegas offers exclusive and truly private accommodations for hair, makeup, beauty and nail services.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Conveniently near the airport in the heart of Las Vegas, Mandarin Oriental, Las Vegas is close to Sands Expo Convention Center, Las Vegas Convention Center, and Mandalay Convention Center. Also nearby are Thomas and Mack Center and Bali Hai Golf Club.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Interiors are by renowned designer Adam D.Tihany, and each is a model of sleek, contemporary design with subtle oriental touches. Located within CityCenter, a showcase of sustainable design, you'll find conservation and 21st century luxuries coexist comfortably at Mandarin Oriental, Las Vegas. In addition to the technological advances, it's the intangible pleasures that will delight, such as the gracious and sincere service that all of our guests have at their fingertips.
+Mandarin Oriental, Las Vegas offers 392 guestrooms. Rooms feature city, mountain, or pool views. Beds feature signature bedding, Egyptian cotton linens, and down comforters. 42-inch LCD televisions come with premium cable channels, free movie channels, and DVD players. Wired and wireless high-speed Internet access is available for a surcharge; speakerphones, CD players, and iPod docking stations are also provided. Bathrooms include separate bathtubs and showers with handheld showerheads, double sinks, bathrobes, and slippers. Separate sitting areas, minibars, and in-room safes (accommodate laptops) are also included. A nightly turndown service and housekeeping are provided. Amenities available on request include hypo-allergenic bedding. Cribs (infant beds) and rollaway beds are also available.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Mandarin Oriental, Las Vegas has 2 restaurants serving breakfast, lunch, and dinner. 24-hour room service is available. 
+Twist by Pierre Gagnaire is the only restaurant in the US where you can experience the extraordinary cuisine of French Chef Pierre Gagnaire who has garnered three Michelin stars for his restaurant in Paris.At Twist by Pierre Gagnaire you'll find imaginative menus where each dish delights the senses with the familiarity of classic French cuisine with a modern twist. The dinner-only restaurant features seasonal a la carte offerings, a delightful three-course tasting and a lavish six-course experience. Additionally, Twist showcases the finest cuts of meat such as the Californian Wagyu Beef Filet, Nebraska Prime Rib Eye and Pennsylvania Veal Chop.
+Step into MOzen Bistro, where our chefs have created a tour through Asia with a wide-variety of delicious cuisines plus a selection of American favorites.Located on the 3rd floor, MOzen has a refreshing light ambiance where one can enjoy breakfast, lunch and dinner complemented by impeccable service.  The breakfast menu features classic, early morning favorites and specialty dishes with Asian influences. The lunch menu showcases an exquisite sushi bar, zesty Indian delicacies and savory Thai dishes that are sure to delight.For dinner, Bento by MOzen Bistro specializes in the customized bento box.  Guests artfully craft their own bento box experience by selecting their six favorite items from a selection of more than 30 choices on the menu. Specialties from Thailand, Southeast Asia, Japan, Korea and India can be selected to create their own culinary discovery.</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelPetsNotAllowed</Code>
+    <Text>Hotel Pets NotAllowed</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Room220V</Code>
+    <Text>Room 220V</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

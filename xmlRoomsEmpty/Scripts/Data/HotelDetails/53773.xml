@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>53773</Id>
+  <Name>Sanderson</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>50 BERNERS STREET LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>W1T 3NG</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-73001400</Tel>
+    <Fax>44-1506-7567075</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5174937</Latitude>
+    <Longitude>-0.1369468</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Other_1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11947</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2536</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>24101</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2482</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Bar_Lounge_1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15018</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2614</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Spa_1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8530</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1921</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Exterior_1.jpg</Url>
+    <Width>341</Width>
+    <Height>288</Height>
+    <Bytes>19860</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2109</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Restaurant_2.jpg</Url>
+    <Width>215</Width>
+    <Height>288</Height>
+    <Bytes>14014</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2280</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Lobby_1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11997</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2457</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>274</Height>
+    <Bytes>32834</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2837</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Guest_Room_1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8754</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1968</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>282</Height>
+    <Bytes>22314</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2078</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>287</Height>
+    <Bytes>25077</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2459</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Guest_Room_2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11413</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2482</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Bar_Lounge_2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12104</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2517</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-SANhotel_Meeting_Room_1.jpg</Url>
+    <Width>271</Width>
+    <Height>288</Height>
+    <Bytes>13595</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-SANhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2029</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel has a 10,000 square-foot agua spa in London provides pampering,spiritual relief, and tranquility to all who enter. A dazzling array of rejuvenating treatments combining the best of ancient and modern techniques are offered. With its miles of diaphanous white curtains, 14 all-white treatment rooms, chill-out zone and meditation beds, agua has a peaceful, dreamy and almost cloud-like ambiance.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This hotel is located just off Oxford Street in the heart of the West End.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>This striking room imaginatively blurs the line between baroque and modern,structure and space, extravagance and simplicity. Designed without interior walls, layers of sheer curtains allow you to conceal or reveal different spaces as you desire. On each bed there is a hand-made pashmina which is for sale should you wish to purchase it. The bathrooms are shower only.The partition wall between the bathroom and bedroom is glass. The bathrooms consist of a glass sink, glass shelves and a glass wardrobe with a white curtain  Ingenious design touches reflect the whimsical aesthetic of Philippe Starck, including a rug inspired by Voltaire's handwriting and soothing landscape scenes that are hung, unexpectedly, on the ceiling. Every detail embodies thoughtful luxury,including entertainment on demand, Egyptian cotton linens and sumptuous bath products from agua by Korres. All standard rooms are 300 sqft/27.87 sqm</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is a large modern building dating from the 1960s with very large windows. The hotel does not have its name over the door the way other properties tend to.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Sanderson's restaurant is called Suka. It offers modern authentic Malaysian cuisine prepared with European sensibility. Created by acclaimed New York chef Zak Pelaccio, Suka's menu of fresh British and Malaysian produce marries French cooking techniques with the intensity and spectrum of Southeast Asian flavors.The menu is served in typical Asian sharing style and includes dishes ranging from home-style to truly elegant and luxe.Sanderson hotel is also famous for its focal point of energy The Long Bar.  Long Bar is light, white and airy and radiates freshness and cleanliness. Classic and innovative cocktails fill the seasonally changing menu, with guests also being able to enjoy the ultimate burger with a selection of varying garnishes, charcuterie and mezze sharing plates. The Purple Bar, with its veritable symphony of purples, lavenders and violets, is a chic and intimate lounge that has become one of London's hottest gathering places. It looks like an enormous meteorite just fallen from the sky,the wildly theatrical Purple Bar feels straight from the pages of "Alice in Wonderland",a quality that makes it the perfect setting for drinks,conversation and people-watching. Purple Bar offers 10oz Martinis as well as a selection of 3oz Martinis as well as a selection of 3oz classic Martinis, all of which are based on the original Martini 'The Martinez' dating back to 1860.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is a large open plan area. The hotel has been designed by Phillipe Stark, a famous designer. The flooring is light wood and the walls and windows are covered in white voile curtains. On entering there is a large red sofa, in the shape of a pair of lips, designed by Salvador Dali. The furniture is very abstract - mostly wooden carved chairs imported from Africa. There are also several gold chairs with carved swan arms.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

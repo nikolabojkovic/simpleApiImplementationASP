@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>61484</Id>
+  <Name>Marco LaGuardia Hotel (Formerly Wingate Inn)</Name>
+  <Region>
+    <Id>21686</Id>
+    <Name>La Guardia Airport Area</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>137-07 NORTHERN BLVD</Address1>
+    <Address2 />
+    <Address3 />
+    <City>FLUSHING, NY 11354 US</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>1-718-4453300</Tel>
+    <Fax>1-718-4453382</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.763553</Latitude>
+    <Longitude>-73.831012</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LGA-WINhotel_Exterior_1.jpg</Url>
+    <Width>355</Width>
+    <Height>270</Height>
+    <Bytes>28745</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LGA-WINhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2348</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LGA-WINhotel_Lobby_1.jpg</Url>
+    <Width>355</Width>
+    <Height>270</Height>
+    <Bytes>21173</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/7/LGA-WINhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2029</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LGA-WINhotel_Bedroom_1.jpg</Url>
+    <Width>355</Width>
+    <Height>270</Height>
+    <Bytes>17990</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LGA-WINhotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2020</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LGA-WINhotel_Bedroom_2.jpg</Url>
+    <Width>355</Width>
+    <Height>270</Height>
+    <Bytes>16523</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LGA-WINhotel_Bedroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1873</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LGA-WINhotel_Bathroom_1.jpg</Url>
+    <Width>355</Width>
+    <Height>270</Height>
+    <Bytes>19098</Bytes>
+    <Caption>Bathroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LGA-WINhotel_Bathroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1903</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LGA-WINhotel_Breakfast_Room_1.jpg</Url>
+    <Width>355</Width>
+    <Height>270</Height>
+    <Bytes>22179</Bytes>
+    <Caption>Breakfast Room</Caption>
+    <ThumbnailUrl>/RXLImages/7/LGA-WINhotel_Breakfast_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2192</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LGA-WINhotel_Business_centre_1.jpg</Url>
+    <Width>355</Width>
+    <Height>270</Height>
+    <Bytes>16380</Bytes>
+    <Caption>Business centre</Caption>
+    <ThumbnailUrl>/RXLImages/7/LGA-WINhotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1891</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Located near La Guardia Airport and only 8 miles from Manhattan, this hotel is great value for travelers to New York City. Subway access to Manhattan is only 3 blocks from the hotel and a 5 minute walk. The hotel is located in the heart of Downtown Flushing with plenty of shopping, dining and entertainment. (EM01/07)
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Located in Downtown Flushing, NY (Queens). Conveniently located only 8 miles from Times Square. Retail shopping just 1 block from the hotel with many restaurants to choose from.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Spacious accommodations built for the business traveler in mind. Those traveling for leisure will find a free microwave &amp; mini-fridge in their guestroom in addition to ample desk space, perfect for their laptop.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is a brand new 8 storey modern building.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>No Restaurant on site. Plenty of great places to eat within walking distance of the hotel.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is modern and brand new. Breakfast is served in the extended area of the lobby.
+</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

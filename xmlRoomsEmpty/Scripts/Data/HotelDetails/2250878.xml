@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250878</Id>
+  <Name>Shangrila Suite</Name>
+  <Region>
+    <Id>2297624</Id>
+    <Name>Riverside</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>188-188/1 Naradhiwas</Address1>
+    <Address2>Rajanagarindra Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2636 - 9456 - 9</Tel>
+    <Fax>(66) 2636 - 9475</Fax>
+    <Email>shangarilasuite@hotmail.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.724174</Latitude>
+    <Longitude>100.529709</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-facility1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10943</Bytes>
+    <Caption>shangrila_suite-facility1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-facility1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2525</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-facility2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9048</Bytes>
+    <Caption>shangrila_suite-facility2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-facility2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2313</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>15183</Bytes>
+    <Caption>shangrila_suite-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2930</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-overview1.jpg</Url>
+    <Width>138</Width>
+    <Height>146</Height>
+    <Bytes>8187</Bytes>
+    <Caption>shangrila_suite-overview1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-overview1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2125</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>6066</Bytes>
+    <Caption>shangrila_suite-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2135</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-room1.jpg</Url>
+    <Width>198</Width>
+    <Height>132</Height>
+    <Bytes>6725</Bytes>
+    <Caption>shangrila_suite-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>105</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2890</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>8296</Bytes>
+    <Caption>shangrila_suite-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/07/11/05/37/shangrila_suite-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2217</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Shangarila Suite ingeniously combines superb business orientation with the exhilaration of Modern Asian metropolis. It is specifically designed to suit the particular needs and tastes of expatriate individual and international family on business travel or relocation.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

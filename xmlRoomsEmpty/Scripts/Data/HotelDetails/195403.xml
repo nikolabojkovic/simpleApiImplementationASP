@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>195403</Id>
+  <Name>Savoy Suites</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>18 Mankhool Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip>28950</Zip>
+    <Country>United Arab Emirates</Country>
+    <Tel>+971 4 355 3000</Tel>
+    <Fax>+971 4 355 1330</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>25.253691</Latitude>
+    <Longitude>55.296904</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Location\nThis hotel is located in the heart of Dubai's business and commercial hub, Bur Dubai. It provides guests with easy access to Bank Street, the Al Fahidi Street shopping district and the very popular BurJuman Center with its prestigious and upscale designer shops. Its close proximity to the Dubai World Trade Centre and Dubai's International Exhibition Centre makes this property special.\nFacilities\nThis city hotel offers a business centre, small banquetting facilities, conference/meeting rooms and express check-out as well as a coffee shop.\nRooms\nThe Studio and Deluxe suites come equipped with air conditioning and have a fully equipped kitchenette and dining area. All come with a private bathroom with a hairdryer. They are equipped with a direct dial telephone with international calling, an LCD TV with satellite channels and in-room movies, complimentary high-speed Internet access and a safe. The kitchenettes have a fridge, a microwave and tea and coffee making facilities. Furthermore, a washer/dryer, an ironing set and a balcony feature in all accommodation as standard. Guests can benefit from a daily newspaper and a daily housekeeping service.\nSports/Entertainment\nThe recreational facilities on site include an outdoor temperature-controlled swimming pool and a health club with a sauna, a steam bath and a hot tub. Whether visitors are looking to enjoy a quick jog or lift light weights, the gym offers an advanced range of equipment.\nMeals\nThis apartment hotel offers guests a buffet breakfast and international cuisine for lunch and dinner.\nPayment\nAmerican Express, MasterCard and VISA are accepted at this hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>LocationThis hotel is located in the heart of Dubai's business and commercial hub; Bur Dubai. It provides guests with easy access to Bank Street; the Al Fahidi Street shopping district and the very popular BurJuman Center with its prestigious and upscale designer shops. Its close proximity to the Dubai World Trade Centre and Dubai's International Exhibition Centre makes this property special.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

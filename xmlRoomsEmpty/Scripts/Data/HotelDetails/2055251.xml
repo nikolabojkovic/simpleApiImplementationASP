@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2055251</Id>
+  <Name>Ten Star Inn</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>44/1-2 SOI PETCHBURI 17</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10400</Zip>
+    <Country>THAILAND</Country>
+    <Tel>++66 6534979</Tel>
+    <Fax>++66 26539982</Fax>
+    <Email>rsvn.tenstars@gmail.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.7532056</Latitude>
+    <Longitude>100.5382537</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/13/81/22/138122-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>9210</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/13/81/22/138122-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2003</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This air-conditioned city hotel is an ideal base for business and leisure travellers alike who are seeking comfortable yet affordable accommodation options. It fuses traditional and modern architecture with its tastefully decorated interiors, creating a soothing ambience in its 93 fully furnished guest rooms. Highlights include the specialty restaurant, the bar, and meeting and banquet facilities. The hotel lobby offers a 24-hour check-out service, and from here one may also make use of the hotel lifts to reach the guest rooms, or place items of value in the hotel safe. Internet access is available for a fee, as are the room and laundry services.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

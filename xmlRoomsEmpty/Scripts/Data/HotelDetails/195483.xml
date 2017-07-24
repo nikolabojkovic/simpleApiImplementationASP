@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>195483</Id>
+  <Name>Davinci Suites</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3/8 Sukhumv it 32 (Sawasdee) Klongtoey-nua; Wattana</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>Thailand</Country>
+    <Tel>+66 2 260 3939</Tel>
+    <Fax>+66 2 260 3938</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>15</CountRooms>
+    <Latitude>13.734247</Latitude>
+    <Longitude>100.565822</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211685-Exterior1_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2748</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211685-Exterior1_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2740</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211685-Exterior1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12628</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211685-Exterior1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2375</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211685-Restaurant1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8511</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211685-Restaurant1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2144</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211685-Restaurant2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6780</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211685-Restaurant2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1904</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211685-Room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5654</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211685-Room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1623</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211685-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6753</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211685-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1735</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1211685-Bar1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6390</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1211685-Bar1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1592</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description  3 star accommodations   Accessible to many local attractions   Beautiful  views and exceptional service   Deluxe accommodations   Tranquil ambience     Location  Conveniently located in Sukhumvit Road   Shopping area is just minutes away   Major attractions are nearby     Local Attractions  City entertainment in close proximity     Recreation  Relaxing full service spa     Restaurants &amp; Lounges  Nearby restaurant     Services  Room service   Business services available at front desk     Accommodation  15 guestrooms   3 star accommodations   Classic accommodations   Scenic views</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Affordable; charming with plenty of amenities; the Davinci Suites is sure to make you feel right at home</Text>
+  </Description>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

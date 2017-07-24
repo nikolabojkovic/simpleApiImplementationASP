@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2253175</Id>
+  <Name>Budacco</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>122/43-45 Ratchaprarop Road</Address1>
+    <Address2>Thanon - Phayathai</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2656 - 4440</Tel>
+    <Fax>(66) 2656 - 2818</Fax>
+    <Email>info@budacco.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.754061</Latitude>
+    <Longitude>100.53988</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/01/00/00/03/budacco-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>7284</Bytes>
+    <Caption>budacco-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/01/00/00/03/budacco-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2178</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/01/00/00/03/budacco-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>3269</Bytes>
+    <Caption>budacco-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/01/00/00/03/budacco-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2054</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/01/00/00/03/budacco-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>5390</Bytes>
+    <Caption>budacco-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/01/00/00/03/budacco-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1744</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/01/00/00/03/budacco-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>5478</Bytes>
+    <Caption>budacco-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/01/00/00/03/budacco-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1690</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Buddaco, People come to Bangkok for many different reasons, be it for business, or holiday But whatever your reasons may be, we know that your day in Bangkok will already be filled with a constant bombardment of colors, sights, sounds and smells of our busy (and crazy, we dare say) city At the end of the day, after all the excitements, we envision that our guests will appreciate a nice and quiet place to relax in private We envision this place to be clean and cheerful, a place where youll be able to recollect the excitements of the bygone day in comfort</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

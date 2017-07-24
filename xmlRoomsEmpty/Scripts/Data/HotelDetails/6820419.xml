@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>6820419</Id>
+  <Name>Mic</Name>
+  <Region>
+    <Id>52890</Id>
+    <Name>Kings Cross &amp; Camden</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>81-103 Euston Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London NW1 2EZ</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>00 44 20 7380 0001</Tel>
+    <Fax>00 44 20 7387 5300</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.526729</Latitude>
+    <Longitude>-0.135863</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-9Lhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>15474</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-9Lhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2086</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-9Lhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18466</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-9Lhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2278</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The hotel enjoys an amazing location, a stone throw away from Kings cross and Euston, close by to Warren Street and Oxford street, truly in the Heart of London. It has just been refurbished to very good standards, in a modern yet very functional style. A great choice for all travellers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>MIC is located on Euston street, adjacent to Euston Road, in the heart of London, 5 minutes from Kings Cross and 2 minutes from both Euston and Euston Square.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The hotel floor was rebuilt in 2004 and has been designed to offer the highest standards and value.  en-suite contemporary boutique style rooms feature: air conditioning; LCD television and radio, a desk space with internet access, room safe and telephone.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a modern building, recently renovated to high standards.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Breakfast and Lunch are available at the spacious and airy restaurant.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The hotel has a small size lobby.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

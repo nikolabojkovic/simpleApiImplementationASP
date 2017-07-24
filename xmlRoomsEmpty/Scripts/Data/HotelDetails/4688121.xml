@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>4688121</Id>
+  <Name>Holiday Inn Express Bangkok Siam</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>889 RAMA 1 ROAD, WANG MAI,PATHURNWA</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>66-02-2177555</Tel>
+    <Fax>66-02-2177444</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.7464582</Latitude>
+    <Longitude>100.5294814</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-HOL4hotel_Exterior_1.jpg</Url>
+    <Width>202</Width>
+    <Height>360</Height>
+    <Bytes>21130</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-HOL4hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2560</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-HOL4hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>238</Height>
+    <Bytes>25395</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-HOL4hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2713</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-HOL4hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>235</Height>
+    <Bytes>29105</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-HOL4hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3109</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-HOL4hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>247</Height>
+    <Bytes>17502</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-HOL4hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2134</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/BKK-HOL4hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>259</Height>
+    <Bytes>25492</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/BKK-HOL4hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2558</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Stay connected with our self-service Business Center with print, fax, copy and IT services and free high speed wireless internet access. Holiday Inn Express Bangkok Siam is also equipped with a standard meeting room, automatic vending machines and other self-service facilities.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Conveniently located at Rama 1 Road connected directly from Suvarnabhumi Airport, we are close to attractions like The National Stadium of Thailand, Jim Thompson House and MBK Shopping Centre. Travel easily to other parts of the city with the nearby National Stadium Sky Train Station (BTS) or readily available taxis in the neighborhood.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Great Room - Start the day right with the complimentary Express Breakfast Bar which has a Grab &amp; Go counter. During the day guests can use this as a smart place to lounge around or surf the net using our free WIFI. Our Vending Machines provides snacks &amp; beverages for.</Text>
+  </Description>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

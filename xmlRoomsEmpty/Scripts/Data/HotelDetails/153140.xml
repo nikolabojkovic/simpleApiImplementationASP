@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>153140</Id>
+  <Name>Henley House Hotel</Name>
+  <Region>
+    <Id>52887</Id>
+    <Name>Kensington &amp; Earls Court</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>30 Barkston Gardens</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW5 0EN</Zip>
+    <Country>UK - England</Country>
+    <Tel>0044 (0)2073704111</Tel>
+    <Fax>0044 (0)2073700026</Fax>
+    <Email>reservations@henleyhousehotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.4922033</Latitude>
+    <Longitude>-0.1913297</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/HELfront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/HELthumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2198</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/HELbed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/HELthumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1990</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/HELmap.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/HELthumbmap.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1667</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Henley House is a charming 3-star boutique hotel offering elegant accommodation near the heart of London. It boasts a warm, intimate atmosphere and overlooks a beautiful garden square. It is the perfect base for those wishing to explore the capital on a budget. The Earl's Court area is pleasant and residential, home to some fine examples of Victorian architecture. Nearby places of interest include the Earls Court Exhibition Centre, Hyde Park and the Natural History Museum. Earl's Court tube station is located in the vicinity, providing fast and easy access to other popular London destinations. The hotel is housed in a traditional mid-rise Victorian townhouse with red-brick faÃ§ade. There are no leisure facilities onsite, but free Wi-Fi is available throughout the premises. Standard rooms are compact but well appointed, with oak and mahogany furniture, finished in Italian granite. Amenities include complimentary tea and coffee making facilities. There is no restaurant onsite, but a continental buffet breakfast is provided every morning in the conservatory breakfast room. There are also plenty of dining opportunities in the vicinity. There is lift access to each floor.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HotelSafe</Code>
+    <Text>Central hotel safe</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

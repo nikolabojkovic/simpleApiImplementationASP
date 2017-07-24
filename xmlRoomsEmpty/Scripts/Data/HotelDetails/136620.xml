@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>136620</Id>
+  <Name>City Hotel</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>12-20 Osborn Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>E1 6TE</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+442072473313</Tel>
+    <Fax>+442073752949</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>83</CountRooms>
+    <Latitude>51.516828</Latitude>
+    <Longitude>-0.06977</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Front_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4591</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2409</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11909</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2321</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10586</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2255</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Dining2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11678</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Dining2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2284</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6975</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1798</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6153</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1585</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7504</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1832</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11153</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2271</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Bar2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10227</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Bar2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2177</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel9203-Bar3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8951</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel9203-Bar3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2144</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This hotel is ideal for the business traveller who needs to be close to the city, especially during the week and for leisure travellers on week-ends. The added bonus for corporate clients is the conference facilities for up to 250 - 300 people. A special residential conference package is also available for training, corporate, net working, exhibition, meeting, promotion, wedding or any occasions. Small syndicate rooms are available for smaller events, and for the convenience of all clients there is the "The Lane Bar" and "Cafe Suki" which offer modern worldwide cuisine, exotic cocktails and various events. All rooms include bedroom with en-suite facilities, TV, IDD telephone as well as hair dryer, tea &amp; coffee-making facilities and safety boxes. Irons and hair-dryers are available in the rooms. Baby cots are available upon request. The Lane is also available for the convenience of hotel guests. For the restaurant early bookings are recommended to avoid disappointment. The hotel offers a car park with room fo rup to 30-40 cars.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2079423</Id>
+  <Name>Baity Hotel Apartment Ex Bavaria Executive Suites (bur Dubai)</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>KUWAIT ROAD, P.O.Box 124052</Address1>
+    <Address2>Bur- Dubai</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+9714 3558800</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>70</CountRooms>
+    <CountFloors>7</CountFloors>
+    <Latitude>25.248975</Latitude>
+    <Longitude>55.296131</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/13/16/14/131614-img1-7.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7606</Bytes>
+    <Caption>131614-img1-7</Caption>
+    <ThumbnailUrl>/RXLImages/1033/13/16/14/131614-img1-7thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1821</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/13/16/14/131614-img2-6.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7186</Bytes>
+    <Caption>131614-img2-6</Caption>
+    <ThumbnailUrl>/RXLImages/1033/13/16/14/131614-img2-6thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1833</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/13/16/14/131614-img3-8.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6422</Bytes>
+    <Caption>131614-img3-8</Caption>
+    <ThumbnailUrl>/RXLImages/1033/13/16/14/131614-img3-8thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1815</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/13/16/14/131614-img4-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5912</Bytes>
+    <Caption>131614-img4-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/13/16/14/131614-img4-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1735</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/13/16/14/131614-img5-5.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6779</Bytes>
+    <Caption>131614-img5-5</Caption>
+    <ThumbnailUrl>/RXLImages/1033/13/16/14/131614-img5-5thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1701</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Built in 2010, this elegant hotel on Kuwait Road, the heart of Bur Dubai, offers 70 spacious accommodation units, free WLAN Internet access and a car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

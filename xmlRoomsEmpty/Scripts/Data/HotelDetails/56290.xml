@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>56290</Id>
+  <Name>Best Western Corona</Name>
+  <Region>
+    <Id>52928</Id>
+    <Name>Westminster &amp; Victoria </Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>85-89 BELGRAVE ROAD, VICTORIA,</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW1V 2BQ</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-20-78289279</Tel>
+    <Fax>44-20-79318576</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.489979</Latitude>
+    <Longitude>-0.13675</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COR1hotel_Exterior_1.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>26489</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COR1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2634</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COR1hotel_Lobby_1.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>22489</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COR1hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2547</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COR1hotel_Lobby_2.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>28516</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COR1hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2768</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COR1hotel_Guest_Room_1.jpg</Url>
+    <Width>350</Width>
+    <Height>350</Height>
+    <Bytes>24000</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COR1hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2628</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-COR1hotel_Restaurant_1.jpg</Url>
+    <Width>350</Width>
+    <Height>342</Height>
+    <Bytes>27067</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-COR1hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3206</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is a very good hotel, for both standards and location. (0209/RPL).</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in central Victoria, ideal for visiting London's many attractions. It is within walking distance of Buckingham Palace, Tate Gallery and Westminster Abbey.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms are in excellent condition. As this is a converted Victorian townhouse the majority of rooms differ in size and shape, but on average the rooms are medium in size and all are decorated in a modern style with light colour schemes. The bathrooms are small in size, on average, and in excellent conditions.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This is a restored traditional townhouse.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel does not have a restaurant but it has a breakfast room, with a vibrant colour scheme and modern design.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby is small in size and is decorated in a modern and pleasant style.
+There is a comfortable seating area next to the reception desk, ideal for relaxing and enjoying a drink from the newly opened adjacent bar.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

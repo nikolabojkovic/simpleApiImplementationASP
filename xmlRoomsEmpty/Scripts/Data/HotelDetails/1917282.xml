@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1917282</Id>
+  <Name>Ramada Culver City</Name>
+  <Region>
+    <Id>21627</Id>
+    <Name>Airport (LAX)</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3930 Sepulveda Blvd</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Culver City</City>
+    <State>California</State>
+    <Zip>90230</Zip>
+    <Country>USA</Country>
+    <Tel>13103902189</Tel>
+    <Fax>13103914529</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>50</CountRooms>
+    <Latitude>34.0102605</Latitude>
+    <Longitude>-118.4149202</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227803-exterior_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2126</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227803-exterior_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2119</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227803-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8739</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227803-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1892</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227803-exterior.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8687</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227803-exterior.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1891</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227803-guestroom001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6913</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227803-guestroom001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1916</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1227803-guestroom002.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7385</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1227803-guestroom002.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2029</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description: 3 star accommodations  Air-conditioned public areas  Affordable accommodations  Close proximity to major attractions  Close proximity to shopping district  Close proximity to airport Location: Conveniently located in Culver City  Located near  Sony Pictures Studios.  Local Attractions: Santa Monica Pier - 7.5 kilometers  Los Angeles County Museum of Art - 7.8 kilometers Restaurants &amp; Lounges: Nearby restaurant Services: 24 hr front desk service  Elevators Meeting Facilities:  Fully equipped business center  Accommodation: 3 star accommodations  50 guestrooms  Affordable accommodations  Comfortable rooms</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Ramada Culver City offers a prime location and beautiful surroundings meeting a price  that is sure to please</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

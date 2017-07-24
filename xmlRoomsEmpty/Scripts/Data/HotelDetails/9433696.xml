@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9433696</Id>
+  <Name>North American Vacation Homes - Toluca Hills Apartments</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3600 Barnham Blvd.</Address1>
+    <Address2>Hollywood</Address2>
+    <Address3 />
+    <City>Los Angeles</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel />
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Toluca Hills is a gated community set in the heart of Los Angeles only 10-15 minutes drive from Universal Studios and 6 miles from Hollywood....some studios can even be seen from the complex!   There is a Clubhouse with lounge and a BBQ area onsite.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kitchen</Code>
+    <Text>Kitchen</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2250615</Id>
+  <Name>Tonaor Place</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>67/2 soi Chareonsak,</Address1>
+    <Address2>Sutthisarn-Vinichai Road,</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2277 - 5279 - 80</Tel>
+    <Fax>(66) 2277 - 5050</Fax>
+    <Email>sale@tonaorplace.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.789668</Latitude>
+    <Longitude>100.57842</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/02/02/02/77/tonaor_place-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>329</Height>
+    <Bytes>17340</Bytes>
+    <Caption>tonaor_place-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/02/02/02/77/tonaor_place-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>53</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1881</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/02/02/02/77/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/02/02/02/77/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/02/02/02/77/tonaor_place-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6973</Bytes>
+    <Caption>tonaor_place-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/02/02/02/77/tonaor_place-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2086</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/10/02/02/02/77/tonaor_place-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>5725</Bytes>
+    <Caption>tonaor_place-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/10/02/02/02/77/tonaor_place-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1905</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

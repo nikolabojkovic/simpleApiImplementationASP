@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1890914</Id>
+  <Name>Comfort Inn SW8 (Formerly Comfort Inn Vauxhall)</Name>
+  <Region>
+    <Id>52923</Id>
+    <Name>Southbank</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>87 South Lambeth RoadVauxhall; Lambeth</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW8 1RN</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>+44 20 7224 4405</Tel>
+    <Fax>+44 20 7224 4002</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>115</CountRooms>
+    <Latitude>51.4858828</Latitude>
+    <Longitude>-0.1235211</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3853-London-U.K-Comfort-Inn-Vauxhall-front_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3289</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3853-London-U.K-Comfort-Inn-Vauxhall-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1886</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3853-London-U.K-Comfort-Inn-Vauxhall-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>27812</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3853-London-U.K-Comfort-Inn-Vauxhall-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1985</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3853-London-U.K-Comfort-Inn-Vauxhall-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>30313</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3853-London-U.K-Comfort-Inn-Vauxhall-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2026</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel3853-London-U.K-Comfort-Inn-Vauxhall-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>28000</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel3853-London-U.K-Comfort-Inn-Vauxhall-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1767</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This city hotel was recently redeveloped in a tasteful, contemporary style offering top-quality yet affordable accommodation units for tourist and corporate guests alike. Facilities available to guests of this 83-room hotel include a 24-hour reception, a bar, breakfast room and a car park (fees apply).</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeShop</Code>
+    <Text>Coffee shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

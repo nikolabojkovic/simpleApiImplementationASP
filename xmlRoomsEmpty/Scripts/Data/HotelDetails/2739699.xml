@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2739699</Id>
+  <Name>Metro Apartments</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>440 West 41St Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10036</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 212 217 0276</Tel>
+    <Fax>+1 212 204 9481</Fax>
+    <Email>fit@alliedtpro.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>55</CountRooms>
+    <Latitude>40.7583796</Latitude>
+    <Longitude>-73.9945585</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/26/86/6/26866_1.jpg</Url>
+    <Width>201</Width>
+    <Height>300</Height>
+    <Bytes>13750</Bytes>
+    <Caption>Outside view of hotel</Caption>
+    <ThumbnailUrl>/RXLImages/1026/26/86/6/26866_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1516</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/26/86/6/26866_2.jpg</Url>
+    <Width>300</Width>
+    <Height>225</Height>
+    <Bytes>10767</Bytes>
+    <Caption>Standard room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/26/86/6/26866_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2117</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The apartment features a doorman and elevators. Every apartment features a fully equipped kitchen, wired internet access and cable TV. The property is also equipped with air conditioning.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The property is located on 41st Street in Midtown, New York City. The apartments are close to Times Square, Central Park and Empire State Building.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

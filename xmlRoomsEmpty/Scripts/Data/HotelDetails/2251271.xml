@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2251271</Id>
+  <Name>Ibrik Resort by the river</Name>
+  <Region>
+    <Id>2297624</Id>
+    <Name>Riverside</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>256 Soi Wat Rakang</Address1>
+    <Address2>Arunamarin Road</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2848 - 9220</Tel>
+    <Fax>(66) 2866 - 2978</Fax>
+    <Email>info@ibrikresort.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>13.752808</Latitude>
+    <Longitude>100.485431</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6817</Bytes>
+    <Caption>ibrik_resort_by_the_river-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1925</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-logo.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>4700</Bytes>
+    <Caption>ibrik_resort_by_the_river-logo</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-logothumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2123</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6003</Bytes>
+    <Caption>ibrik_resort_by_the_river-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1986</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-room2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>5708</Bytes>
+    <Caption>ibrik_resort_by_the_river-room2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-room2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1669</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-room3.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>5667</Bytes>
+    <Caption>ibrik_resort_by_the_river-room3</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-room3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1837</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-room4.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>6066</Bytes>
+    <Caption>ibrik_resort_by_the_river-room4</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/08/02/00/59/ibrik_resort_by_the_river-room4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1952</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Welcome to Ibrik Resort a small intimate resort by the river, Feel the rhythm of the heart of Bangkok the Chaophraya river, Relax in a peacefully homey ambience, Discover the charm of local lifestyle in the neighbourhood.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

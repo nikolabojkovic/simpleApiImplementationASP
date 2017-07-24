@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>124123</Id>
+  <Name>Marriott Residence Inn Beverly Hills</Name>
+  <Region>
+    <Id>21626</Id>
+    <Name>Hollywood/Beverly Hills</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>1177 SOUTH BEVERLY DRIVE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BEVERLY HILLS</City>
+    <State />
+    <Zip>90035</Zip>
+    <Country>USA</Country>
+    <Tel>310 228 4100</Tel>
+    <Fax>310 277 7488</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>34.0562015</Latitude>
+    <Longitude>-118.3960123</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-ResidenceInnBHFront_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2335</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-ResidenceInnBHFront_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2332</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-exterior2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11492</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-exterior2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2305</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-exterior3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11419</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-exterior3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2163</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-frontdesk.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10373</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-frontdesk.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2169</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-ResidenceInnBHFront.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15833</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-ResidenceInnBHFront.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2054</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-ResidenceInnBHLobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14138</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-ResidenceInnBHLobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2289</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-ResidenceInnBHRoom1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15493</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-ResidenceInnBHRoom1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2041</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-ResidenceInnBHRoom2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15722</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-ResidenceInnBHRoom2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1820</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-ResidenceInnBHRoom3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15538</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-ResidenceInnBHRoom3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1885</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-kitchen.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8022</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-kitchen.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1954</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel19270-suite.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6760</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel19270-suite.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1655</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The air-conditioned hotel has business amenities including a business centre, a lobby with 24-hour check-out service, wireless Internet access, meeting rooms for small groups, and business services. A buffet breakfast is complimentary to guests. Event facilities include conference rooms. The staff can arrange dry cleaning and laundry services. Additional amenities include valet parking, and coffee in the lobby. This property is self-catering.</Text>
+  </Description>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

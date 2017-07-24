@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>60149</Id>
+  <Name>Caesars Palace</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3570 LAS VEGAS BLVD S</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS, NV 89109</City>
+    <State />
+    <Zip />
+    <Country>USA</Country>
+    <Tel>(866) 227-5938</Tel>
+    <Fax>1-702-8661700</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>36.1167144</Latitude>
+    <Longitude>-115.1742308</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-CAE1hotel_Exterior_1.jpg</Url>
+    <Width>222</Width>
+    <Height>349</Height>
+    <Bytes>26206</Bytes>
+    <Caption>Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAS-CAE1hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2517</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-CAE1hotel_Bedroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>269</Height>
+    <Bytes>68503</Bytes>
+    <Caption>Bedroom</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAS-CAE1hotel_Bedroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1767</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-CAE1hotel_Swimming_Pool_1.jpg</Url>
+    <Width>223</Width>
+    <Height>354</Height>
+    <Bytes>26402</Bytes>
+    <Caption>Swimming Pool</Caption>
+    <ThumbnailUrl>/RXLImages/7/LAS-CAE1hotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2695</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Roman-themed hotel is a landmark resort and convention complex. The garden area features three swimming pools and two giant outdoor whirlpool spas. Truly amazing shopping at The Forum Shops, featuring more than 160 boutiques and shops, as well restaurants. Additional shopping is on the Apian Way, where you will also find a life-sized replica of Michelangelo’s David. A luxurious spa and fitness centre are on premises, as well as a wedding chapel. NOTE: At the time of check-in, each individual guest will be required to provide the hotel with a valid credit card or cash deposit in the amount of $100 per each day of guest stay if paying via credit card, or $200 for the entire guest stay if paying via cash (the $200 cash deposit will only activate in-room movies and phone). If the guest fails to provide the requested credit card or cash deposit, the hotel will refuse to allow said guest to check into the hotel. (0706/CH)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located in the heart of the Strip.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Classic guest rooms range in size from 300 to 400 sq ft and are found within the Forum, Roman and Centurion towers. Featuring a wealth of standard amenities, these bedchambers exude a cool, only-in-Vegas vibe with your choice of one king or two double beds. Classic guest rooms include a cosy sitting area, wardrobe closet and the signature Caesars-style marble bathroom.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>When viewing the hotel, one feels like they are stepping back into Roman times. The tower, built in 1997, evokes the decadence of ancient Rome. The beautiful Garden of the Gods is set amongst meticulously landscaped courtyards and surrounded by classically inspired statues and fountains.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Dining choices range from exotic Asian delicacies to trendy casual dining in the eight restaurants at the hotel. There are another 13 restaurants and speciality shops located in the Forum Shops at Caesars for your dining pleasure.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The lobby has recently undergone a four million dollar renovation and is classed at its finest, featuring white marble floors, a small sitting area, concierge service and 20 windows for check-in service.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TennisCourt</Code>
+    <Text>Tennis court</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>44</Rank>
+</HotelElement>

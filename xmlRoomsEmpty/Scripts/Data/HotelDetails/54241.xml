@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>54241</Id>
+  <Name>Americana</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>172 GLOUCESTER PLACE NW1 6DS</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-77231452</Tel>
+    <Fax>44-20-77234641</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>51.5246408</Latitude>
+    <Longitude>-0.1607914</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-AMEhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>270</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-AMEhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Very pleasant, modern hotel with friendly staff. Good value for money.(0509AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is centrally located in the Baker Street area, just few minutes from the station and its excellent connections to all London, shopping districts, and tourist attractions. Close to Madame Tussauds exhibition and Planetarium. For guests arriving from Stansted and Luton airports, there is a bus service that stops outside Baker Street station.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms are of a modern style and bathrooms are in good condition. All the bedrooms are equipped with TV, direct dial telephone, modern furniture, and Internet access at a small charge.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Typical white townhouse, dated back to 1880, in keeping with surroundings.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Not available. There is a breakfast room located at the ground floor, next to the sitting area with a large plasma screen TV. Complimentary fresh ground coffee, hot chocolate and fresh brewed tea are available through the day from the vending machine.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The entrance to the hotel has a small but practical reception desk at the left side and a seating area on the right side. Opposite the entrance is the lift to the various floors.</Text>
+  </Description>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

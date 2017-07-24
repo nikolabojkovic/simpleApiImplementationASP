@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2251020</Id>
+  <Name>City Plaza Nana</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>84/6-8 Soi Sukhumvit 3 (Nana Nua)</Address1>
+    <Address2>Sukhumvit Road, Klongtoey Nua</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>MA05110001</Country>
+    <Tel>(66) 2655 - 3338</Tel>
+    <Fax>(66) 2655 - 3888</Fax>
+    <Email>info@citymansion.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.744721</Latitude>
+    <Longitude>100.553623</Longitude>
+  </GeneralInfo>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2252767</Id>
+  <Name>Rio Residence</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>88/2 Nang Lychee Rd</Address1>
+    <Address2>Chongnonsee  Yanawa</Address2>
+    <Address3 />
+    <City />
+    <State />
+    <Zip />
+    <Country>Thailand</Country>
+    <Tel>(66) 2 - 287 - 0041 - 9</Tel>
+    <Fax />
+    <Email>info@rioresidencebangkok.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>13.709066</Latitude>
+    <Longitude>100.541832</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/10/10/00/32/rio_residence-general1.jpg</Url>
+    <Width>250</Width>
+    <Height>260</Height>
+    <Bytes>10703</Bytes>
+    <Caption>rio_residence-general1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/10/10/00/32/rio_residence-general1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>67</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2004</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/10/10/00/32/rio_residence-general2.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>10257</Bytes>
+    <Caption>rio_residence-general2</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/10/10/00/32/rio_residence-general2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2792</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/10/10/00/32/NoPicture1.gif</Url>
+    <Width>120</Width>
+    <Height>90</Height>
+    <Bytes>904</Bytes>
+    <Caption>NoPicture1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/10/10/00/32/NoPicture1thumb.gif</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1708</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1080/WS/MA/09/10/10/00/32/rio_residence-room1.jpg</Url>
+    <Width>250</Width>
+    <Height>180</Height>
+    <Bytes>9332</Bytes>
+    <Caption>rio_residence-room1</Caption>
+    <ThumbnailUrl>/RXLImages/1080/WS/MA/09/10/10/00/32/rio_residence-room1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2425</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Rio Residence Bangkok Business Hotel is the perfect of accommodation for your business and pleasure trips. It locates just a few minutes from the heart of Bangkok is business location, Sathorn and Silom. Step into the relaxed and comfortable atmosphere, meet the best service from our lovely multi lingual staffs, and enjoy your stay at Rio Residence Bangkok.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>8193670</Id>
+  <Name>Cafe Royal</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>68 Regent Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>W1B 4DY</Zip>
+    <Country>England</Country>
+    <Tel>0044 20 7406 3300</Tel>
+    <Fax>00442074063366</Fax>
+    <Email>reservations@hotelcaferoyal.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/6/Y4Lfront.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/Y4Lthumbfront.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1959</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/Y4Lbed.jpg</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/Y4Lthumbbed.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1807</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/6/Y4Lmap.JPG</Url>
+    <Width>400</Width>
+    <Height>400</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/6/Y4Lthumbmap.JPG</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1955</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Cafe Royal is a luxury 5-star hotel offering elegant accommodation and personalised services in the heart of London. Highlights include fine dining, a wellness centre, indoor swimming pool and an excellent location close to Piccadilly Circus. The West End is a thriving entertainment district where many of London's major tourist attractions, shops, theatres and music venues are located. Nearby places of interest include Leicester Square, Covent Garden, Chinatown and Theatreland. Piccadilly Circus tube station is located in the vicinity, providing fast and easy access to other popular London destinations. The hotel occupies a grand mid-rise property featuring a mansard roof and decorative stonework. Facilities include a luxury wellness centre comprising an indoor swimming pool, a sauna, whirlpool, well-equipped gym and treatment rooms. A range of massages and spa treatments are available on request. Free Wi-Fi is available throughout the premises. Portland rooms are 37sqm and elegantly decorated in a contemporary style with rusticated Portland stone, modern furniture and rich fabrics. They overlook Regent Street and feature a small sitting area. Amenities include a flat-screen satellite TV, DVD player, Bang &amp; Olufsen stereo and Nespresso coffee machine. The marble en-suite bathrooms feature a bathtub, separate walk-in shower and designer toiletries. The Grill Room offers international dishes complimented by live music in a beautiful setting featuring mirrored walls and an ornate ceiling with elaborate gold leaf detailing. Ten Room is a contemporary brasserie-style restaurant, whilst The Domino offers fine dining in a charming and intimate atmosphere. Guests can also enjoy a range of cocktails, wines, spirits and light meals at the hotel bar. A buffet breakfast is provided every morning and there are plenty of dining opportunities in the vicinity. The hotel provides 24-hour reception and room service. Chargeable parking is possible nearby. ***The Akasha Spa is closed for renovation until summer 2013. This includes the lap pool, gym, sauna, aerobics studio and treatment rooms.***</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

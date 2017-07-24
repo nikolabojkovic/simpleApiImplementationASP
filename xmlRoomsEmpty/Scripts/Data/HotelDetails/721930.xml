@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>721930</Id>
+  <Name>West 57th Street</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>102 West 57th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10019</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 866 782 9442</Tel>
+    <Fax>+1 212 379 0104</Fax>
+    <Email>rentalwholesale@hgvc.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>161</CountRooms>
+    <CountFloors>28</CountFloors>
+    <Latitude>40.7644723</Latitude>
+    <Longitude>-73.9778401</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WESDhotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-WESDhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WESDhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-WESDhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/NYC-WESDhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>360</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/NYC-WESDhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>0</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>When you need a break from the energy and excitement of New York the accommodations provide a tranquil haven of relaxation inspired by the verve of metropolitan Manhattan.Need to whet your appetite with the succulent flavors and foods of New York. West 57th Street by Hilton Club will deliver to the guest room menu items from selected neighborhood eateries allowing you to sample a variety of authentic cuisine. To get you started each day the hotel offers a complimentary deluxe continental breakfast.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>West 57th Street by Hilton Club is Hilton Grand Vacations newest hotel in the heart of midtown Manhattan. Located in the heart of midtown Manhattan's prestigious Plaza District between 6th and 7th Avenues West 57th Street by Hilton Club is close to New York's most notable treasures Carnegie Hall - 1 block 5th Avenue Shops - 1 block Central Park - 2 blocks Lincoln Center - 4 blocks MoMA - 4 blocks Broadway - 6 blocks Radio City Music Hall - 6 blocks Rockefeller Center - 8 blocks.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Featuring all new construction and reaching 28 stories with 161 Studios - 1-bedroom Suites West 57th Street will blend the lights and excitement of New York with signature elements of Hilton Grand Vacations accommodations to create a hotel setting that is both comfortable and cosmopolitan. Studio rooms set a new standard for elegance function and comfort with floor-to-ceiling glass offering sweeping city views flooring gracefully appointed with the look and feel of wood and bedding and furniture designed to soften and soothe. One-bedroom Suites are consistent with West 57th's unique style offering spectacular city panoramas through the floor-to-ceiling glass and unobstructed views from the living room through the bedroom and into the master bath highlighting the open space. Luxurious linens provide the ultimate in sleep comfort and spacious bathrooms include a large shower and vanity while some Suites feature a sculptural tub perched along the windows with a skyline view of Manhattan.</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomSlippers</Code>
+    <Text>Room Slippers</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120665</Id>
+  <Name>Grange Rochester</Name>
+  <Region>
+    <Id>52928</Id>
+    <Name>Westminster &amp; Victoria </Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>VINCENT SQUARE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SW1P 2PA</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>02078286611</Tel>
+    <Fax>02072336724</Fax>
+    <Email>RESERVATIONS@GRANGEHOTELS.COM</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountFloors>5</CountFloors>
+    <CountSuites>17</CountSuites>
+    <Latitude>51.4944153</Latitude>
+    <Longitude>-0.1363526</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-front_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2608</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2601</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-banquet.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13054</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-banquet.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2361</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11401</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2218</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-dine1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10447</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-dine1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2127</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-dine2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9372</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-dine2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2163</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10951</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2223</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-meeting1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9783</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-meeting1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2054</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-meeting2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11312</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-meeting2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2298</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10235</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2106</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12676</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2286</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032812-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8908</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032812-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1977</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Grange Rochester Hotel is peacefully situated in Westminster`s Vincent Square and offers an oasis of calm in the heart of Central London. Many places of interest are within easy walking distance including Buckingham Palace, Whitehall, Westminster Abbey and Cathedral, The Houses of Parliament and the River Thames, together with some of London`s finest shops and theatres. Each of the newly refurbished exquisite bedrooms is beautifully decorated and elegantly furnished with fine fabrics and hand carved rosewood furniture. The Pavilion Restaurant, the Grange Rochester`s classic French restaurant, serves everything from a full English breakfast to a light snack or sumptuous five-course meal. The hotel also prides itself with the Rochester Wine Bar &amp; Brasserie catering to the most discerning clientele of the area. The Rochester hotel exhibits its own individual character, while beautifully combining and preserving the dignity of the past with modern sophistication and contemporary luxury.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

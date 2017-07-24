@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2079415</Id>
+  <Name>Jumeirah Zabeel Saray</Name>
+  <Region>
+    <Id>9043419</Id>
+    <Name>Jumeirah / Marina / Palm</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Resorts</Type>
+  <Address>
+    <Address1>The Palm Jumeirah Crescent - West</Address1>
+    <Address2>Palm Jumeirah</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4 453 0000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>443</CountRooms>
+    <CountFloors>5</CountFloors>
+    <Latitude>25.098269</Latitude>
+    <Longitude>55.123816</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>241</Height>
+    <Bytes>26025</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2908</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>25848</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2789</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>19858</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2512</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>238</Height>
+    <Bytes>17258</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2210</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Exterior_1.jpg</Url>
+    <Width>360</Width>
+    <Height>177</Height>
+    <Bytes>18468</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2249</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23384</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2753</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>26040</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2780</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>29213</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2985</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>31198</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2849</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>236</Height>
+    <Bytes>26204</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2773</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>30870</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2839</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>234</Height>
+    <Bytes>23665</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2534</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>245</Height>
+    <Bytes>17316</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2060</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>26833</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2795</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>283</Height>
+    <Bytes>39706</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3052</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Other_4.jpg</Url>
+    <Width>360</Width>
+    <Height>292</Height>
+    <Bytes>29867</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Other_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2597</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>219</Height>
+    <Bytes>25968</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2382</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>152</Height>
+    <Bytes>23393</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3288</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Lobby_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>32476</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Lobby_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2948</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>27209</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2940</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>217</Height>
+    <Bytes>20226</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2556</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>131</Height>
+    <Bytes>18273</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2709</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Spa_2.jpg</Url>
+    <Width>360</Width>
+    <Height>343</Height>
+    <Bytes>47391</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Spa_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3103</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Other_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>29975</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Other_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3151</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Exterior_3.jpg</Url>
+    <Width>360</Width>
+    <Height>225</Height>
+    <Bytes>35212</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3256</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>231</Height>
+    <Bytes>23754</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2739</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Suite_4.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>23361</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2866</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>295</Height>
+    <Bytes>40767</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3044</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>238</Height>
+    <Bytes>23590</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2496</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/JUME-JUM9hotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>234</Height>
+    <Bytes>23506</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/JUME-JUM9hotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2712</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Wild Wadi Waterpark is planning its annual maintenance programme and the entire park will be closed from 11th to 31st January 2012 inclusively</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>This spectacular beachside resort is located on the west crescent of the exclusive Palm Jumeirah, and offers exhilarating views of the Arabian Gulf and Dubai's impressive skyline. A short drive on the Palm and your back on the mainland and very close to the Souk at Madinat Jumeirah and the shopping of Mall of the Emirates. The downtown area is only 20 miinutes from the hotel and Dubai International Airport is a mere 35 minutes by car.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All rooms offer stunning ocean views, state of the art technology and batrhrooms designed in the traditional Ottoman Style. All rooms offer high-speed internet connection, balconies in all rooms, in-room tea &amp; coffee making facilities, satellite TV, 24-hour in room dining, bathroom with rain shower and marble baths and ipod docking stations.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The hotel is lavishly designed and decorated in an exquisite style reminiscent of the magnificant ers of the Ottoman Empire.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel harbours 7 restaurants offering worldwide specialties such as Turkish cuisine or French delicacies. Plenty of choice to keep everyone happy.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Grand Lobby as you enter with main reception and concierge desk.</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Jacuzzi</Code>
+    <Text>Jacuzzi</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kidspool</Code>
+    <Text>Kids Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Babysitter</Code>
+    <Text>Babysitter</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ChildrensClub</Code>
+    <Text>Childrens Club</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TourDesk</Code>
+    <Text>Tour Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OnSiteBeach</Code>
+    <Text>On-Site Beach</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

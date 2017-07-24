@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012462</Id>
+  <Name>Arize Hotel</Name>
+  <Region>
+    <Id>2297621</Id>
+    <Name>Sukhumvit</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>8/8 SUKHUMVIT 26 ROAD, KLONGTOEY, BANGKOK</Address1>
+    <Address2>Emporium Shopping Center</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 02-2044888</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>151</CountRooms>
+    <CountFloors>8</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/91/75/05/917505-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6345</Bytes>
+    <Caption>917505-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/75/05/917505-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1554</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/75/05/917505-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7355</Bytes>
+    <Caption>917505-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/75/05/917505-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1892</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/75/05/917505-img3-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5383</Bytes>
+    <Caption>917505-img3-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/75/05/917505-img3-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1727</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/75/05/917505-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8524</Bytes>
+    <Caption>917505-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/75/05/917505-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1901</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/91/75/05/917505-img5-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8011</Bytes>
+    <Caption>917505-img5-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/91/75/05/917505-img5-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1877</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Arize Hotel is a Tourist, Family Style, City hotel, City apartment hotel. Located in City Centre - Sukhumvit Rd. area. Shopping is right next door and the nightlife/restaurants are right next to the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Discover the new Arize Hotel Sukhumvit, a brand-new city hotel and serviced residence with a new casual attitude and especially designed to meet the needs of all our guests, whether in on business or pleasure.Arize Hotel Sukhumvit is located in the heart of Bangkok on Sukhumvit Road, the premiere Bangkok thoroughfare, in heart of one the city’s prominent business centers. The hotel is a step away from the luxury fashion shopping center Emporium, and within easy access to a variety of Asian and International supermarkets allowing you to indulge in a shopping spree to your hearts content. For a more tranquil experience take a short walk to Benjasiri Park (also know as Queen’s Park) which provides lush greenness and a relaxing, relatively quiet and refreshing atmosphere.The surrounding eclectic neighborhood offers entertainment venues and restaurants and chic bistros serving an extensive selection of savory cuisines.With its excellent location.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CurrencyExchangeService</Code>
+    <Text>Currency Exchange Service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HighSpeedInternet</Code>
+    <Text>High Speed Internet</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

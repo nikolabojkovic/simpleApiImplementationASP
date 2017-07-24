@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120734</Id>
+  <Name>The Berners</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>BERNERS STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>W1A 3BE</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>02076662000</Tel>
+    <Fax>02076662001</Fax>
+    <Email>berners@berners.co.uk</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>216</CountRooms>
+    <CountFloors>6</CountFloors>
+    <CountSuites>4</CountSuites>
+    <Latitude>51.5177077</Latitude>
+    <Longitude>-0.1370154</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1001/06629lobby1.jpg</Url>
+    <Width>320</Width>
+    <Height>230</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/06629lobby1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>97</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2805</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1001/06629lobby2.jpg</Url>
+    <Width>320</Width>
+    <Height>300</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/06629lobby2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>74</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2278</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This 4 star hotel is located in the city centre of London and was established in 1835. It is close to the Westminster Abbey and the nearest station is Tottenham Court Road. The Hotel has a restaurant, a bar, a conference room and a fitness centre/gym. All 235 rooms are equipped with hairdryer, internet access and trouser press.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 4 star hotel is located in the city centre of London and was established in 1835. It is close to the Westminster Abbey and the nearest station is Tottenham Court Road.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

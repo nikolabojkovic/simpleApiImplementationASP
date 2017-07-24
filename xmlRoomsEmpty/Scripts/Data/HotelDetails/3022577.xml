@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3022577</Id>
+  <Name>Chilli Hotel Bangkok</Name>
+  <Region>
+    <Id>2297624</Id>
+    <Name>Riverside</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>CHAROENKRUNG 37, SRI-PAYA, BANGKRAK 53/15-17</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10500</Zip>
+    <Country>THAILAND</Country>
+    <Tel>6626395707</Tel>
+    <Fax>6626395808</Fax>
+    <Email>SALES@THECHILLIBANGKOK.COM</Email>
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>13.7262395</Latitude>
+    <Longitude>100.515906</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1047/14/34/47/143447-COM-3.jpg</Url>
+    <Width>217</Width>
+    <Height>320</Height>
+    <Bytes>10927</Bytes>
+    <Caption>Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/34/47/143447-COM-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>47</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1443</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/34/47/143447-GEN-4.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>14304</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/34/47/143447-GEN-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2307</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/34/47/143447-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>7021</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/34/47/143447-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1608</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1047/14/34/47/143447-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>6215</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1047/14/34/47/143447-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1432</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>From Bangkok International Suvarnabhumi Airport: Take the Airport Link from Suvarnabhumi Airport to Makkasan station. Then connect with the MRT network at Phetchburi station to Hua Lampong station. Then take a tuk tuk for only 3 minutes to Chilli Bangkok Hostel at Soi Charoen Krung 37. How to find the hotel: turn into Soi (pedestrian street) Chareon Krung 37 and walk about 25 m until the end. Then turn right 2 m and turn left and the hotel will be visible.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Built in 2010, this 25-room club resort is the perfect choice for the single traveller or travellers who come with their favourite 'buddy'. In addition to a lobby area with 24-hour reception and check-out services, facilities available to guests at this air-conditioned establishment include a bar, wireless Internet access and a laundry service (fees apply). Guests arriving by car can leave their vehicles in the hotel car park for an extra charge.</Text>
+  </Description>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

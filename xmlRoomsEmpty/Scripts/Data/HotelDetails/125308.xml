@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>125308</Id>
+  <Name>Quality Inn &amp; Suites Hermosa Beach</Name>
+  <Region>
+    <Id>21625</Id>
+    <Name>Santa Monica - Beach Cities</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>901 Aviation Blvd</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Hermosa Beach</City>
+    <State>California</State>
+    <Zip>90254</Zip>
+    <Country>USA</Country>
+    <Tel>+1 310 374 2666</Tel>
+    <Fax>+1 310 379 3797</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>68</CountRooms>
+    <Latitude>33.8633567</Latitude>
+    <Longitude>-118.3911203</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel2055-Quality-Hermosa-front.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2357</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel2055-Quality-Hermosa-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2357</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel2055-Quality-Hermosa-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>24120</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel2055-Quality-Hermosa-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2319</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel2055-Quality-Hermosa-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>38175</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel2055-Quality-Hermosa-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2653</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel2055-Quality-hermosa-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>31377</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel2055-Quality-hermosa-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2193</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This hotel comprises a total of 68 rooms and guests can enjoy the superior full-service accommodation, including a free deluxe continental breakfast with cooked-your-way waffles, served in the ocean view terrace and breakfast room. Guests are welcomed to their accommodation with a bottle of water upon arrival and additional amenities include free local calls, a free daily newspaper delivered to guests' room, free coffee, a gym, an outdoor hot tub and a sun terrace. This establishment is ideal for business travellers and holidaymakers alike and special conveniences provided for business travellers include a free business centre, WLAN Internet access, computer hook-ups and access to copy and fax services. All the spacious guest rooms and suites include triple-sheeted beds and fluffy robes. Some rooms enjoy ocean views and offer in-room hot tubs. In addition to standard amenities, all rooms have a fridge, a coffee maker, an ironing set and a hairdryer and guests may also take advantage of the laundry service available on site. Executive, family and romantic suites are also available. Whether travelling for business or pleasure, the combination of price and location make this hotel the best travel value when in the Hermosa Beach area.</Text>
+  </Description>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Hottub</Code>
+    <Text>Hot Tub</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Icemachine</Code>
+    <Text>Ice Machine</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SelfLaundry</Code>
+    <Text>Self Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

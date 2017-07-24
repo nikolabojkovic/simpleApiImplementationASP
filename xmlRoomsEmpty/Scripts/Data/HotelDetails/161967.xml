@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>161967</Id>
+  <Name>Marlin Apartments Empire Square</Name>
+  <Region>
+    <Id>52923</Id>
+    <Name>Southbank</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>EMPIRE SQUARE SOUTH 24 LONG LANE 5-8</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>SE1 4NH</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>02073784840</Tel>
+    <Fax>00442073784841</Fax>
+    <Email>enquiries@marlinapartments.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5010706</Latitude>
+    <Longitude>-0.0913479</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/85/07/7/85077-GEN-1.jpg</Url>
+    <Width>240</Width>
+    <Height>320</Height>
+    <Bytes>18454</Bytes>
+    <Caption>General</Caption>
+    <ThumbnailUrl>/RXLImages/1057/85/07/7/85077-GEN-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1604</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/85/07/7/85077-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>252</Height>
+    <Bytes>11200</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/85/07/7/85077-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>88</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1775</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/85/07/7/85077-HAB-4.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>15307</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/85/07/7/85077-HAB-4thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2174</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/85/07/7/85077-TER-3.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>16296</Bytes>
+    <Caption>Terrace</Caption>
+    <ThumbnailUrl>/RXLImages/1057/85/07/7/85077-TER-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2158</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>By tube take the Northern Line to Borough and exit the station. Cross the road directly in front (Borough High Street) and turn left. Cross Great Dover Street, again in front, and continue past the old Town Hall on the right. Take the next right onto Tabard Street and keep left onto Long Lane. The entrance to the concierge is just ahead on the right. By rail take a mainline train to London Bridge station and exit onto the main concourse. Follow the signs for Guys Hospital and cross the footbridge. Walk down the stairs and through the hospital grounds (Great Maze Pond Street) with the main entrance doors to the hospital on your left. Exit out of the hospital grounds and take Crosby Row directly ahead. Follow this road to the junction with Long Lane and turn right. You will now be walking parallel with the building (on the left) and the entrance to the 24-hour concierge is just ahead on the left.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This 202 unit apartment-hotel is a new development which encompasses an internal square the size of Piccadilly Circus. Additional benefits include complimentary broadband, lift access, welcome basket and a weekly maid service. Rising from the northern tip of the development is a 22-storey landmark tower, specially designed to make its own distinct architectural statement. Designed by award winning architects, this landmark development presents a new vision of contemporary city living. The hotel features a lobby with WLAN Internet access and a 24-hour concierge operates on site. Many extra services are available on request, such as next day dry cleaning, car parking, childcare, additional maid service, and many more. The site is complimented by landscaped public areas, and facilities for cafes, restaurants and shops.</Text>
+  </Description>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kitchen</Code>
+    <Text>Kitchen</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WLANAccessPoint</Code>
+    <Text>WLAN Access Point</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RadioInRoom</Code>
+    <Text>Radio in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccessible</Code>
+    <Text>Wheelchair Accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

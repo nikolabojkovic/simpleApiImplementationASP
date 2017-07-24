@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>54496</Id>
+  <Name>The Langham</Name>
+  <Region>
+    <Id>52927</Id>
+    <Name>West End &amp; Marble Arch</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>1C PORTLAND PLACE REGENT STREET LONDON</Address1>
+    <Address2 />
+    <Address3 />
+    <City>W1B 1JA</City>
+    <State />
+    <Zip />
+    <Country>UK - England</Country>
+    <Tel>44-20-76361000</Tel>
+    <Fax>44-20-74361604</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5180354</Latitude>
+    <Longitude>-0.1446565</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Exterior_1.jpg</Url>
+    <Width>357</Width>
+    <Height>270</Height>
+    <Bytes>18259</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2023</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>279</Height>
+    <Bytes>18899</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2010</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Restaurant_1.jpg</Url>
+    <Width>351</Width>
+    <Height>270</Height>
+    <Bytes>21721</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2227</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>285</Height>
+    <Bytes>28138</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2747</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Meeting_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>283</Height>
+    <Bytes>25771</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2503</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Bar_Lounge_1.jpg</Url>
+    <Width>216</Width>
+    <Height>288</Height>
+    <Bytes>17175</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2318</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Suite_3.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>15503</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Suite_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>1904</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>267</Height>
+    <Bytes>23398</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2441</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Bar_Lounge_2.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>34986</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3001</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>285</Height>
+    <Bytes>34110</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2962</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Suite_4.jpg</Url>
+    <Width>358</Width>
+    <Height>288</Height>
+    <Bytes>24173</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Suite_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2339</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>19830</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2366</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Suite_5.jpg</Url>
+    <Width>360</Width>
+    <Height>281</Height>
+    <Bytes>27556</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Suite_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2614</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Swimming_Pool_1.jpg</Url>
+    <Width>352</Width>
+    <Height>270</Height>
+    <Bytes>17588</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2056</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Bar_Lounge_4.jpg</Url>
+    <Width>191</Width>
+    <Height>288</Height>
+    <Bytes>11937</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Bar_Lounge_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2323</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>279</Height>
+    <Bytes>23830</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2401</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Suite_6.jpg</Url>
+    <Width>226</Width>
+    <Height>288</Height>
+    <Bytes>17611</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Suite_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2479</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>280</Height>
+    <Bytes>37281</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2956</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Exterior_3.jpg</Url>
+    <Width>232</Width>
+    <Height>288</Height>
+    <Bytes>28039</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3004</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Restaurant_3.jpg</Url>
+    <Width>192</Width>
+    <Height>288</Height>
+    <Bytes>16406</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2548</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>260</Height>
+    <Bytes>27627</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2463</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Suite_7.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>16393</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Suite_7_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2046</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Bar_Lounge_5.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>25201</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Bar_Lounge_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2604</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-LANAhotel_Suite_8.jpg</Url>
+    <Width>360</Width>
+    <Height>292</Height>
+    <Bytes>22887</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-LANAhotel_Suite_8_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2375</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is one of London finest traditional hotels, located in an exceptional location. The public areas are breathtaking. The pool and Spa are a dream and the restaurant one of the best in town. The entire property was refurbished in 2008 to the highest of standards, making one of the finest, most elegant and luxurious hotels in London. (10/08 RPL)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is situated right in the centre of London in Portland Place, a few minutes walk from Oxford Street and Regent Street offering some of the best shopping in London. The nearest underground station is Oxford Circus.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Recently refurbished, these very large rooms have been decorated to a high standard, in a very traditional English style and are in exceptional condition. The style is English traditional, with relaxing pastel colour schemes, floral fabrics and complimented by dark mahogany and oak furniture and fittings. The marbled bathrooms are also in exceptional condition. These open plan Junior Suites enjoy a lounge area and most have views over the All Souls in Langham Place. Junior Suites are available with both, double or twin beds. Each room is decorated in a traditional style and has an in room safe, tea and coffee hospitality tray, a mini bar and writing desk, pressing facilities, branded toiletries, bathrobes and slippers, and leading edge in room entertainment console and Internet access. From 38 square metres. Blissful King size or Twin beds. Separate seating area with fold out sofa bed. 32 or 42 inches flat screen TV. OnCommand entertainment system with international satellite TV channels, pay to view movies and international programmed radio. Business desk. High speed broadband Internet access. 2 Direct dial elephones. A selection of luxury Penhaligon, London bathroom amenities. Bathrobes and slippers. Iron and ironing board Tea and coffee making facilities. Mini bar. Air conditioning. In room safe.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The building is one of London landmarks. Victorian in style, the building dates from 1865, completely restored and reopened in 1991, after being closed for fifty one years.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The Landau is one the best restaurants in London. In what used to be the Ball Room, famed designer David Collins formed one of the London top dining concepts. Newly open in 2008, the kitchen is head by famed Michelin starred chef Andrew Turner and served by famous sommelier Zack Saghir. 
+The bar,  Artesian, also designed by David Collins, is a fabulous space where to have light snacks and meals, and experience some of the best Rum cocktails in town.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A large grand lobby with high ceilings and marbled floors.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>24</Rank>
+</HotelElement>

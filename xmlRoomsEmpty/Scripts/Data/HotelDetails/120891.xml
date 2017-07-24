@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120891</Id>
+  <Name>Grange City</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>COOPERS ROAD 8-14</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON</City>
+    <State />
+    <Zip>EC3N 2BQ</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>44-20-78633700</Tel>
+    <Fax>44-20-78633701</Fax>
+    <Email>RESERVATIONS@GRANGEHOTELS.COM</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.5108236</Latitude>
+    <Longitude>-0.0765678</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-Pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8138</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-Pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1826</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-Pool1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8989</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-Pool1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2147</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-Restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13706</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-Restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2606</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-Gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9684</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-Gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2197</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-Guestroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7732</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-Guestroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2027</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-Guestroom1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8872</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-Guestroom1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1996</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-Guestroom2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9244</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-Guestroom2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2158</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-MeetingRoom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13343</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-MeetingRoom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2502</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-MeetingRoom1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11966</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-MeetingRoom1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2127</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-main001_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4393</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-main001_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2295</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-room001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9018</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-room001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2053</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1229218-main001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12132</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1229218-main001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2162</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The nearest underground station is Tower Hill, on District and Circle lines. When you exit the station, turn right and walk along Coopers Row for 50 metres: the hotel is on the right. Arriving on M40-Mway turns into A40 into Euston Road. At Railway station turn right into upper Woburn Place. Follow sign to Holborn then St Paul's, Tower Hill station. Hotel is on Coopers Row a few moments from Tower Hill station and opposite the Tower of London.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel was built in 1994 and consists of 240 rooms spread over 12 floors, of which 16 are suites. Various facilities are available to guests including a stylish foyer with lifts, safes, a cloakroom and a 24-hour reception desk. In addition, there is a TV room, several shops, a café, 2 cosy bars and 3 air-conditioned à la carte restaurants with separate non-smoking areas and highchairs for infants. A conference room and Internet access are available for business guests. There are room and laundry services available. The hotel has its own parking facilities for guests arriving by car as well as a play area for children.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Amenity>
+    <Code>WheelchairAccess</Code>
+    <Text>Wheelchair access</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

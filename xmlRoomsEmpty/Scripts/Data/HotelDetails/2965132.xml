@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2965132</Id>
+  <Name>Yotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>570 Tenth Avenue</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10036</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1 646 449 7700</Tel>
+    <Fax>+ 1 646 449 7706</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>699</CountRooms>
+    <Latitude>40.7594382</Latitude>
+    <Longitude>-73.9955864</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1233457-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>2974</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1233457-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1780</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1233457-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6807</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1233457-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1736</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1233457-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5787</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1233457-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1679</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1233457-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5920</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1233457-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1581</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1233457-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5572</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1233457-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1672</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is right by New York City?s Theater and Garment district and only moments away from the famed Times Square.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Each room comes equipped with a LCD/HD TV, an iPod docking station and a technowall with mood lighting. The bathrooms have walk in monsoon showers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>Medium sized building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel boasts several restaurants, lounges and bars. Restaurant hours are from 12pm to 12 am.</Text>
+  </Description>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

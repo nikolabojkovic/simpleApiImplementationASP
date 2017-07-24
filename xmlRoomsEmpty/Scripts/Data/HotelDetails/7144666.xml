@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>7144666</Id>
+  <Name>La Quinta Inn Las Vegas Nellis</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4288 North Nellis Boulevard</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89115</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 632 0229</Tel>
+    <Fax>+1 702 643 2598</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>36.237835</Latitude>
+    <Longitude>-115.06208</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-hotel_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3845</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-hotel_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2136</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-meetingeroom.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6394</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-meetingeroom.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1602</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-restaurant.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8218</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-restaurant.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1729</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-suite.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8646</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-suite.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2022</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8065</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2024</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-hotel.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9174</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-hotel.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2063</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7954</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1693</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-roomIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8858</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-roomIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2080</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7719</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1825</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214609-conference.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8287</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214609-conference.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1857</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nAccessible to many local attractions\nLocation\nConveniently located in Northeast Las Vegas\nLocal Attractions\nLieds Children's Museum - 5 miles\nCashman Field - 8 miles\nHorsemans &amp; Dog Fanciers Park - 10 miles\nCannery Casino - 3 miles\nDowntown Las Vegas - 8 miles\nFremont Street Experience - 10 miles\nNellis Air Force Base - .1 miles\nLockheed Martin - 2 miles\nLas Vegas Motor Speedway - 3 miles\nCraig Ranch Golf Course - 4 miles\nRecreation\nBeautiful golf course nearby\nFully equipped fitness center\nIndoor swimming pool\nRestaurants &amp; Lounges\nBreakfast Room\nNearby restaurant\nMeeting Facilities\nSmall conference room available\nAccommodations\n3 floors\n59 guestrooms\nComfortable rooms\nCondo accommodations\nParking\nOn site parking available\nPolicies\nPets allowed - contact hotel for details</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>With accommodations that are both comfortable and affordable; La Quinta Inn Las Vegas Nellis is a great choice for  business or pleasure on a budget</Text>
+  </Description>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

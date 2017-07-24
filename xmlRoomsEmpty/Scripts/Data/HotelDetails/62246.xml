@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>62246</Id>
+  <Name>Bellagio Las Vegas</Name>
+  <Region>
+    <Id>21611</Id>
+    <Name>The Strip</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3600 LAS VEGAS BLVD. SOUTH</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LAS VEGAS</City>
+    <State>NV</State>
+    <Zip>89109</Zip>
+    <Country>USA</Country>
+    <Tel>1-702-6937111</Tel>
+    <Fax>1-702-6938546</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>36.1118499</Latitude>
+    <Longitude>-115.17699</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Exterior_1.png</Url>
+    <Width>286</Width>
+    <Height>360</Height>
+    <Bytes>20724</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Exterior_1_thumb.png</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>1954</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>283</Height>
+    <Bytes>43803</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3140</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Restaurant_2.jpg</Url>
+    <Width>236</Width>
+    <Height>300</Height>
+    <Bytes>33866</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3744</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Restaurant_1.jpg</Url>
+    <Width>284</Width>
+    <Height>360</Height>
+    <Bytes>36043</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2955</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Other_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>42311</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3258</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Lobby_1.jpg</Url>
+    <Width>241</Width>
+    <Height>360</Height>
+    <Bytes>42285</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3678</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>271</Height>
+    <Bytes>47789</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3369</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>286</Height>
+    <Bytes>28046</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2684</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Restaurant_3.jpg</Url>
+    <Width>289</Width>
+    <Height>360</Height>
+    <Bytes>32633</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3003</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Suite_1.jpg</Url>
+    <Width>360</Width>
+    <Height>254</Height>
+    <Bytes>30995</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Suite_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2977</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>233</Height>
+    <Bytes>35559</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3606</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>215</Height>
+    <Bytes>29558</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3194</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>31617</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3155</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Bar_Lounge_2.jpg</Url>
+    <Width>269</Width>
+    <Height>360</Height>
+    <Bytes>23620</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Bar_Lounge_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2342</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>32712</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3168</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Spa_1.jpg</Url>
+    <Width>360</Width>
+    <Height>299</Height>
+    <Bytes>25478</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Spa_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2496</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Exterior_2.jpg</Url>
+    <Width>360</Width>
+    <Height>286</Height>
+    <Bytes>25906</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2224</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Suite_2.jpg</Url>
+    <Width>360</Width>
+    <Height>219</Height>
+    <Bytes>23139</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Suite_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2828</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Restaurant_5.jpg</Url>
+    <Width>275</Width>
+    <Height>360</Height>
+    <Bytes>32392</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Restaurant_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2818</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>253</Height>
+    <Bytes>21743</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2313</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Lobby_2.png</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>18152</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Lobby_2_thumb.png</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2123</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Bar_Lounge_3.jpg</Url>
+    <Width>360</Width>
+    <Height>287</Height>
+    <Bytes>33110</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Bar_Lounge_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2754</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Exterior_3.jpg</Url>
+    <Width>287</Width>
+    <Height>360</Height>
+    <Bytes>38324</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Exterior_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2906</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Restaurant_6.jpg</Url>
+    <Width>235</Width>
+    <Height>300</Height>
+    <Bytes>35352</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Restaurant_6_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>4032</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Guest_Room_5.jpg</Url>
+    <Width>360</Width>
+    <Height>169</Height>
+    <Bytes>18468</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Guest_Room_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2739</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Guest_Room_1.png</Url>
+    <Width>360</Width>
+    <Height>283</Height>
+    <Bytes>21366</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Guest_Room_1_thumb.png</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2011</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>304</Height>
+    <Bytes>22215</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2168</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Swimming_Pool_2.png</Url>
+    <Width>360</Width>
+    <Height>288</Height>
+    <Bytes>21428</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Swimming_Pool_2_thumb.png</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2113</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LAS-BELhotel_Swimming_Pool_3.jpg</Url>
+    <Width>360</Width>
+    <Height>287</Height>
+    <Bytes>32627</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LAS-BELhotel_Swimming_Pool_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2696</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Designed as a Mediterranean villa, the Bellagio Las Vegas is known for the 1,000 fountains that perform to orchestrated music. Sitting on 120 acres at the corner of the strip, guests can walk to hundreds of venues. 
+Guests also benefit from the conservatory and botanical gardens, art gallery, lobby featuring 2,000 hand-blown glass flowers, and the world's tallest fountain made of melted chocolate.
+The Bellagio Gallery of Fine Art exhibits renowned artists' works from museums around the world. Highlighted by citrus and parterre gardens, the nine-and-one-half acre Mediterranean garden oasis is landscaped with fruit and cypress trees, five heated pools and four spa tubs. Rental cabanas feature televisions, telephones, refrigerators, sinks, dining sets, ceiling fans and misting systems. Pampering treatments include LaStone Massage, the Fleurs Garden Aromatherapy Treatment and the Detox-Thalasso Seaweed Body Treatment.
+There is a superb array of dining choices, including 8 fine-dining restaurants offering gourmet cuisine in a variety of styles. There are endless entertainment opportunities from Cirque de Soleil's  "O" to the sumptuous spa, where you can enjoy a range of pampering treatments. 
+Bellagio presents the upper echelon of Las Vegas golf, sure to indulge your love for the game. The World-famous Shadow Creek golf course, and various Partner Courses each offer a distinctive experience to suit your specific level of play.
+Enjoy the world-class shopping here, including designers such as Chanel, Armani, Prada, Gucci, and Tiffany and Company.
+The Bellagio hotel offers 3,933 guestrooms that afford city, pool, or mountain views. Rooms reflect contemporary Mediterranean decor with marble entryways. Beds feature pillowtop mattresses and are dressed with 300-thread count linens. Bathrooms include marble and wood vanities, lighted makeup mirrors, weight scales, telephones, bathrobes, glass-enclosed showers and separate bathtubs. Technological enhancements include flat-screen televisions, and high-speed wired Internet access, for a fee. Guestrooms and suites contain minibars and laptop-compatible, in-room safes. Select accommodations feature Bose Wave radios, and DVD players.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Bellagio resort is located on the Las Vegas Strip in the Paradise area fronted by approximately 1,000 fountains dancing to opera and classical music, the Tuscan-style Bellagio is located in Las Vegas, Nevada, only a 5-minute drive from the Convention Center and a 10-minute drive to the Las Vegas International Airport.The Bellagio is connected by walkways to both Caesars Palace and Bally's Las Vegas.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Each beautiful room is elegantly appointed with custom European-style furnishings and art, and is equipped with every modern-day convenience. The bathrooms have a third telephone, bathtubs and separate shower, hair dryer, makeup mirror, marble floors, luxurious linens, and every amenity you would expect in a 5-star deluxe resort.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>This luxurious, crescent-shaped Mediterranean-style hotel stands 36 stories tall and overlooks a 12-acre lake.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The resort features 13 dining establishments, from casual to fine dining, each offering an array of culinary delights. There are also 4 cafes to have a quick bite and 6 bars and 3 lounges.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>The large lobby features, amongst many other things, a ceiling adorned in a breathtaking display of over 2,000 hand-blown glass flowers, created by world-renowned artist Dale Chihuly.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniBarInRoom</Code>
+    <Text>Mini-bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarRentDesk</Code>
+    <Text>Car rental desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shops</Code>
+    <Text>Shops</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>103</Rank>
+</HotelElement>

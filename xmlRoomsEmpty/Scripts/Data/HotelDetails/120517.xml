@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>120517</Id>
+  <Name>Old Bell</Name>
+  <Region>
+    <Id>52924</Id>
+    <Name>Stansted</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>PINES HILL, STANSTED MOUNTFITCHER</Address1>
+    <Address2 />
+    <Address3 />
+    <City>HARLOW</City>
+    <State />
+    <Zip>CM24 8EY</Zip>
+    <Country>United Kingdom</Country>
+    <Tel>00441279816555</Tel>
+    <Fax>00441279812870</Fax>
+    <Email>THEOLDBELL@HOTMAIL.COM</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>21</CountRooms>
+    <Latitude>51.899019</Latitude>
+    <Longitude>0.191274</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1001/23056hotel1.jpg</Url>
+    <Width>320</Width>
+    <Height>202</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/23056hotel1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>110</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2626</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1001/23056bar1.jpg</Url>
+    <Width>320</Width>
+    <Height>210</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1001/23056bar1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>106</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2609</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This attractive hotel occupies an old dairy from the 15th century. The hotel includes a total of 22 rooms. Guests will find a 24-hour reception service and Internet terminal in the lobby. Further facilities include a bar, which reminds guests of the former dairy through its low ceilings and open fireplace, and an à la carte restaurant (with highchairs). Furthermore, guests are offered rooms for parties, conferences and banquets. There is also a laundry service on offer to guests. In addition, those arriving by car may take advantage of the car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>Bar</Code>
+    <Text>Bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>PublicInternetAccess</Code>
+    <Text>Public internet access</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestuarantHighChair</Code>
+    <Text>Restuarant High Chair</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Carpeted</Code>
+    <Text>Carpeted</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomCentralHeating</Code>
+    <Text>Central heating in room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

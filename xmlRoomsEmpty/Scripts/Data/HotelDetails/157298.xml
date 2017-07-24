@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>157298</Id>
+  <Name>Grange White Hall Hotel</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>2 Montague Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>WC1B5BU</Zip>
+    <Country>England</Country>
+    <Tel>0207 580 2224</Tel>
+    <Fax>02075805554</Fax>
+    <Email>whitehall.reservations@grangehotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5200271</Latitude>
+    <Longitude>-0.1257232</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-front_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2782</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2777</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11793</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2418</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11041</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2246</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-reception.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10884</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-reception.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2167</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-dine1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9990</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-dine1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2064</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-dine2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13212</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-dine2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2452</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12455</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2340</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12425</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2304</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9401</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2035</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-meeting2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11375</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-meeting2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2349</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-meeting3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10793</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-meeting3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2241</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1032814-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12896</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1032814-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2515</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Grange White Hall Hotel is uniquely located overlooking the world renowned British Museum, on Montague Street in the quieter part of London`s West End. With its Georgian architecture and private landscaped gardens, the Grange White Hall provides sumptuous comfort in one of the world`s most fashionable neighbourhoods and within easy access of London`s famous theatres, fashion attractions, the West End. Magnificent original and elegant features have been lovingly restored.  All guest rooms are spacious and individually designed in traditional English Style. The atmospheric English Garden Restaurant overlooking the hotel`s manicured lawns and mature gardens offers the perfect opportunity to enjoy luncheon, dinner or to indulge in a traditional afternoon tea. 
+The Elgin Lounge Bar is the perfect place for enjoying and simply to relax with your favorite cocktail. Superbly landscaped mature private gardens overlooking the world renowned British Museum are available to guests visiting the Grange White Hall Hotel. The Grange White Hall is a place to relax and enjoy</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

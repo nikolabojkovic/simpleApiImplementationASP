@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9016061</Id>
+  <Name>Marmara Hotel Apartments</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>AL BARSHA 1, NEXT TO GRANDEUR HOTEL</Address1>
+    <Address2>Mall Of The Emirates</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 04-3851122</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>102</CountRooms>
+    <CountFloors>18</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/90/40/75/904075-img1-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7090</Bytes>
+    <Caption>904075-img1-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/40/75/904075-img1-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1783</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/40/75/904075-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7192</Bytes>
+    <Caption>904075-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/40/75/904075-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1947</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/40/75/904075-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6749</Bytes>
+    <Caption>904075-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/40/75/904075-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1874</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/40/75/904075-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7180</Bytes>
+    <Caption>904075-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/40/75/904075-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1861</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/90/40/75/904075-img5-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6076</Bytes>
+    <Caption>904075-img5-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/90/40/75/904075-img5-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1639</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The MARMARA HOTEL APARTMENTS is a Tourist, All Suite, Business, City apartment, Full Service hotel. Located in Al Barsha area. Shopping is within walking distance and the nightlife/restaurants are within walking distance from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Marmara deluxe hotel apartments is located only minutes away from the sheikh zayed road within a walking distance from mall of the emirates and ski dubai. it boasts 102 one bedroom, 2 and 3 bedroom suites, free wi-fi, an outdoor pool and a gym. all suites at marmara feature a modern décor. each suite has a separate living room with a dining table and 2 flat-screen tvs. the fully equipped kitchen includes a microwave, an oven and a stove, cutlery, crockery. china and glassware.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Babysitter</Code>
+    <Text>Babysitter</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

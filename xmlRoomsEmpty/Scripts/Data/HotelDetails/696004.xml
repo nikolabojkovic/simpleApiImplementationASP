@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>696004</Id>
+  <Name>The Union Square Hotel</Name>
+  <Region>
+    <Id>64378</Id>
+    <Name>Lower East Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>309 East 14th Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State />
+    <Zip>10003</Zip>
+    <Country>United States</Country>
+    <Tel>001 212 614 0500</Tel>
+    <Fax>0012126410512</Fax>
+    <Email>unionsquareinn@nyinns.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.732278</Latitude>
+    <Longitude>-73.9842982</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17480_1.JPG</Url>
+    <Width>400</Width>
+    <Height>691</Height>
+    <Bytes>36548</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17480Thumb_1.jpg</ThumbnailUrl>
+    <ThumbnailWidth>41</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1494</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17480_2.JPG</Url>
+    <Width>230</Width>
+    <Height>230</Height>
+    <Bytes>15324</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17480Thumb_2.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2278</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17480_3.JPG</Url>
+    <Width>400</Width>
+    <Height>699</Height>
+    <Bytes>33118</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17480Thumb_3.jpg</ThumbnailUrl>
+    <ThumbnailWidth>40</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1339</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17480_4.JPG</Url>
+    <Width>400</Width>
+    <Height>372</Height>
+    <Bytes>29304</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17480Thumb_4.jpg</ThumbnailUrl>
+    <ThumbnailWidth>75</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1907</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17480_5.JPG</Url>
+    <Width>202</Width>
+    <Height>277</Height>
+    <Bytes>15479</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17480Thumb_5.jpg</ThumbnailUrl>
+    <ThumbnailWidth>51</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2013</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17480_6.JPG</Url>
+    <Width>400</Width>
+    <Height>530</Height>
+    <Bytes>29148</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17480Thumb_6.jpg</ThumbnailUrl>
+    <ThumbnailWidth>53</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1720</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17480_7.JPG</Url>
+    <Width>400</Width>
+    <Height>202</Height>
+    <Bytes>12802</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17480Thumb_7.jpg</ThumbnailUrl>
+    <ThumbnailWidth>139</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2528</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1014/JAC17480_8.JPG</Url>
+    <Width>400</Width>
+    <Height>252</Height>
+    <Bytes>15279</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1014/JAC17480Thumb_8.jpg</ThumbnailUrl>
+    <ThumbnailWidth>111</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2179</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>At the Union Square Inn, you won`t sacrifice comfort for affordability because you`ll have both. The decor is cutting edge, the atmosphere is warm and friendly, and the location is ideal. And you get it all for the most reasonable price in the city. 
+
+Union Square converges the hip with the academic, medical, and business centres of the Downtown area. We are steps away from Silicon Alley, East Village, NYU campus and Cooper Union, and in close proximity to great restaurants, fun shops, and trendy nightspots The Union Square is a great and unique hotel.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

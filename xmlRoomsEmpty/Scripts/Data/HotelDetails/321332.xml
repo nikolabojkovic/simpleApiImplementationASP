@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>321332</Id>
+  <Name>Golden Key Hotel</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>123 W. Colorado Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Glendale</City>
+    <State>California</State>
+    <Zip>91204</Zip>
+    <Country>USA</Country>
+    <Tel>+1 818 247 0111</Tel>
+    <Fax>+1 818 545 9393</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>55</CountRooms>
+    <Latitude>34.1426851</Latitude>
+    <Longitude>-118.2561912</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214594-hotel_Thumbnailed.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2355</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214594-hotel_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2347</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214594-bed.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7180</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214594-bed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1875</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214594-hotel.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8861</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214594-hotel.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2115</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214594-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12368</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214594-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2443</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214594-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8501</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214594-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2121</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214594-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6369</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214594-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1837</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1214594-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6272</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1214594-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1716</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\nAccessible to many local attractions\nBeautiful views and exceptional service\nRecreation\nOutdoor swimming pool\nRelaxing spa/hot tub\nRestaurants &amp; Lounges\nCasual restaurant\nNearby restaurant\nServices\n24 hr front desk service\nBusiness services available at front desk\nConcierge services\nElevators\nAccommodation\n55 guestrooms\n3 floors\nClassic guest rooms\nComfortable rooms</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A perfect oasis for your vacation weekend; come see what Golden Key Hotel is known for</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Parking</Code>
+    <Text>Parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Freenewspaper</Code>
+    <Text>Free Newspaper</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Icemachine</Code>
+    <Text>Ice Machine</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Spa</Code>
+    <Text>Spa</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ValetLaundry</Code>
+    <Text>Valet Laundry</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

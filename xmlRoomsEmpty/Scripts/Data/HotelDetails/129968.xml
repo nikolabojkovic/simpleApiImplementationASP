@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129968</Id>
+  <Name>Iroquois Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>49 W 44th St</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10036</Zip>
+    <Country>USA</Country>
+    <Tel>12128403080</Tel>
+    <Fax>12123981754</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>114</CountRooms>
+    <Latitude>40.7558405</Latitude>
+    <Longitude>-73.9821326</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Exterior-cj_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4782</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Exterior-cj_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2562</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Lobby1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8912</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Lobby1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1919</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Dining4-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>4945</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Dining4-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1534</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Dining5-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12986</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Dining5-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2606</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-din2%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11822</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-din2%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2312</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Suite1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7924</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Suite1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1942</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Suite6-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7553</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Suite6-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1844</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Dining-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9196</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Dining-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2188</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Suite-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7973</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Suite-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1965</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Suite2-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6432</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Suite2-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1713</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-din1%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9106</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-din1%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1940</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-rm3%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7632</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-rm3%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1817</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Suite5-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8180</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Suite5-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1892</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-lng1%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9098</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-lng1%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1875</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Exterior-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13066</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Exterior-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2506</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Bar1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8940</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Bar1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2076</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Dining2-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8467</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Dining2-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2068</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-mtg%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9420</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-mtg%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2006</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-recep%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9333</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-recep%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1923</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Lobby-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9141</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Lobby-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2005</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Lobby2-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12756</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Lobby2-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2479</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Suite7-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8847</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Suite7-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2079</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Bath-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9691</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Bath-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2053</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-frnt%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11928</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-frnt%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2234</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-lng2%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9407</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-lng2%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2002</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Fitness-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9892</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Fitness-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2155</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Dining3-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8437</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Dining3-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1989</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Suite4-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6448</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Suite4-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1712</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Dining1-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9871</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Dining1-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2170</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-bath%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11320</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-bath%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1896</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-rm1%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8365</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-rm1%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1825</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Lounge-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9958</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Lounge-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2047</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Bar-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8826</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Bar-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2086</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-lng3%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>10631</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-lng3%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2064</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-iroquois-rm2%5B1%5D.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8965</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-iroquois-rm2%5B1%5D.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel10584-Suite3-cj.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6400</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel10584-Suite3-cj.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1742</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Iroquois New York has the intimate charm of an elegant European hotel. Located within strolling distance of Fifth Avenue shopping, the bright lights of Broadway and the international corporate offices of midtown, The Iroquois is at the epicenter of all that is exciting about New York.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Apollo Theater.
+• Javits Center.
+• Lincoln Center.
+• Madison Square Garden.
+• New York Public Library.
+• Empire State Building.
+• Statue Of Liberty.
+• NY Vietnam Veterans Memorial.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Iroquois New York has Library-Business Center is complete with a high-speed computer and printer. The Library is a cozy wood-paneled study stocked with leather-bound classics and current works, an eclectic selection that ranges from the Encyclopedia Britannica to the collected works of Dickens, Chekhov, Mark Twain.
+</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>AreaActivities</Type>
+    <Text>• Restaurant / Bar.
+• Fitness Center.
+• Shops Nearby.
+• Spa.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>• All major credit cards are accepted.
+</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

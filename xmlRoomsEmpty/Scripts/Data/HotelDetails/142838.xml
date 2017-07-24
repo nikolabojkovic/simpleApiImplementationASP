@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>142838</Id>
+  <Name>Ebina House</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>73/39 Vipavadee-Rangsit 64 Road</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10210</Zip>
+    <Country>Thailand</Country>
+    <Tel>66022553109</Tel>
+    <Fax>66029734535</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>160</CountRooms>
+    <Latitude>13.8015247</Latitude>
+    <Longitude>100.5635713</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18673-front.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>1899</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18673-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1889</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18673-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13692</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18673-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1636</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18673-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15364</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18673-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2206</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18673-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15664</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18673-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1936</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18673-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>15314</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18673-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1997</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18673-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13309</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18673-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2035</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>The hotel, which was renovated in 2008, has all the expected amenities and facilities, and offers excellent service and a warm Thai welcome to guests. It is situated in a modern building with 10 stories comprising 160 air-conditioned rooms and suites. The hotel also offers fully serviced apartments, with the standards and service of a first-class hotel, perfect for business travellers on an extended stay. Guests are welcomed in the lobby, which offers 24-hour reception and check-out service, a hotel safe, currency exchange facilities and lift access to the rooms. Other facilities include a hairdressing salon, an auditorium and a restaurant. Internet access, room service and laundry service are also available, and guests arriving by car may make use of the car park.</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MeetingBanquetFacilities</Code>
+    <Text>Meeting / Banquet Facilities</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

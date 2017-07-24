@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9012350</Id>
+  <Name>Varindavan Park Serviced Residence</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>150, EKKAMAI SOI 12, EKKAMAI ROAD, PRAKANONG NUA, WATTANA, BANGKOK 10110</Address1>
+    <Address2>City Center</Address2>
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10110</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 662-7131889</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>77</CountRooms>
+    <CountFloors>8</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/27/37/55/273755-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8654</Bytes>
+    <Caption>273755-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/27/37/55/273755-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2075</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/27/37/55/273755-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7541</Bytes>
+    <Caption>273755-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/27/37/55/273755-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1882</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/27/37/55/273755-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6919</Bytes>
+    <Caption>273755-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/27/37/55/273755-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1864</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/27/37/55/273755-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7402</Bytes>
+    <Caption>273755-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/27/37/55/273755-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1862</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/27/37/55/273755-img5-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6614</Bytes>
+    <Caption>273755-img5-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/27/37/55/273755-img5-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1722</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Varindavan Park Serviced Residence is a Tourist, Family Style, Boutique hotel. Located in City Center area. Shopping is accessible by bus/taxi and the nightlife/restaurants are within walking distance from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Varindavan park serviced residence is conveniently located in one of bangkok’s upscale residential areas, namely ekkamai on suhkumvit 63. it is minutes to shopping malls, cinemas, trendy pubs and restaurant (in soi thonglor) and a few minutes taxi ride to the bts station, which connects you to the rest of bangkok.varindavan park is exclusively designed for convenience and comfort by combining the warm and pleasant atmosphere of a happy residence with elegant design and convenient facilities we provide various room configurations of 1-2-3 bedrooms ranging from 30-150 sq.meter, meticulously planned with tasteful interior and graceful decor appealing to everyone. our deluxe rooms offer you added-value with its luxurious wooden furniture, bedroom parquet floor and fully equipped kitchen</Text>
+  </Description>
+  <Amenity>
+    <Code>ValetParking</Code>
+    <Text>Valet parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Doctoroncall</Code>
+    <Text>Doctor on call</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

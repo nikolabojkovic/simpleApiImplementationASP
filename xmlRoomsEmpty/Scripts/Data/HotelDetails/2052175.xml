@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2052175</Id>
+  <Name>Thompson Lower East Side</Name>
+  <Region>
+    <Id>64378</Id>
+    <Name>Lower East Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>190 ALLEN STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10002</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 212 460 5300</Tel>
+    <Fax>+1 212 204 5005</Fax>
+    <Email>salesles@thompsonhotels.com</Email>
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>127</CountRooms>
+    <Latitude>40.7223019</Latitude>
+    <Longitude>-73.9887514</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1026/21/29/9/21299_1.jpg</Url>
+    <Width>300</Width>
+    <Height>225</Height>
+    <Bytes>15755</Bytes>
+    <Caption>Hotel lobby</Caption>
+    <ThumbnailUrl>/RXLImages/1026/21/29/9/21299_1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2488</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/21/29/9/21299_2.jpg</Url>
+    <Width>225</Width>
+    <Height>300</Height>
+    <Bytes>11291</Bytes>
+    <Caption>Standard room</Caption>
+    <ThumbnailUrl>/RXLImages/1026/21/29/9/21299_2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>52</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1663</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1026/21/29/9/21299_3.jpg</Url>
+    <Width>300</Width>
+    <Height>225</Height>
+    <Bytes>15678</Bytes>
+    <Caption>Restaurant</Caption>
+    <ThumbnailUrl>/RXLImages/1026/21/29/9/21299_3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2560</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Thompson LES, a luxury hotel located in one of Manhattan's creative focal points, the Lower East Side, is the most recent addition to the Thompson Hotels' portfolio.
+Architecture by Ed Rawlings with interior design as a collaboration between Jim Walrod and Ed Rawlings, and initial room concept by Dodd Mitchell Design, the hotel embodies the ultimate in clean, industrial New York with timeless modern style.
+
+Facility Includes :
+- LCD Flat Screen TV
+- Premium cable 
+- In-room movie library
+- I-POD docking station
+- Alarm clock
+- WI-FI and broadband internet access
+- Mini-bar offers Dean &amp; Deluca snacks
+- 24-hour Room Service
+- SHANG Terrace
+- Above Allen Lounge
+- Rooftop pool
+- State-of-the-art Fitness Center and Spa
+- Business Center
+- 24-hour Concierge Service</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>- No triple or quad occupancy in the King and Queen Superior rooms.
+- No quad occupancy in the Studio Kings.
+- Must be 21 years of age to check-in.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

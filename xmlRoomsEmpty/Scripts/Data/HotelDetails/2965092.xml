@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2965092</Id>
+  <Name>Hampton Inn &amp; Suites Yonkers</Name>
+  <Region>
+    <Id>21689</Id>
+    <Name>Others</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>160 Corporate Blvd.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Yonkers</City>
+    <State>New York</State>
+    <Zip>10701</Zip>
+    <Country>USA</Country>
+    <Tel>1-914-377-1144</Tel>
+    <Fax>1-914-377-1142</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.9690139</Latitude>
+    <Longitude>-73.8778365</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-main_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3010</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-main_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1758</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8594</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1970</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11908</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2245</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-gym.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8047</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-gym.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1742</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7331</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1793</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-lounge.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12943</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-lounge.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2218</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-main.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7563</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-main.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1706</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11857</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2188</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8227</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1862</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6713</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1680</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>5742</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1700</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1228729-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6202</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1228729-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1703</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nAccessible to many local attractions\nClose proximity to New York City\nDesigned to meet families needs\nGreat combination for business and pleasure\nLocation\nConveniently located in Yonkers\nRecreation\nFully equipped fitness center\nPool\nRestaurants &amp; Lounges\nNearby restaurant\nServices\nElevators\nValet dry cleaning and laundry services\nMeeting Facilities\nFully equipped business center\nEvent facilities\nAccommodations\nClassic guest rooms\nSafety deposit box\n</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Ensuring guests a stay that is both productive and comfortable; the Hampton Inn &amp; Suites Yonkers provides every comfort and amenity</Text>
+  </Description>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

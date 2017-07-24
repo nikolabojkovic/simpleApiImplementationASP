@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>1942205</Id>
+  <Name>Cosmopolitan Hotel</Name>
+  <Region>
+    <Id>21687</Id>
+    <Name>Lower Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>95 West Broadway</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State>New York</State>
+    <Zip>10007</Zip>
+    <Country>USA</Country>
+    <Tel>+ 1 212 566 1900</Tel>
+    <Fax>+ 1 212 566 6909</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>40.7156848</Latitude>
+    <Longitude>-74.0089203</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-exterir_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4200</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-exterir_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2415</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-bar.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9201</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-bar.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2070</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12414</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2292</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-dining1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11816</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-dining1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2238</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-dining2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8851</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-dining2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1926</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-exterir.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9323</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-exterir.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2379</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8371</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1941</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9555</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1959</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8193</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1758</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9006</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2004</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-room3.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8234</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-room3.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1955</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-room4.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8476</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-room4.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1954</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1231904-room5.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9162</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1231904-room5.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2070</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>General Description\n3 star accommodations\nClose proximity to major attractions\nGreat combination for business and pleasure\nAffordable accommodations\nLocation\nConveniently located in Lower Manhattan\nConveniently located in Downtown\nRestaurants &amp; Lounges\nCoffee Shop on property\nServices\n24 hr front desk service\nFree Wifi\nAccommodations\n7 floors\n150 guestrooms\nClassic accommodations\nComfortable rooms</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>Affordable; charming with plenty of amenities; the Cosmopolitan Hotel  is sure to make you feel right at home</Text>
+  </Description>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24Hour</Code>
+    <Text>24 hour reception</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

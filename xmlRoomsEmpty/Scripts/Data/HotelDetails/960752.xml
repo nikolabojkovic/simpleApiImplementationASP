@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>960752</Id>
+  <Name>Warner Center Marriott Woodland Hills</Name>
+  <Region>
+    <Id>21628</Id>
+    <Name>Others</Name>
+    <CityId>19704</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>21850 Oxnard Street</Address1>
+    <Address2>Woodland Hills, California</Address2>
+    <Address3 />
+    <City>Woodland Hills-Ca</City>
+    <State />
+    <Zip>91367</Zip>
+    <Country>U.s.a.</Country>
+    <Tel>+1 818 887 4800</Tel>
+    <Fax>+1 818 340 5893</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>0</CountRooms>
+    <Latitude>34.178468</Latitude>
+    <Longitude>-118.603669</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>This 3 star hotel is located in the city centre of Woodland Hills-Ca.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

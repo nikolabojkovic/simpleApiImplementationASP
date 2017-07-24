@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>10765856</Id>
+  <Name>Astoria</Name>
+  <Region>
+    <Id>9043415</Id>
+    <Name>Bur Dubai</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Po Box 457</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Dubai</City>
+    <State />
+    <Zip />
+    <Country>United Arab Emirates</Country>
+    <Tel>00971 4 3534300</Tel>
+    <Fax>00971 4 3535665</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Other amenities/services: rooms with private bath, wi-fi ,phone, radio &amp; refrigerator. 24-hour room service, car rental. Renovations in 2010.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Important place or monument close to the hotel: the hotel is located 10min from seaport. Nearest Airport: Dubai airport, 7km.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

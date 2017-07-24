@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>721894</Id>
+  <Name>The Mark</Name>
+  <Region>
+    <Id>64380</Id>
+    <Name>Upper East Side</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>25 EAST 77TH STREET</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York (NY)</City>
+    <State />
+    <Zip>10075</Zip>
+    <Country>UNITED STATES</Country>
+    <Tel>+1 212 744 4300</Tel>
+    <Fax>+1 212 606 3100</Fax>
+    <Email>reservations@themarkhotel.com</Email>
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <CountRooms>180</CountRooms>
+    <CountFloors>16</CountFloors>
+    <Latitude>40.7752454</Latitude>
+    <Longitude>-73.9634978</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/721894_1.jpg</Url>
+    <Width>299</Width>
+    <Height>448</Height>
+    <Bytes>43867</Bytes>
+    <Caption>Hotel Exterior</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/721894_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>46</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1548</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/721894_5.jpg</Url>
+    <Width>422</Width>
+    <Height>282</Height>
+    <Bytes>35501</Bytes>
+    <Caption>Guest Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/721894_5_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2475</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/721894_3.jpg</Url>
+    <Width>422</Width>
+    <Height>282</Height>
+    <Bytes>39215</Bytes>
+    <Caption>Hotel Lobby</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/721894_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2762</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/721894_4.jpg</Url>
+    <Width>422</Width>
+    <Height>282</Height>
+    <Bytes>40871</Bytes>
+    <Caption>Fitness Room</Caption>
+    <ThumbnailUrl>/RXLImages/Hotel/721894_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>104</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2696</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The Mark is located in New York’s Upper East Side, near the Metropolitan Museum of Art, The Whitney Museum, and Central Park. Madison Avenue’s boutique shopping is less than a block away.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>• Whitney Museum of American Art - 0.2 km / 0.1 mi
+• American Irish Historical Society - 0.3 km / 0.2 mi
+• Belvedere Castle - 0.4 km / 0.2 mi
+• Metropolitan Museum of Art - 0.4 km / 0.3 mi
+• Central Park - 0.9 km / 0.6 mi
+• Solomon R. Guggenheim Museum - 1 km / 0.6 mi
+• Rockefeller Plaza - 2.2 km / 1.4 mi
+• Broadway - 2.7 km / 1.6 mi
+• Grand Central Terminal - 2.8 km / 1.7 mi
+• Chrysler Building - 2.8 km / 1.7 mi
+• Times Square - 2.8 km / 1.8 mi
+• Empire State Building - 3.5 km / 2.1 mi
+• Brooklyn Bridge - 8.4 km / 5.2 mi
+• Ellis Island - 10.6 km / 6.6 mi
+• Statue of Liberty - 11.7 km / 7.3 mi</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>The 150 guestrooms at The Mark feature MP3 docking stations, Blu-ray DVD/CD players, and Bang &amp; Olufsen televisions. Touch-screen panels control lighting, room temperature, and window shades. Wireless Internet access and local calls are complimentary. Guestrooms offer Subzero refrigerator and freezer drawers. Bathrooms offer mirror with embedded television screens. Housekeeping is performed twice daily, and turndown service is provided. Beds include Quagliotti linens.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>The Mark reopened in November 2009 after an extensive renovation led by Jacques Grange, the famed French interior designer whose clientele list includes Yves Saint Laurent, Princess Caroline of Monaco, and Ronald S. Lauder. The Mark features an on-site Frederic Fekkai salon. Room service by Jean Georges is available 24 hours a day, and this Manhattan hotel offers complimentary shoe shine. IT support is provided by a dedicated staff.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PoliciesDisclaimers</Type>
+    <Text>Check-in time is 3 PM
+Check-out time is Noon</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>In-Room Dining - By Jean Georges, available 24 hours a day.
+• The Mark Restaurant - Classic European dishes and global cuisine. The bar serves signature cocktails and a collection of boutique and familiar wines from around the world, focusing on value and diversity. The restaurant opens on February 22, 2010.</Text>
+  </Description>
+  <Amenity>
+    <Code>NonSmokingRoom</Code>
+    <Text>Non smoking rooms</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FitnessFacility</Code>
+    <Text>Fitness facility</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>24HourFrontDesk</Code>
+    <Text>24 Hour Front Desk</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lobby</Code>
+    <Text>Lobby</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MultilingualStaff</Code>
+    <Text>Multilingual Staff</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

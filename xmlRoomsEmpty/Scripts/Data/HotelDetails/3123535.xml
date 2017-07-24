@@ -1,0 +1,601 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3123535</Id>
+  <Name>The Abidos Hotel Apartment (formerly Corp Executive Hotel Apartments)</Name>
+  <Region>
+    <Id>9043434</Id>
+    <Name>Al Barsha</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>AL BARSHA</Address1>
+    <Address2 />
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip>450605</Zip>
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4 316 4040</Tel>
+    <Fax>+971 4 316 4050</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <GeneralInfo>
+    <Latitude>25.11391</Latitude>
+    <Longitude>55.192801</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Swimming_Pool_1.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>18983</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Swimming_Pool_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2674</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Meeting_Room_1.jpg</Url>
+    <Width>240</Width>
+    <Height>360</Height>
+    <Bytes>30340</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Meeting_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3055</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Lobby_1.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>15262</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2485</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Guest_Room_1.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>16899</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Guest_Room_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2677</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Business_centre_1.jpg</Url>
+    <Width>360</Width>
+    <Height>153</Height>
+    <Bytes>14956</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Business_centre_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2562</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Guest_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>14956</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Guest_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2671</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Ballroom_1.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>18772</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Ballroom_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2671</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Swimming_Pool_2.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>19298</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Swimming_Pool_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2935</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Other_1.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>17638</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Other_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2896</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Guest_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>18492</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Guest_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2795</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Meeting_Room_2.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>18776</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Meeting_Room_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2818</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Ballroom_2.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>21451</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Ballroom_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2999</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Exterior_1.jpg</Url>
+    <Width>283</Width>
+    <Height>360</Height>
+    <Bytes>36730</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3105</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Restaurant_1.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>19640</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2805</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Other_2.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>19563</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Other_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2860</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Restaurant_2.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>20276</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Restaurant_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2783</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Meeting_Room_3.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>20875</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Meeting_Room_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2957</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Restaurant_3.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>19748</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Restaurant_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3058</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Swimming_Pool_3.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>16570</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Swimming_Pool_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2519</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Exterior_2.jpg</Url>
+    <Width>242</Width>
+    <Height>360</Height>
+    <Bytes>39548</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Exterior_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>3346</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Other_3.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>13557</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Other_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2140</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Business_centre_2.jpg</Url>
+    <Width>183</Width>
+    <Height>360</Height>
+    <Bytes>17716</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Business_centre_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2697</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Swimming_Pool_4.jpg</Url>
+    <Width>242</Width>
+    <Height>360</Height>
+    <Bytes>25193</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Swimming_Pool_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2596</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Other_4.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>20553</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Other_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2756</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Restaurant_4.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>21845</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Restaurant_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2831</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Ballroom_3.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>24114</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Ballroom_3_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>3087</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Health_Club_1.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>18057</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Health_Club_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2522</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Guest_Room_4.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>16772</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Guest_Room_4_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2633</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/DXB-CORNhotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>183</Height>
+    <Bytes>14579</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/DXB-CORNhotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2164</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>CORP Executive Hotel Apartments ? Al Barsha, Dubai, resonates with a modern and sleek look. With imaginative and engaging spaces, it has been designed to appeal to both business and leisure travellers. The deluxe hotel is centrally located in the heart of New Dubai within walking distance of the Mall of the Emirates and the Al Barsha Metro station.  Corporate guests are well served with a fully equipped Business Center @min and wireless Internet throughout the hotel. There are two inter-connectable meeting rooms Acacia and Capparis offering the latest A/V equipment and facilities catering to the demand from corporate clients and conference delegates.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The Corp Executive Hotel Apartments - Al Barsha - Dubai, is centrally located in walking distance to the Mall of the Emirates and the Metro and within close proximity of other major landmarks.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>Each apartment features a separate lounge with attached kitchen, guest toilet and separate bedroom(s) with private bathroom. All bathrooms consist of bathtub, walk-in shower and basin.  Fully equipped kitchenette  Fridge with freezer compartment including refreshment center  Microwave  Two hot plates  Toaster  Complimentary coffee and tea making facilities  Washing machine with drying facilities  Each room has individually controlled AC units  30 inch flat screen TV with satellite channels in each bedroom  42 inch flat screen TV with satellite channels in the living room  Safe deposit box  Iron and Iron board</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Mood - Enjoy the upbeat modern atmosphere of our all-day-dining restaurant "Mood" serving international buffets and a la carte menu for breakfast, lunch and dinner.   Cafe One - A trendy lobby lounge ideal for a break anytime of the day or a quick lunch or snack on-the-go. Gather with friends for a coffee or meet business associates. It is a stylish oasis.  Sung - After a swim enjoy a sumptuous snack with a refreshing juice or soft drink. As the name suggests, Snug is the place to chill out and relax with your family and friends.</Text>
+  </Description>
+  <Amenity>
+    <Code>Sauna</Code>
+    <Text>Sauna</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeTeaMaker</Code>
+    <Text>Tea and Coffee maker</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Safe</Code>
+    <Text>Safe</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HandicapAccessible</Code>
+    <Text>Handicap accessible</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>OutdoorPool</Code>
+    <Text>Outdoor swimming pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ClothingIron</Code>
+    <Text>Clothing iron</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Kitchen</Code>
+    <Text>Kitchen</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MoneyExchange</Code>
+    <Text>Money exchange</Text>
+  </Amenity>
+  <Amenity>
+    <Code>LaundryService</Code>
+    <Text>Laundry service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CarPark</Code>
+    <Text>Car parking</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ReceptionArea</Code>
+    <Text>Reception Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CheckIn24hr</Code>
+    <Text>24hr. CheckIn</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Reception24hr</Code>
+    <Text>24hr. Reception</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lift</Code>
+    <Text>Lift</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Theatre</Code>
+    <Text>Theatre</Text>
+  </Amenity>
+  <Amenity>
+    <Code>ConferenceRoom</Code>
+    <Text>Conference Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVRoom</Code>
+    <Text>TV Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>DiningRoom</Code>
+    <Text>Dining Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantAirconditioned</Code>
+    <Text>Restaurant Air-Conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantNonSmokingArea</Code>
+    <Text>Restaurant - non-smoking area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RestaurantSmokingArea</Code>
+    <Text>Restaurant Smoking Area</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Garage</Code>
+    <Text>Garage</Text>
+  </Amenity>
+  <Amenity>
+    <Code>NumberOfPool</Code>
+    <Text>Number Of Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>FreshWaterPool</Code>
+    <Text>Fresh Water Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HeatedPool</Code>
+    <Text>Heated Pool</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SunLounge</Code>
+    <Text>SunLounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SunBathingTerrace</Code>
+    <Text>Sun Bathing Terrace</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SteamBath</Code>
+    <Text>Steam Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Gym</Code>
+    <Text>Fitness room / Gym</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SatelliteTV</Code>
+    <Text>Satellite TV</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InternetAccess</Code>
+    <Text>InternetAccess</Text>
+  </Amenity>
+  <Amenity>
+    <Code>MiniFridge</Code>
+    <Text>MiniFridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>IndividualAirCondition</Code>
+    <Text>IndividualAirCondition</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Lounge</Code>
+    <Text>Lounge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Balcony</Code>
+    <Text>Balcony</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Bath</Code>
+    <Text>Bath</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Fridge</Code>
+    <Text>Fridge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomTerraceBalcony</Code>
+    <Text>Terrace or balcony</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BreakfastRoom</Code>
+    <Text>Breakfast room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Launderette</Code>
+    <Text>Launderette</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BathRoom</Code>
+    <Text>Bath Room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Cafe(s)</Code>
+    <Text>Cafe(s)</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Heating</Code>
+    <Text>Heating</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurants</Code>
+    <Text>Restaurants</Text>
+  </Amenity>
+  <Rank>1</Rank>
+</HotelElement>

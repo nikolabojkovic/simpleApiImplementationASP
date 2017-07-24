@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>2078017</Id>
+  <Name>Grand Tower Inn (sathorn Rd.)</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>359/1 Soi Charoennakorn Rd. Soi 14/2, Klongsarn</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10600</Zip>
+    <Country>THAILAND</Country>
+    <Tel>2-86122888612299</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountFloors>1</CountFloors>
+    <Latitude>13.720849</Latitude>
+    <Longitude>100.507398</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/57/49/4/57494-img1-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>9062</Bytes>
+    <Caption>57494-img1-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/57/49/4/57494-img1-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2237</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/57/49/4/57494-img2-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7855</Bytes>
+    <Caption>57494-img2-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/57/49/4/57494-img2-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1999</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/57/49/4/57494-img3-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>6084</Bytes>
+    <Caption>57494-img3-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/57/49/4/57494-img3-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1645</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/57/49/4/57494-img4-1.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>8188</Bytes>
+    <Caption>57494-img4-1</Caption>
+    <ThumbnailUrl>/RXLImages/1033/57/49/4/57494-img4-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2152</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Further information about this hotel will be available shortly</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

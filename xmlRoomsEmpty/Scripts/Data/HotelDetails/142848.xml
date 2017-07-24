@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>142848</Id>
+  <Name>S.D. Avenue</Name>
+  <Region>
+    <Id>2297628</Id>
+    <Name>Others</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>94 Borommarat Chachonnani Road,</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10700,</Zip>
+    <Country>Thailand</Country>
+    <Tel />
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>322</CountRooms>
+    <Latitude>13.776119</Latitude>
+    <Longitude>100.480083</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18765-front.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2255</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18765-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2236</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18765-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>14857</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18765-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1997</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18765-dinning.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13601</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18765-dinning.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2197</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18765-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>13085</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18765-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2103</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18765-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12935</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18765-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2060</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>S.D. Avenue Hotel, Bangkok is idealy located for both the business and vacation traveller to the capital city. Everything that Bangkok has to offer is within minutes of this friendly hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>S.D. Avenue Hotel, Bangkok is idealy located for both the business and vacation traveller to the capital city.</Text>
+  </Description>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

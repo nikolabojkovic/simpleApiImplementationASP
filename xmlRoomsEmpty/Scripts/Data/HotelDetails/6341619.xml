@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>6341619</Id>
+  <Name>No.11 Cadogan Gardens Hotel</Name>
+  <Region>
+    <Id>52856</Id>
+    <Name>City of London &amp; Barbican</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>Cadogan Gardens</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>SW3 2RJ</Zip>
+    <Country>Uk-England</Country>
+    <Tel>44 (0) 20 7730 7000</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>5</Stars>
+  <GeneralInfo>
+    <Latitude>51.4928477</Latitude>
+    <Longitude>-0.159766</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/Hotel/6341619_Exterior.jpg</Url>
+    <Width>600</Width>
+    <Height>236</Height>
+    <Bytes>40947</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Hotel/6341619_Exterior_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>177</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>5270</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/Hotel/6341619_Bedroom.jpg</Url>
+    <Width>600</Width>
+    <Height>236</Height>
+    <Bytes>23076</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/Hotel/6341619_Bedroom_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>177</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>3605</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>No.11 Cadogan Gardens Hotel is a luxury boutique hideaway offering a totally unique guest experience in one of Londons best West End locations.
+
+Recently restored for the 21st century, No.11 Cadogan Gardens Hotel blends its sumptuous theatrical decor and contemporary facilities with world-class service to ensure our guests have a memorable visit.
+
+Right in the heart of fashionable Knightsbridge and just a stones throw from the River Thames, Hyde Park and an array of attractions, No.11 Cadogan Gardens is ideal for relaxation, recreation, shopping or business.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>No.11 Cadogan Gardens Hotel has 54 luxurious rooms, suites and four independent one bedroom mews suites. New upgrades are planned, these will add to the already luxurious and intimate atmosphere that is characteristic of Victorian homes.
+
+All hotel accommodations have the latest in-room technology and facilities, including marble en suite bathrooms, plasma screen TVs and in-room entertainment, exquisite bed linen and soft towels.</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>50</Score>
+    <Description>Five star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>3355300</Id>
+  <Name>3 West Club Hotel</Name>
+  <Region>
+    <Id>64379</Id>
+    <Name>Midtown Manhattan</Name>
+    <CityId>19793</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>3 West 51st Street</Address1>
+    <Address2 />
+    <Address3 />
+    <City>New York</City>
+    <State />
+    <Zip>NY10019</Zip>
+    <Country>United States</Country>
+    <Tel>001 212 582 5454</Tel>
+    <Fax>0012129778972</Fax>
+    <Email>reservations@wnrc.org</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <Latitude>40.7595527</Latitude>
+    <Longitude>-73.9774405</Longitude>
+  </GeneralInfo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The 3 West Club is an historical building, providing the classic feel of "Old New York". Complete with crystal chandeliers, high ceilings, and art deco touches, the Club is centrally located off of 5th Avenue, just across from Rockefeller Center and Radio City Music Hall.3 West Club`s 30 well-appointed sleeping rooms include two spacious suites to accommodate out of town attendees and guestroom blocks. All of our guest rooms are equipped with flat screen TV, telephone, high speed internet access, iron &amp; ironing board and hairdryer</Text>
+  </Description>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>129545</Id>
+  <Name>Santa Fe Station Hotel</Name>
+  <Region>
+    <Id>21613</Id>
+    <Name>Others</Name>
+    <CityId>19680</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>4949 North Rancho Drive</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Las Vegas</City>
+    <State>Nevada</State>
+    <Zip>89130</Zip>
+    <Country>USA</Country>
+    <Tel>+1 702 658 4900</Tel>
+    <Fax>+1 702 367 6138</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>200</CountRooms>
+    <Latitude>36.2490797</Latitude>
+    <Longitude>-115.2428492</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-exteriorIS_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>3398</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-exteriorIS_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1947</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-exteriorIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8339</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-exteriorIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1891</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-lobbyIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9293</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-lobbyIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2103</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-poolIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12370</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-poolIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2167</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-restaurantIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11217</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-restaurantIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2202</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-room2IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9801</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-room2IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2063</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-roomIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12456</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-roomIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2187</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-meeting2IS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9543</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-meeting2IS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2098</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-meetingIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8969</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-meetingIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2132</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-ballroomIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12295</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-ballroomIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2290</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1203491-casinoIS.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12126</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1203491-casinoIS.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2348</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Santa Fe Station Hotel is a casino hotel in the area of Summerlin - Northwest Las Vegas, Las Vegas. There are a number of attractions in the local area, including Durango Hills Golf Club and Floyd Lamb State Park. Additional regional attractions include Thomas and Mack Centre. 
+This Summerlin - Northwest Las Vegas hotel has its own restaurant serving lunch where you will find a selection of items to try. Guests can also enjoy drinks as there is a bar/lounge. Make the most of your trip, whether for business or pleasure, by taking some time to relax as you will find a spa tub on offer. You will want to pack your swimsuit and towel as this hotel features an outdoor pool. Other leisure facilities include a casino and an arcade/game room. &lt;br&gt;&lt;b&gt; Guests should note that a resort fee is payable direct to the hotel upon arrival. Resort fees are subject to change and guests are advised to check the hotel`s website for current charges.</Text>
+  </Description>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Giftshop</Code>
+    <Text>Gift Shop</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

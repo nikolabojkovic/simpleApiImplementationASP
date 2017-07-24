@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>729642</Id>
+  <Name>Cape House</Name>
+  <Region>
+    <Id>2297622</Id>
+    <Name>Siam - Old City</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>43 SOI LANGSUAN, PLOENCHIT RD.</Address1>
+    <Address2 />
+    <Address3 />
+    <City>BANGKOK</City>
+    <State />
+    <Zip>10330</Zip>
+    <Country>THAILAND</Country>
+    <Tel>+66 26587444</Tel>
+    <Fax>+66 +choose 26587488</Fax>
+    <Email>sales@capehouse.com</Email>
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>117</CountRooms>
+    <CountFloors>20</CountFloors>
+    <Latitude>13.741063</Latitude>
+    <Longitude>100.543592</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-exterior001_Thumbnailed.jpg</Url>
+    <Width>100</Width>
+    <Height>100</Height>
+    <Bytes>4114</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-exterior001_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2275</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>12062</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2118</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-exterior001.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9997</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-exterior001.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2215</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-lobby.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8510</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-lobby.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2004</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-meeting.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8211</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-meeting.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1984</ThumbnailBytes>
+    <PhotoType>HotelAmenities</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-pool.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8266</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-pool.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1781</ThumbnailBytes>
+    <PhotoType>SwimmingPool</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8143</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1926</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>6909</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1834</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel1217230-room2.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7812</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel1217230-room2.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1908</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Location\nThis apartment hotel is located in the central business district area, less than a 10-minute walk from Chidlom station, and about 10 minutes from department stores, a shopping complex, restaurants, bars and Lumpini Park. It is 15 minutes by car to the nearest private hospital. The Grand Palace and many well-known places of historical interest are about 30 minutes away. Don Muang International Airport is about 25 km away or a 30- to 45-minute journey by car (depending on arrival time).\nFacilities\nThe hotel enjoys one of the most prestigious locations in Bangkok. The elegantly appointed building offers luxury serviced apartments consisting of studios, one-bedroom and two-bedroom suites, all under hotel standard management. There are 117 accommodation units in total. The hotel is air-conditioned, and has a lobby, 24-hour reception and check-out service, a hotel safe, lift access, a restaurant, café and room and laundry services. There is free WLAN access throughout, though no computers are provided. Guests can also enjoy complimentary use of the meeting rooms. Parking facilities are available to guests arriving by car.\nRooms\nAll rooms are comfortable with a homely atmosphere. They are fully furnished and fully equipped with a kitchenette with fridge, microwave and tea and coffee making facilities, a safe deposit box and a bathroom with a separate shower and bathtub. A hairdryer, direct dial telephone, satellite/cable TV, radio, hi-fi system, WLAN access, an ironing set, double or king-size beds, individually regulated air conditioning and either a balcony or terrace all feature. There is also a daily maid cleaning service and towel change service. Otherwise, linen is changed 3 times per week.\nSports/Entertainment\nGuests may use the gym facilities, hot tub, steam room, sauna and outdoor pool. There is also a sun terrace with sun loungers. Massage treatments are available for a special price on site. Spa treatments are also available nearby for a special price.\nMeals\nThe restaurant is open from 6 am to midnight. The same availability times apply for room service. Italian and Thai cuisine are offered. Breakfast and lunch are available as a buffet, while dinner is à la carte. Complimentary daily snacks, tea and coffee and fresh fruit are available at the executive lounge for all in-house guests.\nPayment\nThe following are all accepted as methods of payment at the hotel: American Express, Diners Club, JCB, MasterCard and VISA.\nMisc.\nReception and the security and maintenance services operate around the clock.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>LocationThis apartment hotel is located in the central business district area; less than a 10-minute walk from Chidlom station; and about 10 minutes from department stores; a shopping complex; restaurants; bars and Lumpini Park. It is 15 minutes by car to the nearest private hospital. The Grand Palace and many well-known places of historical interest are about 30 minutes away. Don Muang International Airport is about 25 km away or a 30- to 45-minute journey by car (depending on arrival time).</Text>
+  </Description>
+  <Amenity>
+    <Code>Shower</Code>
+    <Text>Shower</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TelephoneInRoom</Code>
+    <Text>Direct Dial Telephone</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomToiletries</Code>
+    <Text>Room Toiletries</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

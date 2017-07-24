@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>57565</Id>
+  <Name>Ambassadors Bloomsbury</Name>
+  <Region>
+    <Id>52890</Id>
+    <Name>Kings Cross &amp; Camden</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>12 UPPER WOBURN PLACE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip>WC1 0HX</Zip>
+    <Country>UK - England</Country>
+    <Tel>44-20-76935400</Tel>
+    <Fax>44-20-73889930</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <Latitude>51.5261525</Latitude>
+    <Longitude>-0.1294562</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/7/LON-AMB8hotel_Exterior_1.jpg</Url>
+    <Width>238</Width>
+    <Height>360</Height>
+    <Bytes>29570</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-AMB8hotel_Exterior_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2830</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-AMB8hotel_Lobby_1.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>15381</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-AMB8hotel_Lobby_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2070</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-AMB8hotel_Restaurant_1.jpg</Url>
+    <Width>239</Width>
+    <Height>360</Height>
+    <Bytes>18349</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-AMB8hotel_Restaurant_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>60</ThumbnailWidth>
+    <ThumbnailHeight>80</ThumbnailHeight>
+    <ThumbnailBytes>2189</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-AMB8hotel_Bar_Lounge_1.jpg</Url>
+    <Width>360</Width>
+    <Height>240</Height>
+    <Bytes>22512</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-AMB8hotel_Bar_Lounge_1_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2431</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/7/LON-AMB8hotel_Lobby_2.jpg</Url>
+    <Width>360</Width>
+    <Height>239</Height>
+    <Bytes>17104</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/7/LON-AMB8hotel_Lobby_2_thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>80</ThumbnailWidth>
+    <ThumbnailHeight>60</ThumbnailHeight>
+    <ThumbnailBytes>2389</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>This is an excellent hotel with a contemporary-style but warm and pleasant atmosphere with a dedicated team of professionals. The hotel offers a delicious full gourmet breakfast.(0908AB)</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>The hotel is located just a short walk from Euston train and underground station, St Pancras (Eurostar International Terminal) and King's Cross Train and underground station, Oxford Street and Covent Garden are within walking distance the British Museum is only a five-minute walk from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>RoomTypes</Type>
+    <Text>All the guest rooms have been completely renovated to a very high standard, and include fully controllable air conditioning, wide screen LCD TV and private safe. The high specification soundproofing of all bedrooms assures a peaceful stay in the heart of the city especially for light sleepers.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>PropertyInformation</Type>
+    <Text>It is a unique Belle Epoque building.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>A contemporary open-plan bar and restaurant is situated on the ground floor and offers breakfast, lunch, and dinner. It offers a very pleasant and relaxing atmosphere.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>Short</Type>
+    <Text>A medium-sized lobby, bright, and pleasantly decorated with contemporary colourful furniture.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

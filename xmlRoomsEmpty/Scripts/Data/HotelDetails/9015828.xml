@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>9015828</Id>
+  <Name>Downtown Dubai Hotel Apartments</Name>
+  <Region>
+    <Id>9043406</Id>
+    <Name>Deira / DXB Airport</Name>
+    <CityId>18870</CityId>
+  </Region>
+  <Type>Apartments</Type>
+  <Address>
+    <Address1>Behind Al Muraqabat Police StationDeira</Address1>
+    <Address2>City Centre</Address2>
+    <Address3 />
+    <City>DUBAI</City>
+    <State />
+    <Zip />
+    <Country>UNITED ARAB EMIRATES</Country>
+    <Tel>+971 4-2666670</Tel>
+    <Fax />
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>40</CountRooms>
+    <CountFloors>5</CountFloors>
+    <CheckInTime>14:00</CheckInTime>
+    <CheckOutTime>12:00</CheckOutTime>
+    <Latitude>0</Latitude>
+    <Longitude>0</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1033/89/67/65/896765-img1-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7866</Bytes>
+    <Caption>896765-img1-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/67/65/896765-img1-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1906</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/89/67/65/896765-img2-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>7613</Bytes>
+    <Caption>896765-img2-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/67/65/896765-img2-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1950</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/89/67/65/896765-img3-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5851</Bytes>
+    <Caption>896765-img3-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/67/65/896765-img3-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1693</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/89/67/65/896765-img4-3.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>5313</Bytes>
+    <Caption>896765-img4-3</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/67/65/896765-img4-3thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1388</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1033/89/67/65/896765-img5-2.jpg</Url>
+    <Width>170</Width>
+    <Height>180</Height>
+    <Bytes>9300</Bytes>
+    <Caption>896765-img5-2</Caption>
+    <ThumbnailUrl>/RXLImages/1033/89/67/65/896765-img5-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>66</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2131</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The DOWNTOWN DUBAI HOTEL APARTMENTS is a Tourist, City apartment hotel. Located in Deira area. Shopping is accessible by bus/taxi and the nightlife/restaurants are within walking distance from the hotel.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Down Town Dubai Hotel Apartment combines all the advantages of a traditional hotel with the freedom of choice, space and comfort of home. The longer you stay, the better the price. Our hotel apartment gives you more accommodation for your money - it's as simple as that.The hotels have achieved global standards of product quality and service excellence over 15 years of industry experience. A destination of choice for corporate and leisure travellers from Dubai and abroad, these hotels, due to their downtown location, give easy access to key commercial &amp; entertainment districts.</Text>
+  </Description>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>SafetyBox</Code>
+    <Text>Safety Box</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Elevators</Code>
+    <Text>Elevators</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

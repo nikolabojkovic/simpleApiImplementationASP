@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>204812</Id>
+  <Name>Pearse House</Name>
+  <Region>
+    <Id>52924</Id>
+    <Name>Stansted</Name>
+    <CityId>52611</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>PARSONAGE LANE</Address1>
+    <Address2 />
+    <Address3 />
+    <City>LONDON - STANSTED AIRPORT</City>
+    <State>ENGLAND</State>
+    <Zip>CM235BQ</Zip>
+    <Country>UNITED KINGDOM</Country>
+    <Tel>448452412661</Tel>
+    <Fax>448452412662</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>39</CountRooms>
+    <CountFloors>3</CountFloors>
+    <CheckInTime>13:00</CheckInTime>
+    <CheckOutTime>11:00</CheckOutTime>
+    <Latitude>51.875524</Latitude>
+    <Longitude>0.177884</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/8/103741-0.jpg</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/103741thumb-0.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2118</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/8/103741-1.jpg</Url>
+    <Width>137</Width>
+    <Height>137</Height>
+    <Bytes>0</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/8/103741thumb-1.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1844</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>Rooms: 39 comfortable rooms equipped with ensuite bathroom, heating, TV, direct dial telephone, tea/coffee facilities, Internet access, trouser press and hairdryer. Facilities: conference and meeting rooms, fitness centre, parking, restaurant and bar. Adapted for disabled use. Built 1850, renovated 1997.  39 rooms, 3 floors.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>SurroundingArea</Type>
+    <Text>Location: an old Victorian mansion dripping in history and atmosphere, situated in Hertfordshire about 48 Km. northeast of London.</Text>
+  </Description>
+  <Amenity>
+    <Code>InHouseDining</Code>
+    <Text>Hotel restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>InHouseBar</Code>
+    <Text>Hotel bar</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TVInRoom</Code>
+    <Text>TV in room</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioned</Code>
+    <Text>Air-conditioned</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CloakRoom</Code>
+    <Text>Cloak Room</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

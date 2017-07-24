@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>498337</Id>
+  <Name>Blooms Townhouse</Name>
+  <Region>
+    <Id>52848</Id>
+    <Name>Bloomsbury &amp; Holborn</Name>
+    <CityId>52612</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>7 Montague Street, London</Address1>
+    <Address2>Wc1b 5bp</Address2>
+    <Address3 />
+    <City>London</City>
+    <State />
+    <Zip />
+    <Country>U.k.</Country>
+    <Tel>020 73231717</Tel>
+    <Fax>020 76366498</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>4</Stars>
+  <GeneralInfo>
+    <CountRooms>26</CountRooms>
+    <Latitude>51.5198687</Latitude>
+    <Longitude>-0.1259157</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1057/14/10/6/14106-HAB-1.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>15112</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/14/10/6/14106-HAB-1thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2296</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1057/14/10/6/14106-HAB-2.jpg</Url>
+    <Width>320</Width>
+    <Height>240</Height>
+    <Bytes>14928</Bytes>
+    <Caption>Room</Caption>
+    <ThumbnailUrl>/RXLImages/1057/14/10/6/14106-HAB-2thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>93</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2163</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>General</Type>
+    <Text>The nearest underground station is Russell Square. Guests should exit the station and turn left, then walk towards Russell Square itself. After crossing the road, turn left and walk along Russell Square Garden, turn right into Russell Square. The 2nd street on the left is Montague Street and the hotel is on the right.</Text>
+  </Description>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>This historical city hotel is set in a charming 18th-century townhouse and it ideal for business travellers and holiday makers alike. It comprises a total of 26 elegant en suite rooms with 4-poster beds or garden views. Facilities on offer to guests at this air-conditioned establishment include a lobby area with a 24-hour reception, a hotel safe and lift access. There is a restaurant overlooking the hotel's private garden and guests can also take advantage of the 24-hour room service.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>AirConditioning</Code>
+    <Text>Air conditioning</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>HairDryer</Code>
+    <Text>Hair dryer</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Concierge</Code>
+    <Text>Concierge</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TrouserPress</Code>
+    <Text>Trouser press</Text>
+  </Amenity>
+  <Amenity>
+    <Code>TV</Code>
+    <Text>TeleVision</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>40</Score>
+    <Description>Four star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>

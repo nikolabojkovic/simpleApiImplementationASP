@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<HotelElement>
+  <Id>142854</Id>
+  <Name>Wall Street Inn</Name>
+  <Region>
+    <Id>2297623</Id>
+    <Name>Silom - Sathorn</Name>
+    <CityId>18725</CityId>
+  </Region>
+  <Type>Hotel</Type>
+  <Address>
+    <Address1>37/20-24 Soi Surawongse Plaza, Patpong Road,</Address1>
+    <Address2 />
+    <Address3 />
+    <City>Bangkok</City>
+    <State />
+    <Zip>10500</Zip>
+    <Country>Thailand</Country>
+    <Tel>66022334144</Tel>
+    <Fax>66022363619</Fax>
+    <Email />
+    <Url />
+  </Address>
+  <Stars>3</Stars>
+  <GeneralInfo>
+    <CountRooms>75</CountRooms>
+    <Latitude>13.729562</Latitude>
+    <Longitude>100.532509</Longitude>
+  </GeneralInfo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18800-front.jpg</Url>
+    <Width>70</Width>
+    <Height>70</Height>
+    <Bytes>2548</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18800-front_Thumbnailed.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2545</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18800-WallStreetInn-dining.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>9530</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18800-WallStreetInn-dining.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2298</ThumbnailBytes>
+    <PhotoType>LobbyRestaurantAndBar</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18800-WallstreetInn-room.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7522</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18800-WallstreetInn-room.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1900</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18800-WallstreetInn-rec.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>8858</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18800-WallstreetInn-rec.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2155</ThumbnailBytes>
+    <PhotoType>OtherPhotos</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18800-WallstreetInn-room1.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>7116</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18800-WallstreetInn-room1.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>1724</ThumbnailBytes>
+    <PhotoType>ViewOfAGuestRoom</PhotoType>
+  </Photo>
+  <Photo>
+    <Url>/RXLImages/1013/hotel18800-front.jpg</Url>
+    <Width>200</Width>
+    <Height>200</Height>
+    <Bytes>11578</Bytes>
+    <Caption />
+    <ThumbnailUrl>/RXLImages/1013/hotel18800-front.thumb.jpg</ThumbnailUrl>
+    <ThumbnailWidth>70</ThumbnailWidth>
+    <ThumbnailHeight>70</ThumbnailHeight>
+    <ThumbnailBytes>2262</ThumbnailBytes>
+    <PhotoType>ExternalViewOfTheHotel</PhotoType>
+  </Photo>
+  <Description>
+    <Language>en</Language>
+    <Type>DiningFacilities</Type>
+    <Text>Whether on business or pleasure, the hotel ensure guests city life with a delightful Thai ambience of warmth and hospitality. 75 luxury and clean rooms provided high quality and excellent service in a relaxing atmosphere. Limousine service and 24 h laundry is available.</Text>
+  </Description>
+  <Amenity>
+    <Code>BusinessCenter</Code>
+    <Text>Business center</Text>
+  </Amenity>
+  <Amenity>
+    <Code>RoomService</Code>
+    <Text>Room service</Text>
+  </Amenity>
+  <Amenity>
+    <Code>CoffeeShop</Code>
+    <Text>Coffee shop</Text>
+  </Amenity>
+  <Amenity>
+    <Code>Restaurant</Code>
+    <Text>Restaurant</Text>
+  </Amenity>
+  <Amenity>
+    <Code>BarLounge</Code>
+    <Text>Bar/Lounge</Text>
+  </Amenity>
+  <Rating>
+    <System>Stars</System>
+    <Score>30</Score>
+    <Description>Three star</Description>
+  </Rating>
+  <Rank>1</Rank>
+</HotelElement>
